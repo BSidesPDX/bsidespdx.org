@@ -1,0 +1,35 @@
+name: BSidesPDX
+author: BSidesPDX
+
+keywords: bsidespdx, bsides pdx, securitybsides, infosec, pdx, portland
+description: >
+  BSides PDX is a gathering of the most interesting infosec minds in Portland and the Pacific Northwest! Our passion about all things security has driven attendance from other parts of the country.
+url: http://bsidepdx.org
+
+header: yes
+header_sm: images/bsidesPDX_logo_25.png
+header_med: images/bsidesPDX_logo_50.png
+header_large: images/bsidesPDX_logo_50.png
+header_xl: images/bsidesPDX_logo_75.png
+
+# Exclude our ruby stuff and other files
+exclude: [.bundle, bin, vendor, Gemfile, Gemfile.lock, Rakefile, .last_optimized, CNAME, README.md, LICENSE]
+
+# Build settings
+markdown: kramdown
+kramdown:
+  input: GFM
+
+destination: _site
+
+plugins:
+  - jekyll-feed
+
+feed:
+  path: atom.xml
+
+sass:
+  sass_dir: _sass
+  style: compressed
+
+permalink: /news/:year/:month/:title
