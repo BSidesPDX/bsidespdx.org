@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Speakers"
+title: "Contents and Events"
 permalink: /events/2017/contests-events.html
 --- 
 
