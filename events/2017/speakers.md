@@ -6,7 +6,8 @@ permalink: /events/2017/speakers.html
 
 ## 2017 Speakers
 
-## <a name="MaraTam">Friday Keynote: Mara Tam</a> ([@marasawr](https://twitter.com/marasawr))
+## <a name="MaraTam">Friday Keynote: Mara Tam</a> 
+[@marasawr](https://twitter.com/marasawr)
 
 *Magical thinking ... and how to thwart it*
 
@@ -14,7 +15,8 @@ Mara is a Washington DC-based ICT security policy expert. Mara regularly serves 
 
 &nbsp;
 
-## <a name="Micah Scott">Saturday Keynote: Micah Scott</a> ([@scanlime](https://twitter.com/scanlime))
+## <a name="Micah Scott">Saturday Keynote: Micah Scott</a> 
+[@scanlime](https://twitter.com/scanlime)
 
 Hardware Hacker
 
