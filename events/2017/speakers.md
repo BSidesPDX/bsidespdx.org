@@ -22,21 +22,6 @@ Hardware Hacker
 
 &nbsp;
 
-<a name="RichoDominic">&nbsp;</a>
-## *the richö and dominic show (Feat. GreatFET & Rust)*
-
-### **Richö Butts** ([@rich0h](https://twitter.com/rich0h)) & **Dominic Stupid** ([@dominicgs](https://twitter.com/dominicgs))
- 
-Richö and Dominic will talk about the challenges of running rust on embedded platforms, evangelise angelically, and probably deliver some really bad puns. All the while insisting that it's a keynote at 4pm.
-
-&nbsp;
-
-Dr Stupid works for Great Scott Gadgets, and is extraordinary.
-
-Dr Butts work for Stripe, and is extraordinary.
-
-&nbsp;
-
 <a name="TiberiusHefflin">&nbsp;</a>
 ## *De Falsis Deis: Social Contracts*
 
@@ -79,18 +64,6 @@ We will focus on how we reverse engineered the memory controller and DIMM circui
 Anna Trikalinou is a Research Scientist in Intel defining the new set of security features for future Intel processors. Prior to that Anna worked as a Security Researcher and performed product security for Intel's integrated GPU. She holds a PhD in Computer Security and she is an accepted speaker in BlackHat USA and IEEE conferences.
 
 Dan Lake (co-author) has been a systems engineer in Intel Labs for the past 10 years. He designs hardware and software prototypes to accelerate research and prove out technologies prior to product introduction. Before joining Intel, he spent 10 years at Mentor Graphics, developing PCB and IC modeling and simulation EDA software and started his career in Tektronix' Test and Measurement division. Dan has BSEE and MSCS degrees from Portland State University.
-
-&nbsp;
-
-<a name="TobyKohlenberg">&nbsp;</a>
-## *Red Teaming 101 - No really; it isn't what you think.*
-
-### **Toby Kohlenberg**
-
-Everyone is talking about red teaming but few know what it actually is. It isn't just a new cool name for penetration testing and if you are only focused on the technical side you are missing the highest value. In this talk Toby will provide a fast introduction to what red teaming actually is, what it is good for and when you should consider using it.
-
-
-Toby Kohlenberg is the Red Team Lead for a Fortune 50 company. Prior to that he worked on the defensive side of infosec for 15 years doing all parts of the job from incident response and product testing to policy and technical risk assessment.
 
 &nbsp;
 
