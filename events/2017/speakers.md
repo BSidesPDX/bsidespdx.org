@@ -22,6 +22,23 @@ Hardware Hacker
 
 &nbsp;
 
+<a name="RichoDominic"></a>
+## *the richö and dominic show (Feat. GreatFET & Rust)*
+
+### Richö Butts ([@rich0h](https://twitter.com/rich0h)) & Dominic Stupid ([@dominicgs](https://twitter.com/dominicgs))
+ 
+&nbsp; 
+
+Richö and Dominic will talk about the challenges of running rust on embedded platforms, evangelise angelically, and probably deliver some really bad puns. All the while insisting that it's a keynote at 4pm.
+
+&npsp;
+
+Dr Stupid works for Great Scott Gadgets, and is extraordinary.
+
+Dr Butts work for Stripe, and is extraordinary.
+
+&nbsp;
+
 <a name="TiberiusHefflin">&nbsp;</a>
 ## *De Falsis Deis: Social Contracts*
 
