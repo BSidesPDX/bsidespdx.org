@@ -151,4 +151,15 @@ Rob Rehrig is an electrical engineer specializing in rapid prototyping at IDEO, 
 
 &nbsp;
 
+<a name="TobyKohlenberg">&nbsp;</a>
+## *Red Teaming 101 - No really; it isn't what you think.*
 
+### **Toby Kohlenberg**
+
+Everyone is talking about red teaming but few know what it actually is. It isn't just a new cool name for penetration testing and if you are only focused on the technical side you are missing the highest value. In this talk Toby will provide a fast introduction to what red teaming actually is, what it is good for and when you should consider using it.
+
+&nbsp;
+
+Toby Kohlenberg is the Red Team Lead for a Fortune 50 company. Prior to that he worked on the defensive side of infosec for 15 years doing all parts of the job from incident response and product testing to policy and technical risk assessment.
+
+&nbsp;
