@@ -1,10 +1,8 @@
 ---
 layout: page
-title: "Speakers"
+title: "2017 Speakers"
 permalink: /events/2017/speakers.html
 --- 
-
-## 2017 Speakers
 
 <a name="MaraTam">&nbsp;</a>
 ## Friday Keynote: Mara Tam ([@marasawr](https://twitter.com/marasawr))
