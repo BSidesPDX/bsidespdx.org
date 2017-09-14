@@ -14,7 +14,7 @@ permalink: /about/past-events.html
 
 [Friday, October 3 - Saturday, October 4, 2014](../events/2014)  
 
-[Friday, September 27, 2013](../events/2013)
+[Friday, September 27 - September 28, 2013](../events/2013)
 
 Friday, November 9 - Saturday, November 10, 2012
 

@@ -4,6 +4,7 @@ title: "Schedule"
 permalink: /events/2013/schedule.html
 ---
 
+## Friday, September 27
 <table>
 <tr>
 <td>800-845</td>
