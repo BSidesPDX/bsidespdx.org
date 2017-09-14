@@ -16,9 +16,21 @@ For less than the admission of a single attendee to a big name conference, you c
 
 <br><br>
 
+![Securing Hardware](/images/2017/SecuringHardware.png)
+
+<br><br>
+
+![RSA](/images/2017/RSA_Logo_RED_RGB.png)
+
+<br><br>
+
 # Gold Sponsors
 
 ![Cisco](/images/2017/Cisco.png)
+
+<br><br>
+
+![DejaVu](/images/2017/DejaVu.png)
 
 <br><br>
 
