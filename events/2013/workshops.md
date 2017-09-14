@@ -5,9 +5,9 @@ permalink: /events/2013/workshops.html
 --- 
 
 ## Saturday, September 28
-<table>
+<table border="1">
 <tr>
-<td>1000-1300</td>
+<td valign="top">1000-1300</td>
 <td>
 <p><b>Joe FitzPatrick - Timing Sidechannel Attacks for Hardware N00bs</b><br>
 Built around an ultra low-cost kit of hardware hacking tools, this kit
@@ -23,7 +23,7 @@ minimal flashing lights.</li>
 </td>
 </tr>
 <tr>
-<td>1400-1800</td>
+<td valign="top">1400-1800</td>
 <td>
 <p><b>Kenny McElroy - Introduction to exploring embedded devices</b><br>
 Have you ever cracked apart a wireless access point, cable/dsl modem,
