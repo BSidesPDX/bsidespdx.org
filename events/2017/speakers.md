@@ -31,7 +31,7 @@ Hardware Hacker
 
 Richö and Dominic will talk about the challenges of running rust on embedded platforms, evangelise angelically, and probably deliver some really bad puns. All the while insisting that it's a keynote at 4pm.
 
-&npsp;
+&nbsp;
 
 Dr Stupid works for Great Scott Gadgets, and is extraordinary.
 
@@ -150,3 +150,5 @@ This talk will be about the techniques used to create the ‘Ox-Vox’, an add-o
 Rob Rehrig is an electrical engineer specializing in rapid prototyping at IDEO, a global design firm. Thankfully, his job compliments his short attention span and he’s able to work on a wide array of projects ranging from automotive, to medical, to children’s toys. His background is in electrical, computer, and music engineering. When he’s not fooling around with hardware, he can be found enjoying the outdoors, running, cycling, and climbing.
 
 &nbsp;
+
+
