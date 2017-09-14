@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Workshops"
-permalink: /events/2015/workshops.html
+permalink: /events/2013/workshops.html
 --- 
 
 ## Saturday, September 28
@@ -21,7 +21,6 @@ minimal flashing lights.</li>
 <li>Introduce some basic tools for hardware hacking</li>
 </ul></p>
 </td>
-</tr>
 </tr>
 <tr>
 <td>1400-1800</td>
