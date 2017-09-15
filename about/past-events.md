@@ -16,6 +16,6 @@ permalink: /about/past-events.html
 
 [Friday, September 27 - September 28, 2013](../events/2013)
 
-Friday, November 9 - Saturday, November 10, 2012
+[Friday, November 9 - Saturday, November 10, 2012](../events/2012)
 
 Friday, October 7, 2011
