@@ -18,4 +18,4 @@ permalink: /about/past-events.html
 
 [Friday, November 9 - Saturday, November 10, 2012](../events/2012)
 
-Friday, October 7, 2011
+[Friday, October 7, 2011](../events/2011)
