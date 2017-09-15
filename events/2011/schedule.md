@@ -1,11 +1,11 @@
 ---
 layout: page
 title: "Talks"
-permalink: /events/2011/talks.html
+permalink: /events/2011/schedule.html
 ---
 
 ## Friday, October 7
-i<table border="1">
+<table border="1">
 <tbody>
 <tr>
 <td>Time</td>
