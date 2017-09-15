@@ -5,7 +5,7 @@ permalink: /events/2013/schedule.html
 ---
 
 ## Friday, September 27
-<table>
+<table border="1">
 <tr>
 <td>800-845</td>
 <td>Registration</td>
