@@ -24,6 +24,10 @@ For less than the admission of a single attendee to a big name conference, you c
 
 <br><br>
 
+![Absolute](/images/2017/absolute.png)
+
+<br><br>
+
 # Gold Sponsors
 
 ![Cisco](/images/2017/Cisco.png)
@@ -34,4 +38,24 @@ For less than the admission of a single attendee to a big name conference, you c
 
 <br><br>
 
+![Tripwire](/images/2017/tripwire.png)
+
+<br><br>
+
+![Leviathan](/images/2017/leviathan.svg)
+
+<br><br>
+
+![Intel](/images/2017/intel.png)
+
+<br><br>
+
+![newRelic](/images/2017/newRelic.png)
+
+<br><br>
+
 # Silver Sponsors
+
+![Summit InfoSec](/images/2017/summit.png)
+
+<br><br>
