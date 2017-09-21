@@ -91,7 +91,7 @@ It is said that "the best defense is a good offense" which means organizations a
 
 &nbsp;
 
-Topher is currently a Vulnerability Enthusiast at Intel’s Red Team and enjoys causing constructive mischief. Coming from an offensive background, he has a research emphasis on reverse engineering, malware, exploitation development, incident response and live memory hacking. He has spoken at various security conferences including DEF CON, SecTor, ToorCamp and BSides. 
+Topher is currently a Vulnerability Enthusiast at a Fortune 50 Red Team and enjoys causing constructive mischief. Coming from an offensive background, he has a research emphasis on reverse engineering, malware, exploitation development, incident response and live memory hacking. He has spoken at various security conferences including DEF CON, SecTor, ToorCamp and BSides. 
 
 &nbsp;
 
