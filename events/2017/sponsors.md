@@ -28,6 +28,18 @@ For less than the admission of a single attendee to a big name conference, you c
 
 <br><br>
 
+![Symantec](/images/2017/symantec.jpg)
+
+<br><br>
+
+![Casecade Systems](/images/2017/cst.png)
+
+<br><br>
+
+![OshPark](/images/2017/oshPark.png)
+
+<br><br>
+
 # Gold Sponsors
 
 ![Cisco](/images/2017/Cisco.png)
@@ -54,8 +66,20 @@ For less than the admission of a single attendee to a big name conference, you c
 
 <br><br>
 
+![ControlH](/images/2017/ControlH.png)
+
+<br><br>
+
+![BitDefender](/images/2017/BD_BorderLAN.jpg)
+
+<br><br>
+
 # Silver Sponsors
 
 ![Summit InfoSec](/images/2017/summit.png)
+
+<br><br>
+
+![F5](/images/2017/f5.png)
 
 <br><br>
