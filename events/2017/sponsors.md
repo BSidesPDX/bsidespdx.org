@@ -2,7 +2,7 @@
 layout: page
 title: "Sponsors"
 permalink: /events/2017/sponsors.html
----    
+---
 
 For less than the admission of a single attendee to a big name conference, you could be a platinum sponsor at BSidesPDX. For more information, email [sponsorship@bsidespdx.org](mailto:sponsorship@bsidespdx.org).
 
@@ -40,6 +40,11 @@ For less than the admission of a single attendee to a big name conference, you c
 
 <br><br>
 
+![Rigado](/images/2017/Rigado.png)
+
+<br><br>
+
+
 # Gold Sponsors
 
 ![Cisco](/images/2017/Cisco.png)
@@ -73,6 +78,11 @@ For less than the admission of a single attendee to a big name conference, you c
 ![BitDefender](/images/2017/BD_BorderLAN.jpg)
 
 <br><br>
+
+![Salesforce](/images/2017/Salesforce.jpg)
+
+<br><br>
+
 
 # Silver Sponsors
 
