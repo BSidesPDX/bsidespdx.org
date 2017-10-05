@@ -403,9 +403,9 @@ Sarah Clarke is a nonprofit nerd. Born in DC and raised by a HoH mom, advocacy f
 &nbsp;
 
 <a name="Beth">&nbsp;</a>
-## *TBD*
+## *Including Kate Libby*
 
-### **Beth** ([@thatgrrlpdx](https://twitter.com/thatgrrlpdx)) **and Kate Libby**
+### **Beth** ([@thatgrrlpdx](https://twitter.com/thatgrrlpdx))
 
 Today, InfoSec is 11% female and we aren’t making much of a dent to improve that. I don’t want to talk about just cis white women and bumping that number, I want to make sure we are including all under-represented groups. This includes but is not limited to
 
