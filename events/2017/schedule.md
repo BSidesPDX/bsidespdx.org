@@ -62,29 +62,29 @@ The following schedule is *tentative*. Schedule subject to change. Check schedul
 
 <TR>
   <TD>1:00</TD>
-  <TD><a href="https://bsidespdx.org/events/2017/speakers.html#TiberiusHefflin"><b>Tiberius Hefflin</b></a> - <b>De Falsis Deis: Social Contracts</b></TD>
+  <TD ROWSPAN="3"><a href="https://bsidespdx.org/events/2017/speakers.html#SarahClarke"><b>Sarah Clarke</b></a> - <b>Getting Along At Work;  Helping yourself and your coworkers when experiencing workplace bullying and harassment</b><BR><a href="https://bsidespdx.org/events/2017/speakers.html#Beth"><b>Beth</b></a> - <b>Including Kate Libby</b>, and <BR><a href="https://bsidespdx.org/events/2017/speakers.html#DonJones"><b>Don Jones</b></a> - <b>Unconscious Bias - How do you start to break habits you didn't know you had</b></TD>
   <TD ROWSPAN="2"><a href="https://bsidespdx.org/events/2017/speakers.html#ktemkinDominicSpill"><b>ktemkin and Dominic Spill</b></a> - <b>Reverse Engineering Black Box Systems with GreatFET & FaceDancer</b></TD>
   <TD ROWSPAN="4"><a href="https://bsidespdx.org/events/2017/workshops.html#Wu-changFeng"><b>Wu-chang Feng</b></a> - <b>TBD</b></TD>
 </TR>
 
 <TR>
   <TD>1:30</TD>
-  <TD ROWSPAN="3"><a href="https://bsidespdx.org/events/2017/speakers.html#SarahClarke"><b>Sarah Clarke</b></a> - <b>Getting Along At Work;  Helping yourself and your coworkers when experiencing workplace bullying and harassment</b><BR><a href="https://bsidespdx.org/events/2017/speakers.html#Beth"><b>Beth</b></a> - <b>Including Kate Libby</b>, and <BR><a href="https://bsidespdx.org/events/2017/speakers.html#DonJones"><b>Don Jones</b></a> - <b>Unconscious Bias - How do you start to break habits you didn't know you had</b></TD>
 </TR>
 
 <TR>
   <TD>2:00</TD>
-  <TD ROWSPAN="2"><a href="https://bsidespdx.org/events/2017/speakers.html#AkshayAggarwal"><b>Akshay Aggarwal</b></a> - <b>Securing APIs at Scale: Quick Wins for DevSecOps</b></TD>
+  <TD ROWSPAN="2">TBD</TD>
 </TR>
 
 <TR>
   <TD>2:30</TD>
+  <TD><a href="https://bsidespdx.org/events/2017/speakers.html#TiberiusHefflin"><b>Tiberius Hefflin</b></a> - <b>De Falsis Deis: Social Contracts</b></TD>
 </TR>
 
 <TR>
   <TD>3:00</TD>
   <TD ROWSPAN="2"><a href="https://bsidespdx.org/events/2017/speakers.html#JasonTruppi"><b>Jason Truppi</b></a> - <b>Modern Cryptographic Dissidence</b></TD>
-  <TD ROWSPAN="2">TBD</TD>
+  <TD ROWSPAN="2"><a href="https://bsidespdx.org/events/2017/speakers.html#AkshayAggarwal"><b>Akshay Aggarwal</b></a> - <b>Securing APIs at Scale: Quick Wins for DevSecOps</b></TD>
   <TD ROWSPAN="4">TBD</TD>
 </TR>
 
