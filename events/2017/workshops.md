@@ -22,15 +22,17 @@ Ken Westin is currently Senior Security Specialist with Splunk where he helps cu
 &nbsp;
 
 <a name="Wu-changFeng">&nbsp;</a>
-## *TBD*
+## *Learning Symbolic Execution using an Angr-y CTF*
 
 ### **Wu-chang Feng**
 
 Symbolic execution is a powerful tool for finding and exploiting vulnerabilities in binaries.  In this workshop, we will introduce the concepts of symbolic execution and how it can be used in angr, a binary analysis framework.  Throughout this workshop, attendees will use a scaffolded set of CTF levels at ([https://malware.oregonctf.org](https://malware.oregonctf.org)) to develop programs that will automatically analyze binaries. 
 
+To participate in this workshop, attendees are encouraged to arrive with a working version of the latest angr release.  Instructions for installing angr are here: ([https://thefengs.com/wuchang/courses/cs492/angr_install.txt](https://thefengs.com/wuchang/courses/cs492/angr_install.txt))
+
 &nbsp;
 
-Wu-chang Feng is a Professor of Computer Science at Portland State University where he works on security and security education.
+Wu-chang Feng is a professor of Computer Science at Portland State University in order to provide cover for his CTF habit.  He's also into kettlebells and meditation.
 
 &nbsp;
 
