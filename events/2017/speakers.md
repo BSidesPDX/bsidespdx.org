@@ -66,7 +66,7 @@ James Habben is a consultant where he provides security guidance, incident respo
 <a name="AnnaTrikalinou">&nbsp;</a>
 ## *Taking DMA attacks to the next level; How to do arbitrary memory reads/writes in a live and unmodified system using a rogue memory controller*
 
-### **Anna Trikalinou**
+### **Anna Trikalinou** and **Dan Lake**
 
 Physical DMA attacks on devices and the ability to read and modify memory contents can be a serious security threat, especially for mobile devices, which can be easily lost or stolen, and for government and remote enterprise data centers, where entry of an untrusted entity can be easily overlooked. In particular, the ability to read memory can expose secrets (i.e. disk encryption keys) that reside thereon, and the ability to actively modify memory can be used to bypass the platform's security policies/mechanisms. However, those types of attacks typically require a specific interface (e.g. Thunderbolt™) to operate and can also be mitigated by blocking associated drivers and ports.
 
@@ -247,9 +247,10 @@ Dominic Spill is a senior security researcher at Great Scott Gadgets where he wr
 &nbsp;
 
 <a name="AkshayAggarwal">&nbsp;</a>
+<a name="SethHinze">&nbsp;</a>
 ## *Securing APIs at Scale: Quick Wins for DevSecOps*
 
-### **Akshay Aggarwal ** ([@peach_tech_](https://twitter.com/peach_tech_))
+### **Seth Hinze** ([@peach_tech_](https://twitter.com/peach_tech_))
 
 DevOps teams and API-first architecture have had significant impact on the application development landscape. They have enabled organizations to speed up application development, easily use complex functionality, and enhance collaboration with service providers and customers. In fact, many enterprises derive an increasing amount of their revenue from APIs used by customers. However, scalable security solutions for APIs are notoriously elusive, even as DevOps faces increasing security demands. Thus, enterprises face a looming threat from under-protected APIs (underscored by the OWASP Top 10 2017 update).
 
@@ -265,7 +266,7 @@ Application Development teams in enterprises are actively searching for solution
 
 &nbsp;
 
-CEO, Peach Tech
+Sr. Developer, Peach Tech
 
 &nbsp;
 
@@ -287,15 +288,6 @@ This talk will allow attendees to walk away with
 &nbsp;
 
 Adam is a founding partner and Chief Executive Officer at Deja vu Security. He is dedicated to the leadership and relentless innovation in Deja's products and services.  Previously he has lead teams conducting application and hardware penetration tests for the Fortune 500 technology firms. Adam is a contributing author to multiple security books, benchmarks, tools, and DARPA research projects. Adam holds a degree in Computer Science and a Masters from Carnegie Mellon University in Information Networking.
-
-&nbsp;
-
-<a name="MickeyJesseAlex">&nbsp;</a>
-## *Driving down rabbit hole*
-
-### **Mickey, Jesse, and Alex**
-
-Over the past few years, cars and automotive systems have gained increasing attention as cyber-attack targets. Cars are expensive. Breaking cars can cost a lot. So how can we find vulnerabilities in a car with no budget? We’ll take you with us on a journey from zero car security validation experience through the discovery and disclosure of multiple remotely-exploitable automotive vulnerabilities. Along the way, we’ll visit a wrecking yard, reassemble (most) of a 2015 Nissan Leaf in our lab, discuss how we picked our battles, fought them, and won. During our talk, we’ll examine the details of three different classes of vulnerabilities we found in this vehicle, how they can be exploited, and the potential ramifications to the owner of their real-world exploitation. We’ll also discuss the broader scope of the vulnerabilities discovered, how they extend beyond just this specific vehicle, and what the industry can do better to prevent these types of problems in the future.
 
 &nbsp;
 
@@ -448,3 +440,42 @@ Today we are all subject to many influences that affect our psyches in ways that
 &nbsp;
 
 Don Jones is the Talent Business Partner for Simple. He is kind, compassionate and cares deeply about making the workplace a better and more equal place for everyone. He also has a love for books and coffee.
+
+&nbsp;
+
+<a name="RyanDevendorf">&nbsp;</a>
+## *Known or Owned: Understanding Indicators of Compromise*
+
+### **Ryan Devendorf**
+
+When it comes to detecting breaches, time is of the essence. The longer a threat actor persists in your environment, the more likely they are to establish a foothold, and walk away with your data. Many attackers will follow a similar attack methodology from target to target, or for every attack they carry out for years. This talk will discuss common indicators of compromise, the value of your own threat intelligence, and how you can spot the unusual behavior that your AV, firewall, or IDS can't.
+
+&nbsp;
+
+Ryan Devendorf is an Information Security Engineer for RSA Security’s threat detection division and teaches at RSA’s boot camps. Ryan has spoken at a number of security conferences including ISSA, Data Connectors, and (ISC)2. Prior to RSA, Ryan was a security professional for several universities along with a large healthcare company. Ryan has several certifications in the industry including CISSP.
+
+&nbsp;
+
+<a name="JackRhysider">&nbsp;</a>
+## *Weird and Radical Security Policies That Work*
+
+### **Jack Rhysider** ([@tunnelsup](https://twitter.com/tunnelsup))
+
+Some people deploy unique and non-conventional security policies to prevent threats. This talk is a roundup of strange and unusual security practices that have proven success. 
+
+&nbsp;
+
+Jack has 10 years experience as a blue teamer. Currently working as a SOC architect designing a SIEM deployment, training SOC analysts, and determining all procedures. Author for the blog tunnelsup.com.
+
+&nbsp;
+
+<a name="RyanDevendorfHunting">&nbsp;</a>
+## *Hunting Methodology: A key to the labyrinth of network forensics*
+
+### **Ryan Devendorf**
+
+Proactive hunting is the newest cybersecurity strategy and promises great potential. But where is one to start in the world of network forensics? This presentation proffers a methodology for exactly that. It walks through the maze of network protocols with a spool of thread; discussing the protocols of interest, what to look for in each protocol, and how to find the cheese.
+
+&nbsp;
+
+Ryan Devendorf is an Information Security Engineer for RSA Security’s threat detection division and teaches at RSA’s boot camps. Ryan has spoken at a number of security conferences including ISSA, Data Connectors, and (ISC)2. Prior to RSA, Ryan was a security professional for several universities along with a large healthcare company. Ryan has several certifications in the industry including CISSP.
