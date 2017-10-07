@@ -64,7 +64,7 @@ The following schedule is *tentative*. Schedule subject to change. Check schedul
   <TD>1:00</TD>
   <TD ROWSPAN="3"><a href="https://bsidespdx.org/events/2017/speakers.html#SarahClarke"><b>Sarah Clarke</b></a> - <b>Getting Along At Work;  Helping yourself and your coworkers when experiencing workplace bullying and harassment</b><BR><a href="https://bsidespdx.org/events/2017/speakers.html#Beth"><b>Beth</b></a> - <b>Including Kate Libby</b>, and <BR><a href="https://bsidespdx.org/events/2017/speakers.html#DonJones"><b>Don Jones</b></a> - <b>Unconscious Bias - How do you start to break habits you didn't know you had</b></TD>
   <TD ROWSPAN="2"><a href="https://bsidespdx.org/events/2017/speakers.html#ktemkinDominicSpill"><b>ktemkin and Dominic Spill</b></a> - <b>Reverse Engineering Black Box Systems with GreatFET & FaceDancer</b></TD>
-  <TD ROWSPAN="4"><a href="https://bsidespdx.org/events/2017/workshops.html#Wu-changFeng"><b>Wu-chang Feng</b></a> - <b>TBD</b></TD>
+  <TD ROWSPAN="4"><a href="https://bsidespdx.org/events/2017/workshops.html#Wu-changFeng"><b>Wu-chang Feng</b></a> - <b>Learning Symbolic Execution using an Angr-y CTF</b></TD>
 </TR>
 
 <TR>
@@ -84,7 +84,7 @@ The following schedule is *tentative*. Schedule subject to change. Check schedul
 <TR>
   <TD>3:00</TD>
   <TD ROWSPAN="2"><a href="https://bsidespdx.org/events/2017/speakers.html#JasonTruppi"><b>Jason Truppi</b></a> - <b>Modern Cryptographic Dissidence</b></TD>
-  <TD ROWSPAN="2"><a href="https://bsidespdx.org/events/2017/speakers.html#AkshayAggarwal"><b>Akshay Aggarwal</b></a> - <b>Securing APIs at Scale: Quick Wins for DevSecOps</b></TD>
+  <TD ROWSPAN="2"><a href="https://bsidespdx.org/events/2017/speakers.html#SethHinze"><b>Seth Hinze</b></a> - <b>Securing APIs at Scale: Quick Wins for DevSecOps</b></TD>
   <TD ROWSPAN="4">TBD</TD>
 </TR>
 
@@ -193,7 +193,7 @@ The following schedule is *tentative*. Schedule subject to change. Check schedul
 
 <TR>
   <TD>2:30</TD>
-  <TD><a href="https://bsidespdx.org/events/2017/speakers.html#AnnaTrikalinou"><b>Anna Trikalinou</b></a> - <b>Taking DMA attacks to the next level; How to do arbitrary memory reads/writes in a live and unmodified system using a rogue memory controller</b></TD>
+  <TD><a href="https://bsidespdx.org/events/2017/speakers.html#AnnaTrikalinou"><b>Anna Trikalinou and Dan Lake</b></a> - <b>Taking DMA attacks to the next level; How to do arbitrary memory reads/writes in a live and unmodified system using a rogue memory controller</b></TD>
   <TD><a href="https://bsidespdx.org/events/2017/speakers.html#enferex"><b>enferex</b></a> - <b>Utilizing High Entropy Stack Canaries for Locating Function Return Addresses</b></TD>
 </TR>
 
@@ -205,7 +205,7 @@ The following schedule is *tentative*. Schedule subject to change. Check schedul
 
 <TR>
   <TD>3:30</TD>
-  <TD ROWSPAN="2"><a href="https://bsidespdx.org/events/2017/speakers.html#MickeyJesseAlex"><b>Mickey, Jesse, and Alex</b></a> - <b>Driving down rabbit hole</b></TD>
+  <TD ROWSPAN="2">TBD</TD>
   <TD ROWSPAN="2"><a href="https://bsidespdx.org/events/2017/speakers.html#KellyShortridge"><b>Kelly Shortridge</b></a> - <b>Big Game Theory Hunting: The Peculiarities of Human Behavior in the InfoSec Game</b></TD>
 </TR>
 
