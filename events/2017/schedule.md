@@ -84,7 +84,7 @@ The following schedule is *tentative*. Schedule subject to change. Check schedul
 <TR>
   <TD>3:00</TD>
   <TD ROWSPAN="2"><a href="https://bsidespdx.org/events/2017/speakers.html#JasonTruppi"><b>Jason Truppi</b></a> - <b>Modern Cryptographic Dissidence</b></TD>
-  <TD ROWSPAN="2"><a href="https://bsidespdx.org/events/2017/speakers.html#SethHinze"><b>Seth Hinze</b></a> - <b>Securing APIs at Scale: Quick Wins for DevSecOps</b></TD>
+  <TD ROWSPAN="2">TBD</TD>
   <TD ROWSPAN="4">TBD</TD>
 </TR>
 
@@ -205,8 +205,8 @@ The following schedule is *tentative*. Schedule subject to change. Check schedul
 
 <TR>
   <TD>3:30</TD>
-  <TD ROWSPAN="2">TBD</TD>
   <TD ROWSPAN="2"><a href="https://bsidespdx.org/events/2017/speakers.html#KellyShortridge"><b>Kelly Shortridge</b></a> - <b>Big Game Theory Hunting: The Peculiarities of Human Behavior in the InfoSec Game</b></TD>
+  <TD ROWSPAN="2"><a href="https://bsidespdx.org/events/2017/speakers.html#SethHinze"><b>Seth Hinze</b></a> - <b>Securing APIs at Scale: Quick Wins for DevSecOps</b></TD>
 </TR>
 
 <TR>
