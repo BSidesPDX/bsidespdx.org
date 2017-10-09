@@ -44,6 +44,9 @@ For less than the admission of a single attendee to a big name conference, you c
 
 <br><br>
 
+![Intel](/images/2017/intel.png)
+
+<br><br>
 
 # Gold Sponsors
 
@@ -60,10 +63,6 @@ For less than the admission of a single attendee to a big name conference, you c
 <br><br>
 
 ![Leviathan](/images/2017/leviathan.svg)
-
-<br><br>
-
-![Intel](/images/2017/intel.png)
 
 <br><br>
 
