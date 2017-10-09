@@ -60,13 +60,13 @@ The following schedule is *tentative*. Schedule subject to change. Check schedul
 <TR>
   <TD>11:00</TD>
   <TD ROWSPAN="2"><a href="https://bsidespdx.org/events/2017/speakers.html#RobertSell"><b>Robert Sell</b></a> - <b>Exploits in Wetware: Defcon SE CTF Experience and how organization can defend against social engineering</b></TD>
-  <TD>Topher Timzen</TD>
+  <TD><b>Topher Timzen</b> - about the Bsides PDX 2017 CTF, Contests, and Events</TD>
   <TD ROWSPAN="4"><a href="https://bsidespdx.org/events/2017/workshops.html#KenWestin"><b>Ken Westin</b></a> - <b>Threat Hunting Permit</b></TD>
 </TR>
 
 <TR>
   <TD>11:30</TD>
-  <TD>r00tkillah</TD>
+  <TD><b>r00tkillah and @securelyfitz</b> - about the BSidesPDX 2017 Badges!</TD>
 </TR>
 
 <TR>
