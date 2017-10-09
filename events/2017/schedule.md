@@ -116,7 +116,8 @@ The following schedule is *tentative*. Schedule subject to change. Check schedul
 </TABLE>
 
 &nbsp;
-<TABLE>
+
+<TABLE border="1">
 
 <TH COLSPAN="4">Saturday, October 21, 2017</TH>
 
