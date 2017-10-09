@@ -4,10 +4,10 @@ title: "Schedule"
 permalink: /events/2017/schedule.html
 ---
 
-The following schedule is *tentative*. Schedule subject to change. Check schedule prior to the start of the event. 
+The following schedule is *tentative*. Schedule subject to change. Check schedule prior to the start of the event.
 
 
-<TABLE>
+<TABLE border="1">
 <TH COLSPAN="4">Friday, October 20, 2017</TH>
 
 <TR>
@@ -62,7 +62,7 @@ The following schedule is *tentative*. Schedule subject to change. Check schedul
 
 <TR>
   <TD>1:00</TD>
-  <TD ROWSPAN="3"><a href="https://bsidespdx.org/events/2017/speakers.html#SarahClarke"><b>Sarah Clarke</b></a> - <b>Getting Along At Work;  Helping yourself and your coworkers when experiencing workplace bullying and harassment</b><BR><a href="https://bsidespdx.org/events/2017/speakers.html#Beth"><b>Beth</b></a> - <b>Including Kate Libby</b>, and <BR><a href="https://bsidespdx.org/events/2017/speakers.html#DonJones"><b>Don Jones</b></a> - <b>Unconscious Bias - How do you start to break habits you didn't know you had</b></TD>
+  <TD ROWSPAN="3"><a href="https://bsidespdx.org/events/2017/speakers.html#SarahClarke"><b>Sarah Clarke</b></a> - <b>Getting Along At Work;  Helping yourself and your coworkers when experiencing workplace bullying and harassment</b><BR><a href="https://bsidespdx.org/events/2017/speakers.html#Beth"><b>Beth</b></a> - <b>Including Kate Libby</b><BR><a href="https://bsidespdx.org/events/2017/speakers.html#DonJones"><b>Don Jones</b></a> - <b>Unconscious Bias - How do you start to break habits you didn't know you had</b></TD>
   <TD ROWSPAN="2"><a href="https://bsidespdx.org/events/2017/speakers.html#ktemkinDominicSpill"><b>ktemkin and Dominic Spill</b></a> - <b>Reverse Engineering Black Box Systems with GreatFET & FaceDancer</b></TD>
   <TD ROWSPAN="4"><a href="https://bsidespdx.org/events/2017/workshops.html#Wu-changFeng"><b>Wu-chang Feng</b></a> - <b>Learning Symbolic Execution using an Angr-y CTF</b></TD>
 </TR>
