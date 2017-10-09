@@ -8,7 +8,7 @@ permalink: /events/2016/schedule.html
 table{
     border-collapse: collapse;
     border-spacing: 0;
-    border:2px solid #ff0000;
+    border:2px solid #000000;
 }
 
 th{
