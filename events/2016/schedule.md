@@ -4,9 +4,23 @@ title: "Schedule"
 permalink: /events/2016/schedule.html
 ---
 
+<style>
+table{
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:2px solid #ff0000;
+}
 
+th{
+    border:2px solid #000000;
+}
 
-<TABLE style="border:1px solid black;border-collapse:collapse">
+td{
+    border:1px solid #000000;
+}
+</style>
+
+<TABLE>
 
 <TH COLSPAN="3">Friday, October 14, 2016</TH>
 
