@@ -6,7 +6,8 @@ permalink: /events/2016/schedule.html
 
 
 
-<TABLE>
+<TABLE style="border:1px solid black;border-collapse:collapse">
+
 <TH COLSPAN="3">Friday, October 14, 2016</TH>
 
 <TR>
