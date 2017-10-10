@@ -14,7 +14,7 @@ Mara is a Washington DC-based ICT security policy expert. Mara regularly serves 
 &nbsp;
 
 <a name="Micah Scott">&nbsp;</a>
-## Saturday Keynote: Micah Scott ([@scanlime](https://twitter.com/scanlime))
+## Saturday Keynote: Scanlime (Micah Scott) ([@scanlime](https://twitter.com/scanlime))
 
 Hardware Hacker
 
@@ -443,19 +443,6 @@ Don Jones is the Talent Business Partner for Simple. He is kind, compassionate a
 
 &nbsp;
 
-<a name="RyanDevendorf">&nbsp;</a>
-## *Known or Owned: Understanding Indicators of Compromise*
-
-### **Ryan Devendorf**
-
-When it comes to detecting breaches, time is of the essence. The longer a threat actor persists in your environment, the more likely they are to establish a foothold, and walk away with your data. Many attackers will follow a similar attack methodology from target to target, or for every attack they carry out for years. This talk will discuss common indicators of compromise, the value of your own threat intelligence, and how you can spot the unusual behavior that your AV, firewall, or IDS can't.
-
-&nbsp;
-
-Ryan Devendorf is an Information Security Engineer for RSA Security’s threat detection division and teaches at RSA’s boot camps. Ryan has spoken at a number of security conferences including ISSA, Data Connectors, and (ISC)2. Prior to RSA, Ryan was a security professional for several universities along with a large healthcare company. Ryan has several certifications in the industry including CISSP.
-
-&nbsp;
-
 <a name="JackRhysider">&nbsp;</a>
 ## *Weird and Radical Security Policies That Work*
 
@@ -469,7 +456,7 @@ Jack has 10 years experience as a blue teamer. Currently working as a SOC archit
 
 &nbsp;
 
-<a name="RyanDevendorfHunting">&nbsp;</a>
+<a name="RyanDevendorf">&nbsp;</a>
 ## *Hunting Methodology: A key to the labyrinth of network forensics*
 
 ### **Ryan Devendorf**
@@ -479,3 +466,33 @@ Proactive hunting is the newest cybersecurity strategy and promises great potent
 &nbsp;
 
 Ryan Devendorf is an Information Security Engineer for RSA Security’s threat detection division and teaches at RSA’s boot camps. Ryan has spoken at a number of security conferences including ISSA, Data Connectors, and (ISC)2. Prior to RSA, Ryan was a security professional for several universities along with a large healthcare company. Ryan has several certifications in the industry including CISSP.
+
+&nbsp;
+
+<a name="KarlFosaaen">&nbsp;</a>
+## *Speaking to a City of Amazon Echoes*
+
+### **Karl Fosaaen** ([@kfosaaen](https://twitter.com/kfosaaen))
+
+With over 11 million devices in the market, Amazon has invaded homes with their Echo devices. Along with that, they have introduced messaging capabilities that allow users to communicate with each other through their Echoes. This can be a handy way to keep in touch with friends, but what if we wanted to start some conversations with strangers?
+
+In this talk, we will go over how the Amazon Echo devices identify other devices and how they talk to each other. After reviewing the protocols, we will go through the process of finding all of the Amazon Echo devices in a specific region (think phone numbers) and how someone could send messages out to all of those devices to make some new friends.
+
+&nbsp;
+
+Karl is a Managing Consultant with NetSPI, who specializes in network and web application penetration testing. With over nine years of consulting experience in the computer security industry, he has worked in a variety of industries and hacked on a bunch of stuff. Karl also holds a BS in Computer Science from the University of Minnesota. Karl has previously spoken at THOTCON, BSidesMSP, BSidesPDX, and DerbyCon. In his spare time, you may see him trying to sell you a t-shirt as a swag goon at DEF CON.
+
+&nbsp;
+
+<a name="TerryTower">&nbsp;</a>
+## *Thoughts on Drone Security*
+
+### **Terry Tower**
+
+Securing and Hacking and Remote Control Aircraft
+
+&nbsp;
+
+Have been working with remote control aircraft for year. Starting to get into computer security. 
+
+&nbsp;
