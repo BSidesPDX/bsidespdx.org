@@ -81,7 +81,7 @@ The following schedule is *tentative*. Schedule subject to change. Check schedul
 
 <TR>
   <TD>1:00</TD>
-  <TD ROWSPAN="3"><a href="https://bsidespdx.org/events/2017/speakers.html#SarahClarke"><b>Sarah Clarke</b></a> - Getting Along At Work;  Helping yourself and your coworkers when experiencing workplace bullying and harassment<BR><a href="https://bsidespdx.org/events/2017/speakers.html#Beth"><b>Beth</b></a> - Including Kate Libby<BR><a href="https://bsidespdx.org/events/2017/speakers.html#DonJones"><b>Don Jones</b></a> - Unconscious Bias - How do you start to break habits you didn't know you had</TD>
+  <TD ROWSPAN="3"><a href="https://bsidespdx.org/events/2017/speakers.html#DonJones"><b>Don Jones</b></a> - Unconscious Bias - How do you start to break habits you didn't know you had<BR><a href="https://bsidespdx.org/events/2017/speakers.html#Beth"><b>Beth</b></a> - Including Kate Libby<BR><a href="https://bsidespdx.org/events/2017/speakers.html#SarahClarke"><b>Sarah Clarke</b></a> - Getting Along At Work;  Helping yourself and your coworkers when experiencing workplace bullying and harassment</TD>
   <TD ROWSPAN="2"><a href="https://bsidespdx.org/events/2017/speakers.html#ktemkinDominicSpill"><b>ktemkin and Dominic Spill</b></a> - Reverse Engineering Black Box Systems with GreatFET & FaceDancer</TD>
   <TD ROWSPAN="4"><a href="https://bsidespdx.org/events/2017/workshops.html#Wu-changFeng"><b>Wu-chang Feng</b></a> - Learning Symbolic Execution using an Angr-y CTF</TD>
 </TR>
@@ -124,13 +124,20 @@ The following schedule is *tentative*. Schedule subject to change. Check schedul
 
 <TR>
   <TD>5:00</TD>
+  <TD>Closing remarks</TD>
+  <TD>&nbsp;</TD>
+  <TD>&nbsp;</TD>
+</TR>
+
+<TR>
+  <TD>5:30</TD>
   <TD ROWSPAN="2">Quiz Show</TD>
   <TD ROWSPAN="2">&nbsp;</TD>
   <TD ROWSPAN="2">&nbsp;</TD>
 </TR>
 
 <TR>
-  <TD>5:30</TD>
+  <TD>6:00</TD>
 </TR>
 
 </TABLE>
