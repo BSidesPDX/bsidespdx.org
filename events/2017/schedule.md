@@ -105,7 +105,8 @@ The following schedule is *tentative*. Schedule subject to change. Check schedul
   <TD>3:00</TD>
   <TD ROWSPAN="2"><a href="https://bsidespdx.org/events/2017/speakers.html#JasonTruppi"><b>Jason Truppi</b></a> - Modern Cryptographic Dissidence</TD>
   <TD ROWSPAN="2"><a href="https://bsidespdx.org/events/2017/speakers.html#RyanDevendorf"><b>Ryan Devendorf</b></a> - Hunting Methodology: A key to the labyrinth of network forensics</TD>
-  <TD ROWSPAN="4">TBD</TD>
+  <TD ROWSPAN="4"><a href="https://bsidespdx.org/events/2017/workshops.html#Chris"><b>Chris</b></a> - Browser Fuzzing Tradecraft
+</TD>
 </TR>
 
 <TR>
