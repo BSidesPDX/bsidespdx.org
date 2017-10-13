@@ -61,3 +61,13 @@ Anyone that has run a server on the Internet for any length of time quickly lear
 Gary started out his professional career as a chemist/materials engineer. His start down the path to the Dark Side of Computing began when he wrote a program to design an optimal extruder screw rather than face thousands of calculations with a slide rule (yes, a slide rule.) Since then, he's done a lot of different things in computing: microprocessor cross assemblers and simulators, disk device drivers, communication device drivers, TCP/IP hacking and multi-threaded printer spoolers. Always a glutton for punishment, he wrote his own sendmail.cf from scratch. Around 1993, Gary started doing computer security when the semiconductor company he was working for was forced to get on the Internet to send/receive Integrated Circuit designs faster and a firewall/Internet gateway was needed. Since then, Gary's been involved in firewalls, intrusion detection and analysis, vulnerability assessments, system and application hardening, and anti-spam filters. Gary really does computer security to support his bicycling habit. He has more bikes than most other people have computers. And they're a lot more expensive. Gary says "Bikes are like computers: both can crash, sometimes with disastrous results to the user. 
 
 &nbsp;
+
+<a name="Chris">&nbsp;</a>
+## *Browser Fuzzing Tradecraft*
+
+## **Chris**
+All the cool kids are fuzzing these days. With efficient and simple to use fuzzers like AFL and a sound corpus just a Bing search away, why not get in the game? You’ll keep your apartment heated and you might even cash in on that sweet sweet WinRar bug bounty! But what if your sights are set a bit higher; you dream of a luxurious Master of Pwns cigar jacket or some of that NSA 0day money? This workshop will not be handing out free 0day, but will show you how to get started fuzzing browsers and the pitfalls to avoid. Students should come prepared with a laptop (at least an i5 processor recommended) and VMware player or equivalent.
+
+&nbsp;
+
+Chris leads a product security team at HP, Inc.
