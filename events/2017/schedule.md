@@ -92,7 +92,7 @@ The following schedule is *tentative*. Schedule subject to change. Check schedul
 
 <TR>
   <TD>2:00</TD>
-  <TD>TBD</TD>
+    <TD><a href="https://bsidespdx.org/events/2017/speakers.html#JamesHabben"><b>James Habben</b></a> - Assessing Weaponized USB Devices</TD>
 </TR>
 
 <TR>
@@ -191,7 +191,7 @@ The following schedule is *tentative*. Schedule subject to change. Check schedul
 <TR>
   <TD>12:00</TD>
   <TD><a href="https://bsidespdx.org/events/2017/speakers.html#KarlFosaaen"><b>Karl Fosaaen</b></a> - Speaking to a City of Amazon Echoes</TD>
-  <TD><a href="https://bsidespdx.org/events/2017/speakers.html#JamesHabben"><b>James Habben</b></a> - Assessing Weaponized USB Devices</TD>
+  <TD>TBD</TD>
 </TR>
 
 <TR>
