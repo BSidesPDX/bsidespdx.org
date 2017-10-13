@@ -2,15 +2,19 @@
 layout: page
 title: "Contests and Events"
 permalink: /events/2017/contests-events.html
---- 
-
-Submit 2017 contest ideas to [CFP](http://cfp.bsidespdx.org)
-
-View last year's contests [here](https://sites.google.com/site/bsidesportland/contests).
+---
 
 **BSidesPDX CTF**
 
-Capture the Flag (CTF) is a computer security competition where competitors hack on binaries, web services or challenges to uncover secret flags which earn you points. Join us at BSidesPDX and compete in a CTF that take competitors through a series of web & binary exploitation, trivia, shellcoding and reverse engineering challenges! Unlike CTFs at other conferences ours is not meant to be intimidating and there are some challenges that any attendee should be able to solve! Come and learn some new skills or freshen up on some of the basics, which are easily forgotten. This year will introduce new CTF infrastructure and we are excited about it!
+Capture the Flag (CTF) is a computer security competition where competitors hack on binaries, web services or challenges to uncover secret flags which earn you points. Join us at BSidesPDX and compete in a CTF that take competitors through a series of web & binary exploitation, shellcoding and reverse engineering challenges! Unlike CTFs at other conferences ours is not meant to be intimidating and there are some challenges that any attendee should be able to solve! Come and learn some new skills or freshen up on some of the basics, which are easily forgotten. This year will introduce new CTF infrastructure and we are excited about it!
+
+The scoreboard for the CTF is located at [bsidespdxctf.party](https://bsidespdxctf.party).
+
+Should problems arise with anything CTF related, contact one of the organizers.
+
+[@TTimzen](https://twitter.com/ttimzen)
+
+[@pwnpnw](https://twitter.com/pwnpnw)
 
 **Infosec Quiz Show!**
 
@@ -22,7 +26,7 @@ WHAT'S IT LIKE?
 Just like many TV game shows you're probably already familiar with.  We take three contestants, put them on stage and ask them a series of questions relating to aspects of system and network security, exploits, hacking, hardware, software, administration, history, and even some random bits of pop culture thrown in for hack value.
 
 SOUNDS COOL! WHERE DO I SIGN UP?
-Click [HERE](https://docs.google.com/forms/d/e/1FAIpQLScAQ12Ku5EBNwwx_jNJQk675MUw8w0CL0HXjZxQaQPlfOAr6w/viewform) for the qualifier! 
+Click [HERE](https://docs.google.com/forms/d/e/1FAIpQLScAQ12Ku5EBNwwx_jNJQk675MUw8w0CL0HXjZxQaQPlfOAr6w/viewform) for the qualifier!
 
 Game time: TBA
 (Contestants please plan to arrive 20 minutes early.)
@@ -33,4 +37,16 @@ Hey, do you like reddit?  Do you have mad karma havesting skills?  Sign up for K
 
 **Tech Book Swap**
 
-Back this year is the Tech Book Swap to freshen up your bookshelf. Bring in any good-condition recent tech, computer, programming, or security book and trade it for another. This will run informally and on the honor system for the duration of the event at one of the tables in the event room. 
+Back this year is the Tech Book Swap to freshen up your bookshelf. Bring in any good-condition recent tech, computer, programming, or security book and trade it for another. This will run informally and on the honor system for the duration of the event at one of the tables in the event room.
+
+**Engineering Stories**
+
+On Friday and Saturday afternoon Anne Meixner will be collecting your engineering stories.  Come share your perspective on the craft of engineering with your personal experience. At The Engineers’ Daughter we are committed to work like hell to pursue & preserve the craft of engineering: Not through technical manuals but through stories that quench our curiosities. We believe that the sexy hard problems & the everyday issues have one thing in common: they get resolved using the same process, the same questions, the core of the engineering craft always applies. See [engineers daughter](http://www.engineersdaughter.org/engage/their-stories/) for examples.
+
+Signup to tell your story in the event room!
+
+Anne will be on site collecting stories:
+
+- Friday: 1-5 pm
+
+- Saturday: 1-4 pm
