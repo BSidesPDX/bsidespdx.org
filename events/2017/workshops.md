@@ -5,8 +5,8 @@ permalink: /events/2017/workshops.html
 --- 
 
 Excited for a workshop? Please do the following:
-1. Make sure you're registered for the conference: http://bsidespdx2017.eventzilla.net
-2. Register for the workshop ahead of time: http://bsidespdx2017workshops.eventzilla.net
+1. Make sure you're [registered for the conference](http://bsidespdx2017.eventzilla.net)
+2. [Register for the workshop ahead of time](http://bsidespdx2017workshops.eventzilla.net)
 3. Cancel if your plans change so others can get the ticket
 4. If you don't get a ticket, there will be a few spare seats for walk-ins and more if there are no-shows. 
 5. Save room for others - please don't register for more than 2 different workshops so everyone gets a chance
