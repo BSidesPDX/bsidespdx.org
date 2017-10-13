@@ -8,7 +8,7 @@ $body-font-color: #222;
 // Links
 $link-color: $secondary-color;
 $link-hover-color: $body-font-color;
-$link-visited-color: $primary-color;
+$link-visited-color: darken($secondary-color, 25%);
 
 // Text
 $base-font-family: Helvetica, Arial, sans-serif;
