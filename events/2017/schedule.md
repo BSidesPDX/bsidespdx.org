@@ -60,7 +60,7 @@ The following schedule is *tentative*. Schedule subject to change. Check schedul
 <TR>
   <TD>11:00</TD>
   <TD ROWSPAN="2"><a href="https://bsidespdx.org/events/2017/speakers.html#RobertSell"><b>Robert Sell</b></a> - Exploits in Wetware: Defcon SE CTF Experience and how organization can defend against social engineering</TD>
-  <TD ROWSPAN="2"><b>BSidesPDX 101</b> - CTF, Contests, and Events, Badges, & more with Topher Timzen, @securelyfitz, & @r00tkillah</TD>
+  <TD ROWSPAN="2"><b>BSidesPDX 101</b> - CTF, Contests, and Events, Badges, & more with <a href="https://twitter.com/TTimzen">Topher Timzen</a>, <a href="https://twitter.com/securelyfitz">@securelyfitz</a>, & <a href="https://twitter.com/r00tkillah">@r00tkillah</a></TD>
   <TD ROWSPAN="4"><a href="https://bsidespdx.org/events/2017/workshops.html#KenWestin"><b>Ken Westin</b></a> - Threat Hunting Permit</TD>
 </TR>
 
@@ -226,7 +226,7 @@ Friday Evening: <a href="https://bsidespdx.org/events/2017/contests-events.html#
   <TD>2:30</TD>
   <TD><a href="https://bsidespdx.org/events/2017/speakers.html#AnnaTrikalinou"><b>Anna Trikalinou and Dan Lake</b></a> - Taking DMA attacks to the next level; How to do arbitrary memory reads/writes in a live and unmodified system using a rogue memory controller</TD>
   <TD><a href="https://bsidespdx.org/events/2017/speakers.html#enferex"><b>enferex</b></a> - Utilizing High Entropy Stack Canaries for Locating Function Return Addresses</TD>
-  <TD ROWSPAN="4"><a href="https://bsidespdx.org/events/2017/workshops.html#GarySmith"><b>Gary Smith</b></a> - Blacklisting Bad Guys With IPTables</TD>  
+  <TD ROWSPAN="4"><a href="https://bsidespdx.org/events/2017/workshops.html#GarySmith"><b>Gary Smith</b></a> - Blacklisting Bad Guys With IPTables</TD>
 </TR>
 
 <TR>
