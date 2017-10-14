@@ -15,7 +15,7 @@ Would your company like to sponsor? For less than the admission of a single atte
 <tr><td><img src="/images/2017/SecuringHardware.png"></td>
 <td><img src="/images/2017/RSA_Logo_RED_RGB.png"></td></tr>
 <tr><td><img src="/images/2017/absolute.png"></td>
-<td><img src="/images/2017/symantec.jpg"></td></tr>
+<td><img src="/images/2017/symantec.png"></td></tr>
 <tr><td><img src="/images/2017/cst.png"></td>
 <td><img src="/images/2017/oshPark.png"></td></tr>
 <tr><td><img src="/images/2017/Rigado.png"></td>
@@ -28,8 +28,8 @@ Would your company like to sponsor? For less than the admission of a single atte
 <td><img src="/images/2017/leviathan.svg"></td></tr>
 <tr><td><img src="/images/2017/newRelic.png"></td>
 <td><img src="/images/2017/ControlH.png"></td></tr>
-<tr><td><img src="/images/2017/BD_BorderLAN.jpg"></td>
-<td><img src="/images/2017/Salesforce.jpg"></td></tr>
+<tr><td><img src="/images/2017/BD_BorderLAN.png"></td>
+<td><img src="/images/2017/Salesforce.png"></td></tr>
 <tr><td><img src="/images/2017/HackerOne.png"></td>
 <td></td></tr>
 <tr><th colspan="2"></th></tr>
