@@ -60,13 +60,12 @@ The following schedule is *tentative*. Schedule subject to change. Check schedul
 <TR>
   <TD>11:00</TD>
   <TD ROWSPAN="2"><a href="https://bsidespdx.org/events/2017/speakers.html#RobertSell"><b>Robert Sell</b></a> - Exploits in Wetware: Defcon SE CTF Experience and how organization can defend against social engineering</TD>
-  <TD><b>Topher Timzen</b> - about the Bsides PDX 2017 CTF, Contests, and Events</TD>
+  <TD ROWSPAN="2"><b>BSidesPDX 101</b> - CTF, Contests, and Events, Badges, & more with Topher Timzen, @securelyfitz, & @r00tkillah</TD>
   <TD ROWSPAN="4"><a href="https://bsidespdx.org/events/2017/workshops.html#KenWestin"><b>Ken Westin</b></a> - Threat Hunting Permit</TD>
 </TR>
 
 <TR>
   <TD>11:30</TD>
-  <TD><b>r00tkillah and @securelyfitz</b> - about the BSidesPDX 2017 Badges!</TD>
 </TR>
 
 <TR>
@@ -126,13 +125,13 @@ The following schedule is *tentative*. Schedule subject to change. Check schedul
 <TR>
   <TD>5:00</TD>
   <TD>Closing remarks</TD>
-  <TD>&nbsp;</TD>
+  <TD>TBD</TD>
   <TD>&nbsp;</TD>
 </TR>
 
 <TR>
-  <TD>5:30</TD>
-  <TD ROWSPAN="2">Quiz Show</TD>
+  <TD>5:15</TD>
+  <TD ROWSPAN="2"><a href="https://bsidespdx.org/events/2017/contests-events.html#Quiz">Quiz Show (with prizes!)</a></TD>
   <TD ROWSPAN="2">&nbsp;</TD>
   <TD ROWSPAN="2">&nbsp;</TD>
 </TR>
@@ -142,9 +141,11 @@ The following schedule is *tentative*. Schedule subject to change. Check schedul
 </TR>
 
 </TABLE>
-
 &nbsp;
 
+Friday Evening: <a href="https://bsidespdx.org/events/2017/contests-events.html#Friday">Technology Diversified afterparty at PASCAL</a>
+
+&nbsp;
 <TABLE border="1">
 
 <TH COLSPAN="4">Saturday, October 21, 2017</TH>
@@ -246,9 +247,13 @@ The following schedule is *tentative*. Schedule subject to change. Check schedul
 
 <TR>
   <TD>4:30</TD>
-  <TD>Closing Remarks</TD>
+  <TD>Closing Remarks, Thank-yous & Awards</TD>
   <TD>&nbsp;</TD>
   <TD>&nbsp;</TD>
 </TR>
 
 </TABLE>
+&nbsp;
+
+Saturday Evening: <a href="https://bsidespdx.org/events/2017/contests-events.html#Saturday">BSidesPDX Afterparty at Ctrl-H PDX Hackerspace</a>
+

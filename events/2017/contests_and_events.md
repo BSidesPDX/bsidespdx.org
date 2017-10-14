@@ -16,6 +16,7 @@ Should problems arise with anything CTF related, contact one of the organizers.
 
 [@pwnpnw](https://twitter.com/pwnpnw)
 
+<a name="Quiz"></a>
 **Infosec Quiz Show!**
 
 JOIN US AGAIN AT BSIDES PDX FOR THE ULTIMATE CONTEST OF SECURITY KNOWLEDGE AND EXPERTISE!
@@ -50,3 +51,22 @@ Anne will be on site collecting stories:
 - Friday: 1-5 pm
 
 - Saturday: 1-4 pm
+
+
+**Evening Activities**
+
+<a name="Thursday"></a>
+***[Thursday: CTRLH Open House](https://www.meetup.com/CTRL-H/events/244016711/)***
+
+Thursday evening, volunteers will be busily preparing for the conference at CTRL-H Hackerspace at 7600 N Interstate Avenue. Thursday is also Open House, so feel free to stop by between 7 and 9 PM
+
+<a name="Friday"></a>
+***[Friday: Technology Diversified afterparty at PASCAL](https://www.meetup.com/pascalhackerspace/events/244194792/)***
+
+Friday evening, Technology Diversified will host an afterparty at PASCAL. They’ll have retro games, lockpicking, badge hacking, music, and hacker bingo. Snacks and beverages will be provided - come meet some cool folks and hack things! Doors open @ 5:30p, event begins @ 6:30p.
+
+<a name="Saturday"></a>
+***[Saturday: BSidesPDX Afterparty at Ctrl-H PDX Hackerspace](http://pdxhackerspace.org/)***
+
+Mingle and relax after two busy days! After closing down and packing up at the convention center, we'll be enjoying drinks and light refreshments. Come and join us between 8 and 10 PM
+
