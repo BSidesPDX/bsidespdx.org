@@ -82,6 +82,7 @@ For less than the admission of a single attendee to a big name conference, you c
 
 <br><br>
 
+![hacker one](/images/2017/HackerOne.png)
 
 # Silver Sponsors
 
@@ -90,5 +91,9 @@ For less than the admission of a single attendee to a big name conference, you c
 <br><br>
 
 ![F5](/images/2017/f5.png)
+
+<br><br>
+
+![eclypsium](/images/2017/eclypsium.png)
 
 <br><br>
