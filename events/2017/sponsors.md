@@ -4,96 +4,38 @@ title: "Sponsors"
 permalink: /events/2017/sponsors.html
 ---
 
-For less than the admission of a single attendee to a big name conference, you could be a platinum sponsor at BSidesPDX. For more information, email [sponsorship@bsidespdx.org](mailto:sponsorship@bsidespdx.org).
+Sponsors contribute the funds and resources that allow us to run the entire conference with little or no cost to attendees. We're especially grateful for all of them, especially the ones who return year after year sponsoring the event.
 
-# Platinum Sponsors
+Would your company like to sponsor? For less than the admission of a single attendee to a big name conference, they could be a platinum sponsor at BSidesPDX. For more information, email <a href="mailto:sponsorship@bsidespdx.org">sponsorship@bsidespdx.org</a>.
 
-![Mozilla](/images/2017/moz-logo-bw-rgb.png)
-
-<br><br>
-
-![NETSPI](/images/2017/NETSPI.png)
-
-<br><br>
-
-![Securing Hardware](/images/2017/SecuringHardware.png)
-
-<br><br>
-
-![RSA](/images/2017/RSA_Logo_RED_RGB.png)
-
-<br><br>
-
-![Absolute](/images/2017/absolute.png)
-
-<br><br>
-
-![Symantec](/images/2017/symantec.jpg)
-
-<br><br>
-
-![Casecade Systems](/images/2017/cst.png)
-
-<br><br>
-
-![OshPark](/images/2017/oshPark.png)
-
-<br><br>
-
-![Rigado](/images/2017/Rigado.png)
-
-<br><br>
-
-![Intel](/images/2017/intel.png)
-
-<br><br>
-
-# Gold Sponsors
-
-![Cisco](/images/2017/Cisco.png)
-
-<br><br>
-
-![DejaVu](/images/2017/DejaVu.png)
-
-<br><br>
-
-![Tripwire](/images/2017/tripwire.png)
-
-<br><br>
-
-![Leviathan](/images/2017/leviathan.svg)
-
-<br><br>
-
-![newRelic](/images/2017/newRelic.png)
-
-<br><br>
-
-![ControlH](/images/2017/ControlH.png)
-
-<br><br>
-
-![BitDefender](/images/2017/BD_BorderLAN.jpg)
-
-<br><br>
-
-![Salesforce](/images/2017/Salesforce.jpg)
-
-<br><br>
-
-![hacker one](/images/2017/HackerOne.png)
-
-# Silver Sponsors
-
-![Summit InfoSec](/images/2017/summit.png)
-
-<br><br>
-
-![F5](/images/2017/f5.png)
-
-<br><br>
-
-![eclypsium](/images/2017/eclypsium.png)
-
-<br><br>
+<TABLE cellpadding="20" width="90%" align="center">
+<tr><th colspan="2"><h1><b>Platinum Sponsors</b></h1></th></tr>
+<tr><td><img src="/images/2017/moz-logo-bw-rgb.png"></td>
+<td><img src="/images/2017/NETSPI.png"></td></tr>
+<tr><td><img src="/images/2017/SecuringHardware.png"></td>
+<td><img src="/images/2017/RSA_Logo_RED_RGB.png"></td></tr>
+<tr><td><img src="/images/2017/absolute.png"></td>
+<td><img src="/images/2017/symantec.jpg"></td></tr>
+<tr><td><img src="/images/2017/cst.png"></td>
+<td><img src="/images/2017/oshPark.png"></td></tr>
+<tr><td><img src="/images/2017/Rigado.png"></td>
+<td><img src="/images/2017/intel.png"></td></tr>
+<tr><th colspan="2"></th></tr>
+<tr><th colspan="2"><h1><b>Gold Sponsors</b></h1></th></tr>
+<tr><td><img src="/images/2017/Cisco.png"></td>
+<td><img src="/images/2017/DejaVu.png"></td></tr>
+<tr><td><img src="/images/2017/tripwire.png"></td>
+<td><img src="/images/2017/leviathan.svg"></td></tr>
+<tr><td><img src="/images/2017/newRelic.png"></td>
+<td><img src="/images/2017/ControlH.png"></td></tr>
+<tr><td><img src="/images/2017/BD_BorderLAN.jpg"></td>
+<td><img src="/images/2017/Salesforce.jpg"></td></tr>
+<tr><td><img src="/images/2017/HackerOne.png"></td>
+<td></td></tr>
+<tr><th colspan="2"></th></tr>
+<tr><th colspan="2"><h1><b>Silver Sponsors</b></h1></th></tr>
+<tr><td><img src="/images/2017/eclypsium.png"></td>
+<td><img src="/images/2017/summit.png"></td></tr>
+<tr><td><img src="/images/2017/f5.png"></td>
+<td></td></tr>
+</table>
