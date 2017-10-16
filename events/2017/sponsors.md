@@ -20,6 +20,8 @@ Would your company like to sponsor? For less than the admission of a single atte
 <td><img src="/images/2017/oshPark.png"></td></tr>
 <tr><td><img src="/images/2017/Rigado.png"></td>
 <td><img src="/images/2017/intel.png"></td></tr>
+<tr><td><img src="/images/2017/usbank.png"></td>
+<td></tr>
 <tr><th colspan="2"></th></tr>
 <tr><th colspan="2"><h1><b>Gold Sponsors</b></h1></th></tr>
 <tr><td><img src="/images/2017/Cisco.png"></td>
