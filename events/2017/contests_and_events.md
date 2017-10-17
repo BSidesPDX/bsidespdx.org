@@ -35,7 +35,7 @@ Game time: [5:15 PM in Talk Track 1 on Friday, October 20, 2017!](https://bsides
 
 **Karmageddon**
 
-Hey, do you like reddit?  Do you have mad karma havesting skills?  Sign up for Karmageddon at [http://karmageddon.net/](http://karmageddon.net/), and test your karma skills against other BSidesPDX attendees!
+Hey, do you like reddit?  Do you have mad karma harvesting skills?  Sign up for Karmageddon at [http://karmageddon.net/](http://karmageddon.net/), and test your karma skills against other BSidesPDX attendees!
 
 **Tech Book Swap**
 
