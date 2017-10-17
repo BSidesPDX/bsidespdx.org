@@ -29,7 +29,8 @@ Just like many TV game shows you're probably already familiar with.  We take thr
 SOUNDS COOL! WHERE DO I SIGN UP?
 Click [HERE](https://docs.google.com/forms/d/e/1FAIpQLScAQ12Ku5EBNwwx_jNJQk675MUw8w0CL0HXjZxQaQPlfOAr6w/viewform) for the qualifier!
 
-Game time: TBA
+Game time: [5:15 PM in Talk Track 1 on Friday, October 20, 2017!](https://bsidespdx.org/events/2017/schedule.html)!
+
 (Contestants please plan to arrive 20 minutes early.)
 
 **Karmageddon**
