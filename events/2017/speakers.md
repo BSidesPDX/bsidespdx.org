@@ -493,6 +493,6 @@ Securing and Hacking and Remote Control Aircraft
 
 &nbsp;
 
-Have been working with remote control aircraft for year. Starting to get into computer security. 
+Terry has been working with remote control aircraft and lately has been getting into the computer security aspects of the field. 
 
 &nbsp;
