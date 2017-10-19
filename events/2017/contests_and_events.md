@@ -53,6 +53,11 @@ Anne will be on site collecting stories:
 
 - Saturday: 1-4 pm
 
+**Lockpick Village** 
+
+Brought to you by the Portland TOOOL chapter, come to learn, hone your skills, or just show off.
+
+The Lockpick Village will be at BSidesPDX Friday and Saturday afternoons
 
 **Evening Activities**
 
