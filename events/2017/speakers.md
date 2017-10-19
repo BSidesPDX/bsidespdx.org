@@ -98,13 +98,15 @@ Topher is currently a Vulnerability Enthusiast at a Fortune 50 Red Team and enjo
 <a name="dade">&nbsp;</a>
 ## *Red Teaming The Red Team*
 
-### **dade** ([@0xdade](https://twitter.com/0xdade))
+### **dade** ([@0xdade](https://twitter.com/0xdade)) and **Toby Kohlenberg**
 
 Everyone thinks red teaming is awesome, but what happens when the red team becomes a target?
 
 &nbsp;
 
-I just wanna do hacker stuff with my friends
+dade just wants to do hacker stuff with his friends
+
+Toby Kohlenberg is the Red Team Lead for a Fortune 50 company. Prior to that he worked on the defensive side of infosec for 15 years doing all parts of the job from incident response and product testing to policy and technical risk assessment.
 
 &nbsp;
 
