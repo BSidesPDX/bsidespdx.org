@@ -205,14 +205,14 @@ Friday Evening: <a href="https://bsidespdx.org/events/2017/contests-events.html#
   <TD>1:00</TD>
   <TD><a href="https://bsidespdx.org/events/2017/speakers.html#TobyKohlenberg"><b>Toby Kohlenberg</b></a> - Red Teaming 101 - No really; it isn't what you think</TD>
   <TD><a href="https://bsidespdx.org/events/2017/speakers.html#RobRehrig"><b>Rob Rehrig</b></a> - Ox-Vox: Hacking Con Badges Before the Con</TD>
-  <TD>&nbsp;</TD>
+  <TD ROWSPAN="3">Student Presentations</TD>
 </TR>
 
 <TR>
   <TD>1:30</TD>
   <TD><a href="https://bsidespdx.org/events/2017/speakers.html#dade"><b>dade</b></a> - Red Teaming The Red Team</TD>
   <TD><a href="https://bsidespdx.org/events/2017/speakers.html#JoeGrand"><b>Joe Grand</b></a> - Hacking a Tooth Tunes Toothbrush for a Positive Dental Outlook</TD>
-  <TD ROWSPAN="2">UoP Student Presentations</TD>
+  
 </TR>
 
 <TR>
