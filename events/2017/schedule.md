@@ -125,7 +125,7 @@ The following schedule is *tentative*. Schedule subject to change. Check schedul
 <TR>
   <TD>5:00</TD>
   <TD>Closing remarks</TD>
-  <TD>TBD</TD>
+  <TD>&nbsp;</TD>
   <TD>&nbsp;</TD>
 </TR>
 
