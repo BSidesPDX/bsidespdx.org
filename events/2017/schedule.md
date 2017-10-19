@@ -210,7 +210,7 @@ Friday Evening: <a href="https://bsidespdx.org/events/2017/contests-events.html#
 
 <TR>
   <TD>1:30</TD>
-  <TD><a href="https://bsidespdx.org/events/2017/speakers.html#dade"><b>dade</b></a> - Red Teaming The Red Team</TD>
+  <TD><a href="https://bsidespdx.org/events/2017/speakers.html#dade"><b>dade</b></a> and  <a href="https://bsidespdx.org/events/2017/speakers.html#TobyKohlenberg"><b>Toby Kohlenberg</b></a> - Red Teaming The Red Team</TD>
   <TD><a href="https://bsidespdx.org/events/2017/speakers.html#JoeGrand"><b>Joe Grand</b></a> - Hacking a Tooth Tunes Toothbrush for a Positive Dental Outlook</TD>
   
 </TR>
