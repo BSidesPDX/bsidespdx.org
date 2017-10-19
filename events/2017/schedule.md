@@ -60,7 +60,7 @@ The following schedule is *tentative*. Schedule subject to change. Check schedul
 <TR>
   <TD>11:00</TD>
   <TD ROWSPAN="2"><a href="https://bsidespdx.org/events/2017/speakers.html#RobertSell"><b>Robert Sell</b></a> - Exploits in Wetware: Defcon SE CTF Experience and how organization can defend against social engineering</TD>
-  <TD ROWSPAN="2"><b>BSidesPDX 101</b> - CTF, Contests, and Events, Badges, & more with <a href="https://twitter.com/TTimzen">Topher Timzen</a>, <a href="https://twitter.com/securelyfitz">@securelyfitz</a>, & <a href="https://twitter.com/r00tkillah">@r00tkillah</a></TD>
+  <TD ROWSPAN="2"><b>BSidesPDX 101</b> - CTF, Contests, and Events, Badges, & more with <a href="https://twitter.com/TTimzen">@TTimzen</a>, <a href="https://twitter.com/securelyfitz">@securelyfitz</a>, & <a href="https://twitter.com/r00tkillah">@r00tkillah</a></TD>
   <TD ROWSPAN="4"><a href="https://bsidespdx.org/events/2017/workshops.html#KenWestin"><b>Ken Westin</b></a> - Threat Hunting Permit</TD>
 </TR>
 
