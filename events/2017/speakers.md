@@ -498,3 +498,16 @@ Securing and Hacking and Remote Control Aircraft
 Terry has been working with remote control aircraft and lately has been getting into the computer security aspects of the field. 
 
 &nbsp;
+
+<a name="MikeR">&nbsp;</a>
+## *Silens Pacem -- A Silent Peace*
+
+### **MikeR**
+
+Have you ever wondered what resources are used by the browser extensions installed? Here's a good way to figure out what permissions and resources are whitelisted by those extensions for use.
+
+&nbsp;
+
+I graduated from Rochester Institute of Technology in 2013 with a degree in computing security.
+
+&nbsp;
