@@ -192,7 +192,7 @@ Friday Evening: <a href="https://bsidespdx.org/events/2017/contests-events.html#
 <TR>
   <TD>12:00</TD>
   <TD><a href="https://bsidespdx.org/events/2017/speakers.html#KarlFosaaen"><b>Karl Fosaaen</b></a> - Speaking to a City of Amazon Echoes</TD>
-  <TD>TBD</TD>
+  <TD><a href="https://bsides.pdx.org/events/2017/speakers.html#MikeR"><b>Mike R</b></a> - Silens Pacem -- A Silent Peace</TD>
 </TR>
 
 <TR>
