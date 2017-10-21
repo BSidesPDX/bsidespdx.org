@@ -33,6 +33,8 @@ Would your company like to sponsor? For less than the admission of a single atte
 <tr><td><img src="/images/2017/BD_BorderLAN.png"></td>
 <td><img src="/images/2017/Salesforce.png"></td></tr>
 <tr><td><img src="/images/2017/HackerOne.png"></td>
+<td><img src="/images/2017/optiv.png"></td></tr>
+<tr><td><img src="/images/2017/splunk.png"></td>
 <td></td></tr>
 <tr><th colspan="2"></th></tr>
 <tr><th colspan="2"><h1><b>Silver Sponsors</b></h1></th></tr>
