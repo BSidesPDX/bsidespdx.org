@@ -6,4 +6,4 @@ permalink: /events/2018/register.html
 
 ## 2018 Registration
 
-TO BE ANNOUNCED
+Registration for BSides PDX 2017 is now open at: [Eventzilla](http://bsidespdx2018.eventzilla.net/)
