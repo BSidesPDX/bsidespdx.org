@@ -2,6 +2,7 @@
   href: "/"
 
 - title: "About"
+  href: "/about.html"
   subcategories:
     - subtitle: "BSidesPDX"
       subhref: "/about.html"
@@ -18,6 +19,7 @@
   href: "/cfp.html"
 
 - title: "BsidesPDX 2018"
+  href: "/events/2018"
   subcategories:
     - subtitle: "Register"
       subhref: "/events/2018/register.html"
