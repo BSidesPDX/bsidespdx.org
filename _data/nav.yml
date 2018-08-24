@@ -17,6 +17,11 @@
 
 - title: "CFP"
   href: "/cfp.html"
+  subcategories:
+    - subtitle: "CFP"
+      subhref: "/cfp.html"
+    - subtitle: "Review Board"
+      subhref: "/2018/review-board.html"
 
 - title: "BsidesPDX 2018"
   href: "/events/2018"
@@ -35,3 +40,5 @@
       subhref: "/events/2018/venue.html"
     - subtitle: "Workshops"
       subhref: "/events/2018/workshops.html"
+    - subtitle: "Review Board"
+      subhref: "/2018/review-board.html"
