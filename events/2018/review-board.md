@@ -4,6 +4,8 @@ title: "BSidesPDX CFP Review Board"
 permalink: /2018/review-board.html
 ---
 
+As BSidesPDX has evolved over the years into a larger event, the process of curating the content has evolved as well. In an effort to recognize that the goal of BSidesPDX is to support the local information security community, we've recruited a set of local experts to help with the selection process.
+
  <TABLE height="100%" width="100%" align="center" cellpadding="5" border="1">
 
 <tr>
@@ -27,6 +29,54 @@ permalink: /2018/review-board.html
   <img src="/images/2018/review-board/mj.png" alt="Maggie Jauregui" height="1500" width="1500"/></td>
   <td style="vertical-align:top">
   <p><strong> Maggie Jauregui</strong> is a Security Researcher for the Platform Armoring and Resiliency team at Intel Corporation. Maggie focuses on firmware security. She has presented her research at conferences such as DEF CON, CanSecWest, DerbyCon, Grace Hopper, BSidesPDX, and UEFI Plugfest.
+  </p></td>
+</tr>
+
+<tr>
+  <td style="vertical-align:top">
+  <img src="/images/2018/review-board/m.png" alt="TBA" height="1500" width="1500"/></td>
+  <td style="vertical-align:top">
+  <p><strong> TBA </strong> will update their information soon.
+  </p></td>
+</tr>
+
+<tr>
+  <td style="vertical-align:top">
+  <img src="/images/2018/review-board/f.png" alt="TBA" height="1500" width="1500"/></td>
+  <td style="vertical-align:top">
+  <p><strong> TBA </strong> will update their information soon.
+  </p></td>
+</tr>
+
+<tr>
+  <td style="vertical-align:top">
+  <img src="/images/2018/review-board/m.png" alt="TBA" height="1500" width="1500"/></td>
+  <td style="vertical-align:top">
+  <p><strong> TBA </strong> will update their information soon.
+  </p></td>
+</tr>
+
+<tr>
+  <td style="vertical-align:top">
+  <img src="/images/2018/review-board/f.png" alt="TBA" height="1500" width="1500"/></td>
+  <td style="vertical-align:top">
+  <p><strong> TBA </strong> will update their information soon.
+  </p></td>
+</tr>
+
+<tr>
+  <td style="vertical-align:top">
+  <img src="/images/2018/review-board/m.png" alt="TBA" height="1500" width="1500"/></td>
+  <td style="vertical-align:top">
+  <p><strong> TBA </strong> will update their information soon.
+  </p></td>
+</tr>
+
+<tr>
+  <td style="vertical-align:top">
+  <img src="/images/2018/review-board/f.png" alt="TBA" height="1500" width="1500"/></td>
+  <td style="vertical-align:top">
+  <p><strong> TBA </strong> will update their information soon.
   </p></td>
 </tr>
 
