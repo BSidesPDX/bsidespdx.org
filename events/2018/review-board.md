@@ -42,7 +42,7 @@ As BSidesPDX has evolved over the years into a larger event, the process of cura
 
 <tr>
   <td style="vertical-align:top">
-  <img src="/images/2018/review-board/tdm.png" alt="Timothy D. Morgan" height="1500" width="1500"/></td>
+  <img src="/images/2018/review-board/tdm.jpg" alt="Timothy D. Morgan" height="1500" width="1500"/></td>
   <td style="vertical-align:top">
   <p><strong> Timothy D. Morgan </strong> (<a href="https://twitter.com/ecbftw" target="_blank">@ecbftw</a>) taught himself how to write software at the age of twelve and began
 tinkering with security shortly thereafter.  After earning his computer science
