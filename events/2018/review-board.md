@@ -42,9 +42,18 @@ As BSidesPDX has evolved over the years into a larger event, the process of cura
 
 <tr>
   <td style="vertical-align:top">
-  <img src="/images/2018/review-board/f.png" alt="TBA" height="1500" width="1500"/></td>
+  <img src="/images/2018/review-board/tdm.png" alt="Timothy D. Morgan" height="1500" width="1500"/></td>
   <td style="vertical-align:top">
-  <p><strong> TBA </strong> will update their information soon.
+  <p><strong> Timothy D. Morgan </strong> (<a href="https://twitter.com/ecbftw" target="_blank">@ecbftw</a>) taught himself how to write software at the age of twelve and began
+tinkering with security shortly thereafter.  After earning his computer science
+degrees (B.S., Harvey Mudd College and M.S., Northeastern University) and
+spending a short time as a developer, he began his career as a pentester and
+security researcher.  Tim's work in application security spans 13 years and
+includes the publication of dozens of vulnerabilities in widely used software.
+He has been teaching application security throughout that time, delivering
+trainings and talks at major conferences, including OWASP AppSecUSA and
+BlackHat USA.  Tim currently resides in Portland, Oregon where he volunteers
+for the local OWASP chapter.
   </p></td>
 </tr>
 
