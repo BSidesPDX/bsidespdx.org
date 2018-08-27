@@ -20,7 +20,7 @@ As BSidesPDX has evolved over the years into a larger event, the process of cura
   <td style="vertical-align:top">
   <img src="/images/2018/review-board/timzen.jpg" alt="Topher Timzen" height="1500" width="1500"/></td>
   <td style="vertical-align:top">
-  <p><strong>Topher Timzen</strong> is currently a Vulnerability Enthusiast at a Fortune 50 Red Team and enjoys causing constructive mischief. He is located in the woods hiking or mountain biking when not computing. More information can be found at <a href="https://tophertimzen.com">TopherTimzen.com</a> & <a href="https://twitter.com/TTimzen" target="_blank">@TTimzen</a>.
+  <p><strong>Topher Timzen</strong> is currently a Vulnerability Enthusiast at a Fortune 50 Red Team and enjoys causing constructive mischief. Topher has spoken at conferences such as DEF CON, SecTor and BSidesPDX on offensive security research. Enjoying teaching, particularly about exploitation, he has been running the CTF at BSidesPDX for the past few years. Topher is located in the woods hiking or mountain biking when not computing. More information can be found at <a href="https://tophertimzen.com">TopherTimzen.com</a> & <a href="https://twitter.com/TTimzen" target="_blank">@TTimzen</a>.
   </p></td>
 </tr>
 
