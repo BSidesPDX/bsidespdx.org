@@ -34,9 +34,9 @@ As BSidesPDX has evolved over the years into a larger event, the process of cura
 
 <tr>
   <td style="vertical-align:top">
-  <img src="/images/2018/review-board/m.png" alt="TBA" height="1500" width="1500"/></td>
+  <img src="/images/2018/review-board/jesse.jpg" alt="Jesse Michael" height="1500" width="1500"/></td>
   <td style="vertical-align:top">
-  <p><strong> TBA </strong> will update their information soon.
+  <p><strong>Jesse Michael</strong> is an experienced security researcher focused on vulnerability detection and mitigation who has worked at all layers of modern computing environments from exploiting worldwide corporate network infrastructure down to hunting vulnerabilities inside processors at the hardware design level. His primary areas of expertise include reverse engineering embedded firmware and exploit development. He has also presented at DEF CON, Black Hat, PacSec, Hackito Ergo Sum, and BSides Portland.
   </p></td>
 </tr>
 
