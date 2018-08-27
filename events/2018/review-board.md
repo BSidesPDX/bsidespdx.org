@@ -22,4 +22,13 @@ permalink: /2018/review-board.html
   </p></td>
 </tr>
 
+<tr>
+  <td style="vertical-align:top">
+  <img src="/images/2018/review-board/mj.jpg" alt="Maggie Jauregui" height="1500" width="1500"/></td>
+  <td style="vertical-align:top">
+  <p><strong> Maggie Jauregui</strong> is a Security Researcher for the Platform Armoring and Resiliency team at Intel Corporation. Maggie focuses on firmware security. She has presented her research at conferences such as DEF CON, CanSecWest, DerbyCon, Grace Hopper, BSidesPDX, and UEFI Plugfest.
+  </p></td>
+</tr>
+
+
 </table>
