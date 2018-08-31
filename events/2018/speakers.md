@@ -34,7 +34,7 @@ Rastrea2r (pronounced ""rastreador"" - hunter- in Spanish) is a multi-platform o
 
 *Sudheendra (Sudhi) Bhat is an Information Security Professional, currently holds a role of Product Security Architect in Security Operations Group at McAfee. Sudhi has been developing software for last 12+ years and has worked for a variety of Software Corporations ranging from small startups to fortune 100's. It was while working at Intel 6 years back, Sudhi got exposed to the analyzing Security vulnerabilities which influenced him to pursue Security as a Career Interest. Sudhi Bhat has a Bachelor Degree in Computer Science from MSRIT, Bangalore (India) and Masters Degree in Computer Science from George Mason University, Virginia and holds various Software and Security Certifications, the most recent one being GIAC GWEB (Analyst # 641). Sudhi Bhat is passionate about OpenSource projects and currently maintains and contributes to the projects under rastrea2r organization in GitHub. Sudhi's current research areas include Forensic Data Collection, Web Services Security and Automotive Security. Apart from Software and Security, Sudhi loves traveling and outdoor photography.*
 
-<a name="">TobinShields</a>
+<a name="TobinShields"></a>
 ## State of Cyber Education
 ### Tobin Shields ([@TobinShields](https://twitter.com/TobinShields))
 There is a massive skills gap in the information security field. While many organisations forecast unbelievably high numbers, even the most conservative estimates show that there will be and overwhelming number of positions that go unfilled in the coming years. This "State of Cyber Education" talk will highlight education and workforce development programs that are trying to train the incoming workforce and close that gap. In addition, the talk will end with a call-to-action that will encourage local information security professionals to mentor, engage with, and help train a new generation of students. 
@@ -70,7 +70,9 @@ I will also talk about how to explain this approach to a skeptical customer base
 Lastly, I will link to a detailed step-by-step approach along with scripts to analyze the discovered passwords available in a public github repository for your immediate use.
 
 *By Most Days: Leads the security team at Pure Storage
+
 By Other Days: BSidesSF volunteer, perennial DEFCON attendee, legal scholar, cyclist.
+
 By Night: Wannabe chef and alcoholic beverage enthusiast*
 
 <a name=""></a>
