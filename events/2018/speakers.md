@@ -75,9 +75,11 @@ By Other Days: BSidesSF volunteer, perennial DEFCON attendee, legal scholar, cyc
 
 By Night: Wannabe chef and alcoholic beverage enthusiast*
 
+<!--
 <a name=""></a>
 ## Title
 ### Name ([](https://twitter.com/))
 Abstract
 
 *Bio*
+-->
