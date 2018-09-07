@@ -59,9 +59,9 @@ for the local OWASP chapter.
 
 <tr>
   <td style="vertical-align:top">
-  <img src="/images/2018/review-board/m.png" alt="TBA" height="1500" width="1500"/></td>
+  <img src="/images/2018/review-board/forrest-bio.jpg" alt="Forrest Rae" height="1500" width="1500"/></td>
   <td style="vertical-align:top">
-  <p><strong> TBA </strong> will update their information soon.
+  <p><strong> Forrest Rae  </strong> is a self taught technology enthusiast, software engineer, and vulnerability researcher who guides a team of hackers at Fortune 100 company.  He's got a long history of taking things apart.  Forrest currently resides just east of Portland in the Columbia River Gorge.
   </p></td>
 </tr>
 
