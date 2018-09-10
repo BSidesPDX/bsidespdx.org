@@ -11,5 +11,4 @@ Would your company like to sponsor? For less than the admission of a single atte
 <table cellpadding="20" width="80%" align="center">
 <tr><th colspan="2"><h1><b>Silver Sponsors</b></h1></th></tr>
 <tr><td><img src="/images/2018/ISACA.png" width="100%" align="center"></td></tr>
-<td></td></tr>
 </table>
