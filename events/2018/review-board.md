@@ -67,9 +67,9 @@ for the local OWASP chapter.
 
 <tr>
   <td style="vertical-align:top">
-  <img src="/images/2018/review-board/f.png" alt="TBA" height="1500" width="1500"/></td>
+  <img src="/images/2018/review-board/kees.png" alt="Kees Cook" height="1500" width="1500"/></td>
   <td style="vertical-align:top">
-  <p><strong> TBA </strong> will update their information soon.
+  <p><strong> Kees Cook (<a href="https://twitter.com/kees_cook" target="_blank">@kees_cook</a>) </strong> has been working with Free Software since 1994, and has been a Debian Developer since 2007. He is currently employed as a Linux kernel security engineer by Google, working on Android and Chrome OS. From 2006 through 2011 he worked for Canonical as the Ubuntu Security Team's Tech Lead, and remains on the Ubuntu Technical Board. Before that, he worked as the lead sysadmin at OSDL, before it was the Linux Foundation. He has written various utilities including GOPchop and Sendpage, and contributes randomly to other projects including fun chunks of code in OpenSSH, Inkscape, Wine, MPlayer, and Wireshark. He's been spending most of his time lately focused on security features in the Linux Kernel.
   </p></td>
 </tr>
 
