@@ -75,9 +75,9 @@ for the local OWASP chapter.
 
 <tr>
   <td style="vertical-align:top">
-  <img src="/images/2018/review-board/m.png" alt="TBA" height="1500" width="1500"/></td>
+  <img src="/images/2018/review-board/emily.jpg" alt="Emily Cain" height="1500" width="1500"/></td>
   <td style="vertical-align:top">
-  <p><strong> TBA </strong> will update their information soon.
+  <p><strong> Emily Cain (<a href="https://twitter.com/data_bae" target="_blank">@data_bae</a>) </strong> is a programmer, writer, and software educator. She creates instructional videos and articles on software monitoring for New Relic University. Her other projects include a <a href="https://twitter.com/AskYrDoctorABot">Twitter bot</a> that creates fictional medications, a <a href="http://doggo-meme-maker.glitch.me/">Glitch project</a> to teach children to make websites using dog memes, and <a href="https://emcain.github.io/portfolio/">writing</a> on sites such as the O’Reilly Media blog and <a href="https://dev.to/">dev.to</a>. In her free time she enjoys the outdoors, board games, and volunteering.
   </p></td>
 </tr>
 
