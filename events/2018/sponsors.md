@@ -9,6 +9,10 @@ Sponsors contribute the funds and resources that allow us to run the entire conf
 Would your company like to sponsor? For less than the admission of a single attendee to a big name conference, they could be a platinum sponsor at BSidesPDX. For more information, email <a href="mailto:sponsorship@bsidespdx.org">sponsorship@bsidespdx.org</a>.
 
 <table cellpadding="20" width="80%" align="center">
+<tr><th colspan="2"><h1><b>Platinum Sponsors</b></h1></th></tr>
+<tr><td><img src="/images/2018/oracle_clr.bmp" width="100%" align="center"></td></tr>
+</table>
+<table cellpadding="20" width="80%" align="center">
 <tr><th colspan="2"><h1><b>Silver Sponsors</b></h1></th></tr>
-<tr><td><img src="/images/2018/ISACA.png" width="100%" align="center"></td></tr>
+<tr><td><img src="/images/2018/ISACA.png" width="50%" align="center"></td></tr>
 </table>
