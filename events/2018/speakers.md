@@ -4,8 +4,7 @@ title: "2018 Speakers"
 permalink: /events/2018/speakers.html
 ---
 
-<a name="MrTrav"></a>
-## Learning Security by ATT&CK'ing Yourself
+## <a name="MrTrav">Learning Security by ATT&CK'ing Yourself</a>
 ### Travis Smith ([@MrTrav](https://twitter.com/mrtrav))
 Back in 2016, I presented on how I taught high school students about security by building, hacking, and then securing an internet controlled robot. This year I changed my tactics and leveraged the MITRE ATT&CK framework as a teaching tool instead.  In this talk I will go over what the ATT&CK framework is and how I used it to teach students about security. The program was so successful that we are now using it to teach security to anyone from junior to senior level practitioners. Even seasoned veterans have something to learn from the collective knowledge found inside this framework. 
 
