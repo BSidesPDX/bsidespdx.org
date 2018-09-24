@@ -4,7 +4,8 @@ title: "2018 Speakers"
 permalink: /events/2018/speakers.html
 ---
 
-## <a name="MrTrav">Learning Security by ATT&CK'ing Yourself</a>
+<a name="mrrtrav"></a>
+## Learning Security by ATT&CK'ing Yourself
 ### Travis Smith ([@MrTrav](https://twitter.com/mrtrav))
 Back in 2016, I presented on how I taught high school students about security by building, hacking, and then securing an internet controlled robot. This year I changed my tactics and leveraged the MITRE ATT&CK framework as a teaching tool instead.  In this talk I will go over what the ATT&CK framework is and how I used it to teach students about security. The program was so successful that we are now using it to teach security to anyone from junior to senior level practitioners. Even seasoned veterans have something to learn from the collective knowledge found inside this framework. 
 
@@ -33,7 +34,7 @@ Rastrea2r (pronounced ""rastreador"" - hunter- in Spanish) is a multi-platform o
 
 *Sudheendra (Sudhi) Bhat is an Information Security Professional, currently holds a role of Product Security Architect in Security Operations Group at McAfee. Sudhi has been developing software for last 12+ years and has worked for a variety of Software Corporations ranging from small startups to fortune 100's. It was while working at Intel 6 years back, Sudhi got exposed to the analyzing Security vulnerabilities which influenced him to pursue Security as a Career Interest. Sudhi Bhat has a Bachelor Degree in Computer Science from MSRIT, Bangalore (India) and Masters Degree in Computer Science from George Mason University, Virginia and holds various Software and Security Certifications, the most recent one being GIAC GWEB (Analyst # 641). Sudhi Bhat is passionate about OpenSource projects and currently maintains and contributes to the projects under rastrea2r organization in GitHub. Sudhi's current research areas include Forensic Data Collection, Web Services Security and Automotive Security. Apart from Software and Security, Sudhi loves traveling and outdoor photography.*
 
-<a name="TobinShields"></a>
+<a name="tobinshields"></a>
 ## State of Cyber Education
 ### Tobin Shields ([@TobinShields](https://twitter.com/TobinShields))
 There is a massive skills gap in the information security field. While many organisations forecast unbelievably high numbers, even the most conservative estimates show that there will be and overwhelming number of positions that go unfilled in the coming years. This "State of Cyber Education" talk will highlight education and workforce development programs that are trying to train the incoming workforce and close that gap. In addition, the talk will end with a call-to-action that will encourage local information security professionals to mentor, engage with, and help train a new generation of students. 
@@ -84,7 +85,7 @@ This talk describes how a new metaphor, “Security is Nurturance”,  when used
 *Esteban has been warily working in Information Security since before the .com bust of 2000. It shows.*
 
 <a name="syncsrc"></a>
-<a name="PaulM"></a>
+<a name="paulm"></a>
 ## Securing Bare Metal Hardware at Scale
 ### Matt King ([@syncsrc](https://twitter.com/syncsrc)) and Paul McMillan ([@paulm](https://twitter.com/paulm))
 Less than three years after it was discovered the Equation Group was backdooring hard drive firmware, courses on how to create such a backdoored firmware are available to the public. New exploits in BIOS/UEFI that enable bypassing OS and Hypervisor protections have become commonplace. Once compromised, remediation is virtually impossible; malicious firmware is perfectly positioned to block the very updates that would remove it.
@@ -104,16 +105,7 @@ MicroBurst is a set of PowerShell tools that helps automate the processes of dum
 
 *Karl is a Practice Director at NetSPI who specializes in network and web application penetration testing. With over ten years of consulting experience in the computer security industry, he has worked in a variety of industries and has made his way through many Active Directory domains. Karl also holds a BS in Computer Science from the University of Minnesota. This year, he has spent a fair amount of time digging into automating and assessing the Azure stack. Over the years at NetSPI, Karl has also helped build out and maintain their GPU cracking boxes. Karl holds a couple of certifications, that is neat. Karl has previously spoken at THOTCON, DerbyCon, and BSidesPDX. In his spare time, you may see him trying to sell you a t-shirt as a swag goon at DEF CON.*
 
-<a name="kelleyrobinson"></a>
-## Threat Modeling Authentication
-### Kelley Robinson ([@kelleyrobinson](https://twitter.com/kelleyrobinson))
-Passwords get pwned. SMS 2FA gets compromised. We spend time clicking stop signs to convince computers we're human. Is there a better way? Idealistic and technically challenging solutions for authentication (password reset protocol!, identity on ~*the blockchain*~!) are tempting but unproven.
-
-This talk will introduce practical ideas for designing your authentication systems and the UX considerations that will influence your architecture. We'll walk through how to evaluate the risk associated with your business and how to protect your customers appropriately. Putting identity on the blockchain is probably not the answer right now, but together we can find a way to make your users more secure.
-
-*Kelley works on the Account Security team at Twilio, helping developers manage and secure customer identity in their software applications. Previously she worked in a variety of API platform and data engineering roles at startups in San Francisco. She believes in making technical concepts, especially security, accessible and approachable for new audiences.*
-
-<a name="JoshFarwell"></a>
+<a name="joshfarwell"></a>
 ## Unsafe Harbor: Practical Attacks on Docker Infrastructure
 ### Josh Farwell ([@JoshFarwell](https://twitter.com/JoshFarwell))
 Docker has become a very popular tool for deploying server applications. It aims to solve many problems with dependency management and drift between development and production environments, and make it easy for developers to deploy their software quickly.
@@ -128,6 +120,57 @@ This talk is about how to use all of this wonderful convenience for evil. It wil
 Reconnaissance plays a huge role while hacking. While there are 100s of different tools available to make this process easier, you may not be maximizing your recon process without a working methodology. In this session attendees will learn how the best hackers use recon to size up their targets. This methodology helps create an automated process that will actively look for vulnerabilities using OSINT and other well known recon tools.
 
 *Ben is a the Hacker Operations Lead at HackerOne, the #1 most popular bug bounty platform by day, and a hacker by night. Prior to joining HackerOne, he has helped identify and exploit over 500 security vulnerabilities across 100s of web and mobile applications for companies such as Yahoo, Airbnb, Snapchat, The US Department of Defense, Yelp, Github, and more. He also invested time in the security community, by creating a community of 200+ active hackers who share ideas and their experience. He has also held a few free workshops  and trainings to teach others about security and web application hacking.*
+
+<a name="gandalfddi"></a>
+## Tiny Invaders: New Threats from Cables We Take for Granted
+### Ken Hollis ([@GandalfDDI](https://twitter.com/GandalfDDI))
+"Miniaturization and system-on-a-chip (SoC) have enabled the explosive growth and opportunities for the Internet of Things.  It has also brought around new unseen risk in spots that we never imagined.  SoC processors bring a range of functionality now in a form factor small enough to inconspicuously incorporate into everyday items like a USB or network cable.  Are we ready for this new variation of a supply chain attack?
+
+We will explore this new threat, some of the mischief that could be done, and look for ways to prepare and combat this as defenders.  This will challenge our views of possible threats we should monitor and open up the discussion on how to better assume breach."
+
+*Ken Hollis has had a diverse career. He started professionally programming the first adventure game for girls, "Jenny of the Prairie". Graduated with a BS in Math/Computer Science. From there he moved to Kennedy Space Center with the Ground Launch Sequencer team and the Main Propulsion System / Space Shuttle Main Engines hardware / software team performing test, checkout launch and landing of the Space Shuttle (https://1drv.ms/f/s!AsoLDJx_szsuc_zSFFU0B1gKkFc ). Next, he worked at ARINC on the ACARS (Aircraft Communication And Reporting System) network, design test build and management of the Tulsa Schools network, Network manager at SouthWestern Power Administration and finally to Microsoft on the protocol documentation for the DoJ / EU, then troubleshooting / fixing production networking outages ("The Cloud") and lastly working on Security Incidents.*
+
+<a name="texnik"></a>
+## CTF@Work, School, or Anywhere
+### Steve Willoughby ([@TeXnik](https://twitter.com/TeXnik))
+I will recap my adventures as I challenged my co-workers to raise their security awareness and skills through puzzles and tutorials, which gradually grew until I had created an always-on, persistent CTF game site. I will discuss the benefits to an organization to have games like this to teach coding and security skills, as well as the technical design employed to make the system playable outside a single event (flags are dynamic so "just type ZEBRA as the flag name" doesn't become common knowledge between players), and allow other users to donate puzzles as isolated CTF modules without needing to trust the overall security of the site to the contributed code. (We assume one person doesn't have time to write all the challenges full-time, and we encourage players to add to the game.)
+
+*"Steve Willoughby is a Senior Information Security Specialist for a Fortune 50 company. He discovered Version 7 Unix while in high school and, apart from brief forays into VMS in college and failed attempts to hide from other operating systems, he's been spending most waking hours tinkering on UNIX in one form or another, either writing software or administering systems.
+He lives in the Portland, Oregon area and keeps a vintage Altair 8800 and COSMAC Elf as pets. In his spare time, he runs a MUD game and creates microcontroller gizmos to make his Christmas lights flash in the most over-engineered way possible."*
+
+<a name="nishakmr"></a>
+## The Making of the Banglet
+### Nisha Kumar ([@nishakmr](https://twitter.com/nishakmr))
+This year's DefCon DC503 badge was not a badge at all but a bangle with Bluetooth LE controlled lights. It was a risky gambit that paid off (or not, depending on your perspective).
+
+*Nisha is the badge designer for the DC503 badge for DefCon26: https://github.com/pdxbadgers/2018-banglet. She also maintains an open source project: https://github.com/vmware/tern*
+
+<a name="briancontos"></a>
+## Grandmothers, Gangsters, Guerrillas and Governments
+### Brian Contos ([BrianContos](https://twitter.com/BrianContos))
+This presentation will explore threat actors including insiders, cybercriminals, hacktivists and nation-states. We will dissect how these actors operate and analyze their techniques to better understand what makes each group successful. This presentation will translate the “who, how and why” of cyberattacks. We will identify multiple “old school” and modern-day threat vectors and organize attacks by motives like financial and political. Each threat actor type will be explored in detail with real-life use cases and personal accountants based on my work in security in over 50 countries and 6 continents for the last 20 years. 
+
+*Brian Contos is the CISO & VP Technology Innovation at Verodin. He is a seasoned executive with over two decades of experience in the security industry, board advisor, entrepreneur and author. After getting his start in security with the Defense Information Systems Agency (DISA) and later Bell Labs, he began the process of building security startups and taking multiple companies through successful IPOs and acquisitions including:  Riptech, ArcSight, Imperva, McAfee and Solera Networks. Brian has worked in over 50 countries across six continents. He has authored several security books, his latest with the former Deputy Director of the NSA, spoken at leading security events globally, and frequently appears in the news. He was recently featured in a cyberwar documentary alongside General Michael Hayden (former Director NSA and CIA).*
+
+
+<a name="vac4n7"></a>
+## Oh! 365: Avoid an “Oh \*\*\*\*” moment in Office 365
+### Dan Whalen ([@vac4n7](https://twitter.com/vac4n7))
+“You mean I don’t have to host Exchange? Where do I sign up!” These days, it only takes a few clicks to spin up a fully provisioned Office 365 subscription that gives your users access to all of their favorite office productivity apps they ?love? without all of the operational overhead and licensing headaches IT hates. 
+
+As usual, though, security is often an afterthought. It’s easy to overlook how these services impact your risk profile and it can be confusing to figure out exactly what you should be worried about or how to respond if something does go wrong.
+
+In this talk, we’ll walk through real examples of how attackers have used O365 to compromise organizations. We’ll also share techniques we’ve used to investigate and detect O365 compromises. Finally, we’ll share how you can mitigate some of the key risks in O365. You’ll leave with a clearer picture of risk exposure and a bag full of tips and tricks that you can go implement!
+
+*Dan is a Detection and Response Lead at Expel, a transparent managed security provider. With many years of experience in security operations at scale, he's been exposed to a ton of different environments, unusual attacks, and challenging security problems. Dan holds a BS in Information and Security and Forensics from the Rochester Institute of Technology and is an avid learner / conference goer. Lately, he's been focused on helping organizations detect and respond to security threats in their cloud infrastructure.*
+
+
+<a name="kaoticrequiem"></a>
+## The Bottom of the Barrel - Scraping Pastebin for Obfuscated Malware
+### Patrick Colford ([@kaoticrequiem](https://twitter.com/kaoticrequiem))
+Started in 2002, pastebin.com has become the largest service of its kind in the world, serving 18 million visitors monthly and hosting 95 million pastes. Though used for lots of legitimate content, malicious actors have been using the site to distribute obfuscated malware and other malicious content for years. In this presentation, I’ll demonstrate FIERCECROISSANT, an open source tool for scraping Pastebin and decoding obfuscated malware. I'll also talk about how to tailor FC to your needs, whether that's to find data dumps, malicious pastes, or other potentially harmful content.
+
+*Patrick Colford is a Security Analyst with Cisco Umbrella (formerly OpenDNS). Formerly a Customer Service Representative with nearly 10 years of experience, he joined the analyst team in 2016 to help support Umbrella’s London office. He is passionate about security education and hopes to inspire people all over the world to learn more about whatever interests them.*
 
 <!--
 <a name=""></a>
