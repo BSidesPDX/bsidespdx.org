@@ -123,6 +123,13 @@ This talk is about how to use all of this wonderful convenience for evil. It wil
 
 *Josh is a Linux security practitioner and developer based in Portland, Oregon. He works as a security engineer at New Relic, where he builds security visibility tools, breaks SaaS software, and helps developers build secure infrastructure.*
 
+<a name="nahamsec"></a>
+## It's the little things
+### Ben Sadeghipour ([@nahamsec](https://twitter.com/nahamsec))
+Reconnaissance plays a huge role while hacking. While there are 100s of different tools available to make this process easier, you may not be maximizing your recon process without a working methodology. In this session attendees will learn how the best hackers use recon to size up their targets. This methodology helps create an automated process that will actively look for vulnerabilities using OSINT and other well known recon tools.
+
+*Ben is a the Hacker Operations Lead at HackerOne, the #1 most popular bug bounty platform by day, and a hacker by night. Prior to joining HackerOne, he has helped identify and exploit over 500 security vulnerabilities across 100s of web and mobile applications for companies such as Yahoo, Airbnb, Snapchat, The US Department of Defense, Yelp, Github, and more. He also invested time in the security community, by creating a community of 200+ active hackers who share ideas and their experience. He has also held a few free workshops  and trainings to teach others about security and web application hacking.*
+
 <!--
 <a name=""></a>
 ## Title
