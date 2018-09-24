@@ -58,7 +58,7 @@ You have a set budget for people and blinky boxen and an unlimited set of infose
 *Jeff is the Director of the Enterprise Information Security team at Mozilla, responsible for risk management, incident response, threat management, intrusion detection, red team exercises and the web bug bounty program. 
 Speaker at 3 DEF CONs, a bunch of B-sides and an RSA (but he didn't mean it), he enjoys focusing on bringing diversity to infosec and finding new, collaborative ways of solving our now ancient infosec problems.*
 
-<a name="@tneely"></a>
+<a name="tneely"></a>
 ## Survival of the fittest: password edition!  Implementing the new NIST guidance into your password policy
 ### Kevin Neely ([@ktneely](https://twitter.com/ktneely))
 Historically, corporate and service password policies are all the same: some combination of characters, length, and 90 days before it expires.  What if your security team took a different approach?  By testing the passwords with cracking tools and using the results to create a strength metric, you can allow employees to keep their strong password if they landed upon a strong, difficult-to-crack password, only forcing the weak to expire.
@@ -69,11 +69,59 @@ I will also talk about how to explain this approach to a skeptical customer base
 
 Lastly, I will link to a detailed step-by-step approach along with scripts to analyze the discovered passwords available in a public github repository for your immediate use.
 
-*By Most Days: Leads the security team at Pure Storage
+*By Most Days: Leads the security team at Pure Storage*
 
-By Other Days: BSidesSF volunteer, perennial DEFCON attendee, legal scholar, cyclist.
+*By Other Days: BSidesSF volunteer, perennial DEFCON attendee, legal scholar, cyclist.*
 
-By Night: Wannabe chef and alcoholic beverage enthusiast*
+*By Night: Wannabe chef and alcoholic beverage enthusiast*
+
+<a name="apebit"></a>
+## Security As Nurturance
+### Esteban Gutierrez ([@apebit](https://twitter.com/apebit))
+The infosec industry is plagued with language borrowed from the military culture. We see this in many products and tools sold by security vendors, the processes we use to do security work, and the ideas and theories used to advanced and grow the discipline. I describe this as working under a metaphor: “Information Security is Warfare.” Unfortunately, we see infosec programs fail people and organizations time and time again. Systems are either not built or configured safely or don’t get patched, code develops vulnerabilities, people get phished, credentials get compromised, and people lose time, money, and sanity from having to deal with the fallout. I see this as the result of working under the influence of the warfare metaphor which causes people to see things in way that are adversarial, zero-sum, and controlling. 
+
+This talk describes how a new metaphor, “Security is Nurturance”,  when used as a goal for a security team flips the traditional paradigms of the security industry and influences new outcomes.  When we use this metaphor to inform our approach to how we do security, security goals become less focused on locking access down, building DMZs & firewalls, or rotating passwords (and other adversarial methods) and more focused on processes to help grow the businesses and empower employees with knowledge and accountability.  I will talk about a few solutions developed by security teams that exemplify the metaphor, how this metaphor aligns with values focused on enabling people to do what is valuable to them and a call for change in the information security industry.
+
+*Esteban has been warily working in Information Security since before the .com bust of 2000. It shows.*
+
+<a name="syncsrc"></a>
+<a name="PaulM"></a>
+## Securing Bare Metal Hardware at Scale
+### Matt King ([@syncsrc](https://twitter.com/syncsrc)) and Paul McMillan ([@paulm](https://twitter.com/paulm))
+Less than three years after it was discovered the Equation Group was backdooring hard drive firmware, courses on how to create such a backdoored firmware are available to the public. New exploits in BIOS/UEFI that enable bypassing OS and Hypervisor protections have become commonplace. Once compromised, remediation is virtually impossible; malicious firmware is perfectly positioned to block the very updates that would remove it.
+
+Truly defending against these threats requires a different approach - traditional vendor firmware signatures and secure boot implementations aren't good enough. Without mechanisms to detect and recover the firmware, a backdoor could be forever persistent and undetectable. Fortunately, nearly every device available has an existing mechanism to force it into a state which can be used to restore the writable firmware components. We’ll describe how we’ve made use of such capabilities at scale, the challenges in doing so, and what the future holds for securing firmware.
+
+*Matt is a security geek responsible for ensuring platform and firmware trust at a cloud service provider. He has pen tested a broad range of systems, helped implement hardware implants, and has a history of rendering all manner of computing devices inoperable.*
+
+*Paul McMillan enjoys drinking cocktails, breaking the internet, and doing the impossible. He also works on security at Netflix.*
+
+<a name="kfosaaen"></a>
+## Attacking Azure Environments with PowerShell
+### Karl Fosaaen ([@kfosaaen](https://twitter.com/kfosaaen))
+For a multitude of reasons, many organizations are moving their operations to the cloud. Along with this, many organizations are introducing old vulnerabilities in new ways. As one of the top cloud providers, Microsoft Azure has had significant adoption and continues to grow in market share. As part of this increase in adoption, there has also been an increase in demand for security testing of Azure environments. Given the blended nature of hosted services, PAAS, and virtual infrastructure, it can be difficult to get a handle on how to properly secure these environments. Reviewing Azure environments can also be time consuming given the lack of automated tools for dumping configuration information. 
+
+MicroBurst is a set of PowerShell tools that helps automate the processes of dumping and reviewing Microsoft Azure configurations. This talk will go over the ways that pen testers and defenders can use MicroBurst to dump out the configuration information for an Azure environment, and identify common configuration issues. Security testers will benefit from the speed of dumping environment credentials for pivoting, listing out publicly available services and files, and enumerating additional targets for phishing and password guessing attacks. As an added bonus, defenders can also use these tools to audit their environment for weak spots.
+
+*Karl is a Practice Director at NetSPI who specializes in network and web application penetration testing. With over ten years of consulting experience in the computer security industry, he has worked in a variety of industries and has made his way through many Active Directory domains. Karl also holds a BS in Computer Science from the University of Minnesota. This year, he has spent a fair amount of time digging into automating and assessing the Azure stack. Over the years at NetSPI, Karl has also helped build out and maintain their GPU cracking boxes. Karl holds a couple of certifications, that is neat. Karl has previously spoken at THOTCON, DerbyCon, and BSidesPDX. In his spare time, you may see him trying to sell you a t-shirt as a swag goon at DEF CON.*
+
+<a name="kelleyrobinson"></a>
+## Threat Modeling Authentication
+### Kelley Robinson ([@kelleyrobinson](https://twitter.com/kelleyrobinson))
+Passwords get pwned. SMS 2FA gets compromised. We spend time clicking stop signs to convince computers we're human. Is there a better way? Idealistic and technically challenging solutions for authentication (password reset protocol!, identity on ~*the blockchain*~!) are tempting but unproven.
+
+This talk will introduce practical ideas for designing your authentication systems and the UX considerations that will influence your architecture. We'll walk through how to evaluate the risk associated with your business and how to protect your customers appropriately. Putting identity on the blockchain is probably not the answer right now, but together we can find a way to make your users more secure.
+
+*Kelley works on the Account Security team at Twilio, helping developers manage and secure customer identity in their software applications. Previously she worked in a variety of API platform and data engineering roles at startups in San Francisco. She believes in making technical concepts, especially security, accessible and approachable for new audiences.*
+
+<a name="JoshFarwell"></a>
+## Unsafe Harbor: Practical Attacks on Docker Infrastructure
+### Josh Farwell ([@JoshFarwell](https://twitter.com/JoshFarwell))
+Docker has become a very popular tool for deploying server applications. It aims to solve many problems with dependency management and drift between development and production environments, and make it easy for developers to deploy their software quickly.
+
+This talk is about how to use all of this wonderful convenience for evil. It will cover Docker containers and how they work (and how to infect them with malware), some services commonly used in Docker infrastructure and how to find and exploit them, and some Docker-specific post-exploitation strategies. It will also cover best practices for mitigating and detecting attacks on your Docker infrastructure and how to create a healthy security culture among your Docker engineers.
+
+*Josh is a Linux security practitioner and developer based in Portland, Oregon. He works as a security engineer at New Relic, where he builds security visibility tools, breaks SaaS software, and helps developers build secure infrastructure.*
 
 <!--
 <a name=""></a>
