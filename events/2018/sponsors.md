@@ -10,13 +10,13 @@ Would your company like to sponsor? For less than the admission of a single atte
 
 <TABLE cellpadding="20" width="90%" align="center">
 <tr><th colspan="2"><h1><b>Platinum Sponsors</b></h1></th></tr>
-<tr><td><img src="/images/2018/moz-logo-bw-rgb.png"></td>
+<tr><td width="50%"><img src="/images/2018/moz-logo-bw-rgb.png"></td>
 <td><img src="/images/2018/oracle_clr.bmp"></td></tr>
-<tr><td><img src="/images/2018/SecuringHardware.png"></td>
+<tr><td width="50%"><img src="/images/2018/SecuringHardware.png"></td>
 <td><img src="/images/2018/oshPark.png"></td></tr>
-<tr><td><img src="/images/2018/Salesforce.png"></td>
+<tr><td width="50%"><img src="/images/2018/Salesforce.png"></td>
 <td><img src="/images/2018/intel.png"></td></tr>
-<tr><td><img src="/images/2018/ControlH.png"></td>
+<tr><td width="50%"><img src="/images/2018/ControlH.png"></td>
 <td><img src="/images/2018/HackerOne.png"></td></tr>
 <td></td></tr>
 <tr><th colspan="2"></th></tr>
