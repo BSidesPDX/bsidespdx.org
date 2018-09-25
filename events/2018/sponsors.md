@@ -27,5 +27,6 @@ Would your company like to sponsor? For less than the admission of a single atte
 <tr><th colspan="2"><h1><b>Silver Sponsors</b></h1></th></tr>
 <tr><td><img src="/images/2018/nostarch.png"></td>
 <td><img src="/images/2018/summit.png"></td></tr>
+<tr><td width="50%"><img src="/images/2018/ISACA.png"></td></tr>
 <td></td></tr>
 </table>
