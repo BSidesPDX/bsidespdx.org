@@ -8,11 +8,25 @@ Sponsors contribute the funds and resources that allow us to run the entire conf
 
 Would your company like to sponsor? For less than the admission of a single attendee to a big name conference, they could be a platinum sponsor at BSidesPDX. For more information, email <a href="mailto:sponsorship@bsidespdx.org">sponsorship@bsidespdx.org</a>.
 
-<table cellpadding="20" width="80%" align="center">
+<TABLE cellpadding="20" width="90%" align="center">
 <tr><th colspan="2"><h1><b>Platinum Sponsors</b></h1></th></tr>
-<tr><td><img src="/images/2018/oracle_clr.bmp" width="50%" align="center"></td></tr>
-</table>
-<table cellpadding="20" width="80%" align="center">
+<tr><td><img src="/images/2018/moz-logo-bw-rgb.png"></td>
+<td><img src="/images/2018/oracle_clr.bmp"></td></tr>
+<tr><td><img src="/images/2018/SecuringHardware.png"></td>
+<td><img src="/images/2018/oshPark.png"></td></tr>
+<tr><td><img src="/images/2018/Salesforce.png"></td>
+<td><img src="/images/2018/intel.png"></td></tr>
+<tr><td><img src="/images/2018/ControlH.png"></td>
+<td><img src="/images/2018/HackerOne.png"></td></tr>
+<td></td></tr>
+<tr><th colspan="2"></th></tr>
+<tr><th colspan="2"><h1><b>Gold Sponsors</b></h1></th></tr>
+<tr><td><img src="/images/2018/cyberark.png"></td>
+<td><img src="/images/2018/Fortinet.jpg"></td></tr>
+<td></td></tr>
+<tr><th colspan="2"></th></tr>
 <tr><th colspan="2"><h1><b>Silver Sponsors</b></h1></th></tr>
-<tr><td><img src="/images/2018/ISACA.png" width="50%" align="center"></td></tr>
+<tr><td><img src="/images/2018/nostarch.png"></td>
+<td><img src="/images/2018/summit.png"></td></tr>
+<td></td></tr>
 </table>
