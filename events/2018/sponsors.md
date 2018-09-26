@@ -17,16 +17,15 @@ Would your company like to sponsor? For less than the admission of a single atte
 <td><img src="/images/2018/intel.png"></td></tr>
 <tr><td width="50%"><img src="/images/2018/ControlH.png"></td>
 <td><img src="/images/2018/HackerOne.png"></td></tr>
-<td></td></tr>
 <tr><th colspan="2"></th></tr>
 <tr><th colspan="2"><h1><b>Gold Sponsors</b></h1></th></tr>
 <tr><td><img src="/images/2018/cyberark.png"></td>
 <td><img src="/images/2018/Fortinet.jpg"></td></tr>
-<td></td></tr>
+
 <tr><th colspan="2"></th></tr>
 <tr><th colspan="2"><h1><b>Silver Sponsors</b></h1></th></tr>
 <tr><td><img src="/images/2018/nostarch.png"></td>
 <td><img src="/images/2018/summit.png"></td></tr>
 <tr><td width="50%"><img src="/images/2018/ISACA.png"></td></tr>
-<td></td></tr>
+
 </table>
