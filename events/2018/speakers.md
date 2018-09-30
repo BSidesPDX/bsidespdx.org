@@ -172,6 +172,53 @@ Started in 2002, pastebin.com has become the largest service of its kind in the 
 
 *Patrick Colford is a Security Analyst with Cisco Umbrella (formerly OpenDNS). Formerly a Customer Service Representative with nearly 10 years of experience, he joined the analyst team in 2016 to help support Umbrella’s London office. He is passionate about security education and hopes to inspire people all over the world to learn more about whatever interests them.*
 
+<a name="shadejinx"></a>
+## Intern-alyzing Your Defense
+### shadejinx ([@shadejinx](https://twitter.com/shadejinx))
+Controls testing is just another thing to do on a never-ending list of things to-do. It's not fun or sexy, but needs to be done more than once. 
+We sought out a way to 'automate' the process. By building it into an internship, we found a reason to formalize and document the process. Then we were able to offload some tedious repetitive work to someone who would get educational value out of it (and probably escape before the tedium set in)
+I'll outline the program that we set up, share our experience, and show how it's possible to make the process more interactive, educational, and fun.
+
+*Just some guy, you know?*
+
+<a name="malcolm"></a>
+## Incomplete views: incident response in a data-poor environment
+### Malcolm Heath
+Quite often, when doing incident response, we find that we either don't have, or can't get, adequate information to determine what the actual situation is.  While it would be great if we lived in a world where we had all the information all the time, the fact of the matter is that we often need to take action based on an incomplete picture.  This talk will focus on what sorts of data and data collection systems you might want to have, how to analyze the data you do have, and how to use some innovative techniques to mine data you already collect for interesting, and actionable, items.
+
+*I'm a security engineer with a company that makes networking and security products. I do incident response, PSIRT, and some research.*
+
+<a name="thesaltr"></a>
+## Pseudorandom Meta Threat Intelligence. TL;DR - Lessons Learned from the Verizon Data Breach Investigation Report
+### Walter Abeson ([@thesaltr](https://twitter.com/thesaltr))
+You've heard about it, you've seen it cited, you may have even printed it, but have you actually read the Verizon Data Breach Investigation Report (VDBIR) in its entirety? If not, no worries! While the experience of curling up with a nice libation and the scintillating 70 pages of the VDBIR is quite enticing, come, hear a distilled version. Learn about the latest attack vectors, who the current cast of malicious actors are, and discover how to bolster your security posture against today's threat landscape. From human to technical exploits, internal to external agents, acquire the knowledge that's necessary to defend yourself against the threats that matter most.
+
+*Walter Abeson is currently a Systems Engineer with RSA NetWitness, focusing on digital forensics, incident response, and threat hunting. Walter thrives at detecting anomalous behavior in endpoint and network environments. Prior to joining RSA, Walter was the Technology Manager for Black Hat, responsible for the NOC and overall security posture. Walter continues to serve as staff for the Black Hat NOC and is also a goon at DEF CON. When not behind a computer, Walter enjoys photography, reading, and spending time outdoors. Follow Walter on Twitter @thesaltr.*
+
+<a name="bodaceacat"></a>
+## Misinformation is an infosec problem
+### Sara Terp ([@bodaceacat](https://twitter.com/bodaceacat))
+Misinformation ("fake news", "information warfare", "narrative warfare" etc) shares a lot of mechanisms and counters with hacking and infosec. Let's look at some of those, and think about things like how misinformation can be part of the infosec toolbag, and where it's likely to go next (TL;DR we can learn a lot from MLsec about how to hack communities of humans). 
+
+*Data scientist, strategist, community builder, works on belief systems, situation awareness, autonomy. This year: misinformation as an infosec problem, high-speed auction algorithms.  Previous: autonomous systems, intelligence analysis, disasters.*
+
+<a name="kojenov"></a>
+## Reverse engineering CISSP practice exams for fun and profit
+### Alexei Kojenov ([@kojenov](https://twitter.com/kojenov))
+If you read this catchy title and thought “Finally, somebody is going to teach me how to easily pass the dreaded CISSP exam!”, you’d be disappointed. This talk is not about cheating a professional exam (who would ever do that?) As a matter of fact, this talk is not much about CISSP at all. Instead, we’ll be talking about reverse engineering a Java program and reusing its code to extract the valuable data, or in other words, using a few hacking techniques against an imperfect application to improve user experience, get the most out of the application, and ultimately, save one’s precious time.
+I will demonstrate in real time how to crack open an executable, decompile the underlying Java code, understand its behavior, and reuse the existing classes to make them do exactly what you want. While this is not rocket science, you should come to this talk having some basic Java programming knowledge, or at least being able to read and understand Java code.
+And in case you were wondering, I did pass the exam and got my CISSP certification, and I’m pretty sure this exercise contributed to my success.
+
+*Alexei Kojenov is a Senior Product Security Engineer with years of prior software development experience. During his programming days at a large technology company, he gradually moved from writing code to breaking code, which he enjoyed a lot! Alexei then decided to go work for an application security consulting company, helping big and small businesses identify and fix security vulnerabilities and design secure applications. Currently, he is part of Salesforce’s product security team. Throughout his career, Alexei performed architecture reviews, threat modeling, code reviews, application and network penetration testing, and more. He volunteers for OWASP Portland, where he occasionally speaks on various security topics. Earlier this month, he also spoke at AppSec USA 2018, a major application security conference.*
+
+<a name="mcmahoniel"></a>
+## Hey Everyone, Break Our Stuff
+### Daniel McMahon ([@mcmahoniel](https://twitter.com/mcmahoniel))
+More and more companies are considering bug bounty programs, but intentionally opening up your organization to attackers isn't always an easy proposition. Join me as I talk about the perils, pitfalls, and lessons learned from over two years of running a paid bug bounty program at a major SaaS company. Hear real-world stories of the types of bugs participating researchers have found and how their findings have influenced our company from security engineers, to our Product team, and beyond.
+
+*Daniel is an Application Security Engineer on New Relic's Product Security team, helping to manage their public Coordinated Disclosure program and specializing in black hoodies, Advanced Persistent APT Threats, and The Cyber.*
+
+
 <!--
 <a name=""></a>
 ## Title
