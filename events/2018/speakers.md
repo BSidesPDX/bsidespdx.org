@@ -226,6 +226,27 @@ When it comes to container security there are two prevailing schools of thought 
 *Alex Ivkin (@alerxes) is a Director of Solutions Engineering at Eclypsium, a local Portland company, specializing in firmware, hardware and supply chain security. Alex has deep implementation experience in a long list of security domains, from hardware to application security to IAM. He co-authored the ISACA CSX Professional certification and spent a lot of time climbing mountains.*
 
 
+<a name="rsahita"></a>
+## Eliminating an entire class of exploits
+### Ravi Sahita ([@rsahita](https://twitter.com/rsahita))
+Return-oriented programming aka ROP techniques have been used for many 0-day attacks. In this talk, we will describe an approach to eliminate this class of exploit using CPU instructions including what else is critically needed in software to take advantage of this defensive mechanism. we will also discuss what other exploit classes must be addressed broadly.
+
+*Principal Security Researcher @ Intel Labs*
+
+<a name=""></a>
+## Title
+### Name ([](https://twitter.com/))
+Abstract
+
+*Bio*
+
+<a name=""></a>
+## Title
+### Name ([](https://twitter.com/))
+Abstract
+
+*Bio*
+
 <!--
 <a name=""></a>
 ## Title
