@@ -109,7 +109,6 @@ The following schedule is *tentative*. Schedule subject to change. Check schedul
   <TD>3:00</TD>
   <TD ROWSPAN="2"><a href="https://bsidespdx.org/events/2018/speakers.html#gandalfddi"><b>Ken Hollis</b></a> - Tiny Invaders: New Threats from Cables We Take for Granted</TD>
   <TD ROWSPAN="2"><a href="https://bsidespdx.org/events/2018/speakers.html#mcmahoniel"><b>Daniel McMahon</b></a> - Hey Everyone, Break Our Stuff</TD>
-</TD>
 </TR>
 
 <TR>
