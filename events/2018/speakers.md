@@ -235,7 +235,7 @@ Return-oriented programming aka ROP techniques have been used for many 0-day att
 
 <a name="thepkiguy"></a>
 ## The Secret to Secret Management
-### Name ([@thepkiguy](https://twitter.com/thepkiguy))
+### Mark Cooper ([@thepkiguy](https://twitter.com/thepkiguy))
 The modern IT landscape is filled with secrets: certificates, cryptocurrency wallets, SQL connection strings, storage account keys, passwords, and encryption keys. Getting a handle on secrets management is a top challenge. A centralized approach to secrets management is vital to protect their data and assets, whereby poorly-managed security could lead to breach, non-compliance, or outage.
 
 *Mark B. Cooper, president and founder of PKI Solutions, has been known as “The PKI Guy” since his early days at Microsoft. Mark has deep knowledge and experience in all things Public Key Infrastructure (PKI), including Microsoft Active Directory Certificate Services (ADCS), PKI design and implementation, Internet of Things (IoT), mobile security, and encryption. PKI Solutions provides consulting, training, professional services, and assessments to help ensure the security of organizations now and in the future. Prior to founding PKI Solutions, Cooper was a senior engineer at Microsoft, where he was a PKI and identity management subject matter expert who designed, implemented, and supported Active Directory Certificate Services (ADCS) environments for Microsoft’s largest customers.*
