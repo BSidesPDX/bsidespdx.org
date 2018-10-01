@@ -14,7 +14,15 @@ The scoreboard for the CTF is located at [bsidespdxctf.party](https://bsidespdxc
 <a name="OSINT For Missing Persons"></a>
 ## OSINT CTF for Missing Persons
 
-More information to be announced
+BSides Portland has teamed up with Trace Labs to offer a secondary CTF for this year.
+
+Trace Labs provides crowd sourced, open source intelligence (OSINT) to find missing persons. They achieve this by bringing together groups of information security professionals and hackers to conduct open source intelligence operations in an attempt to collect intel on real missing persons. 
+
+This new, non-theoretical CTF allows contestants to collect flags on real missing persons. The more valuable these flags are to law enforcement, the more points teams earn. 
+
+While this is a game designed to be fun and competitive, it also helps families with missing loved ones. The information we collect is submitted to law enforcement to help aid them in their search.
+
+If you want to sign up please do so [here](https://www.tracelabs.org/accounts/register/) and ensure you select BSides Portland 2018 and your desired team name. If you want to learn more visit [tracelabs](https://www.tracelabs.org).
 
 <a name="Quiz Show"></a>
 
