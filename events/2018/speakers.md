@@ -233,19 +233,19 @@ Return-oriented programming aka ROP techniques have been used for many 0-day att
 
 *Principal Security Researcher @ Intel Labs*
 
-<a name=""></a>
-## Title
-### Name ([](https://twitter.com/))
-Abstract
+<a name="thepkiguy"></a>
+## The Secret to Secret Management
+### Name ([@thepkiguy](https://twitter.com/thepkiguy))
+The modern IT landscape is filled with secrets: certificates, cryptocurrency wallets, SQL connection strings, storage account keys, passwords, and encryption keys. Getting a handle on secrets management is a top challenge. A centralized approach to secrets management is vital to protect their data and assets, whereby poorly-managed security could lead to breach, non-compliance, or outage.
 
-*Bio*
+*Mark B. Cooper, president and founder of PKI Solutions, has been known as “The PKI Guy” since his early days at Microsoft. Mark has deep knowledge and experience in all things Public Key Infrastructure (PKI), including Microsoft Active Directory Certificate Services (ADCS), PKI design and implementation, Internet of Things (IoT), mobile security, and encryption. PKI Solutions provides consulting, training, professional services, and assessments to help ensure the security of organizations now and in the future. Prior to founding PKI Solutions, Cooper was a senior engineer at Microsoft, where he was a PKI and identity management subject matter expert who designed, implemented, and supported Active Directory Certificate Services (ADCS) environments for Microsoft’s largest customers.*
 
-<a name=""></a>
-## Title
-### Name ([](https://twitter.com/))
-Abstract
+<a name="nash12"></a>
+## Security Education 101
+### nash ([@nash12](https://twitter.com/nash12))
+The need for robust personal digital security is growing every day. Individuals, grassroots groups, and civil society organizations are voicing a need for accessible security education. Whether you're new to computer security concepts or you're new to teaching, there's an important role you can play in addressing this need. Using EFF's Security Education Companion, this workshop will explore how you can support the development of new skills and assembling superhero teams within your community.
 
-*Bio*
+*As EFF's Grassroots Advocacy Organizer, nash works directly with community members and organizations to take advantage of the full range of tools provided by access to tech, while engaging in empowering action toward the maintenance of digital privacy and information security.*
 
 <!--
 <a name=""></a>
