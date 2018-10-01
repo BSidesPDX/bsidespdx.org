@@ -218,6 +218,13 @@ More and more companies are considering bug bounty programs, but intentionally o
 
 *Daniel is an Application Security Engineer on New Relic's Product Security team, helping to manage their public Coordinated Disclosure program and specializing in black hoodies, Advanced Persistent APT Threats, and The Cyber.*
 
+<a name="alerxes"></a>
+## Containers with windows, elevators and backdoors
+### Alex Ivkin ([@alerxes](https://twitter.com/alerxes))
+When it comes to container security there are two prevailing schools of thought - either containers are secure by default, so you should not care much, or containers can not be secure in principle, so you should avoid them at all costs.  In this talk I offer hard earned insights into the security of both Windows and Linux containers, having dockerized many open source and proprietary apps and shoot myself in the foot plenty of times. I will demonstrate vulnerabilities unique to different architectures of containers and techniques to break out of them.
+
+*Alex Ivkin (@alerxes) is a Director of Solutions Engineering at Eclypsium, a local Portland company, specializing in firmware, hardware and supply chain security. Alex has deep implementation experience in a long list of security domains, from hardware to application security to IAM. He co-authored the ISACA CSX Professional certification and spent a lot of time climbing mountains.*
+
 
 <!--
 <a name=""></a>
