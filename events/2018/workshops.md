@@ -66,6 +66,8 @@ What you won't learn:
 
 Because of its potential for finding software errors quickly, smart fuzzing has become increasingly prevalent in software development and testing in order to secure the programs, libraries, and operating systems that we rely upon. This lab provides a guided introduction to smart-fuzzing using AFL with exercises that will walk you through how to use the tool to identify and correct some of the most common and devastating software errors.
 
+Participants should bring a laptop that is configured to run Docker locally or have access to cloud infrastructure that can run containers. Directions for doing this are [here](https://thefengs.com/wuchang/courses/cs492/afl).
+
 *Wu-chang Feng Bio: Professor, Dept. of Computer Science, Portland State University*
 
 <!--
