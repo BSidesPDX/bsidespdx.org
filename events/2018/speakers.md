@@ -58,7 +58,7 @@ You have a set budget for people and blinky boxen and an unlimited set of infose
 *Jeff is the Director of the Enterprise Information Security team at Mozilla, responsible for risk management, incident response, threat management, intrusion detection, red team exercises and the web bug bounty program. 
 Speaker at 3 DEF CONs, a bunch of B-sides and an RSA (but he didn't mean it), he enjoys focusing on bringing diversity to infosec and finding new, collaborative ways of solving our now ancient infosec problems.*
 
-<a name="tneely"></a>
+<a name="ktneely"></a>
 ## Survival of the fittest: password edition!  Implementing the new NIST guidance into your password policy
 ### Kevin Neely ([@ktneely](https://twitter.com/ktneely))
 Historically, corporate and service password policies are all the same: some combination of characters, length, and 90 days before it expires.  What if your security team took a different approach?  By testing the passwords with cracking tools and using the results to create a strength metric, you can allow employees to keep their strong password if they landed upon a strong, difficult-to-crack password, only forcing the weak to expire.
