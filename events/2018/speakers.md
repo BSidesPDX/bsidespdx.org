@@ -182,9 +182,9 @@ I'll outline the program that we set up, share our experience, and show how it's
 *Just some guy, you know?*
 
 <a name="malcolm"></a>
-## Incomplete views: incident response in a data-poor environment
+## Incomplete Views: Network Incident Response in a Data-Poor Environment
 ### Malcolm Heath
-Quite often, when doing incident response, we find that we either don't have, or can't get, adequate information to determine what the actual situation is.  While it would be great if we lived in a world where we had all the information all the time, the fact of the matter is that we often need to take action based on an incomplete picture.  This talk will focus on what sorts of data and data collection systems you might want to have, how to analyze the data you do have, and how to use some innovative techniques to mine data you already collect for interesting, and actionable, items.
+Quite often, when doing network incident response, we find that we either don't have, or can't get, adequate information to determine what the actual situation is.  While it would be great if we lived in a world where we had all the information all the time, the fact of the matter is that we often need to take action based on an incomplete picture.  This talk will focus on what sorts of network data and data collection systems you might want to have, how to analyze the data you do have, and how to use some innovative techniques to mine data you already collect for interesting, and actionable, items.
 
 *I'm a security engineer with a company that makes networking and security products. I do incident response, PSIRT, and some research.*
 
