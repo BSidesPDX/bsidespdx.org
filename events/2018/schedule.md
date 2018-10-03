@@ -86,7 +86,7 @@ The following schedule is *tentative*. Schedule subject to change. Check schedul
 
 <TR>
   <TD>1:00</TD>
-  <TD ROWSPAN="2"><a href="speakers.html#briancontos"><b>Brian Contos</b></a> - Grandmothers, Gangsters, Guerrillas and Governments</TD>
+  <TD ROWSPAN="2"><a href="speakers.html#tedcorbeilljr"><b>Ted Corbeill</b></a> - Grandmothers, Gangsters, Guerrillas and Governments</TD>
   <TD ROWSPAN="2"><a href="speakers.html#tobinshields"><b>Tobin Shields </b></a> - State of Cyber Education</TD>
 </TR>
 
@@ -97,7 +97,7 @@ The following schedule is *tentative*. Schedule subject to change. Check schedul
 <TR>
   <TD>2:00</TD>
   <TD ROWSPAN="2"><a href="speakers.html#eaglesparadise"><b>Sudheendra S Bhat</b></a> - Rastrea2r: Collecting & Hunting for IOCs with Gusto and Style</TD>
-  <TD ROWSPAN="2"><a href="speakers.html#nash12"><b>nash</b></a> - Security Education 101</TD>
+  <TD ROWSPAN="2"><a href="speakers.html#nash12"><b>nash and Chris Bushick</b></a> - Security Education 101</TD>
 </TR>
 
 <TR>
@@ -219,7 +219,7 @@ Friday Evening: <a href="contests-events.html#Friday">TBD</a>
 
 <TR>
   <TD>2:00</TD>
-  <TD ROWSPAN="2"><a href="speakers.html#syncsrc"><b>Matt King</b></a> - Securing Bare Metal Hardware at Scale</TD>
+  <TD ROWSPAN="2"><a href="speakers.html#syncsrc"><b>Matt King and Paul McMillan</b></a> - Securing Bare Metal Hardware at Scale</TD>
   <TD ROWSPAN="2"><a href="speakers.html#malcolm"><b>Malcolm Heath</b></a> - Incomplete views: incident response in a data-poor environment</TD>
 </TR>
 

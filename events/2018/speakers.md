@@ -145,13 +145,12 @@ This year's DefCon DC503 badge was not a badge at all but a bangle with Bluetoot
 
 *Nisha is the badge designer for the DC503 badge for DefCon26: https://github.com/pdxbadgers/2018-banglet. She also maintains an open source project: https://github.com/vmware/tern*
 
-<a name="briancontos"></a>
+<a name="tedcorbeilljr"></a>
 ## Grandmothers, Gangsters, Guerrillas and Governments
-### Brian Contos ([BrianContos](https://twitter.com/BrianContos))
+### Ted Corbeill ([@TedCorbeillJr](https://twitter.com/TedCorbeillJr))
 This presentation will explore threat actors including insiders, cybercriminals, hacktivists and nation-states. We will dissect how these actors operate and analyze their techniques to better understand what makes each group successful. This presentation will translate the “who, how and why” of cyberattacks. We will identify multiple “old school” and modern-day threat vectors and organize attacks by motives like financial and political. Each threat actor type will be explored in detail with real-life use cases and personal accountants based on my work in security in over 50 countries and 6 continents for the last 20 years. 
 
-*Brian Contos is the CISO & VP Technology Innovation at Verodin. He is a seasoned executive with over two decades of experience in the security industry, board advisor, entrepreneur and author. After getting his start in security with the Defense Information Systems Agency (DISA) and later Bell Labs, he began the process of building security startups and taking multiple companies through successful IPOs and acquisitions including:  Riptech, ArcSight, Imperva, McAfee and Solera Networks. Brian has worked in over 50 countries across six continents. He has authored several security books, his latest with the former Deputy Director of the NSA, spoken at leading security events globally, and frequently appears in the news. He was recently featured in a cyberwar documentary alongside General Michael Hayden (former Director NSA and CIA).*
-
+*Ted Corbeill is the Senior Manager, Sales Enablement Programs at Verodin.  He is a retired Marine Corps Intelligence Officer who is adapting military best practices to improve cybersecurity effectiveness.  Additionally, he is leveraging his military experience to build and lead innovative sales enablement programs to drive revenue growth through data-driven insights, business innovation, and collaboration. Prior to joining Verodin, Ted built sales enablement programs for DXC Technology and Hewlett Packard Enterprise.*
 
 <a name="vac4n7"></a>
 ## Oh! 365: Avoid an “Oh \*\*\*\*” moment in Office 365
@@ -241,12 +240,14 @@ The modern IT landscape is filled with secrets: certificates, cryptocurrency wal
 *Mark B. Cooper, president and founder of PKI Solutions, has been known as “The PKI Guy” since his early days at Microsoft. Mark has deep knowledge and experience in all things Public Key Infrastructure (PKI), including Microsoft Active Directory Certificate Services (ADCS), PKI design and implementation, Internet of Things (IoT), mobile security, and encryption. PKI Solutions provides consulting, training, professional services, and assessments to help ensure the security of organizations now and in the future. Prior to founding PKI Solutions, Cooper was a senior engineer at Microsoft, where he was a PKI and identity management subject matter expert who designed, implemented, and supported Active Directory Certificate Services (ADCS) environments for Microsoft’s largest customers.*
 
 <a name="nash12"></a>
+<a name="pdxprivacy"></a>
 ## Security Education 101
-### nash ([@nash12](https://twitter.com/nash12))
+### nash ([@nash12](https://twitter.com/nash12)) and Chris Bushick ([@PDXPrivacy](https://twitter.com/PDXPrivacy))
 The need for robust personal digital security is growing every day. Individuals, grassroots groups, and civil society organizations are voicing a need for accessible security education. Whether you're new to computer security concepts or you're new to teaching, there's an important role you can play in addressing this need. Using EFF's Security Education Companion, this workshop will explore how you can support the development of new skills and assembling superhero teams within your community.
 
 *As EFF's Grassroots Advocacy Organizer, nash works directly with community members and organizations to take advantage of the full range of tools provided by access to tech, while engaging in empowering action toward the maintenance of digital privacy and information security.*
 
+*Chris Bushick is an organizer for Portland's Techno-Activism 3rd Mondays (TA3M), which brings together technologists and activists to share information related to privacy, security, anti-censorship, anti-surveillance, and open source software and hardware.  Chris is also the founder of PDX Privacy, a group working towards transparency in the acquisition and use of surveillance systems in the Portland Metro area.*
 <!--
 <a name=""></a>
 ## Title
