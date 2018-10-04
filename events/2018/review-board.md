@@ -85,7 +85,7 @@ for the local OWASP chapter.
   <td style="vertical-align:top">
   <img src="/images/2018/review-board/marion.jpg" alt="Marion Marschalek" height="1500" width="1500"/></td>
   <td style="vertical-align:top">
-  <p><strong>Marion Marschalek</strong> is a former Malware Analyst and x86 Reverse Engineer who changed tactics and now works at Intel in order to look at neat challenges above and below x86. She has spoken at all the conferences and such, and seen all the things, and if you want more details on her current activities you'll have to < redacted >. Also, she runs a free reverse engineering bootcamp for women, to make our community a happier place for everyone..
+  <p><strong>Marion Marschalek (<a href="https://twitter.com/pinkflawd" target="_blank">@pinkflawd</a>)</strong> is a former Malware Analyst and x86 Reverse Engineer who changed tactics and now works at Intel in order to look at neat challenges above and below x86. She has spoken at all the conferences and such, and seen all the things, and if you want more details on her current activities you'll have to < redacted >. Also, she runs a free reverse engineering bootcamp for women, to make our community a happier place for everyone..
   </p></td>
 </tr>
 
