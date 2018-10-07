@@ -225,7 +225,7 @@ Friday Evening: <a href="contests-events.html#Friday">TBD</a>
 
 <TR>
   <TD>2:30</TD>
-  <TD ROWSPAN="5"><a href="workshops.html#Network%20Fuzzing"><b>Joshua Pereyda</b></a> - Custom Network Protocol Fuzzing</TD>
+  <TD ROWSPAN="5"><a href="workshops.html#Network%20Fuzzing"><b>Joshua Pereyda and Tim Clemans</b></a> - Custom Network Protocol Fuzzing</TD>
 </TR>
 
 <TR>
