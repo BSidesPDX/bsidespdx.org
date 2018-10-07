@@ -193,7 +193,6 @@ Friday Evening: <a href="contests-events.html#Friday">TBD</a>
   <TD>11:30</TD>
   <TD ROWSPAN="1"><a href="speakers.html#ktneely"><b>Kevin Neely</b></a> - Survival of the fittest: password edition!  Implementing the new NIST guidance into your password policy</TD>
   <TD ROWSPAN="1"><a href="speakers.html#rsahita"><b>Ravi Sahita</b></a> - Eliminating an entire class of exploits</TD>
-  <TD MARKDOWN="span">&nbsp;</TD>
 </TR>
 
 <TR>
@@ -214,7 +213,7 @@ Friday Evening: <a href="contests-events.html#Friday">TBD</a>
 
 <TR>
   <TD>1:30</TD>
-  <TD ROWSPAN="6"><a href="workshops.html#Network%20Fuzzing"><b>Joshua Pereyda and Tim Clemans</b></a> - Custom Network Protocol Fuzzing</TD>
+  <TD ROWSPAN="7"><a href="workshops.html#Network%20Fuzzing"><b>Joshua Pereyda and Tim Clemans</b></a> - Custom Network Protocol Fuzzing</TD>
 </TR>
 
 <TR>
