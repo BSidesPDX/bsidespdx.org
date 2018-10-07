@@ -186,7 +186,7 @@ Friday Evening: <a href="contests-events.html#Friday">TBD</a>
   <TD>11:00</TD>
   <TD ROWSPAN="1"><a href="speakers.html#kelleyrobinson"><b>Kelley Robinson</b></a> - Threat Modeling Authentication</TD>
   <TD ROWSPAN="1"><a href="speakers.html#johnlw"><b>John L. Whiteman</b></a> - SAST and the Bad Human Code Project</TD>
-  <TD MARKDOWN="span">&nbsp;</TD>
+  <TD ROWSPAN="5"><a href="workshops.html#AFL"><b>Wu-chang Feng</b></a> - Smart-fuzzing with American Fuzzy Lop (AFL)</TD>
 </TR>
 
 <TR>
@@ -200,7 +200,6 @@ Friday Evening: <a href="contests-events.html#Friday">TBD</a>
   <TD>12:00</TD>
   <TD ROWSPAN="2"><a href="speakers.html#thepkiguy "><b>Mark Cooper</b></a> - The Secret to Secret Management</TD>
   <TD ROWSPAN="2"><a href="speakers.html#alerxes"><b>Alex Ivkin</b></a> - Containers with windows, elevators and backdoors</TD>
-  <TD ROWSPAN="5"><a href="workshops.html#AFL"><b>Wu-chang Feng</b></a> - Smart-fuzzing with American Fuzzy Lop (AFL)</TD>
 </TR>
 
 <TR>
@@ -215,6 +214,7 @@ Friday Evening: <a href="contests-events.html#Friday">TBD</a>
 
 <TR>
   <TD>1:30</TD>
+  <TD ROWSPAN="6"><a href="workshops.html#Network%20Fuzzing"><b>Joshua Pereyda and Tim Clemans</b></a> - Custom Network Protocol Fuzzing</TD>
 </TR>
 
 <TR>
@@ -225,7 +225,6 @@ Friday Evening: <a href="contests-events.html#Friday">TBD</a>
 
 <TR>
   <TD>2:30</TD>
-  <TD ROWSPAN="5"><a href="workshops.html#Network%20Fuzzing"><b>Joshua Pereyda and Tim Clemans</b></a> - Custom Network Protocol Fuzzing</TD>
 </TR>
 
 <TR>
