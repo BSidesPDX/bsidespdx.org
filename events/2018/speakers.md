@@ -4,10 +4,17 @@ title: "2018 Speakers"
 permalink: /events/2018/speakers.html
 ---
 
+<a name="101"></a>
+## Title BSidesPDX 101 Panel - CTF, Contests, and Events, Badges, & more with
+
+### <a href="https://twitter.com/TTimzen">@TTimzen</a>, <a href="https://twitter.com/securelyfitz">@securelyfitz</a>, & <a href="https://twitter.com/r00tkillah">@r00tkillah</a>
+
+BSidesPDX continues to grow in size and quality year over year. This panel serves to tell you some of the "what" of the event and will discuss the thing around your neck, CTF challenge development, Contents and Events, organizational changes, new processes to make BSidesPDX better, 501(c)3 status, and more! Don't miss out on the opportunity to hear from the organizers how things got done!
+
 <a name="mrrtrav"></a>
 ## Learning Security by ATT&CK'ing Yourself
 ### Travis Smith ([@MrTrav](https://twitter.com/mrtrav))
-Back in 2016, I presented on how I taught high school students about security by building, hacking, and then securing an internet controlled robot. This year I changed my tactics and leveraged the MITRE ATT&CK framework as a teaching tool instead.  In this talk I will go over what the ATT&CK framework is and how I used it to teach students about security. The program was so successful that we are now using it to teach security to anyone from junior to senior level practitioners. Even seasoned veterans have something to learn from the collective knowledge found inside this framework. 
+Back in 2016, I presented on how I taught high school students about security by building, hacking, and then securing an internet controlled robot. This year I changed my tactics and leveraged the MITRE ATT&CK framework as a teaching tool instead.  In this talk I will go over what the ATT&CK framework is and how I used it to teach students about security. The program was so successful that we are now using it to teach security to anyone from junior to senior level practitioners. Even seasoned veterans have something to learn from the collective knowledge found inside this framework.
 
 *Travis is a security researcher based here in Portland at Tripwire. He focuses on how defenders can gain an unfair advantage over attackers.*
 
@@ -37,7 +44,7 @@ Rastrea2r (pronounced ""rastreador"" - hunter- in Spanish) is a multi-platform o
 <a name="tobinshields"></a>
 ## State of Cyber Education
 ### Tobin Shields ([@TobinShields](https://twitter.com/TobinShields))
-There is a massive skills gap in the information security field. While many organisations forecast unbelievably high numbers, even the most conservative estimates show that there will be and overwhelming number of positions that go unfilled in the coming years. This "State of Cyber Education" talk will highlight education and workforce development programs that are trying to train the incoming workforce and close that gap. In addition, the talk will end with a call-to-action that will encourage local information security professionals to mentor, engage with, and help train a new generation of students. 
+There is a massive skills gap in the information security field. While many organisations forecast unbelievably high numbers, even the most conservative estimates show that there will be and overwhelming number of positions that go unfilled in the coming years. This "State of Cyber Education" talk will highlight education and workforce development programs that are trying to train the incoming workforce and close that gap. In addition, the talk will end with a call-to-action that will encourage local information security professionals to mentor, engage with, and help train a new generation of students.
 
 *I am a information security instructor at Mt. Hood Community College. I have been teaching security topics for the past four years in the Portland/Gresham area and have worked with both high school and college-level students.*
 
@@ -55,7 +62,7 @@ This talk will introduce practical ideas for designing your authentication syste
 ### Jeff Bryner ([@0x7eff](https://twitter.com/0x7eff))
 You have a set budget for people and blinky boxen and an unlimited set of infosec problems. How can open source help you? Mozilla is working on a new initiative to help curate a set of open source security solutions to common problems. Come here a preview of that work and how you can help!
 
-*Jeff is the Director of the Enterprise Information Security team at Mozilla, responsible for risk management, incident response, threat management, intrusion detection, red team exercises and the web bug bounty program. 
+*Jeff is the Director of the Enterprise Information Security team at Mozilla, responsible for risk management, incident response, threat management, intrusion detection, red team exercises and the web bug bounty program.
 Speaker at 3 DEF CONs, a bunch of B-sides and an RSA (but he didn't mean it), he enjoys focusing on bringing diversity to infosec and finding new, collaborative ways of solving our now ancient infosec problems.*
 
 <a name="ktneely"></a>
@@ -78,7 +85,7 @@ Lastly, I will link to a detailed step-by-step approach along with scripts to an
 <a name="apebit"></a>
 ## Security As Nurturance
 ### Esteban Gutierrez ([@apebit](https://twitter.com/apebit))
-The infosec industry is plagued with language borrowed from the military culture. We see this in many products and tools sold by security vendors, the processes we use to do security work, and the ideas and theories used to advanced and grow the discipline. I describe this as working under a metaphor: “Information Security is Warfare.” Unfortunately, we see infosec programs fail people and organizations time and time again. Systems are either not built or configured safely or don’t get patched, code develops vulnerabilities, people get phished, credentials get compromised, and people lose time, money, and sanity from having to deal with the fallout. I see this as the result of working under the influence of the warfare metaphor which causes people to see things in way that are adversarial, zero-sum, and controlling. 
+The infosec industry is plagued with language borrowed from the military culture. We see this in many products and tools sold by security vendors, the processes we use to do security work, and the ideas and theories used to advanced and grow the discipline. I describe this as working under a metaphor: “Information Security is Warfare.” Unfortunately, we see infosec programs fail people and organizations time and time again. Systems are either not built or configured safely or don’t get patched, code develops vulnerabilities, people get phished, credentials get compromised, and people lose time, money, and sanity from having to deal with the fallout. I see this as the result of working under the influence of the warfare metaphor which causes people to see things in way that are adversarial, zero-sum, and controlling.
 
 This talk describes how a new metaphor, “Security is Nurturance”,  when used as a goal for a security team flips the traditional paradigms of the security industry and influences new outcomes.  When we use this metaphor to inform our approach to how we do security, security goals become less focused on locking access down, building DMZs & firewalls, or rotating passwords (and other adversarial methods) and more focused on processes to help grow the businesses and empower employees with knowledge and accountability.  I will talk about a few solutions developed by security teams that exemplify the metaphor, how this metaphor aligns with values focused on enabling people to do what is valuable to them and a call for change in the information security industry.
 
@@ -99,7 +106,7 @@ Truly defending against these threats requires a different approach - traditiona
 <a name="kfosaaen"></a>
 ## Attacking Azure Environments with PowerShell
 ### Karl Fosaaen ([@kfosaaen](https://twitter.com/kfosaaen))
-For a multitude of reasons, many organizations are moving their operations to the cloud. Along with this, many organizations are introducing old vulnerabilities in new ways. As one of the top cloud providers, Microsoft Azure has had significant adoption and continues to grow in market share. As part of this increase in adoption, there has also been an increase in demand for security testing of Azure environments. Given the blended nature of hosted services, PAAS, and virtual infrastructure, it can be difficult to get a handle on how to properly secure these environments. Reviewing Azure environments can also be time consuming given the lack of automated tools for dumping configuration information. 
+For a multitude of reasons, many organizations are moving their operations to the cloud. Along with this, many organizations are introducing old vulnerabilities in new ways. As one of the top cloud providers, Microsoft Azure has had significant adoption and continues to grow in market share. As part of this increase in adoption, there has also been an increase in demand for security testing of Azure environments. Given the blended nature of hosted services, PAAS, and virtual infrastructure, it can be difficult to get a handle on how to properly secure these environments. Reviewing Azure environments can also be time consuming given the lack of automated tools for dumping configuration information.
 
 MicroBurst is a set of PowerShell tools that helps automate the processes of dumping and reviewing Microsoft Azure configurations. This talk will go over the ways that pen testers and defenders can use MicroBurst to dump out the configuration information for an Azure environment, and identify common configuration issues. Security testers will benefit from the speed of dumping environment credentials for pivoting, listing out publicly available services and files, and enumerating additional targets for phishing and password guessing attacks. As an added bonus, defenders can also use these tools to audit their environment for weak spots.
 
@@ -148,14 +155,14 @@ This year's DefCon DC503 badge was not a badge at all but a bangle with Bluetoot
 <a name="tedcorbeilljr"></a>
 ## Grandmothers, Gangsters, Guerrillas and Governments
 ### Ted Corbeill ([@TedCorbeillJr](https://twitter.com/TedCorbeillJr))
-This presentation will explore threat actors including insiders, cybercriminals, hacktivists and nation-states. We will dissect how these actors operate and analyze their techniques to better understand what makes each group successful. This presentation will translate the “who, how and why” of cyberattacks. We will identify multiple “old school” and modern-day threat vectors and organize attacks by motives like financial and political. Each threat actor type will be explored in detail with real-life use cases and personal accountants based on my work in security in over 50 countries and 6 continents for the last 20 years. 
+This presentation will explore threat actors including insiders, cybercriminals, hacktivists and nation-states. We will dissect how these actors operate and analyze their techniques to better understand what makes each group successful. This presentation will translate the “who, how and why” of cyberattacks. We will identify multiple “old school” and modern-day threat vectors and organize attacks by motives like financial and political. Each threat actor type will be explored in detail with real-life use cases and personal accountants based on my work in security in over 50 countries and 6 continents for the last 20 years.
 
 *Ted Corbeill is the Senior Manager, Sales Enablement Programs at Verodin.  He is a retired Marine Corps Intelligence Officer who is adapting military best practices to improve cybersecurity effectiveness.  Additionally, he is leveraging his military experience to build and lead innovative sales enablement programs to drive revenue growth through data-driven insights, business innovation, and collaboration. Prior to joining Verodin, Ted built sales enablement programs for DXC Technology and Hewlett Packard Enterprise.*
 
 <a name="vac4n7"></a>
 ## Oh! 365: Avoid an “Oh \*\*\*\*” moment in Office 365
 ### Dan Whalen ([@vac4n7](https://twitter.com/vac4n7))
-“You mean I don’t have to host Exchange? Where do I sign up!” These days, it only takes a few clicks to spin up a fully provisioned Office 365 subscription that gives your users access to all of their favorite office productivity apps they ?love? without all of the operational overhead and licensing headaches IT hates. 
+“You mean I don’t have to host Exchange? Where do I sign up!” These days, it only takes a few clicks to spin up a fully provisioned Office 365 subscription that gives your users access to all of their favorite office productivity apps they ?love? without all of the operational overhead and licensing headaches IT hates.
 
 As usual, though, security is often an afterthought. It’s easy to overlook how these services impact your risk profile and it can be confusing to figure out exactly what you should be worried about or how to respond if something does go wrong.
 
@@ -174,7 +181,7 @@ Started in 2002, pastebin.com has become the largest service of its kind in the 
 <a name="shadejinx"></a>
 ## Intern-alyzing Your Defense
 ### shadejinx ([@shadejinx](https://twitter.com/shadejinx))
-Controls testing is just another thing to do on a never-ending list of things to-do. It's not fun or sexy, but needs to be done more than once. 
+Controls testing is just another thing to do on a never-ending list of things to-do. It's not fun or sexy, but needs to be done more than once.
 We sought out a way to 'automate' the process. By building it into an internship, we found a reason to formalize and document the process. Then we were able to offload some tedious repetitive work to someone who would get educational value out of it (and probably escape before the tedium set in)
 I'll outline the program that we set up, share our experience, and show how it's possible to make the process more interactive, educational, and fun.
 
@@ -197,7 +204,7 @@ You've heard about it, you've seen it cited, you may have even printed it, but h
 <a name="bodaceacat"></a>
 ## Misinformation is an infosec problem
 ### Sara Terp ([@bodaceacat](https://twitter.com/bodaceacat))
-Misinformation ("fake news", "information warfare", "narrative warfare" etc) shares a lot of mechanisms and counters with hacking and infosec. Let's look at some of those, and think about things like how misinformation can be part of the infosec toolbag, and where it's likely to go next (TL;DR we can learn a lot from MLsec about how to hack communities of humans). 
+Misinformation ("fake news", "information warfare", "narrative warfare" etc) shares a lot of mechanisms and counters with hacking and infosec. Let's look at some of those, and think about things like how misinformation can be part of the infosec toolbag, and where it's likely to go next (TL;DR we can learn a lot from MLsec about how to hack communities of humans).
 
 *Data scientist, strategist, community builder, works on belief systems, situation awareness, autonomy. This year: misinformation as an infosec problem, high-speed auction algorithms.  Previous: autonomous systems, intelligence analysis, disasters.*
 

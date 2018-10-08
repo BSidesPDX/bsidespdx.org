@@ -59,7 +59,7 @@ The following schedule is *tentative*. Schedule subject to change. Check schedul
 
 <TR>
   <TD>11:00</TD>
-  <TD ROWSPAN="1"><b>BSidesPDX 101</b> - CTF, Contests, and Events, Badges, & more with <a href="https://twitter.com/TTimzen">@TTimzen</a>, <a href="https://twitter.com/securelyfitz">@securelyfitz</a>, & <a href="https://twitter.com/r00tkillah">@r00tkillah</a></TD>
+  <TD ROWSPAN="1"><a href="speakers.html#101"><b>BSidesPDX 101</b></a> - CTF, Contests, and Events, Badges, & more with <a href="https://twitter.com/TTimzen">@TTimzen</a>, <a href="https://twitter.com/securelyfitz">@securelyfitz</a>, & <a href="https://twitter.com/r00tkillah">@r00tkillah</a></TD>
   <TD ROWSPAN="1"><a href="speakers.html#shadejinx"><b>shadejinx</b></a> - Intern-alyzing Your Defense</TD>
   <TD MARKDOWN="span">&nbsp;</TD>
 </TR>
@@ -186,21 +186,19 @@ Friday Evening: <a href="contests-events.html#Friday">TBD</a>
   <TD>11:00</TD>
   <TD ROWSPAN="1"><a href="speakers.html#kelleyrobinson"><b>Kelley Robinson</b></a> - Threat Modeling Authentication</TD>
   <TD ROWSPAN="1"><a href="speakers.html#johnlw"><b>John L. Whiteman</b></a> - SAST and the Bad Human Code Project</TD>
-  <TD MARKDOWN="span">&nbsp;</TD>
+  <TD ROWSPAN="5"><a href="workshops.html#AFL"><b>Wu-chang Feng</b></a> - Smart-fuzzing with American Fuzzy Lop (AFL)</TD>
 </TR>
 
 <TR>
   <TD>11:30</TD>
   <TD ROWSPAN="1"><a href="speakers.html#ktneely"><b>Kevin Neely</b></a> - Survival of the fittest: password edition!  Implementing the new NIST guidance into your password policy</TD>
   <TD ROWSPAN="1"><a href="speakers.html#rsahita"><b>Ravi Sahita</b></a> - Eliminating an entire class of exploits</TD>
-  <TD MARKDOWN="span">&nbsp;</TD>
 </TR>
 
 <TR>
   <TD>12:00</TD>
   <TD ROWSPAN="2"><a href="speakers.html#thepkiguy "><b>Mark Cooper</b></a> - The Secret to Secret Management</TD>
   <TD ROWSPAN="2"><a href="speakers.html#alerxes"><b>Alex Ivkin</b></a> - Containers with windows, elevators and backdoors</TD>
-  <TD ROWSPAN="5"><a href="workshops.html#AFL"><b>Wu-chang Feng</b></a> - Smart-fuzzing with American Fuzzy Lop (AFL)</TD>
 </TR>
 
 <TR>
@@ -215,6 +213,7 @@ Friday Evening: <a href="contests-events.html#Friday">TBD</a>
 
 <TR>
   <TD>1:30</TD>
+  <TD ROWSPAN="7"><a href="workshops.html#Network%20Fuzzing"><b>Joshua Pereyda and Tim Clemans</b></a> - Custom Network Protocol Fuzzing</TD>
 </TR>
 
 <TR>
@@ -225,7 +224,6 @@ Friday Evening: <a href="contests-events.html#Friday">TBD</a>
 
 <TR>
   <TD>2:30</TD>
-  <TD ROWSPAN="5"><a href="workshops.html#Network%20Fuzzing"><b>Joshua Pereyda</b></a> - Custom Network Protocol Fuzzing</TD>
 </TR>
 
 <TR>

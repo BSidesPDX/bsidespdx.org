@@ -43,25 +43,31 @@ Registered attendees need to provide their own systems and either boot off of a 
 
 ## Custom Network Protocol Fuzzing
 
-### Joshua Pereyda 
+### Joshua Pereyda & Tim Clemans
 
 Get hands on experience writing custom network protocol fuzzers. This class will cover the basics of network protocol "smart fuzzing." Exercises will utilize the open source network protocol fuzzing framework, boofuzz. Attendees will gain practice reverse engineering a network protocol, implementing and iterating on a custom fuzzer, and identifying vulnerabilities.
 
 After:
 
-1. You will know the basics of fuzzing. 2. You will know how to write custom network protocol fuzzers using state of the art open source tools. 3. You will have hands on experience with this widely-discussed but still largely mysterious test method.
+ 1. You will know the basics of fuzzing.
+ 2. You will know how to write custom network protocol fuzzers using state of the art open source tools.
+ 3. You will have hands on experience with this widely-discussed but still largely mysterious test method.
 
-Before:
+Before (Prerequisites): You should:
 
-1. You should be comfortable doing some programming in Python. 2. You should understand basic network protocol concepts. 3. You should be familiar with WireShark and how to use it.
+ 1. Be comfortable doing some basic programming in Python.
+ 2. Understand basic network protocol concepts (e.g. what is a protocol and what is a network layer).
+ 3. Be familiar with WireShark and how to use it.
+ 4. Have a laptop with at least 8 GB of RAM.
 
 What you won't learn:
 
-1. Exploit development. 2. Python programming.
+ 1. Exploit development.
+ 2. Python programming. Because you can already do that (see above). ;)
 
 *Joshua is a software engineer specializing in information and network security. He has worked in the critical infrastructure and cloud computing industries with employers heavily invested in software and hardware security. Among his passions are hacking, teaching kids to program, attending orchestral concerts with his wife, and figuring out how he can get paid to do it all... legally.*
 
-*Joshua is the maintainer of the boofuzz network protocol fuzzing framework.*
+*Tim is a software engineer working in information security. He has worked for a startup and data analytics companies. He currently works in critical infrastructure with a focus on security and fuzzing. He cringes at the thought of insecure systems and therefore seeks to improve the security of anyone who will listen. He enjoys a good hike, ice cream, and long walks on the beach.*
 
 <a name="AFL"></a>
 
