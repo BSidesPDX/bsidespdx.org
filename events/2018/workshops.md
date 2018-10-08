@@ -4,6 +4,11 @@ title: "Workshops"
 permalink: /events/2018/workshops.html
 ---
 
+<a href="http://bsidespdx2018workshops.eventzilla.net">Workshop registration</a> will go live at noon on Monday, October 8th. There is a nominal fee to register to make sure that places are held for those who will attend. If you are a student or this fee is a burden, use the discount code "FreeAsInKnowledge" to register for free.
+
+<a href="http://bsidespdx2018workshops.eventzilla.net">http://bsidespdx2018workshops.eventzilla.net</a>
+
+
 <a name="Evil Maid"></a>
 
 ##  Detecting Evil Maid Firmware Attacks 
