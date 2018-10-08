@@ -255,6 +255,9 @@ The need for robust personal digital security is growing every day. Individuals,
 *As EFF's Grassroots Advocacy Organizer, nash works directly with community members and organizations to take advantage of the full range of tools provided by access to tech, while engaging in empowering action toward the maintenance of digital privacy and information security.*
 
 *Chris Bushick is an organizer for Portland's Techno-Activism 3rd Mondays (TA3M), which brings together technologists and activists to share information related to privacy, security, anti-censorship, anti-surveillance, and open source software and hardware.  Chris is also the founder of PDX Privacy, a group working towards transparency in the acquisition and use of surveillance systems in the Portland Metro area.*
+
+
+
 <!--
 <a name=""></a>
 ## Title
