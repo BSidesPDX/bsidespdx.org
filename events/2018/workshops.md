@@ -25,7 +25,7 @@ Firmware is software that controls the hardware; firmware-based malware (bootkit
 
 ## UEFI and CHIPSEC development for Security Researchers
 
-### Erik Bjorge; Maggie Jauregui; Brent Holtsclaw; Aaron Frinzell Bio: We are PAR, Intel's Platform Armoring and Resiliency team at Intel
+### Erik Bjorge; Maggie Jauregui; Brent Holtsclaw; Aaron Frinzell 
 
 Have you ever wanted to learn how to develop interesting firmware platform functionality? We believe in enabling the community to properly implement and use the Unified Extensible Firmware Interface (UEFI) functionality for both feature development and security research. Join our workshop and learn how to implement your very own bootloader. The class is based around the open source implementation of UEFI: TianoCore. We'll go over UEFI development basics, TianoCore development do's and don'ts, and how to implement interesting functionality including System Management Interrupt (SMI) handlers. You'll get hands-on UEFI experience in coding, compiling, and testing platform firmware.
 
@@ -34,6 +34,8 @@ Furthermore, the workshop will also include a CHIPSEC section in which you will 
 Pre-requisites: A basic understanding of UEFI firmware. Pre-work will be sent to registered students prior to the conference.
 
 Registered attendees need to provide their own systems and either boot off of a provided USB image or build their own environment. Equipment requirements and environment setup instructions will be provided via email to students in advance along with the class pre-work.
+
+*We are PAR, Intel's Platform Armoring and Resiliency team at Intel*
 
 *Erik Bjorge is a Firmware Engineer working in the Platform Armoring and Resiliency team at Intel Corporation. Erik has been developing system firmware at Intel since 2000. Erik is also a contributor and one of the maintainers of the [CHIPSEC](https://github.com/chipsec/chipsec) open source project. Erik has also presented at the 2018 UEFI Plugfest and OSFC on firmware security.*
 
