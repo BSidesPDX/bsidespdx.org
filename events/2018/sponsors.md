@@ -53,4 +53,5 @@ Would your company like to sponsor? For less than the admission of a single atte
   <div class="columns small-6"><img src="/images/2018/web-logos/isaca.png" alt="" class="center"/></div>
   <div class="columns small-6"><img src="/images/2018/web-logos/nostarch.png" alt="" class="center"/></div>
   <div class="columns small-6"><img src="/images/2018/web-logos/summit.png" alt="" class="center"/></div>
+  <div class="columns small-6"><img src="/images/2018/web-logos/leviathan.png" alt="" class="center"/></div>
 </div>
