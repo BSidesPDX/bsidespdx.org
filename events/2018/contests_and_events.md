@@ -24,7 +24,7 @@ While this is a game designed to be fun and competitive, it also helps families 
 
 If you want to sign up please do so [here](https://www.tracelabs.org/accounts/register/) and ensure you select BSides Portland 2018 and your desired team name. If you want to learn more visit [tracelabs](https://www.tracelabs.org).
 
-<a name="Quiz Show"></a>
+<a name="Quiz"></a>
 
 ## BSides PDX Quiz Show Abstract: Infosec Quiz Show!
 
