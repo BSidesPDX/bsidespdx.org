@@ -44,7 +44,7 @@ Most people in tech have a thing for bags and backpacks. They tend to clutter ou
 
 If you are able to, come and donate a bag and we will ensure it reaches the right place! Bins will be placed in the event room for easy drop off.
 
-<a name="Pascal"></a>
+<a name="Friday"></a>
 
 ## Friday Evening Party at PASCAL - 1900 - END
 

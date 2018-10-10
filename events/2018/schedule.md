@@ -146,7 +146,7 @@ The following schedule is *tentative*. Schedule subject to change. Check schedul
 </TABLE>
 &nbsp;
 
-Friday Evening: <a href="contests-events.html#Friday">TBD</a>
+Friday Evening: <a href="contests-events.html#Friday">BSidesPDX Friday Evening Party at PASCAL PDX Hackerspace</a>
 
 <p style="page-break-after: always;">&nbsp;</p>
 &nbsp;
