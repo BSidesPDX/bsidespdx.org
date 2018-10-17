@@ -14,7 +14,7 @@ Jessica Payne is a Security Person at Microsoft. She’s held roles as a consult
 <a name="hwimplant"></a>
 ## Hardware Implant Panel
 
-Worried about your BMCs? Want to ask industry leaders on hardware security some questions about what a backdoor is or how it is made?
+Worried about your BMCs? Want to ask industry leaders on hardware security some questions about what a backdoor is or how they are made?
 
 ### [Joe Grand](https://twitter.com/joegrand), [Joe FitzPatrick](https://twitter.com/securelyfitz), [@\_\_MG\_\_](https://twitter.com/_MG_) and [@r00tkillah](https://twitter.com/r00tkillah)
 
