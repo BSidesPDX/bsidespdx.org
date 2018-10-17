@@ -153,7 +153,7 @@ We will explore this new threat, some of the mischief that could be done, and lo
 
 <a name="texnik"></a>
 ## CTF@Work, School, or Anywhere
-### Steve Willoughby ([@TeXnik](https://twitter.com/TeXnik))
+### Steve Willoughby ([@TeXnik_PDX](https://twitter.com/TeXnik_PDX))
 I will recap my adventures as I challenged my co-workers to raise their security awareness and skills through puzzles and tutorials, which gradually grew until I had created an always-on, persistent CTF game site. I will discuss the benefits to an organization to have games like this to teach coding and security skills, as well as the technical design employed to make the system playable outside a single event (flags are dynamic so "just type ZEBRA as the flag name" doesn't become common knowledge between players), and allow other users to donate puzzles as isolated CTF modules without needing to trust the overall security of the site to the contributed code. (We assume one person doesn't have time to write all the challenges full-time, and we encourage players to add to the game.)
 
 *"Steve Willoughby is a Senior Information Security Specialist for a Fortune 50 company. He discovered Version 7 Unix while in high school and, apart from brief forays into VMS in college and failed attempts to hide from other operating systems, he's been spending most waking hours tinkering on UNIX in one form or another, either writing software or administering systems.
