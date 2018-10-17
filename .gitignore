@@ -4,3 +4,7 @@ _site
 bin
 vendor/ruby
 Gemfile.lock
+images/.DS_Store
+images/2018/.DS_Store
+images/2018/web-logos/.DS_Store
+.DS_Store
