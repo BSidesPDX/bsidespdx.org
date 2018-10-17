@@ -48,7 +48,7 @@ The following schedule is *tentative*. Schedule subject to change. Check schedul
 
 <TR>
   <TD MARKDOWN="span">9:45</TD>
-  <TD COLSPAN="2" MARKDOWN="span"><b>Keynote: <a href="speakers.html#">TBA</a></b> - TBA</TD>
+  <TD COLSPAN="2" MARKDOWN="span"><b>Keynote: <a href="https://twitter.com/jepayneMSFT">Jessica Payne</a></b> <a href="speakers.html#FKeynote">Building Security People</a> - TBA</TD>
   <TD MARKDOWN="span">&nbsp;</TD>
 </TR>
 
@@ -173,7 +173,8 @@ Friday Evening: <a href="contests-events.html#Friday">BSidesPDX Friday Evening P
 
 <TR>
   <TD MARKDOWN="span">9:45</TD>
-  <TD COLSPAN="2" MARKDOWN="span"><b>Keynote: <a href="speakers.html#">TBA</a></b></TD>
+  <TD COLSPAN="2" MARKDOWN="span"><b><a href="speakers.html#hwimplant">Hardware Implant Panel</a></b> with [Joe Grand](https://twitter.com/joegrand), [Joe FitzPatrick](https://twitter.com/securelyfitz), [@\_\_MG\_\_](https://twitter.com/_MG_) and [@r00tkillah](https://twitter.com/r00tkillah)
+  </TD>
   <TD MARKDOWN="span">&nbsp;</TD>
 </TR>
 

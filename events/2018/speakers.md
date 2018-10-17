@@ -4,6 +4,22 @@ title: "2018 Speakers"
 permalink: /events/2018/speakers.html
 ---
 
+<a name="FKeynote"></a>
+## Building Security People
+
+### Jessica Payne <a href="https://twitter.com/jepayneMSFT">@jepayneMSFT</a>
+
+Jessica Payne is a Security Person at Microsoft. She’s held roles as a consultant doing Incident Response and proactive security engagements and as a Security Assurance Program Manager for the Windows and Devices Group. Currently she works on the Threat Intelligence team of Windows Defender Research. She has a Twitter account @jepayneMSFT and a blog at [https://aka.ms/jessica](https://aka.ms/jessica)
+
+<a name="hwimplant"></a>
+## Hardware Implant Panel
+
+Worried about your BMCs? Want to ask industry leaders on hardware security some questions about what a backdoor is or how it is made?
+
+### Planel
+
+[Joe Grand](https://twitter.com/joegrand), [Joe FitzPatrick](https://twitter.com/securelyfitz), [@\_\_MG\_\_](https://twitter.com/_MG_) and [@r00tkillah](https://twitter.com/r00tkillah)
+
 <a name="101"></a>
 ## Title BSidesPDX 101 Panel - CTF, Contests, and Events, Badges, & more with
 
