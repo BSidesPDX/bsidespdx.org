@@ -48,7 +48,7 @@ The following schedule is *tentative*. Schedule subject to change. Check schedul
 
 <TR>
   <TD MARKDOWN="span">9:45</TD>
-  <TD COLSPAN="2" MARKDOWN="span"><b>Keynote: <a href="https://twitter.com/jepayneMSFT">Jessica Payne</a></b> <a href="speakers.html#FKeynote">Building Security People</a></TD>
+  <TD COLSPAN="2" MARKDOWN="span"><b>Keynote: <a href="speakers.html#FKeynote">Building Security People</a></b> - <a href="https://twitter.com/jepayneMSFT">Jessica Payne</a></TD>
   <TD MARKDOWN="span">&nbsp;</TD>
 </TR>
 

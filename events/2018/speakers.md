@@ -7,7 +7,7 @@ permalink: /events/2018/speakers.html
 <a name="FKeynote"></a>
 ## Building Security People
 
-### Jessica Payne <a href="https://twitter.com/jepayneMSFT">@jepayneMSFT</a>
+### Jessica Payne <a href="https://twitter.com/jepayneMSFT">(@jepayneMSFT)</a>
 
 Jessica Payne is a Security Person at Microsoft. She’s held roles as a consultant doing Incident Response and proactive security engagements and as a Security Assurance Program Manager for the Windows and Devices Group. Currently she works on the Threat Intelligence team of Windows Defender Research. She has a Twitter account @jepayneMSFT and a blog at [https://aka.ms/jessica](https://aka.ms/jessica)
 
