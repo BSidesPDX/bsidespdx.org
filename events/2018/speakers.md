@@ -19,7 +19,7 @@ Worried about your BMCs? Want to ask industry leaders on hardware security some 
 ### [Joe Grand](https://twitter.com/joegrand), [Joe FitzPatrick](https://twitter.com/securelyfitz), [@\_\_MG\_\_](https://twitter.com/_MG_) and [@r00tkillah](https://twitter.com/r00tkillah)
 
 <a name="101"></a>
-## Title BSidesPDX 101 Panel - CTF, Contests, and Events, Badges, & more with
+## BSidesPDX 101 Panel - CTF, Contests, and Events, Badges, & more with
 
 ### <a href="https://twitter.com/TTimzen">@TTimzen</a>, <a href="https://twitter.com/securelyfitz">@securelyfitz</a>, & <a href="https://twitter.com/r00tkillah">@r00tkillah</a>
 
