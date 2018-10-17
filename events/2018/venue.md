@@ -13,7 +13,7 @@ permalink: /events/2018/venue.html
 Friday and Saturday, October 26-27:</b></font></div>
 <div style="font-size:13.3333330154419px"><font size="4"><b><br />
 </b></font></div>
-<div style="font-size:13.3333330154419px"><font size="4"><b><img border="0" height="77" src="http://www.bsidespdx.org/_/rsrc/1468037555455/archive/2015/venue2015/oregon%20convention%20center.png?height=77&amp;width=400" width="400" /></b></font></div>
+<div style="font-size:13.3333330154419px"><font size="4"><b><img border="0" height="144" src="/images/2018/web-logos/occlogo.png" width="300" /></b></font></div>
 <div style="font-size:13.3333330154419px"><font size="4"><b><br />
 </b></font></div>
 <div style="font-size:13.3333330154419px"><font size="4"><b>Oregon Convention Center (Lobby F) </b></font><b style="font-size:large;line-height:1.5;background-color:transparent">777 NE Martin Luther King Jr Blvd</b></div>
