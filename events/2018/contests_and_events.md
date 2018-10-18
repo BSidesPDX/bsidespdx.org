@@ -5,6 +5,7 @@ permalink: /events/2018/contests-events.html
 ---
 
 <a name="BSidesPDX CTF"></a>
+
 ## BSidesPDX CTF
 
 Capture the Flag (CTF) is a computer security competition where competitors hack on binaries, web services or challenges to uncover secret flags which earn you points. Join us at BSidesPDX and compete in a CTF that take competitors through a series of web & binary exploitation, shellcoding and reverse engineering challenges! Unlike CTFs at other conferences ours is not meant to be intimidating and there are some challenges that any attendee should be able to solve! Come and learn some new skills or freshen up on some of the basics, which are easily forgotten. Like last years, everything will be open sourced after the event at [https://github.com/BSidesPDX](https://github.com/BSidesPDX)
@@ -12,6 +13,7 @@ Capture the Flag (CTF) is a computer security competition where competitors hack
 The scoreboard for the CTF is located at [bsidespdxctf.party](https://bsidespdxctf.party).
 
 <a name="OSINT For Missing Persons"></a>
+
 ## OSINT CTF for Missing Persons
 
 BSides Portland has teamed up with Trace Labs to offer a secondary CTF for this year.
@@ -44,9 +46,19 @@ Most people in tech have a thing for bags and backpacks. They tend to clutter ou
 
 If you are able to, come and donate a bag and we will ensure it reaches the right place! Bins will be placed in the event room for easy drop off.
 
+<a name="Sponsors"></a>
+
+## Saturday Invite-Only Sponsor Lunch - 12:30 PM to 2 PM - Room e148 - For Invited Guests Only
+
+This year we are pleased to announce our invite-only lunch for sponsors is taking place on Saturday, October 27th in room e148.
+
+Platinum and Diamond sponsors are awarded 1-2 seats are this exclusive catered event. Gold sponsors are awarded 1 seat.
+
+A note to sponsors: Please reach out to sponsorship@bsidespdx.org if you have not already to indicate who from your organization will be partaking in this lunch.
+
 <a name="Friday"></a>
 
-## Friday Evening Party at PASCAL - 1900 - END
+## Friday Evening Party at PASCAL - 7 PM - END
 
 <a href="https://www.pascalpdx.org" target="_blank">PASCAL</a> is hosting the Friday night after-party for BSidesPDX on October 26th! Doors open at 7 pm. Located at the new location within Audiocinema: 226 SE Madison St.
 
@@ -73,6 +85,7 @@ Beginner to Intermediate level. Bring your gear and hack wifi. Wifi networks wil
 
 <!--
 <a name=""></a>
+
 ## Title
 Abstract
 

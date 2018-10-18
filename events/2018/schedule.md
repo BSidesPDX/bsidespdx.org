@@ -257,5 +257,7 @@ Friday Evening: <a href="contests-events.html#Friday">BSidesPDX Friday Evening P
 </TABLE>
 &nbsp;
 
+Saturday Lunch: <a href="contests-events.html#Sponsors">Saturday Invite-Only Sponsor Lunch</a> - 12:30 PM to 2 PM - Room e148 - For Invited Guests Only
+
 Saturday Evening: <a href="contests-events.html#Saturday">BSidesPDX Afterparty at Ctrl-H PDX Hackerspace</a>
 
