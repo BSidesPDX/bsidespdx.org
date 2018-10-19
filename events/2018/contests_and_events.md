@@ -92,7 +92,7 @@ Beginner to Intermediate level. Bring your gear and hack wifi. Wifi networks wil
 <a name="Saturday"></a>
 ### [Saturday: BSidesPDX Afterparty at Ctrl-H PDX Hackerspace](http://pdxhackerspace.org/)
 
-Mingle and relax after two busy days! After closing down and packing up at the convention center, we'll be enjoying drinks and light refreshments. Come and join us between 7 and 11 PM
+Mingle and relax after two busy days! After closing down and packing up at the convention center, we'll be enjoying drinks and light refreshments. Come and join us between 7 and 11 PM at 7600 N Interstate Avenue.
 
 
 <!--
