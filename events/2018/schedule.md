@@ -32,7 +32,7 @@ The following schedule is *tentative*. Schedule subject to change. Check schedul
 <TR>
   <TH></TH>
   <TH>Talk Track A</TH>
-  <TH>Talk Track 1</TH>
+  <TH>Talk Track B</TH>
   <TH>Workshop Track</TH>
 </TR>
 
@@ -157,7 +157,7 @@ Friday Evening: <a href="contests-events.html#Friday">BSidesPDX Friday Evening P
 <TR>
   <TH></TH>
   <TH>Talk Track A</TH>
-  <TH>Talk Track 1</TH>
+  <TH>Talk Track B</TH>
   <TH>Workshop Track</TH>
 </TR>
 
