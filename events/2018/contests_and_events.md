@@ -56,9 +56,17 @@ Platinum and Diamond sponsors are awarded 1-2 seats are this exclusive catered e
 
 A note to sponsors: Please reach out to sponsorship@bsidespdx.org if you have not already to indicate who from your organization will be partaking in this lunch.
 
-<a name="Friday"></a>
 
-## Friday Evening Party at PASCAL - 7 PM - END
+
+## Evening Activities
+
+<a name="Thursday"></a>
+### [Thursday: CTRLH Open House](https://www.meetup.com/CTRL-H/events/jkktgpyxnbhc/)
+
+Thursday evening, CTRL-H Hackerspace holds its weekly open house at 7600 N Interstate Avenue.
+
+<a name="Friday"></a>
+### Friday Evening Party at PASCAL - 7 PM - END
 
 <a href="https://www.pascalpdx.org" target="_blank">PASCAL</a> is hosting the Friday night after-party for BSidesPDX on October 26th! Doors open at 7 pm. Located at the new location within Audiocinema: 226 SE Madison St.
 
@@ -81,6 +89,10 @@ Wear a construction hat, wear a name tag, wear a jumpsuit representing a company
 Participate in a Friday the 13th themed CTF.
 Beginner to Intermediate level. Bring your gear and hack wifi. Wifi networks will be broadcasting named after Cabins from the famous horror series. Deauth and capture your way through Camp Crystal Lake, but beware of that pesky JSON...
 
+<a name="Saturday"></a>
+### [Saturday: BSidesPDX Afterparty at Ctrl-H PDX Hackerspace](http://pdxhackerspace.org/)
+
+Mingle and relax after two busy days! After closing down and packing up at the convention center, we'll be enjoying drinks and light refreshments. Come and join us between 7 and 11 PM
 
 
 <!--
