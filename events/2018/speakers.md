@@ -5,18 +5,18 @@ permalink: /events/2018/speakers.html
 ---
 
 <a name="FKeynote"></a>
-## Building Security People
-
-### Jessica Payne <a href="https://twitter.com/jepayneMSFT">(@jepayneMSFT)</a>
+## Keynote: Jessica Payne <a href="https://twitter.com/jepayneMSFT">(@jepayneMSFT)</a> on Building Security People
 
 Jessica Payne is a Security Person at Microsoft. She’s held roles as a consultant doing Incident Response and proactive security engagements and as a Security Assurance Program Manager for the Windows and Devices Group. Currently she works on the Threat Intelligence team of Windows Defender Research. She has a Twitter account @jepayneMSFT and a blog at [https://aka.ms/jessica](https://aka.ms/jessica)
 
 <a name="hwimplant"></a>
 ## Hardware Implant Panel
 
-Worried about your BMCs? Want to ask industry leaders on hardware security some questions about what a backdoor is or how they are made?
+Based on the interesting news in the past few weeks, we rounded up the top technical experts with experience designing, detecting, and building hardware imlpants to discuss both what's technically **possible** as well as what's realistically **probable** with implants.
 
-### [Joe Grand](https://twitter.com/joegrand), [Joe FitzPatrick](https://twitter.com/securelyfitz), [@\_\_MG\_\_](https://twitter.com/_MG_),  [@r00tkillah](https://twitter.com/r00tkillah), [Mickey Shkatov](https://twitter.com/HackingThings) and [Jason Meltzer](https://twitter.com/_jmeltzer)
+In addition, we're honored to have veteran infosec and national security journalist and author Kim Zetter<a href="https://twitter.com/KimZetter">(@KimZetter)<a> moderate this panel.
+
+### [Kim Zetter](https://twitter.com/KimZetter), [Joe Grand](https://twitter.com/joegrand), [Joe FitzPatrick](https://twitter.com/securelyfitz), [@\_\_MG\_\_](https://twitter.com/_MG_),  [@r00tkillah](https://twitter.com/r00tkillah), [Mickey Shkatov](https://twitter.com/HackingThings) and [Jason Meltzer](https://twitter.com/_jmeltzer)
 
 <a name="101"></a>
 ## BSidesPDX 101 Panel - CTF, Contests, and Events, Badges, & more with
