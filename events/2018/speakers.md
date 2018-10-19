@@ -14,7 +14,7 @@ Jessica Payne is a Security Person at Microsoft. She’s held roles as a consult
 
 Based on the interesting news in the past few weeks, we rounded up the top technical experts with experience designing, detecting, and building hardware imlpants to discuss both what's technically **possible** as well as what's realistically **probable** with implants.
 
-In addition, we're honored to have veteran infosec and national security journalist and author Kim Zetter<a href="https://twitter.com/KimZetter">(@KimZetter)<a> moderate this panel.
+In addition, we're honored to have veteran infosec and national security journalist and author Kim Zetter<a href="https://twitter.com/KimZetter">(@KimZetter)</a> moderate this panel.
 
 ### [Kim Zetter](https://twitter.com/KimZetter), [Joe Grand](https://twitter.com/joegrand), [Joe FitzPatrick](https://twitter.com/securelyfitz), [@\_\_MG\_\_](https://twitter.com/_MG_),  [@r00tkillah](https://twitter.com/r00tkillah), [Mickey Shkatov](https://twitter.com/HackingThings) and [Jason Meltzer](https://twitter.com/_jmeltzer)
 
