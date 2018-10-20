@@ -21,7 +21,7 @@ In addition, we're honored to have veteran infosec and national security journal
 <a name="101"></a>
 ## BSidesPDX 101 Panel - CTF, Contests, and Events, Badges, & more with
 
-### <a href="https://twitter.com/TTimzen">@TTimzen</a>, <a href="https://twitter.com/securelyfitz">@securelyfitz</a>, & <a href="https://twitter.com/r00tkillah">@r00tkillah</a>
+### <a href="https://twitter.com/TTimzen">@TTimzen</a>, <a href="https://twitter.com/securelyfitz">@securelyfitz</a>, <a href="https://twitter.com/r00tkillah">@r00tkillah</a> & <a href="https://twitter.com/office_deskjet">@office_deskjet</a>
 
 BSidesPDX continues to grow in size and quality year over year. This panel serves to tell you some of the "what" of the event and will discuss the thing around your neck, CTF challenge development, Contents and Events, organizational changes, new processes to make BSidesPDX better, 501(c)3 status, and more! Don't miss out on the opportunity to hear from the organizers how things got done!
 
