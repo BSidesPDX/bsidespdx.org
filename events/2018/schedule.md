@@ -59,7 +59,7 @@ The following schedule is *tentative*. Schedule subject to change. Check schedul
 
 <TR>
   <TD>11:00</TD>
-  <TD ROWSPAN="1"><a href="speakers.html#101"><b>BSidesPDX 101</b></a> - CTF, Contests, and Events, Badges, & more with <a href="https://twitter.com/TTimzen">@TTimzen</a>, <a href="https://twitter.com/securelyfitz">@securelyfitz</a>, & <a href="https://twitter.com/r00tkillah">@r00tkillah</a></TD>
+  <TD ROWSPAN="1"><a href="speakers.html#101"><b>BSidesPDX 101</b></a> - CTF, Contests, and Events, Badges, & more with <a href="https://twitter.com/TTimzen">@TTimzen</a>, <a href="https://twitter.com/securelyfitz">@securelyfitz</a>, <a href="https://twitter.com/r00tkillah">@r00tkillah</a>, & <a href="https://twitter.com/office_deskjet">@office_deskjet</a></TD>
   <TD ROWSPAN="1"><a href="speakers.html#shadejinx"><b>shadejinx</b></a> - Intern-alyzing Your Defense</TD>
   <TD MARKDOWN="span">&nbsp;</TD>
 </TR>
