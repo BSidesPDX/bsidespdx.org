@@ -26,6 +26,8 @@ While this is a game designed to be fun and competitive, it also helps families 
 
 If you want to sign up please do so [here](https://www.tracelabs.org/accounts/register/) and ensure you select BSides Portland 2018 and your desired team name. If you want to learn more visit [tracelabs](https://www.tracelabs.org).
 
+**This event will run from 10 AM to 4 PM on Saturday, October 27th!**
+
 <a name="Quiz"></a>
 
 ## BSides PDX Quiz Show Abstract: Infosec Quiz Show!
@@ -55,8 +57,6 @@ This year we are pleased to announce our invite-only lunch for sponsors is takin
 Platinum and Diamond sponsors are awarded 1-2 seats are this exclusive catered event. Gold sponsors are awarded 1 seat.
 
 A note to sponsors: Please reach out to sponsorship@bsidespdx.org if you have not already to indicate who from your organization will be partaking in this lunch.
-
-
 
 ## Evening Activities
 
