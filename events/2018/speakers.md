@@ -216,7 +216,7 @@ You've heard about it, you've seen it cited, you may have even printed it, but h
 *Walter Abeson is currently a Systems Engineer with RSA NetWitness, focusing on digital forensics, incident response, and threat hunting. Walter thrives at detecting anomalous behavior in endpoint and network environments. Prior to joining RSA, Walter was the Technology Manager for Black Hat, responsible for the NOC and overall security posture. Walter continues to serve as staff for the Black Hat NOC and is also a goon at DEF CON. When not behind a computer, Walter enjoys photography, reading, and spending time outdoors. Follow Walter on Twitter @thesaltr.*
 
 <a name="kojenov"></a>
-## Reverse engineering CISSP practice exams for fun and profit
+## Reverse engineering CISSP practice exams (no cheating!)
 ### Alexei Kojenov ([@kojenov](https://twitter.com/kojenov))
 If you read this catchy title and thought “Finally, somebody is going to teach me how to easily pass the dreaded CISSP exam!”, you’d be disappointed. This talk is not about cheating a professional exam (who would ever do that?) As a matter of fact, this talk is not much about CISSP at all. Instead, we’ll be talking about reverse engineering a Java program and reusing its code to extract the valuable data, or in other words, using a few hacking techniques against an imperfect application to improve user experience, get the most out of the application, and ultimately, save one’s precious time.
 I will demonstrate in real time how to crack open an executable, decompile the underlying Java code, understand its behavior, and reuse the existing classes to make them do exactly what you want. While this is not rocket science, you should come to this talk having some basic Java programming knowledge, or at least being able to read and understand Java code.
@@ -263,7 +263,10 @@ The need for robust personal digital security is growing every day. Individuals,
 
 *Chris Bushick is an organizer for Portland's Techno-Activism 3rd Mondays (TA3M), which brings together technologists and activists to share information related to privacy, security, anti-censorship, anti-surveillance, and open source software and hardware.  Chris is also the founder of PDX Privacy, a group working towards transparency in the acquisition and use of surveillance systems in the Portland Metro area.*
 
+<a name="lightning"></a>
+## Lightning Talks Hosted by <a href="https://twitter.com/TTimzen">@TTimzen</a>
 
+BSidesPDX will be hosting lightning talks this year! Come find TTimzen at the conference, during the BSidesPDX 101 panel or in the CTF room to sign up! We will be doing 5 minute talks for everyone who signs up!
 
 <!--
 <a name=""></a>

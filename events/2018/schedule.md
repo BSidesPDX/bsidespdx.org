@@ -117,7 +117,7 @@ The following schedule is *tentative*. Schedule subject to change. Check schedul
 
 <TR>
   <TD>4:00</TD>
-  <TD ROWSPAN="2"><a href="speakers.html"><b>TBA</b></a>TBA</TD>
+  <TD ROWSPAN="2"><a href="speakers.html#lightning"><b>Lightning Talks hosted by</b> <a href="https://twitter.com/TTimzen">@TTimzen</a></a></TD>
   <TD ROWSPAN="2"><a href="speakers.html#nahamsec"><b>Ben Sadeghipour</b></a> - It's the little things</TD>
 </TR>
 
@@ -167,12 +167,12 @@ Friday Evening: <a href="contests-events.html#Friday">BSidesPDX Friday Evening P
 </TR>
 
 <TR>
-  <TD>9:30</TD>
+  <TD>9:25</TD>
   <TD COLSPAN="3">Welcoming Remarks</TD>
 </TR>
 
 <TR>
-  <TD MARKDOWN="span">9:45</TD>
+  <TD MARKDOWN="span">9:30</TD>
   <TD COLSPAN="2" MARKDOWN="span"><b><a href="speakers.html#hwimplant">Hardware Implant Panel</a></b> with [Kim Zetter](https://twitter.com/kimzetter), [Joe Grand](https://twitter.com/joegrand), [Joe FitzPatrick](https://twitter.com/securelyfitz), [@\_\_MG\_\_](https://twitter.com/_MG_), [@r00tkillah](https://twitter.com/r00tkillah), [Mickey Shkatov](https://twitter.com/HackingThings) and [Jason Meltzer](https://twitter.com/_jmeltzer)
   </TD>
   <TD MARKDOWN="span">&nbsp;</TD>
