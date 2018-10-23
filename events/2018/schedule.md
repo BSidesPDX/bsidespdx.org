@@ -117,7 +117,7 @@ The following schedule is *tentative*. Schedule subject to change. Check schedul
 
 <TR>
   <TD>4:00</TD>
-  <TD ROWSPAN="2"><a href="speakers.html#bodaceacat"><b>Sara Terp</b></a> - Misinformation is an infosec problem</TD>
+  <TD ROWSPAN="2"><a href="speakers.html"><b>TBA</b></a>TBA</TD>
   <TD ROWSPAN="2"><a href="speakers.html#nahamsec"><b>Ben Sadeghipour</b></a> - It's the little things</TD>
 </TR>
 
