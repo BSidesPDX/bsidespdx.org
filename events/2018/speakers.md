@@ -215,13 +215,6 @@ You've heard about it, you've seen it cited, you may have even printed it, but h
 
 *Walter Abeson is currently a Systems Engineer with RSA NetWitness, focusing on digital forensics, incident response, and threat hunting. Walter thrives at detecting anomalous behavior in endpoint and network environments. Prior to joining RSA, Walter was the Technology Manager for Black Hat, responsible for the NOC and overall security posture. Walter continues to serve as staff for the Black Hat NOC and is also a goon at DEF CON. When not behind a computer, Walter enjoys photography, reading, and spending time outdoors. Follow Walter on Twitter @thesaltr.*
 
-<a name="bodaceacat"></a>
-## Misinformation is an infosec problem
-### Sara Terp ([@bodaceacat](https://twitter.com/bodaceacat))
-Misinformation ("fake news", "information warfare", "narrative warfare" etc) shares a lot of mechanisms and counters with hacking and infosec. Let's look at some of those, and think about things like how misinformation can be part of the infosec toolbag, and where it's likely to go next (TL;DR we can learn a lot from MLsec about how to hack communities of humans).
-
-*Data scientist, strategist, community builder, works on belief systems, situation awareness, autonomy. This year: misinformation as an infosec problem, high-speed auction algorithms.  Previous: autonomous systems, intelligence analysis, disasters.*
-
 <a name="kojenov"></a>
 ## Reverse engineering CISSP practice exams for fun and profit
 ### Alexei Kojenov ([@kojenov](https://twitter.com/kojenov))
