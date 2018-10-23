@@ -80,7 +80,7 @@ The following schedule is *tentative*. Schedule subject to change. Check schedul
 
 <TR>
   <TD>12:30</TD>
-  <TD ROWSPAN="1"><a href="speakers.html#kojenov"><b>Alexei Kojenov</b></a> - Reverse engineering CISSP practice exams for fun and profit</TD>
+  <TD ROWSPAN="1"><a href="speakers.html#kojenov"><b>Alexei Kojenov</b></a> - Reverse engineering CISSP practice exams (no cheating!)</TD>
   <TD ROWSPAN="1"><a href="speakers.html#mrrtrav"><b>Travis Smith</b></a> - Learning Security by ATT&CK'ing Yourself</TD>
 </TR>
 
