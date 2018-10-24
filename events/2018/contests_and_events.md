@@ -63,7 +63,7 @@ A note to sponsors: Please reach out to sponsorship@bsidespdx.org if you have no
 <a name="Thursday"></a>
 ### [Thursday: CTRLH Open House](https://www.meetup.com/CTRL-H/events/jkktgpyxnbhc/)
 
-Thursday evening, CTRL-H Hackerspace holds its weekly open house at 7600 N Interstate Avenue.
+Thursday evening, CTRL-H Hackerspace holds its weekly open house at 7608 N Interstate Avenue.
 
 <a name="Friday"></a>
 ### Friday Evening Party at PASCAL - 7 PM - END
@@ -92,7 +92,7 @@ Beginner to Intermediate level. Bring your gear and hack wifi. Wifi networks wil
 <a name="Saturday"></a>
 ### [Saturday: BSidesPDX Afterparty at Ctrl-H PDX Hackerspace](http://pdxhackerspace.org/)
 
-Mingle and relax after two busy days! After closing down and packing up at the convention center, we'll be enjoying drinks and light refreshments. Come and join us between 7 and 11 PM at 7600 N Interstate Avenue.
+Mingle and relax after two busy days! After closing down and packing up at the convention center, we'll be enjoying drinks and light refreshments. Come and join us between 7 and 11 PM at 7608 N Interstate Avenue.
 
 
 <!--
