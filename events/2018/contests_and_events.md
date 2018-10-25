@@ -18,7 +18,7 @@ The scoreboard for the CTF is located at [bsidespdxctf.party](https://bsidespdxc
 
 >**This competition starts after registration begins on, October 26th!**
 
-Hey, do you like reddit? Do you have mad karma harvesting skills? Sign up for Karmageddon at http://karmageddon.net/, and test your karma skills against other BSidesPDX attendees!
+Hey, do you like reddit? Do you have mad karma harvesting skills? Sign up for Karmageddon at [http://karmageddon.net](http://karmageddon.net), and test your karma skills against other BSidesPDX attendees!
 
 
 <a name="OSINT For Missing Persons"></a>
