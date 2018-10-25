@@ -12,9 +12,20 @@ Capture the Flag (CTF) is a computer security competition where competitors hack
 
 The scoreboard for the CTF is located at [bsidespdxctf.party](https://bsidespdxctf.party).
 
+<a name="Karmageddon"></a>
+
+## Karmageddon
+
+>**This competition starts after registration begins on, October 26th!**
+
+Hey, do you like reddit? Do you have mad karma harvesting skills? Sign up for Karmageddon at http://karmageddon.net/, and test your karma skills against other BSidesPDX attendees!
+
+
 <a name="OSINT For Missing Persons"></a>
 
 ## OSINT CTF for Missing Persons
+
+>**This competition will run from 10 AM to 4 PM on Saturday, October 27th!**
 
 BSides Portland has teamed up with Trace Labs to offer a secondary CTF for this year.
 
@@ -25,8 +36,6 @@ This new, non-theoretical CTF allows contestants to collect flags on real missin
 While this is a game designed to be fun and competitive, it also helps families with missing loved ones. The information we collect is submitted to law enforcement to help aid them in their search.
 
 If you want to sign up please do so [here](https://www.tracelabs.org/accounts/register/) and ensure you select BSides Portland 2018 and your desired team name. If you want to learn more visit [tracelabs](https://www.tracelabs.org).
-
-**This event will run from 10 AM to 4 PM on Saturday, October 27th!**
 
 <a name="Quiz"></a>
 
@@ -50,7 +59,9 @@ If you are able to, come and donate a bag and we will ensure it reaches the righ
 
 <a name="Sponsors"></a>
 
-## Saturday Invite-Only Sponsor Lunch - 12:30 PM to 2 PM - Room e148 - For Invited Guests Only
+## Saturday Invite-Only Sponsor Lunch 
+
+>**This lunch happens at 12:30 PM - 2 PM in Room e148 - For Invited Guests Only on Saturday, October 27th!**
 
 This year we are pleased to announce our invite-only lunch for sponsors is taking place on Saturday, October 27th in room e148.
 
@@ -61,12 +72,12 @@ A note to sponsors: Please reach out to sponsorship@bsidespdx.org if you have no
 ## Evening Activities
 
 <a name="Thursday"></a>
-### [Thursday: CTRLH Open House](https://www.meetup.com/CTRL-H/events/jkktgpyxnbhc/)
+### [Thursday: CTRL-H Open House](https://www.meetup.com/CTRL-H/events/jkktgpyxnbhc/)
 
 Thursday evening, CTRL-H Hackerspace holds its weekly open house at 7608 N Interstate Avenue.
 
 <a name="Friday"></a>
-### Friday Evening Party at PASCAL - 7 PM - END
+### [Friday Evening Party at PASCAL - 7 PM - END](https://www.pascalpdx.org/post/bsidespdx2018/)
 
 <a href="https://www.pascalpdx.org" target="_blank">PASCAL</a> is hosting the Friday night after-party for BSidesPDX on October 26th! Doors open at 7 pm. Located at the new location within Audiocinema: 226 SE Madison St.
 
@@ -78,13 +89,13 @@ Beer and non alcoholic refreshments will be provided on the house by <a href="ht
 
 Also, these things:
 
-**Social Engineering Costume Theme**
+>**Social Engineering Costume Theme**
 
 *(Not required but come dressed ready to SE your way in and you could win a prize...)*
 
 Wear a construction hat, wear a name tag, wear a jumpsuit representing a company you have never belonged to! Those that can SE their way into the CTF room have a chance at a prize well worth your time.
 
-**Wireless CTF**
+>**Wireless CTF**
 
 Participate in a Friday the 13th themed CTF.
 Beginner to Intermediate level. Bring your gear and hack wifi. Wifi networks will be broadcasting named after Cabins from the famous horror series. Deauth and capture your way through Camp Crystal Lake, but beware of that pesky JSON...
