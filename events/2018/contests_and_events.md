@@ -14,7 +14,7 @@ Capture the Flag (CTF) is a computer security competition where competitors hack
 <a name="Karmageddon"></a>
 ## Karmageddon
 
->**This competition starts after registration begins on, October 26th!**
+*This competition starts after registration begins on, October 26th!*
 
 Hey, do you like reddit? Do you have mad karma harvesting skills? Sign up for Karmageddon at [http://karmageddon.net](http://karmageddon.net), and test your karma skills against other BSidesPDX attendees!
 
