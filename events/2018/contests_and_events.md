@@ -11,18 +11,12 @@ permalink: /events/2018/contests-events.html
 
 Capture the Flag (CTF) is a computer security competition where competitors hack on binaries, web services or challenges to uncover secret flags which earn you points. Join us at BSidesPDX and compete in a CTF that take competitors through a series of web & binary exploitation, shellcoding and reverse engineering challenges! Unlike CTFs at other conferences ours is not meant to be intimidating and there are some challenges that any attendee should be able to solve! Come and learn some new skills or freshen up on some of the basics, which are easily forgotten. Like last years, everything will be open sourced after the event at [https://github.com/BSidesPDX](https://github.com/BSidesPDX)
 
-
-
 <a name="Karmageddon"></a>
 ## Karmageddon
 
-<<<<<<< HEAD
-*This competition starts after registration begins on, October 26th*
-=======
 >**This competition starts after registration begins on, October 26th!**
 
 Hey, do you like reddit? Do you have mad karma harvesting skills? Sign up for Karmageddon at [http://karmageddon.net](http://karmageddon.net), and test your karma skills against other BSidesPDX attendees!
->>>>>>> 180f4e3d3eafad417e02d94aec4e0528c0d491f9
 
 Hey, do you like Reddit? Do you have mad karma harvesting skills? Sign up for Karmageddon at http://karmageddon.net/, and test your karma skills against other BSidesPDX attendees!
 
