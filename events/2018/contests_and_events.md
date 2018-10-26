@@ -18,8 +18,6 @@ Capture the Flag (CTF) is a computer security competition where competitors hack
 
 Hey, do you like reddit? Do you have mad karma harvesting skills? Sign up for Karmageddon at [http://karmageddon.net](http://karmageddon.net), and test your karma skills against other BSidesPDX attendees!
 
-Hey, do you like Reddit? Do you have mad karma harvesting skills? Sign up for Karmageddon at http://karmageddon.net/, and test your karma skills against other BSidesPDX attendees!
-
 <a name="OSINT For Missing Persons"></a>
 ## OSINT CTF for Missing Persons
 
