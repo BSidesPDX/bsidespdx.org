@@ -10,8 +10,6 @@
       subhref: "/about/code-of-conduct.html"
     - subtitle: "Contact"
       subhref: "/about/contact.html"
-    - subtitle: "News"
-      subhref: "/news/"
     - subtitle: "Past Events"
       subhref: "/about/past-events.html"
 
