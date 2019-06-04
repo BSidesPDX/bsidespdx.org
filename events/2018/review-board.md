@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "BSidesPDX CFP Review Board"
-permalink: /2018/review-board.html
+permalink: /events/2018/review-board.html
 ---
 
 As BSidesPDX has evolved over the years into a larger event, the process of curating the content has evolved as well. In an effort to recognize that the goal of BSidesPDX is to support the local information security community, we've recruited a set of local experts to help with the selection process.
