@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Venue"
-permalink: /events/2018/venue.html
+permalink: /events/2019/venue.html
 ---
 
 <table>
@@ -16,7 +16,8 @@ Friday and Saturday, October 26-27:</b></font></div>
 <div style="font-size:13.3333330154419px"><font size="4"><b><img border="0" height="144" src="/images/2018/web-logos/occlogo.png" width="300" /></b></font></div>
 <div style="font-size:13.3333330154419px"><font size="4"><b><br />
 </b></font></div>
-<div style="font-size:13.3333330154419px"><font size="4"><b>Oregon Convention Center (Lobby D) </b></font><b style="font-size:large;line-height:1.5;background-color:transparent">777 NE Martin Luther King Jr Blvd</b></div>
+<div style="font-size:13.3333330154419px"><font size="4"><b>Oregon Convention Center (Lobby D) </b></font></div>
+<div style="font-size:large;line-height:1.5;background-color:transparent"><b>777 NE Martin Luther King Jr Blvd</b></div>
 <div style="font-size:13.3333330154419px"><font size="4"><b>Portland, OR 97232</b></font></div>
 <div style="font-size:13.3333330154419px"><br />
 </div>
