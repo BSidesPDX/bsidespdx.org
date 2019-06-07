@@ -51,4 +51,12 @@ We are still in the process of recruiting a CFP review board for BSides PDX 2019
   </p></td>
 </tr>
 
+<tr>
+  <td style="vertical-align:top">
+  <img src="/images/2019/review-board/feng.jpg" alt="Wu-chang Feng" height="1500" width="1500"/></td>
+  <td style="vertical-align:top">
+  <p><strong> Wu-chang Feng </strong> is a professor of Computer Science at Portland State University where he works on building capture-the-flag games and codelabs for teaching students a range of topics including web application exploitation, cloud security, blockchain vulnerabilities, reverse engineering, fuzzing, and symbolic execution.  He also participates in security education outreach via high-school camps and internships such as CyberPDX and Saturday Academy.
+  </p></td>
+</tr>
+
 </table>
