@@ -36,6 +36,8 @@
       subhref: "/events/2019/contests-events.html"
     - subtitle: "Venue"
       subhref: "/events/2019/venue.html"
+    - subtitle: "Volunteer"
+      subhref: "/events/2019/volunteer.html"
     - subtitle: "Workshops"
       subhref: "/events/2019/workshops.html"
     - subtitle: "Review Board"
