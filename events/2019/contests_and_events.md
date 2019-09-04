@@ -35,7 +35,7 @@ As seen at Defcon, Derbycon, Circle City Con, and others, Whose Slide Is It Anyw
 
 dade
 
-*bio* Prolific 💩 poster.
+*Prolific 💩 poster.*
 
 <!--
 <a name=""></a>
