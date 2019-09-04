@@ -14,7 +14,7 @@ The OWASP (Open Web Application Security Project) Top 10 is a powerful awareness
 <a name=""></a>
 ## Introduction to Binary Exploitation
 ### Aaron Esau ([@arinerron](https://twitter.com/arinerron)), Aaron Jobé ([@dirtyc0wsay](https://twitter.com/dirtyc0wsay))
-Ever wondered how vulnerabilities like BlueKeep and Eternal Blue work, or are you just interested in learning about the binary exploitation Capture The Flag (CTF) category? This workshop will walk students through exploiting their first buffer overflow vulnerabilities. It will teach them how to develop their own exploits and obtain RCE by redirecting the flow of code execution to shellcode or libraries with or without ASLR enabled. Students are should have some experience with Python and Linux and are expected to bring a laptop with VirtualBox and an SSH client installed (a VM will be provided).
+Ever wondered how vulnerabilities like BlueKeep and Eternal Blue work, or are you just interested in learning about the binary exploitation Capture The Flag (CTF) category? This workshop will walk students through exploiting their first buffer overflow vulnerabilities. It will teach them how to develop their own exploits and obtain RCE by redirecting the flow of code execution to shellcode or libraries with or without ASLR enabled. Students should have some experience with Python and Linux and are expected to bring a laptop with VirtualBox and an SSH client installed (a VM will be provided).
 
 *"Aaron Esau (@arinerron) is a 17 year old security researcher, CTF player, bug hunter, intern at Summit Security Group, a software developer, and a full-time high school student. Although most of his experience relating to security is with web and binary exploitation, he is interested in many aspects of security and privacy.*
 
@@ -36,7 +36,7 @@ We will discuss basic topics, open-source and commercial tools, build an investi
 
 Attendees should have a basic understanding of network (ports, protocols, etc) and endpoint (logs, files, windows registry, file system) fundamentals to get the most out of the workshop.
 
-*William Peteroy is the Chef Technology Officer for Security at Gigamon where he leads security strategy and innovation efforts. William is also the founder and CEO of ICEBRG (acquired by Gigamon in 2018) and has previously held a number of business and technology leadership positions at Microsoft and in the US Department of Defense.*
+*William Peteroy is the Chief Technology Officer for Security at Gigamon where he leads security strategy and innovation efforts. William is also the founder and CEO of ICEBRG (acquired by Gigamon in 2018) and has previously held a number of business and technology leadership positions at Microsoft and in the US Department of Defense.*
 
 <!--
 <a name=""></a>
