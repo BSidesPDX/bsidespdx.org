@@ -16,7 +16,7 @@ Amber Case studies the interaction between humans and computers and how our rela
 
 A TED speaker and author, Case enjoys meeting and interacting with interesting audiences all over the world. Her speeches range from the future of technology and humanity to telecom, location-based applications and anthropology. Case is currently a fellow at Harvard University’s Berkman Klein Center for Internet and Society and a visiting researcher at the MIT Center for Civic Media. She is the author of Calm Technology, Design for the Next Generation of Devices. and, she’s been featured among Fast Company’s Most Influential Women in Technology.
 
-Case lives in Somerville, Massachusetts and Portland, Oregon. She was previously the co-founder and former CEO of Geoloqi, a location-based software company acquired by Esri in 2012. You can follow her on Twitter @caseorganic and learn more at caseorganic.com.
+Case lives in Somerville, Massachusetts and Portland, Oregon. She was previously the co-founder and former CEO of Geoloqi, a location-based software company acquired by Esri in 2012. You can follow her on Twitter [@caseorganic](https://twitter.com/caseorganic) and learn more at [caseorganic.com](https://www.caseorganic.com). 
 
 <a name="Jarrod Overson"></a>
 ## How did 8 million developers download an exploit with no one noticing?
