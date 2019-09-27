@@ -4,15 +4,13 @@ title: "2019 Speakers"
 permalink: /events/2019/speakers.html
 ---
 
-<a name=""></a>
-## Friday Keynote 
-### TBA
+<a name="eva"></a>
+## Friday Keynote: Eva Galperin
 
-TBA
+Eva Galperin is EFF's Director of Cybersecurity. Prior to 2007, when she came to work for EFF, Eva worked in security and IT in Silicon Valley and earned degrees in Political Science and International Relations from SFSU. Her work is primarily focused on providing privacy and security for vulnerable populations around the world. To that end, she has applied the combination of her political science and technical background to everything from organizing EFF's Tor Relay Challenge, to writing privacy and security training materials (including Surveillance Self Defense and the Digital First Aid Kit), and publishing research on malware in Syria, Vietnam, Kazakhstan. When she is not collecting new and exotic malware, she practices aerial circus arts and learning new languages.
 
-<a name=""></a>
-## Saturday Keynote 
-### TBA
+<a name="amber"></a>
+## Saturday Keynote: TBA 
 
 TBA
 
