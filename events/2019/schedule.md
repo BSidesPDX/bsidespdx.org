@@ -58,7 +58,7 @@ The following schedule is *tentative*. Schedule subject to change. Check schedul
 
 <TR>
   <TD>11:00</TD>
-  <TD ROWSPAN="2"><a href="speakers.html#101"><b>BSidesPDX 101</b></a> - CTF, Contests, and Events, Badges, & more with <a href="https://twitter.com/TTimzen">@TTimzen</a>, <a href="https://twitter.com/securelyfitz">@securelyfitz</a>, <a href="https://twitter.com/r00tkillah">@r00tkillah</a></TD>
+  <TD ROWSPAN="2"><a href="speakers.html#101"><b>BSidesPDX 101</b></a> - CTF, Contests, and Events, Badges, & more with <a href="https://twitter.com/TTimzen">@TTimzen</a>, <a href="https://twitter.com/securelyfitz">@securelyfitz</a>, <a href="https://twitter.com/r00tkillah">@r00tkillah</a>, <a href="https://twitter.com/_m46s">@_m46s</a>, <a href="https://twitter.com/aagallag">@aagallag</a></TD>
   <TD ROWSPAN="2"><a href="speakers.html#How did 8 million developers download an exploit with no one noticing?"><b>Jarrod Overson</b></a> - How did 8 million developers download an exploit with no one noticing?</TD>  
   <TD ROWSPAN="4"><a href="workshops.html#How to Rock Your BSides Presentation!"><b>Olivia Stella</b></a> - How to Rock Your BSides Presentation!</TD>
   <TD ROWSPAN="4"><a href="workshops.html#Investigation Basics Crash Course"><b>William Peteroy & Alex Sirr</b></a> - Investigation Basics Crash Course</TD>
