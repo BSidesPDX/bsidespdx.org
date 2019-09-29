@@ -83,11 +83,16 @@ The following schedule is *tentative*. Schedule subject to change. Check schedul
 
 <TR>
   <TD>1:00</TD>
-  <TD ROWSPAN="1"><a href="speakers.html#Reversing Corruption in Seagate HDD Translators, the Naked Trill Data Recovery Project"><b>Allison Marie Naaktgeboren & MrDe4d</b></a> - Reversing Corruption in Seagate HDD Translators, the Naked Trill Data Recovery Project</TD>  
-  <TD ROWSPAN="1"><a href="speakers.html#How Not to be Seen: Creating Non-Speculative Side-Channel Resistant Code"><b>Matt Wood</b></a>  - How Not to be Seen: Creating Non-Speculative Side-Channel Resistant Code</TD>  
-  <TD ROWSPAN="3"><a href="workshops.html#Practical Threat Modelling"><b>Amiran Alavidze</b></a> - Practical Threat Modelling</TD>
-  <TD ROWSPAN="3"><a href="workshops.html#Minimalist triage of malcode using CyberChef"><b>Mark Baenziger</b></a> - Minimalist triage of malcode using CyberChef</TD>
+  <TD ROWSPAN="2"><a href="speakers.html#Reversing Corruption in Seagate HDD Translators, the Naked Trill Data Recovery Project"><b>Allison Marie Naaktgeboren & MrDe4d</b></a> - Reversing Corruption in Seagate HDD Translators, the Naked Trill Data Recovery Project</TD>  
+  <TD ROWSPAN="2"><a href="speakers.html#How Not to be Seen: Creating Non-Speculative Side-Channel Resistant Code"><b>Matt Wood</b></a>  - How Not to be Seen: Creating Non-Speculative Side-Channel Resistant Code</TD>  
+  <TD ROWSPAN="4"><a href="workshops.html#Practical Threat Modelling"><b>Amiran Alavidze</b></a> - Practical Threat Modelling</TD>
+  <TD ROWSPAN="4"><a href="workshops.html#Minimalist triage of malcode using CyberChef"><b>Mark Baenziger</b></a> - Minimalist triage of malcode using CyberChef</TD>
 </TR>
+
+<TR>
+  <TD>1:30</TD>
+</TR>
+
 
 <TR>
   <TD>2:00</TD>
@@ -191,12 +196,15 @@ The following schedule is *tentative*. Schedule subject to change. Check schedul
 
 <TR>
   <TD>11:00</TD>
-  <TD ROWSPAN="1"><a href="speakers.html#Attacking Serverless Architectures"><b>Malcolm Heath</b></a> - Attacking Serverless Architectures</TD>  
-  <TD ROWSPAN="1"><a href="speakers.html#How to Hack OAuth"><b>Aaron Parecki</b></a> - How to Hack OAuth</TD>  
-  <TD ROWSPAN="3"><a href="workshops.html#Introduction to Binary Exploitation"><b>Aaron Esau & Aaron Jobé</b></a> - Introduction to Binary Exploitation</TD>
-  <TD ROWSPAN="3"><a href="workshops.html#Open Season: Building a Threat Hunting Program with Open Source Tools"><b>Travis Smith & Ken Westin</b></a> - Open Season: Building a Threat Hunting Program with Open Source Tools</TD>
+  <TD ROWSPAN="2"><a href="speakers.html#Attacking Serverless Architectures"><b>Malcolm Heath</b></a> - Attacking Serverless Architectures</TD>  
+  <TD ROWSPAN="2"><a href="speakers.html#How to Hack OAuth"><b>Aaron Parecki</b></a> - How to Hack OAuth</TD>  
+  <TD ROWSPAN="4"><a href="workshops.html#Introduction to Binary Exploitation"><b>Aaron Esau & Aaron Jobé</b></a> - Introduction to Binary Exploitation</TD>
+  <TD ROWSPAN="4"><a href="workshops.html#Open Season: Building a Threat Hunting Program with Open Source Tools"><b>Travis Smith & Ken Westin</b></a> - Open Season: Building a Threat Hunting Program with Open Source Tools</TD>
 </TR>
 
+<TR>
+  <TD>11:30</TD>
+</TR>
 
 <TR>
   <TD>12:00</TD>
@@ -212,23 +220,31 @@ The following schedule is *tentative*. Schedule subject to change. Check schedul
 
 <TR>
   <TD>1:00</TD>
-   <TD ROWSPAN="1"><a href="speakers.html#Building an intelligence team, it’s not what you think"><b>Randy_Waterhouse</b></a>  - Building an intelligence team, it’s not what you think. </TD>  
-   <TD ROWSPAN="1"><a href="speakers.html#Owning the Cloud through SSRF"><b>Ben Sadeghipour</b></a>  - Owning the Cloud through SSRF</TD>  
-   <TD ROWSPAN="2"><a href="workshops.html#Custom Network Protocol Fuzzing"><b>Joshua Pereyda</b></a> - Custom Network Protocol Fuzzing</TD>
+   <TD ROWSPAN="2"><a href="speakers.html#Building an intelligence team, it’s not what you think"><b>Randy_Waterhouse</b></a>  - Building an intelligence team, it’s not what you think. </TD>  
+   <TD ROWSPAN="2"><a href="speakers.html#Owning the Cloud through SSRF"><b>Ben Sadeghipour</b></a>  - Owning the Cloud through SSRF</TD>  
+   <TD ROWSPAN="4"><a href="workshops.html#Custom Network Protocol Fuzzing"><b>Joshua Pereyda</b></a> - Custom Network Protocol Fuzzing</TD>
    <TD ROWSPAN="10">&nbsp;</TD>
 </TR>
 
 <TR>
+  <TD>1:30</TD>
+</TR>
+
+<TR>
   <TD>2:00</TD>
-   <TD ROWSPAN="1"><a href="speakers.html#Creepy Digital Forensics"><b>Marcus Richerson</b></a> - Creepy Digital Forensics</TD>  
-   <TD ROWSPAN="1"><a href="speakers.html#SNAPTRAP: The Computer Is Lying: Open-source Deception Platform for Windows"><b>Dave Greer</b></a> - SNAPTRAP: The Computer Is Lying: Open-source Deception Platform for Windows</TD>  
+   <TD ROWSPAN="2"><a href="speakers.html#Creepy Digital Forensics"><b>Marcus Richerson</b></a> - Creepy Digital Forensics</TD>  
+   <TD ROWSPAN="2"><a href="speakers.html#SNAPTRAP: The Computer Is Lying: Open-source Deception Platform for Windows"><b>Dave Greer</b></a> - SNAPTRAP: The Computer Is Lying: Open-source Deception Platform for Windows</TD>  
+</TR>
+
+<TR>
+  <TD>2:30</TD>
 </TR>
 
 <TR>
   <TD>3:00</TD>
   <TD ROWSPAN="1"><a href="speakers.html#Modern Websites require Modern Vulnerabilities"><b>Franklin Harding</b></a> - Modern Websites require Modern Vulnerabilities</TD>
   <TD ROWSPAN="1"><a href="speakers.html#TBA"><b>TBA</b></a> - TBA</TD>    
-  <TD ROWSPAN="3"><a href="workshops.html#OWASP Top Ten Lab Featuring OWASP Juice Shop"><b>David Quisenberry</b></a> - OWASP Top Ten Lab Featuring OWASP Juice Shop</TD>
+  <TD ROWSPAN="4"><a href="workshops.html#OWASP Top Ten Lab Featuring OWASP Juice Shop"><b>David Quisenberry</b></a> - OWASP Top Ten Lab Featuring OWASP Juice Shop</TD>
 </TR>
 
 <TR>
@@ -239,8 +255,12 @@ The following schedule is *tentative*. Schedule subject to change. Check schedul
 
 <TR>
   <TD>4:00</TD>
-  <TD ROWSPAN="1"><a href="speakers.html#Blarney and Brigandry - Physical Breach War Stories & Operations "><b>Robert Moore</b></a> - Blarney and Brigandry - Physical Breach War Stories & Operations </TD>  
-  <TD ROWSPAN="1">Lightning Talks Hosted by Dean Pierce - Find Dean to Sign-Up!</TD>  
+  <TD ROWSPAN="2"><a href="speakers.html#Blarney and Brigandry - Physical Breach War Stories & Operations "><b>Robert Moore</b></a> - Blarney and Brigandry - Physical Breach War Stories & Operations </TD>  
+  <TD ROWSPAN="2">Lightning Talks Hosted by Dean Pierce - Find Dean to Sign-Up!</TD>  
+</TR>
+
+<TR>
+  <TD>4:30</TD>
 </TR>
 
 <TR>
