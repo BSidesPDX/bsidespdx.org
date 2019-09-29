@@ -37,6 +37,14 @@ dade
 
 *Prolific 💩 poster.*
 
+<a name="Sticker Swap"></a>
+
+## Sticker Swap!
+Bring some of your sticker collection or stickers of your own making. We'll have a table to leave-a-sticker-take-a-sticker to expand your collection!
+
+### Hosted by 
+Joe
+
 <!--
 <a name=""></a>
 
