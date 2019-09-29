@@ -228,7 +228,7 @@ The following schedule is *tentative*. Schedule subject to change. Check schedul
   <TD>3:00</TD>
   <TD ROWSPAN="1"><a href="speakers.html#Modern Websites require Modern Vulnerabilities"><b>Franklin Harding</b></a> - Modern Websites require Modern Vulnerabilities</TD>
   <TD ROWSPAN="1"><a href="speakers.html#TBA"><b>TBA</b></a> - TBA</TD>    
-  <TD ROWSPAN="2"><a href="workshops.html#OWASP Top Ten Lab Featuring OWASP Juice Shop"><b>David Quisenberry</b></a> - OWASP Top Ten Lab Featuring OWASP Juice Shop</TD>
+  <TD ROWSPAN="3"><a href="workshops.html#OWASP Top Ten Lab Featuring OWASP Juice Shop"><b>David Quisenberry</b></a> - OWASP Top Ten Lab Featuring OWASP Juice Shop</TD>
 </TR>
 
 <TR>
@@ -241,7 +241,6 @@ The following schedule is *tentative*. Schedule subject to change. Check schedul
   <TD>4:00</TD>
   <TD ROWSPAN="1"><a href="speakers.html#Blarney and Brigandry - Physical Breach War Stories & Operations "><b>Robert Moore</b></a> - Blarney and Brigandry - Physical Breach War Stories & Operations </TD>  
   <TD ROWSPAN="1">Lightning Talks Hosted by Dean Pierce - Find Dean to Sign-Up!</TD>  
-  <TD>&nbsp;</TD>
 </TR>
 
 <TR>
