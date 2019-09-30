@@ -31,4 +31,4 @@ OCC provides two Mamava nursing suites. These private and secure suites are loca
 
 Note: All Mamava suites come with a Bluetooth SmartLock that syncs with Mamava’s mobile app. Download the app at https://mamava.com/mobile-app.
 
-You may also request a door code for entry from our receptionists in the Administration Office on Level 2 and by calling 503-235-7575.
+You may also request a door code for entry from the receptionists in the OCC Administration Office on Level 2 and by calling 503-235-7575.
