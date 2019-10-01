@@ -6,8 +6,6 @@ permalink: /events/2019/review-board.html
 
 As BSidesPDX has evolved over the years into a larger event, the process of curating the content has evolved as well. In an effort to recognize that the goal of BSidesPDX is to support the local information security community, we've recruited a set of local experts to help with the selection process.
 
-We are still in the process of recruiting a CFP review board for BSides PDX 2019. Stay tuned!
-
 <TABLE height="100%" width="100%" align="center" cellpadding="5" border="1">
 
 
