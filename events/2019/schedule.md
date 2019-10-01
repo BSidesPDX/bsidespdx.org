@@ -209,13 +209,14 @@ The following schedule is *tentative*. Schedule subject to change. Check schedul
 <TR>
   <TD>12:00</TD>
    <TD ROWSPAN="1"><a href="speakers.html#XXE for Dummies"><b>Brian Myers</b></a>  - XXE for Dummies</TD>  
-   <TD ROWSPAN="1"><a href="speakers.html#Improving Anonymous Networking"><b>Kevin Froman</b></a>  - Improving Anonymous Networking</TD>  
+   <TD ROWSPAN="1"><a href="speakers.html#Performance Hacks for SOC Training"><b>Will Peteroy and Alex Sirr </b></a> - Performance Hacks for SOC Training</TD>    
 </TR>
 
 <TR>
   <TD>12:30</TD>
     <TD ROWSPAN="1"><a href="speakers.html#Literature Circles: Novel Ways to Learn about Cybersecurity"><b>Veronica Hotton & Ellie Harmon</b></a>  - Literature Circles: Novel Ways to Learn about Cybersecurity</TD>  
-   <TD ROWSPAN="1"><a href="speakers.html#A Game Theoretic Analysis of Tor's Resilience to Entry-Exit and End-to-End Attacks"><b>Krisztian Gado</b></a> - A Game Theoretic Analysis of Tor's Resilience to Entry-Exit and End-to-End Attacks</TD> 
+     <TD ROWSPAN="1"><a href="speakers.html#Argghh, yer kubernetes be now a shark bait!"><b>Alex Ivkin</b></a> - Argghh, yer kubernetes be now a shark bait!</TD>  
+
 </TR>
 
 <TR>
@@ -242,15 +243,15 @@ The following schedule is *tentative*. Schedule subject to change. Check schedul
 
 <TR>
   <TD>3:00</TD>
-  <TD ROWSPAN="1"><a href="speakers.html#Modern Websites require Modern Vulnerabilities"><b>Franklin Harding</b></a> - Modern Websites require Modern Vulnerabilities</TD>
-  <TD ROWSPAN="1"><a href="speakers.html#TBA"><b>TBA</b></a> - TBA</TD>    
+     <TD ROWSPAN="1"><a href="speakers.html#A Game Theoretic Analysis of Tor's Resilience to Entry-Exit and End-to-End Attacks"><b>Krisztian Gado</b></a> - A Game Theoretic Analysis of Tor's Resilience to Entry-Exit and End-to-End Attacks</TD> 
+     <TD ROWSPAN="1"><a href="speakers.html#Modern Websites require Modern Vulnerabilities"><b>Franklin Harding</b></a> - Modern Websites require Modern Vulnerabilities</TD>
   <TD ROWSPAN="4"><a href="workshops.html#OWASP Top Ten Lab Featuring OWASP Juice Shop"><b>David Quisenberry</b></a> - OWASP Top Ten Lab Featuring OWASP Juice Shop</TD>
 </TR>
 
 <TR>
   <TD>3:30</TD>
+   <TD ROWSPAN="1"><a href="speakers.html#Improving Anonymous Networking"><b>Kevin Froman</b></a>  - Improving Anonymous Networking</TD>  
   <TD ROWSPAN="1"><a href="speakers.html#Down the Dependency Rabbit Hole"><b>John Andersen</b></a>  - Down the Dependency Rabbit Hole</TD>  
-  <TD ROWSPAN="1"><a href="speakers.html#Argghh, yer kubernetes be now a shark bait!"><b>Alex Ivkin</b></a> - Argghh, yer kubernetes be now a shark bait!</TD>  
 </TR>
 
 <TR>

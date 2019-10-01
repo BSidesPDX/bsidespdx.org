@@ -211,7 +211,7 @@ System Management Mode (SMM) has gotten a lot of attention for being the most pr
 
 <a name="Improving Anonymous Networking"></a>
 ## Improving Anonymous Networking
-### Kevin Froman ([](https://twitter.com/))
+### Kevin Froman
 VPNs and Tor are used by average citizens, hackers, and movie characters alike to mask their identity online. However, my research has shown that these tools have shortcomings in usability and privacy preservation; none fulfill both key security and usability requirements.
 
 This talk will begin with the philosophy of anonymity networks, their desired technical requirements, and a short introduction to a selection of existing networks, including my new project Onionr.
@@ -263,6 +263,13 @@ In this session, we’ll discuss how serialized data are used in software, talk 
 Next time you develop your awesome web or mobile app or a microservice, keep in mind how a clever attacker could create and supply malicious data to your application, and thinking like a hacker you could write more secure code!
 
 *Alexei began his career as a software developer. A decade later, he realized that breaking code was way more fun than writing code, and decided to switch direction. He is now a full-time application security professional, with several years of assisting various development teams in delivering secure code, as well as security consulting. He currently works as a senior product security engineer for Salesforce, and occasionally speaks at local security events and global conferences.*
+
+<a name="Performance Hacks for SOC Training"></a>
+## Performance Hacks for SOC Training
+### Will Peteroy and Alex Sirr 
+Great people are the foundation of security operations. We'll discuss how to leverage intern programs and on-the-job training to increase the effectiveness of your existing team and to create a great pipeline to engage new team members. Alex will provide his perspective going through the program as an intern and continuing to develop it / lessons learned as a full time employee.
+
+*William Peteroy is the Chef Technology Officer for Security at Gigamon where he leads security strategy and innovation efforts. William is also the founder and CEO of ICEBRG (acquired by Gigamon in 2018) and has previously held a number of business and technology leadership positions at Microsoft and in the US Department of Defense.*
 
 <a name="Clearly seeing the value of Canaries for the year 20/20"></a>
 ## BACKUP SPEAKER
