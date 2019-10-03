@@ -47,7 +47,7 @@ The following schedule is *tentative*. Schedule subject to change. Check schedul
 
 <TR>
   <TD MARKDOWN="span">9:45</TD>
-  <TD COLSPAN="4" MARKDOWN="span"><b>Keynote: <a href="speakers.html#eva">Eva Galperin</a></b></TD>
+  <TD COLSPAN="4" MARKDOWN="span"><b>Keynote: <a href="speakers.html#Eva">Eva Galperin</a></b></TD>
 
 </TR>
 
@@ -132,14 +132,14 @@ The following schedule is *tentative*. Schedule subject to change. Check schedul
 <TR>
   <TD>5:00</TD>
   <TD>Closing remarks</TD>
-  <TD ROWSPAN="10">&nbsp;</TD>
-  <TD ROWSPAN="10">&nbsp;</TD>
-  <TD ROWSPAN="10">&nbsp;</TD>
+  <TD ROWSPAN="5">&nbsp;</TD>
+  <TD ROWSPAN="5">&nbsp;</TD>
+  <TD ROWSPAN="5">&nbsp;</TD>
 </TR>
 
 <TR>
   <TD>5:15</TD>
-  <TD ROWSPAN="2"><a href="contests-events.html#Quiz">Quiz Show (with prizes!)</a></TD>
+  <TD ROWSPAN="2"><a href="contests-events.html#BSides 2019 Quiz Show">Quiz Show (with prizes!)</a></TD>
 </TR>
 
 <TR>
@@ -221,10 +221,10 @@ The following schedule is *tentative*. Schedule subject to change. Check schedul
 
 <TR>
   <TD>1:00</TD>
-   <TD ROWSPAN="2"><a href="speakers.html#Building an intelligence team, it’s not what you think"><b>Randy_Waterhouse</b></a>  - Building an intelligence team, it’s not what you think. </TD>  
-   <TD ROWSPAN="2"><a href="speakers.html#Owning the Cloud through SSRF"><b>Ben Sadeghipour</b></a>  - Owning the Cloud through SSRF</TD>  
+   <TD ROWSPAN="2"><a href="speakers.html#Building an intelligence team, it’s not what you think"><b>Randy_Waterhouse</b></a>  - Building an intelligence team, it’s not what you think. </TD>
+   <TD ROWSPAN="2"><a href="speakers.html#Owning the Cloud through SSRF"><b>Ben Sadeghipour</b></a>  - Owning the Cloud through SSRF</TD>
    <TD ROWSPAN="4"><a href="workshops.html#Custom Network Protocol Fuzzing"><b>Joshua Pereyda</b></a> - Custom Network Protocol Fuzzing</TD>
-   <TD ROWSPAN="10">&nbsp;</TD>
+   <TD ROWSPAN="9">&nbsp;</TD>
 </TR>
 
 <TR>
@@ -234,7 +234,7 @@ The following schedule is *tentative*. Schedule subject to change. Check schedul
 <TR>
   <TD>2:00</TD>
    <TD ROWSPAN="2"><a href="speakers.html#Creepy Digital Forensics"><b>Marcus Richerson</b></a> - Creepy Digital Forensics</TD>  
-   <TD ROWSPAN="2"><a href="speakers.html#SNAPTRAP: The Computer Is Lying: Open-source Deception Platform for Windows"><b>Dave Greer</b></a> - SNAPTRAP: The Computer Is Lying: Open-source Deception Platform for Windows</TD>  
+   <TD ROWSPAN="2"><a href="speakers.html#SNAPTRAP: The Computer Is Lying: Open-source Deception Platform for Windows"><b>Dave Greer</b></a> - SNAPTRAP: The Computer Is Lying: Open-source Deception Platform for Windows</TD>
 </TR>
 
 <TR>
@@ -250,14 +250,14 @@ The following schedule is *tentative*. Schedule subject to change. Check schedul
 
 <TR>
   <TD>3:30</TD>
-   <TD ROWSPAN="1"><a href="speakers.html#Improving Anonymous Networking"><b>Kevin Froman</b></a>  - Improving Anonymous Networking</TD>  
-  <TD ROWSPAN="1"><a href="speakers.html#Down the Dependency Rabbit Hole"><b>John Andersen</b></a>  - Down the Dependency Rabbit Hole</TD>  
+   <TD ROWSPAN="1"><a href="speakers.html#Improving Anonymous Networking"><b>Kevin Froman</b></a>  - Improving Anonymous Networking</TD>
+  <TD ROWSPAN="1"><a href="speakers.html#Down the Dependency Rabbit Hole"><b>John Andersen</b></a>  - Down the Dependency Rabbit Hole</TD>
 </TR>
 
 <TR>
   <TD>4:00</TD>
-  <TD ROWSPAN="2"><a href="speakers.html#Blarney and Brigandry - Physical Breach War Stories & Operations "><b>Robert Moore</b></a> - Blarney and Brigandry - Physical Breach War Stories & Operations </TD>  
-  <TD ROWSPAN="2">Lightning Talks Hosted by Dean Pierce - Find Dean to Sign-Up!</TD>  
+  <TD ROWSPAN="2"><a href="speakers.html#Blarney and Brigandry - Physical Breach War Stories & Operations"><b>Robert Moore</b></a> - Blarney and Brigandry - Physical Breach War Stories & Operations </TD>
+  <TD ROWSPAN="2">Lightning Talks Hosted by Dean Pierce - Find Dean to Sign-Up!</TD>
 </TR>
 
 <TR>

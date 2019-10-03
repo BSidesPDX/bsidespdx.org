@@ -4,12 +4,12 @@ title: "2019 Speakers"
 permalink: /events/2019/speakers.html
 ---
 
-<a name="eva"></a>
+<a name="Eva"></a>
 ## Friday Keynote: Eva Galperin
 
 Eva Galperin is EFF's Director of Cybersecurity. Prior to 2007, when she came to work for EFF, Eva worked in security and IT in Silicon Valley and earned degrees in Political Science and International Relations from SFSU. Her work is primarily focused on providing privacy and security for vulnerable populations around the world. To that end, she has applied the combination of her political science and technical background to everything from organizing EFF's Tor Relay Challenge, to writing privacy and security training materials (including Surveillance Self Defense and the Digital First Aid Kit), and publishing research on malware in Syria, Vietnam, Kazakhstan. When she is not collecting new and exotic malware, she practices aerial circus arts and learning new languages.
 
-<a name="amber"></a>
+<a name="Amber"></a>
 ## Saturday Keynote: Amber Case 
 
 Amber Case studies the interaction between humans and computers and how our relationship with information is changing the way cultures think, act, and understand their worlds.
@@ -18,7 +18,7 @@ A TED speaker and author, Case enjoys meeting and interacting with interesting a
 
 Case lives in Somerville, Massachusetts and Portland, Oregon. She was previously the co-founder and former CEO of Geoloqi, a location-based software company acquired by Esri in 2012. You can follow her on Twitter [@caseorganic](https://twitter.com/caseorganic) and learn more at [caseorganic.com](https://www.caseorganic.com). 
 
-<a name="Jarrod Overson"></a>
+<a name="How did 8 million developers download an exploit with no one noticing?"></a>
 ## How did 8 million developers download an exploit with no one noticing?
 ### Jarrod Overson
 
@@ -30,7 +30,7 @@ This is not node/npm specific and any public repository of source code is vulner
 
 *Jarrod is a Director of Engineering at Shape Security where he led the development of Shape's Enterprise Defense. Jarrod is a frequent speaker on modern web threats and cybercrime and has been quoted by Forbes, the Wall Street Journal, CNET among others. He’s the co-author of O’Reilly’s Developing Web Components, creator of Plato, a static analysis tool for web applications, and frequently writes and records topics about reverse engineering and automation.*
 
-<a name="Allison Marie Naaktgeboren & MrDe4d"></a>
+<a name="Reversing Corruption in Seagate HDD Translators, the Naked Trill Data Recovery Project"></a>
 ## Reversing Corruption in Seagate HDD Translators, the Naked Trill Data Recovery Project
 ### Allison Marie Naaktgeboren & MrDe4d
 
@@ -43,7 +43,7 @@ Allison Marie Naaktgeboren is a Senior Software Engineer, currently working on d
 *MrDe4d:
 MrDe4d is the lead data recovery engineer and founder of Revenant Data Recovery.  She is a hobbyist embedded systems security researcher currently focused on storage devices and data exfiltration.  Most of her research is dedicated to the noble cause of breaking proprietary hardware.  In early 2019 she began forming the idea for an open source data recovery suite and now dedicates just as much time to building as she does breaking.  She has presented at HushCon, DEF CON, and Teardown as well as at hackerspaces around the USA.  MrDe4d is passionate about learning, freedom of information, promoting self-advocacy and hacking the planet!*
 
-<a name="Brian Myers"></a>
+<a name="XXE for Dummies"></a>
 ## XXE for Dummies
 ### Brian Myers ([@brimy](https://twitter.com/brimy))
 
@@ -51,7 +51,7 @@ In 2017 OWASP added XML External Entity (XXE) Processing to its list of Top Ten 
 
 *Brian Myers, @brimy, (PhD, CISSP) has been working in security for five years and in software development long enough for his resume to include Borland and Netscape. He's written books and articles on Windows programming. In his current job as Director of Information Security at WebMD Health Services Brian guides multiple teams building a SaaS web application housing HIPAA-regulated data. He also serves on the CS/IS Industry Advisory Board at Western Oregon University.*
 
-<a name="Ben Sadeghipour"></a>
+<a name="Owning the Cloud through SSRF"></a>
 ## Owning the Cloud through SSRF
 ### Ben Sadeghipour
 
@@ -59,28 +59,28 @@ With how many apps are running in the cloud, hacking these instances becomes eas
 
 *Ben is the Head of Hacker Operations at HackerOne by day, and a hacker by night. He has helped identify and exploit over 600 security vulnerabilities across 100s of web and mobile applications for companies such as Yahoo, Airbnb, Snapchat, The US Department of Defense, Yelp, and more. He also invested time in the security community, by creating a community of 200+ active hackers who share ideas and their experiences. He has also held free workshops  and trainings to teach others about security and web application hacking.*
 
-<a name="Malcolm Heath"></a>
+<a name="Attacking Serverless Architectures"></a>
 ## Attacking Serverless Architectures
 ### Malcolm Heath
 Serverless, AKA Function as a Service, is becoming common deployment strategy for all sorts of things.  The benefits include reduced cost, easier deployment, and not having to worry about platform.  The implementation details for Serverless vary by vendor, and are often not public.  In this talk, I describe what serverless is, how it works, what sorts of ways you can find yourself inside it, and what you can do once you're there.  Demos will make it abundantly clear that these platforms are eminently hackable, and a tool will be provided that will help assess risk.
 
 *Malcolm is a Senior Threat Research Evangelist with F5 Networks.*
 
-<a name="Franklin Harding"></a>
+<a name="Modern Websites require Modern Vulnerabilities"></a>
 ## Modern Websites require Modern Vulnerabilities
 ### Franklin Harding 
 Your web exploits are showing their age. This talk will outline why it's becoming harder for developers to mess stuff up with modern technologies and tooling (Go, Rust, Kotlin, React, AngularJS, Vue.js, DynamoDB/MongoDB/other NoSQL, OpenID, etc), as well as what mistakes developers can make with these new technologies, and how we can exploit those, featuring practical Go examples.
 
 *Software Engineer with a passion for building maintainable, performant, and secure web services with Go. Also hacking. See [https://harding.coffee/](https://harding.coffee/)*
 
-<a name="Morgan Miller"></a>
+<a name="Designing ElectionGuard: The Tango of Usability and Security"></a>
 ## Designing ElectionGuard: The Tango of Usability and Security
 ### Morgan Miller
 Microsoft's ElectionGuard is designed to be a new standard of election security. Working with an amazing team of experts, I was able to be an interface between the security engineers and the UX professionals, culminating in the design of the ballot tracker ID. The ballot tracker ID would be the closest contact the end user, or voter, would have to the security back end. In this talk, I will showcase how our team discussed, ranked, and vetted priorities in order to come up with a v1 design.
 
 *While studying cryptography in graduate school, I was amazed how most difficult most security tools were to use. Noticing the frequency of user-introduced security flaws, I became convinced that usability was the only way to advance cryptographic tools. I have been a practicing UX architect since 2011. I have had the joy of working with many smart people to help build systems that meet business goals (security, profit, etc) and support user needs.*
 
-<a name="Nancy Eckert"></a>
+<a name="Swarm Intelligence and Human Systems"></a>
 ## Swarm Intelligence and Human Systems
 ### Nancy Eckert 
 Humans have used games for thousands of years to exchange information and facilitate cooperation.  When we combine gamification with decentralized organization methods, we unlock a powerful tool for social engineering at scale.
@@ -91,7 +91,7 @@ In this talk, we will discuss the application of game theory and ""swarm"" strat
 
 *She picks locks and builds neural networks in her spare time.*
 
-<a name="Dave Greer"></a>
+<a name="SNAPTRAP: The Computer Is Lying: Open-source Deception Platform for Windows"></a>
 ## SNAPTRAP: The Computer Is Lying: Open-source Deception Platform for Windows
 ### Dave Greer 
 Attackers are pervasive on modern networks and nothing is safe.  Giving up is no option, so let’s bring the fight to attackers with deception, lies, and all other trickery we can come up with.  Let’s fool malware about the nature of the computer they’re on, let’s tempt malware with treasures that don’t exist.
@@ -103,7 +103,7 @@ We are providing a complete functional system along with a simple SDK and docume
 
 *Dave Greer is a security researcher for Blackberry Cylance after having a bit of a mis-spent youth writing questionable-but-fun things.  He has a practical background building security tools and an interest in laughing at security vendors while they try to keep up with the endless torrent of human vulnerabilities.*
 
-<a name="Alex Ivkin"></a>
+<a name="Argghh, yer kubernetes be now a shark bait!"></a>
 ## Argghh, yer kubernetes be now a shark bait!
 ### Alex Ivkin ([@alexivkinx](https://twitter.com/alexivkinx))
 With Kubernetes becoming a de-facto container orchestration platform, it's only a matter of time before it becomes a major target. While there are some widely publicized kubernetes vulnerabilities, this talk is not about them. Turns out, the biggest threat to a kubernetes deployment is the person doing it. Many of the default deployment options open container infrastructure to easy pwnage. Come to see how easy it is to slip in and wreck havoc in a k8s cluster and how some simple config hardening can make it substantially harder to abuse.
@@ -111,14 +111,14 @@ With Kubernetes becoming a de-facto container orchestration platform, it's only 
 
 *Alex Ivkin (@alexivkinx) is a director of solutions at Eclypsium, a Portland security company. Alex specializes in security solution architecture, advisory and implementation of firmware and application security, container orchestration and IAM. Alex presented at numerous security industry conferences, co-authored the ISACA CSX Professional certification and spent a lot of time climbing mountains.*
 
-<a name="Olivia Stella"></a>
+<a name="Airplane Mode: Cybersecurity @ 30,000+ Feet"></a>
 ## Airplane Mode: Cybersecurity @ 30,000+ Feet
 ### Olivia Stella 
 Imagine being in charge of a system where you own the product. You do not own the software and the hardware is proprietary. You need to coordinate with multiple vendors for any updates or modifications and you’re under strict government regulation. By the way, the product has a lifespan of 20 - 30 years. Welcome to the world of aviation cybersecurity, where safety and security live together. At a high level, this presentation will cover what is aviation cyber security, the unique challenges it represents and why the industry is captivating.   
 
 *Olivia Stella is a senior security analyst for American Airlines. In her current role, she focuses on aviation security and vulnerability management including pen testing and coordinated disclosure. She has over ten years of experience in software development and information security. Previously, she worked at an in-flight entertainment company in product security supporting incident response, risk & compliance, and as the bug bounty lead. She holds a bachelor's degree in computer science, masters in software engineering, CISSP & CISM. When she’s not wearing her security hat, she loves to curl and is an avid toastmaster. (That’s right, ice curling.)*
 
-<a name="Aaron Parecki"></a>
+<a name="How to Hack OAuth"></a>
 ## How to Hack OAuth
 ### Aaron Parecki 
 OAuth is the foundation of most of modern online security, used everywhere from signing in to mobile apps, to protecting your bank accounts. Despite its ubiquity, it is still often difficult to implement safely and securely, especially in today's landscape, which is dramatically different from the world of online security as it existed when OAuth was initially created.
@@ -127,14 +127,14 @@ This talk will explore several real-world OAuth hacks that affected major provid
 
 *Aaron Parecki is a Senior Security Architect at Okta, an editor of several specifications at IETF and W3C, and maintains oauth.net. Aaron has spoken at conferences around the world about OAuth, data ownership, and quantified self, and his work has been featured in Wired, Fast Company and more.*
 
-<a name="John Andersen"></a>
+<a name="Down the Dependency Rabbit Hole"></a>
 ## Down the Dependency Rabbit Hole
 ### John Andersen 
 As people with the word “security” in our titles, we come across a lot of questionable decisions. It's our job to scrutinize the dubious and guide the less paranoid. Wide eyed developers in a dependency wonderland can easily find themselves smoking opiumssl with a caterpillar from stackoverflow who assured them it’s twice as performant than openssl. Nevermind the fact that it was written by @madhatter in 2012 and never touched since. In our infinite wisdom we set them back on the right track. But how wise are we really? Could a robot do just a good a job at guiding them through the looking glass?
 
 *Security research, embedded systems, machine learning, and data flow programming are his current interests. He’s on the Open Source Security team at Intel. He’s from Portland, went to PSU for computer engineering with a focus on embedded systems and did his honors college thesis on machine learning. He’s been working at Intel as an intern then an employee for the past 5 years.*
 
-<a name="Building an intelligence team, it’s not what you think. "></a>
+<a name="Building an intelligence team, it’s not what you think"></a>
 ## Building an intelligence team, it’s not what you think. 
 ### Randy Waterhouse 
 Every vendor claims to be a threat intelligence company at least at their booths at...pick giant conference here.  Many organizations have people who claim to be intelligence analysts.  When in fact most vendors just provide data, and most of these so called intelligence analysts are doing IOC integration work for a SOC.  Have you heard of being intelligence led? What do you really need to do to be intelligence led? It's not just a bunch of python scripts and IOCs for a SOC.  There is a lot more work in growing into this.  And the technology In this talk it’s going to cover how you’ve been thinking about it incorrectly, how you can change your ways, and how you can get talented people from places you’d have never considered to run and build your program.   
@@ -155,7 +155,7 @@ Mt. Hood Community College launched a two-year Cybersecurity degree in 2011. Sin
 
 *Tobin Shields is a full-time instructor at Mt. Hood Community College. There, he primarily teaches topics in IT and InfoSec as apart of their intensive, two-year CTE program. Tobin has two masters degrees, one in Education and the other in Cybersecurity and Information Assurance. He also holds his Security+, CEH, CHFI, and RHCSA certifications. Tobin has been working as an educator for the past five years, and has a passion for teaching STEM topics*
 
-<a name="Blarney and Brigandry - Physical Breach War Stories & Operations "></a>
+<a name="Blarney and Brigandry - Physical Breach War Stories & Operations"></a>
 ## Blarney and Brigandry - Physical Breach War Stories & Operations 
 ### Robert Moore
 Even mature, robust, and well-funded cyber security programs can be bypassed entirely by poor physical security. Overt social engineering or covert physical security breaches have frequently and consistently compromised numerous Fortune 500 companies, regardless of the sophistication of their cyber security programs.
@@ -246,11 +246,11 @@ We'll be looking at a Nike BB Adapt. This talk will show how I reverse engineere
 <a name="Literature Circles: Novel Ways to Learn about Cybersecurity"></a>
 ## Literature Circles: Novel Ways to Learn about Cybersecurity
 ### Veronica Hotton and Ellie Harmon
-This talk is about how Literature Circles were a novel and effective way to teach middle and high school teachers about the GenCyber Cybersecurity Concepts (Defense in Depth, Availability, Confidentiality, Think Like an Adversary, Integrity & Keep it Simple) during the CyberPDX 2019 summer camp. The young adult novel “Warcross” by Marie Lu will be highlighted showing how fiction, poetry and art can be an innovative way to broaden public understanding of cybersecurity.  
+This talk is about how Literature Circles were a novel and effective way to teach middle and high school teachers about the GenCyber Cybersecurity Concepts (Defense in Depth, Availability, Confidentiality, Think Like an Adversary, Integrity & Keep it Simple) during the CyberPDX 2019 summer camp. The young adult novel “Warcross” by Marie Lu will be highlighted showing how fiction, poetry and art can be an innovative way to broaden public understanding of cybersecurity.
 
 *Veronica Hotton (PhD, Curriculum Theory and Implementation, Philosophy of Education, Simon Fraser University, Canada) is an Instructor in the University Studies program at Portland State University teaching interdisciplinary general education courses. Veronica is a co-director of CyberPDX, a summer camp for broadening participation in cybersecurity. More information at [https://veronicahotton.com/](https://veronicahotton.com/)*
 
-Ellie Harmon (PhD, Information and Computer Science, University of California, Irvine) is a Senior Instructor in the Department of Computer Science at Portland State University teaching courses in introductory computer science, human-computer interaction, and computing & society. Ellie also teaches in the University Studies program. Ellie is a co-director of CyberPDX, a summer camp for broadening participation in cybersecurity. More information at [https://web.cecs.pdx.edu/~harmon8](https://web.cecs.pdx.edu/~harmon8)*
+*Ellie Harmon (PhD, Information and Computer Science, University of California, Irvine) is a Senior Instructor in the Department of Computer Science at Portland State University teaching courses in introductory computer science, human-computer interaction, and computing & society. Ellie also teaches in the University Studies program. Ellie is a co-director of CyberPDX, a summer camp for broadening participation in cybersecurity. More information at [https://web.cecs.pdx.edu/~harmon8](https://web.cecs.pdx.edu/~harmon8)*
 
 <a name="[In]secure deserialization, and how [not] to do it"></a>
 ## [In]secure deserialization, and how [not] to do it
@@ -278,7 +278,7 @@ Great people are the foundation of security operations. We'll discuss how to lev
 This talk will walk the listener through the value and history of canary and honeypot projects going as far back as the early 90s. It will bring to light how the technology is still heavily under utilized in the new era of big data and epic breaches. The speaker will work to equip the listener with a persuasive argument to take back to their corporate class or leadership team. Finally he will reveal and discuss the development of a new open source canary project that focuses on simplicity and sustainability for under-resourced teams.
 
 
-*After surviving the dot-com crash of the late 90s, Jared Folkins has gone on to have a long career in systems and programming. In 2013 he turned a hobby into a career and has never looked back. Known for having technical chops and a high emotional IQ, he enjoys working with those who prioritize goals and people first while placing egos last. He currently Red Teams for ThreatHound.com, Blue Teams for Bend La Pine Schools, and breaks down software while building up people at OpsecEdu.com. If you want his help or you just need a new InfoSec friend contact him at [JaredFolkins.com](JaredFolkins.com).*
+*After surviving the dot-com crash of the late 90s, Jared Folkins has gone on to have a long career in systems and programming. In 2013 he turned a hobby into a career and has never looked back. Known for having technical chops and a high emotional IQ, he enjoys working with those who prioritize goals and people first while placing egos last. He currently Red Teams for ThreatHound.com, Blue Teams for Bend La Pine Schools, and breaks down software while building up people at OpsecEdu.com. If you want his help or you just need a new InfoSec friend contact him at [https://www.JaredFolkins.com](https://www.JaredFolkins.com).*
 
 <!--
 <a name=""></a>
