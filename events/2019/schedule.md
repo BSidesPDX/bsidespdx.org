@@ -158,7 +158,9 @@ The following schedule is *tentative*. Schedule subject to change. Check schedul
 </TABLE>
 &nbsp;
 
+Friday Lunch: Across the street at Spirit of 77
 
+Friday Evening: TBD
 
 
 
@@ -273,3 +275,8 @@ The following schedule is *tentative*. Schedule subject to change. Check schedul
 
 </TABLE>
 &nbsp;
+
+
+Saturday Lunch: Food Cart, TBD
+
+Saturday Evening: <a href="contests-events.html#Saturday">BSidesPDX Afterparty at Ctrl-H PDX Hackerspace</a>
