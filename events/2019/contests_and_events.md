@@ -45,6 +45,15 @@ Bring some of your sticker collection or stickers of your own making. We'll have
 ### Hosted by 
 Joe
 
+# <center>Evening Activities</center>
+
+<a name="Saturday"></a>
+## [Saturday: BSidesPDX Afterparty at Ctrl-H PDX Hackerspace](http://pdxhackerspace.org/)
+
+*This afterparty happens at 7:00 PM - 11:00 PM on October 27th!*
+
+Mingle and relax after two busy days! After closing down and packing up at the convention center, we'll be enjoying drinks and light refreshments. Come and join us between 7 and 11 PM at 7608 N Interstate Avenue.
+
 <!--
 <a name=""></a>
 
