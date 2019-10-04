@@ -4,6 +4,16 @@ title: "Workshops"
 permalink: /events/2019/workshops.html
 ---
 
+# Registration 
+
+Registration for workships is open at [https://bsides-pdx.square.site/product/BsidesPDX2019/11](https://bsides-pdx.square.site/product/BsidesPDX2019/11). 
+
+Since capacity is limited, we do attach a nominal $10 fee to advance registration to prevent speculative registrations and limit no-shows. We will not keep a waitlist, but empty seats will be made available first-come-first-served at the start of the workshop.
+
+If for any reason, this fee is a barrier to your attending, use the coupon code 'IPROMISETOATTEND' to register for free.
+
+# Workshops
+
 <a name="OWASP Top Ten Lab Featuring OWASP Juice Shop"></a>
 ## OWASP Top Ten Lab Featuring OWASP Juice Shop
 ### David Quisenberry ([@quizsec](https://twitter.com/quizsec))
