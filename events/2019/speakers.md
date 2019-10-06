@@ -246,7 +246,7 @@ We'll be looking at a Nike BB Adapt. This talk will show how I reverse engineere
 <a name="Literature Circles: Novel Ways to Learn about Cybersecurity"></a>
 ## Literature Circles: Novel Ways to Learn about Cybersecurity
 ### Veronica Hotton and Ellie Harmon
-This talk is about how Literature Circles were a novel and effective way to teach middle and high school teachers about the GenCyber Cybersecurity Concepts (Defense in Depth, Availability, Confidentiality, Think Like an Adversary, Integrity & Keep it Simple) during the CyberPDX 2019 summer camp. The young adult novel “Warcross” by Marie Lu will be highlighted showing how fiction, poetry and art can be an innovative way to broaden public understanding of cybersecurity.
+This talk is about how Literature Circles were a novel and effective way to teach middle and high school teachers about the GenCyber Cybersecurity Concepts (Defense in Depth, Availability, Confidentiality, Think Like an Adversary, Integrity & Keep it Simple) during the CyberPDX 2019 summer camp. The young adult novel “Warcross” by Marie Lu will be highlighted showing how fiction, poetry and art can be an innovative way to broaden public understanding of cybersecurity. More information about CyberPDX can be found [here](https://cyberpdx.org).
 
 *Veronica Hotton (PhD, Curriculum Theory and Implementation, Philosophy of Education, Simon Fraser University, Canada) is an Instructor in the University Studies program at Portland State University teaching interdisciplinary general education courses. Veronica is a co-director of CyberPDX, a summer camp for broadening participation in cybersecurity. More information at [https://veronicahotton.com/](https://veronicahotton.com/)*
 
