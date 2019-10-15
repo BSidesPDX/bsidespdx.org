@@ -45,6 +45,15 @@ Bring some of your sticker collection or stickers of your own making. We'll have
 ### Hosted by 
 Joe
 
+<a name="Backpack Drive"></a>
+## BSidesPDX Backpack Drive for Foster Youth
+
+Everyday 1,200 kids enter the foster system in the United States. Making a bad day worse they often have only a few minutes to gather anything and everything of value to them before being shipped off to strangers. While the foster system is now aware of the trauma and stigma that comes from using trash bags, oftentimes they don’t have other options.
+
+Most people in tech have a thing for bags and backpacks. They tend to clutter our shelves, often stuffed inside each other like Russian nesting dolls. Let’s do something great and try to make this awful experience for them a little bit better.
+
+If you are able to, come and donate a bag and we will ensure it reaches the right place! Bins will be placed in the event room for easy drop off.
+
 # <center>Evening Activities</center>
 
 <a name="Saturday"></a>
@@ -54,14 +63,6 @@ Joe
 
 Mingle and relax after two busy days! After closing down and packing up at the convention center, we'll be enjoying drinks and light refreshments. Come and join us between 7 and 11 PM at 7608 N Interstate Avenue.
 
-<a name="Backpack Drive"></a>
-## BSidesPDX Backpack Drive for Foster Youth
-
-Everyday 1,200 kids enter the foster system in the United States. Making a bad day worse they often have only a few minutes to gather anything and everything of value to them before being shipped off to strangers. While the foster system is now aware of the trauma and stigma that comes from using trash bags, oftentimes they don’t have other options.
-
-Most people in tech have a thing for bags and backpacks. They tend to clutter our shelves, often stuffed inside each other like Russian nesting dolls. Let’s do something great and try to make this awful experience for them a little bit better.
-
-If you are able to, come and donate a bag and we will ensure it reaches the right place! Bins will be placed in the event room for easy drop off.
 
 <!--
 <a name=""></a>
