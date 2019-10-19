@@ -120,6 +120,8 @@ What you won't learn:
 ### Brent Holtsclaw; Erik Bjorge; Nick Armour; Stephano Cetola
 CHIPSEC is a security research and validation tool implemented in Python that allows for low-level access to hardware. The powerful scripting capabilities can be used for tasks including verification of security mitigations and security research. This hands-on workshop will provide an overview of the existing tool architecture and how to write modules and tools. CHIPSEC modules focus on verification of firmware mitigations. CHIPSEC tools are designed to stress the system and perform tasks such as fuzzing interfaces.
 
+Systems will not be provided for the workshop.  Bring an Intel based system with the latest release of CHIPSEC installed (https://github.com/chipsec/chipsec/releases) and verify that CHIPSEC is working.  For ease of use Linux is preferred.  Additional modules and slides will be distributed at the workshop.
+
 *Brent Holtsclaw is a Security Researcher at Intel. Brent has performed security analysis for a wide variety of targets from embedded systems to enterprise networks, developing repeatable methods for improving assurance. Brent a contributor and one of the maintainers of the CHIPSEC open source project.*
 
 *Nick Armour is a Security Researcher at Intel. Nick is a recent college graduate from Sonoma State University.*
