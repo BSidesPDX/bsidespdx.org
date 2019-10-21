@@ -60,4 +60,5 @@ Would your company like to sponsor? For less than the admission of a single atte
 <p>&nbsp;</p>
 <div class="row">
   <div class="columns small-6"><img src="/images/2019/web-logos/isaca.png" alt="" class="center"/></div>
+  <div class="columns small-6"><img src="/images/2019/web-logos/owasp.png" alt="" class="center"/></div>
 </div>
