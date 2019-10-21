@@ -204,10 +204,14 @@ The effort to protect users with strong, phishing-resistant authentication just 
 System Management Mode (SMM) has gotten a lot of attention for being the most privileged processor mode, which raises concerns over how software and firmware manage hardware. This session demystifies designing and writing System Management Interrupt (SMI) handlers, and covers challenges that developers face in the process. Content covers different types of SMI handlers and various methods of invoking them. The session also describes common vulnerabilities that can result from incorrect coding practices or oversights. Debugging is critical to developing quality SMM drivers, so this session also demonstrates debugging using virtual environments (OVMF) and physical platforms.
 
 
-*Brian Delgado is a Security Researcher in Intel's Platform Armoring and Resiliency team (PAR). Brian has worked extensively in firmware security including Intel's SMI Transfer Monitor (STM) feature to help protect a hypervisor against malicious BIOS code. Brian is currently focused on applying fuzzing on UEFI code to identify code security issues. Brian is working on completing a PhD at Portland State University (PSU) in firmware-assisted rootkit detection and learning about photography.*
+*Brian Delgado (M.S. Computer Science, Portland State University)*
+
+*Brian Delgado is a Security Researcher in Intel’s Platform Armoring and Resiliency team (PAR) where he is currently focused on applying fuzzing on UEFI code to identify code security issues. He has worked extensively in firmware security including Intel’s SMI Transfer Monitor (STM) feature to help protect a hypervisor against malicious BIOS code. Brian is also a Ph.D. student at Portland State University where his research with the EPA-RIMM research group focuses on SMM-based continuous monitoring for rootkit detection. In his free time, Brian enjoys learning about photography..*
 
 
-*Tejaswini Vibhute is a Security Researcher in Intel’s PAR team. She develops security tools for automated firmware validation leveraging fuzzing and virtualization. She has worked extensively with System Management Mode (SMM) security at Intel. Prior to joining Intel, at PSU, she utilized Intel’s STM to enable firmware-assisted rootkit detection. Tejaswini also published the first publicly available Xen patches to launch Intel’s STM. In her free time, she can be found taking care of her furry friends or traveling around the country.*
+*Tejaswini Vibhute (M.S. Computer Science, Portland State University)*
+
+*Tejaswini Vibhute is a Security Researcher in Intel’s PAR team. She develops security tools for automated firmware validation leveraging fuzzing and virtualization. She has worked extensively with System Management Mode (SMM) security at Intel. Prior to joining Intel she was a member of the EPA-RIMM research group at Portland State University, where she completed a masters thesis on utilizing Intel’s STM to enable firmware-assisted rootkit detection. As part of this work she published the first publicly available Xen patches to launch Intel’s STM. In her free time, she can be found taking care of her furry friends or traveling around the country.*
 
 <a name="Improving Anonymous Networking"></a>
 ## Improving Anonymous Networking
