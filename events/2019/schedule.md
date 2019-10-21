@@ -158,10 +158,9 @@ The following schedule is *tentative*. Schedule subject to change. Check schedul
 </TABLE>
 &nbsp;
 
-Friday Lunch: Across the street at Spirit of 77
+Friday Lunch: Taco Bar, across the street at Spirit of '77
 
-Friday Evening: TBD
-
+Friday Evening: Reception, 5-9PM, right at the Convention Center
 
 
 <TABLE border="1">
@@ -277,6 +276,6 @@ Friday Evening: TBD
 &nbsp;
 
 
-Saturday Lunch: Food Cart, TBD
+Saturday Lunch: Gyros and Falafel, Across the street in Columbia Bank's parking lot
 
-Saturday Evening: <a href="contests-events.html#Saturday">BSidesPDX Afterparty at Ctrl-H PDX Hackerspace</a>
+Saturday Evening: <a href="contests-events.html#Saturday">BSidesPDX Volunteer and VIP Afterparty at Ctrl-H PDX Hackerspace</a>; Informal gatherings for all attendees a Spirit of '77 across the street and Ground Control in downtown Portland.
