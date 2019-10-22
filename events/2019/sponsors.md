@@ -19,6 +19,7 @@ Would your company like to sponsor? For less than the admission of a single atte
   <div class="columns small-6"><img src="/images/2019/web-logos/securinghardware.png" alt="" class="center"/></div>
   <div class="columns small-6"><img src="/images/2019/web-logos/screamingcircuits.png" alt="" class="center"/></div>
   <div class="columns small-6"><img src="/images/2019/web-logos/uptycs.png" alt="" class="center"/></div>
+  <div class="columns small-6"><img src="/images/2019/web-logos/intel.png" alt="" class="center"/></div>
 </div>
 <p>&nbsp;</p>
 <div class="row">
