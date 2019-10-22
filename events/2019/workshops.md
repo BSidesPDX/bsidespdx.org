@@ -88,33 +88,6 @@ Attendees will have the opportunity to see real-world use cases of “malware”
 
 *Ken Westin is Director of Security Solutions at Elastic, helping organizations aggregate, analyze and operationalize disparate security data sources to identify and mitigate threats in various forms. In his past he has helped solve crimes with data, tracking stolen devices, breaking up organized crime groups, recovered stolen vehicles, even solved a violent carjacking, leading to the prosecution of dozens of criminals. He has presented at DEF CON, Black Hat, RSA, multiple BSides and security conferences around the world.*
 
-<a name="Custom Network Protocol Fuzzing"></a>
-## Custom Network Protocol Fuzzing
-### Joshua Pereyda
-Get hands on experience writing custom network protocol fuzzers. This class will cover the basics of network protocol ""smart fuzzing."" Exercises will utilize the open source network protocol fuzzing framework, boofuzz. Attendees will gain practice reverse engineering a network protocol, implementing and iterating on a custom fuzzer, and identifying vulnerabilities.
-
-After:
-
- 1. You will know the basics of fuzzing.
- 2. You will know how to write custom network protocol fuzzers using state of the art open source tools.
- 3. You will have hands on experience with this widely-discussed but still largely mysterious test method.
-
-Before (Prerequisites): You should:
-
- 1. Be comfortable doing some basic programming in Python.
- 2. Understand basic network protocol concepts (e.g. what is a protocol and what is a network layer).
- 3. Be familiar with WireShark and how to use it.
- 4. Have a laptop with at least 8 GB of RAM (16 GB recommended).
-
-What you won't learn:
-
- 1. Exploit development.
- 2. Python programming. Because you can already do that (see above). ;)
-
-*"Joshua is a software engineer specializing in information and network security. He has worked in the critical infrastructure and cloud computing industries with employers heavily invested in software and hardware security. Among his passions are hacking, teaching kids to program, attending orchestral concerts with his wife, and figuring out how he can get paid to do it all... legally.*                 
-
-*Joshua is the maintainer of the boofuzz network protocol fuzzing framework."*
-
 <a name="Writing CHIPSEC Modules & Tools"></a>
 ## Writing CHIPSEC Modules & Tools
 ### Brent Holtsclaw; Erik Bjorge; Nick Armour; Stephano Cetola
