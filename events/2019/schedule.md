@@ -224,7 +224,7 @@ Friday Evening: Reception, 5-9PM, right at the Convention Center
   <TD>1:00</TD>
    <TD ROWSPAN="2"><a href="speakers.html#Building an intelligence team, it’s not what you think"><b>Randy_Waterhouse</b></a>  - Building an intelligence team, it’s not what you think. </TD>
    <TD ROWSPAN="2"><a href="speakers.html#Owning the Cloud through SSRF"><b>Ben Sadeghipour</b></a>  - Owning the Cloud through SSRF</TD>
-   <TD ROWSPAN="4"><a href="workshops.html#Custom Network Protocol Fuzzing"><b>Joshua Pereyda</b></a> - Custom Network Protocol Fuzzing</TD>
+   <TD ROWSPAN="4"></TD>
    <TD ROWSPAN="9">&nbsp;</TD>
 </TR>
 
