@@ -56,13 +56,26 @@ If you are able to, come and donate a bag and we will ensure it reaches the righ
 
 # <center>Evening Activities</center>
 
+<a name="Friday"></a>
+## Friday: BSidesPDX Afterparty at the Convention Center
+
+*This afterparty happens immediately after the conference from 5:00 PM - 9:00 PM on October 25th!*
+
+Mingle and relax after a day! We'll be enjoying drinks and light refreshments right at the convention center, along with a few other evening events and movies. 
+
 <a name="Saturday"></a>
-## [Saturday: BSidesPDX Afterparty at Ctrl-H PDX Hackerspace](http://pdxhackerspace.org/)
 
-*This afterparty happens at 7:00 PM - 11:00 PM on October 27th!*
+## Saturday: Informal Gathering at Spirit of 77 across the street from the convention center
+We'll cover the first round at the Spirit of 77 immediately after the conference closes.
 
-Mingle and relax after two busy days! After closing down and packing up at the convention center, we'll be enjoying drinks and light refreshments. Come and join us between 7 and 11 PM at 7608 N Interstate Avenue.
+## Saturday: Informal Gathering at Ground Kontrol in downtown Portland
+Stop by one of Portland's geek treasures (21+) to unwind after BSidesPDX with some classic arcade games.
 
+## [Saturday: BSidesPDX Unpack and Unwind for Volunteers at Ctrl-H PDX Hackerspace](http://pdxhackerspace.org/)
+
+*This afterparty happens at 7:00 PM - 11:00 PM on October 26th!*
+
+Unfortunately we can't fit the entire conference at Ctrl-H, so after the conference we invite just the volunteers to meet up at Ctrl-H to unpack all the gear from the convention center and unwid.
 
 <!--
 <a name=""></a>
