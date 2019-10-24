@@ -86,7 +86,7 @@ The following schedule is *tentative*. Schedule subject to change. Check schedul
   <TD ROWSPAN="2"><a href="speakers.html#Reversing Corruption in Seagate HDD Translators, the Naked Trill Data Recovery Project"><b>Allison Marie Naaktgeboren & MrDe4d</b></a> - Reversing Corruption in Seagate HDD Translators, the Naked Trill Data Recovery Project</TD>  
   <TD ROWSPAN="2"><a href="speakers.html#How Not to be Seen: Creating Non-Speculative Side-Channel Resistant Code"><b>Matt Wood</b></a>  - How Not to be Seen: Creating Non-Speculative Side-Channel Resistant Code</TD>  
   <TD ROWSPAN="4"><a href="workshops.html#Practical Threat Modelling"><b>Amiran Alavidze</b></a> - Practical Threat Modelling</TD>
-  <TD ROWSPAN="4"><a href="workshops.html#Minimalist triage of malcode using CyberChef"><b>Mark Baenziger</b></a> - Minimalist triage of malcode using CyberChef</TD>
+  <TD ROWSPAN="4"></TD>
 </TR>
 
 <TR>
