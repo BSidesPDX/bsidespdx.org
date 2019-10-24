@@ -20,7 +20,7 @@ WHAT’S IT LIKE? Just like many TV game shows you’re probably already familia
 
 SOUNDS COOL! WHERE DO I SIGN UP? Click [HERE](https://forms.gle/56kJM8sFmPtBE3H89) for the qualifier! (That link also points you to past shows if you want to see real examples of the game.)
 
-### Hosted by 
+### Hosted by
 
 Steve Willoughby
 
@@ -31,7 +31,7 @@ Steve Willoughby
 ## Whose Slide Is It Anyway?
 As seen at Defcon, Derbycon, Circle City Con, and others, Whose Slide Is It Anyway makes it's PNW debut at BsidesPDX. Contestants will give lightning talks between 5 and 7 minutes, with the aid of a slide deck that is randomly chosen and they have never seen before. Our panel of subject matter expert judges will award arbitrary amounts of points (and often times random things that aren't points) to contestants based on their performances. At the end of the event, scores will be tallied and the top three contestants will be awarded prizes.
 
-### Hosted by 
+### Hosted by
 
 dade
 
@@ -42,7 +42,7 @@ dade
 ## Sticker Swap!
 Bring some of your sticker collection or stickers of your own making. We'll have a table to leave-a-sticker-take-a-sticker to expand your collection!
 
-### Hosted by 
+### Hosted by
 Joe
 
 <a name="Backpack Drive"></a>
@@ -61,7 +61,7 @@ If you are able to, come and donate a bag and we will ensure it reaches the righ
 
 *This afterparty happens immediately after the conference from 5:00 PM - 9:00 PM on October 25th!*
 
-Mingle and relax after a day! We'll be enjoying drinks and light refreshments right at the convention center, along with a few other evening events and movies. 
+Mingle and relax after a day! We'll be enjoying drinks and light refreshments right at the convention center, along with a few other evening events and movies.
 
 <a name="Saturday"></a>
 
@@ -75,7 +75,7 @@ Stop by one of Portland's geek treasures (21+) to unwind after BSidesPDX with so
 
 *This afterparty happens at 7:00 PM - 11:00 PM on October 26th!*
 
-Unfortunately we can't fit the entire conference at Ctrl-H, so after the conference we invite just the volunteers to meet up at Ctrl-H to unpack all the gear from the convention center and unwid.
+Unfortunately we can't fit the entire conference at Ctrl-H, so after the conference we invite just the volunteers to meet up at Ctrl-H to unpack all the gear from the convention center and unwind.
 
 <!--
 <a name=""></a>
@@ -83,7 +83,7 @@ Unfortunately we can't fit the entire conference at Ctrl-H, so after the confere
 ## Title
 Abstract
 
-### Hosted by 
+### Hosted by
 Author
 
 *bio*
