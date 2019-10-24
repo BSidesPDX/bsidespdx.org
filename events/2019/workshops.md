@@ -28,7 +28,7 @@ Ever wondered how vulnerabilities like BlueKeep and Eternal Blue work, or are yo
 
 *"Aaron Esau (@arinerron) is a 17 year old security researcher, CTF player, bug hunter, intern at Summit Security Group, a software developer, and a full-time high school student. Although most of his experience relating to security is with web and binary exploitation, he is interested in many aspects of security and privacy.*
 
-*Aaron Jobé (@dirtyc0wsay) is a high school senior. His interest in computers led him to binary exploitation. He participates in CTFs and various other security challenges to further expand his skills. After high school, Aaron plans to pursue a career in cyber security."*
+*Aaron Jobé (@dirtyc0wsay) is a high school senior. His interest in computers led him to binary exploitation. He participates in CTFs and various other security challenges to further expand his skills. After high school, Aaron plans to pursue a career in security."*
 
 <a name="How to Rock Your BSides Presentation!"></a>
 ## How to Rock Your BSides Presentation!
@@ -61,19 +61,6 @@ There are no prerequisites, but you are expected to actively participate.
 
 *Amiran has been in information security for over 15 years with roles ranging from system engineering and security operations to governance, risk and compliance. Amiran is advocating practical and business-focused approach to security.
 Security is not just a job, it’s a passion.*
-
-<a name="Minimalist triage of malcode using CyberChef"></a>
-## Minimalist triage of malcode using CyberChef
-### Mark Baenziger 
-This workshop provides some helpful and lightweight tools/techniques for both new and experienced SOC analysts and incident responders to speed up their ability to understand and characterize a potential incident. It provides some context and examples about how and why these tools and techniques so consistently show up in SOC triage and analysis efforts.
-
-There are many sophisticated and complex endpoint detection and response tools, sandboxes, and analysis tools which a SOC analyst or incident responder can use to identify and understand a potential incident. Many of these tools are complex and powerful, but sometimes it’s the simple tools combined with specific host logging configuration options which can make a difference for SOC analysts and incident responders.
-
-This workshop came from my recent realization that the most frequently used tools I was using while looking at incidents had something to do with de-obfuscation or decoding of powershell or other encoded scripts, and I was using CyberChef to do the vast majority of it. Given the prevalence of powershell and encoding in commodity malware campaigns, exploit kits, and in post-exploitation activity, it is likely that most incident responders will benefit from sharing experiences and techniques using these tools. Often, CyberChef and some key powershell logging options are enough to allow a responder to rapidly triage an event or alert to decide whether it’s significant or not, which is why I felt there was value in sharing the techniques I was using.
-
-In this workshop I’ll describe why these tools/techniques are important to the detection/incident triage process, provide some examples of the key configurations/logs that are needed to maximize benefit, and provide (and then walk through) several technical decoding examples for the workshop attendees. Please bring your laptop!""
-
-*Mark Baenziger is a former pentester, security architect/engineer, and incident responder who currently leads a security team at a multinational corporation. Highlights of his career include doing a year-long pentest on a large aircraft and leading the tactics division at US Cyber Command.*
 
 <a name="Open Season: Building a Threat Hunting Program with Open Source Tools"></a>
 ## Open Season: Building a Threat Hunting Program with Open Source Tools
