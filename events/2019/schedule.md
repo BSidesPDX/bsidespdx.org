@@ -278,4 +278,6 @@ Friday Evening: Reception, 5-9PM, right at the Convention Center
 
 Saturday Lunch: Gyros and Falafel, Across the street in Columbia Bank's parking lot
 
-Saturday Evening: <a href="contests-events.html#Saturday">BSidesPDX Volunteer and VIP Afterparty at Ctrl-H PDX Hackerspace</a>; Informal gatherings for all attendees a Spirit of '77 across the street and Ground Control in downtown Portland.
+Saturday Evening: <a href="contests-events.html#Saturday">BSidesPDX Volunteer and VIP Afterparty at Ctrl-H PDX Hackerspace</a>; 
+
+Informal gatherings for all attendees at Spirit of '77 across the street and Ground Kontrol in downtown Portland.
