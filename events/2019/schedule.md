@@ -132,14 +132,15 @@ The following schedule is *tentative*. Schedule subject to change. Check schedul
 <TR>
   <TD>5:00</TD>
   <TD>Closing remarks</TD>
-  <TD ROWSPAN="5">&nbsp;</TD>
-  <TD ROWSPAN="5">&nbsp;</TD>
-  <TD ROWSPAN="5">&nbsp;</TD>
+  <TD ROWSPAN="1">&nbsp;</TD>
+  <TD ROWSPAN="6">&nbsp;</TD>
+  <TD ROWSPAN="6">&nbsp;</TD>
 </TR>
 
 <TR>
   <TD>5:15</TD>
   <TD ROWSPAN="2"><a href="contests-events.html#BSides 2019 Quiz Show">Quiz Show (with prizes!)</a></TD>
+  <TD ROWSPAN="3">Movie: Wargames</TD>
 </TR>
 
 <TR>
@@ -153,12 +154,18 @@ The following schedule is *tentative*. Schedule subject to change. Check schedul
 
 <TR>
   <TD>7:00</TD>
+  <TD ROWSPAN="2">Movie: Sneakers</TD>
+</TR>
+
+<TR>
+  <TD>8:00</TD>
+  <TD ROWSPAN="1">&nbsp;</TD>
 </TR>
 
 </TABLE>
 &nbsp;
 
-Friday Lunch: Taco Bar, across the street at Spirit of '77
+Friday Lunch: 11:30 to 2:30 - Taco Bar, across the street at Spirit of '77
 
 Friday Evening: Reception, 5-9PM, right at the Convention Center
 
@@ -276,8 +283,10 @@ Friday Evening: Reception, 5-9PM, right at the Convention Center
 &nbsp;
 
 
-Saturday Lunch: Gyros and Falafel, Across the street in Columbia Bank's parking lot
+Saturday Lunch: 11:30 to 2:30 - Gyros and Falafel, Across the street in Columbia Bank's parking lot
 
-Saturday Evening: <a href="contests-events.html#Saturday">BSidesPDX Volunteer and VIP Afterparty at Ctrl-H PDX Hackerspace</a>; 
+Saturday Evening:
 
-Informal gatherings for all attendees at Spirit of '77 across the street and Ground Kontrol in downtown Portland.
+Happy Hour at Spirit of '77 Across the street, thanks to Uptycs
+
+<a href="contests-events.html#Saturday">BSidesPDX Volunteer and VIP Afterparty at Ctrl-H PDX Hackerspace</a>; 
