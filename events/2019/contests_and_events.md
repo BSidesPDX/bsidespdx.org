@@ -71,11 +71,11 @@ We'll cover the first round at the Spirit of 77 immediately after the conference
 ## Saturday: Informal Gathering at Ground Kontrol in downtown Portland
 Stop by one of Portland's geek treasures (21+) to unwind after BSidesPDX with some classic arcade games.
 
-## [Saturday: BSidesPDX Unpack and Unwind for Volunteers at Ctrl-H PDX Hackerspace](http://pdxhackerspace.org/)
+## [Saturday: BSidesPDX Unpack and Unwind for Volunteers and Speakers at Ctrl-H PDX Hackerspace](http://pdxhackerspace.org/)
 
 *This afterparty happens at 7:00 PM - 11:00 PM on October 26th!*
 
-Unfortunately we can't fit the entire conference at Ctrl-H, so after the conference we invite just the volunteers to meet up at Ctrl-H to unpack all the gear from the convention center and unwind.
+Unfortunately we can't fit the entire conference at Ctrl-H, so after the conference we invite just the volunteers and speakers to meet up at Ctrl-H to unpack all the gear from the convention center and unwind.
 
 <!--
 <a name=""></a>
