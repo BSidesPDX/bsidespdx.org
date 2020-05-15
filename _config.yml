@@ -10,7 +10,7 @@ header: yes
 header_sm: images/bsidesPDX_logo_25.png
 header_med: images/bsidesPDX_logo_50.png
 header_large: images/bsidesPDX_logo_75.png
-header_xl: images/bsidesPDX_logo_100.png
+header_xl: images/bsidesPDX_logo_mask_100.png
 
 # Exclude our ruby stuff and other files
 exclude: [.bundle, bin, vendor, Gemfile, Gemfile.lock, Rakefile, .last_optimized, CNAME, README.md, LICENSE]
