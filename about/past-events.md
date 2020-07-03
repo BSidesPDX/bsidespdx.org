@@ -6,6 +6,8 @@ permalink: /about/past-events.html
 
 **Past BSidesPDX Events**
 
+[Friday, October 25 - Saturday, October 26, 2019](../events/2019)
+
 [Friday, October 26 - Saturday, October 27, 2018](../events/2018)
 
 [Friday, October 20 - Saturday, October 21, 2017](../events/2017)
