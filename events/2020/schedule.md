@@ -22,3 +22,5 @@ td{
 
 
 The event schedule for 2020 is TBD; check back here later for more details.
+
+The main presentation track will run roughly 9AM to 5PM PDT, UTC−07:00. Happy hours and other events may run latter.
