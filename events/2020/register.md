@@ -29,7 +29,7 @@ Our goal is to be Portland's premiere Infosec/hacking event. With the online for
 
 The main presentation track will run roughly 9AM to 5PM PDT, UTC−07:00. Happy hours and other events may run later.
 
-Whether you're near or far, don't hesitate to regsiter and/or prepay for a t-shirt. Worst case, if shipping and logistics become prohibitive we'll get in touch in october and either work something out or refund it.
+Whether you're near or far, don't hesitate to register and/or prepay for a t-shirt. Worst case, if shipping and logistics become prohibitive we'll get in touch in october and either work something out or refund it.
 
 ### Pay what you can:
 We are a 501(c)(3) charitable nonprofit. We're happy to have you regardless of what you can pay. If your employer reimburses you for your conference fees, we recommend the 'Patron' tier which covers the full cost of the event.
