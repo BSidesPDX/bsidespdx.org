@@ -4,7 +4,7 @@ title: "Register"
 permalink: /events/2020/register.html
 ---
 
-<a href="https://checkout.square.site/buy/WFJ3UM7APMY2BPARQRPGXCXK">Registration is open!</a> We are using Square again this year.
+<a href="#register">Registration is open!</a> We are using Square again this year.
 
 We're postponing the 10th in-person event and will run an online event in October 2020.
 
@@ -34,4 +34,5 @@ Whether you're near or far, don't hesitate to register and/or prepay for a t-shi
 ### Pay what you can:
 We are a 501(c)(3) charitable nonprofit. We're happy to have you regardless of what you can pay. If your employer reimburses you for your conference fees, we recommend the 'Patron' tier which covers the full cost of the event.
 
+<a name="register"></a>
 <iframe src="https://checkout.square.site/buy/WFJ3UM7APMY2BPARQRPGXCXK" width="100%" height="1000" title="BSidesPDX Online Registration" allowtransparency="true" frameborder="0" marginheight="0" marginwidth="0" id="2011040470"> </iframe>
