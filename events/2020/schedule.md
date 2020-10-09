@@ -28,7 +28,7 @@ The main presentation track will run roughly 9AM to 5PM PDT, UTC−07:00. Happy 
 
   <tr>
     <th></th>
-    <th>Presentation Theme</th>
+    <th>Theme</th>
     <th>Presentation</th>
     <th>Workshop Track</th>
     <th>Walkthrough Track</th>
