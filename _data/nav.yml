@@ -42,5 +42,7 @@
       subhref: "/events/2020/volunteer.html"
     - subtitle: "Workshops"
       subhref: "/events/2020/workshops.html"
+    - subtitle: "Walkthroughs"
+      subhref: "/events/2020/walkthroughs.html"
     - subtitle: "Review Board"
       subhref: "/events/2020/review-board.html"
