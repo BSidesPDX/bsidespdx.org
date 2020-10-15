@@ -10,13 +10,17 @@ If you are interested in volunteering for BSidesPDX, this page has information a
 Volunteers (like participants) are expected to abide by the [Code of Conduct](./code-of-conduct.html). 
 
 ### Roles
-Given the circumstance of 2020, BSidesPDX 2020 will be a virtual conference.  As such, the volunteer roles will be necessarily different this year.  They are divided into pre-conference roles, and roles that will take place during the conference.
+Given the circumstance of 2020, BSidesPDX 2020 will be a virtual conference.  As such, the volunteer roles will be necessarily different this year.
 
-#### Pre-conference roles
-* Provide hands on expertise, logistics, and support for an on-site speaker recording setup at ^H.  This role will need to be comfortable abiding by all current Multnomah Count/Oregon State COVID-19 guidelines.
-* Provide remote tech support to speakers recording talks at home, via slack, discord, zoom, or whatever technology the speaker is most comfortable using.
-* Do quality control of videos and provide feedback.
+#### Moderators
+* 1 to MC the presentation track.  This will include posting any links needed for each talk.
+* 2 each for walkthrough and workshop tracks.  This will include making announcements for starting/stopping of tracks as well as any necessary links.
+* Additional for chat (discord) moderation, on call for the duration of the conference. Up to 4 would be nice.  This will include CoC enforcement and related duties.
 
-#### During conference roles
-* Discord moderators.
-* Speaker support.
+#### Technical
+* 1 to queue up and play main track videos.
+* 3 to provide tech support during the conference as necessary.
+* 1 to help setup video meetings for workshops/walkthroughs/and happy hours.
+
+#### Miscellaneous Organization
+* Planning happy hour logistics and allocation.
