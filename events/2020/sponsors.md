@@ -18,49 +18,25 @@ Would your company like to sponsor? For less than the admission of a single atte
 </div>
 <p>&nbsp;</p>
 <div class="row">
-  <div class="columns small-6"><img src="/images/2020/sponsorlogos/1.png" alt="" class="center"/></div>
-  <div class="columns small-6"><img src="/images/2020/sponsorlogos/2.png" alt="" class="center"/></div>
-  <div class="columns small-6"><img src="/images/2020/sponsorlogos/3.png" alt="" class="center"/></div>
-  <div class="columns small-6"><img src="/images/2020/sponsorlogos/4.png" alt="" class="center"/></div>
-  <div class="columns small-6"><img src="/images/2020/sponsorlogos/5.png" alt="" class="center"/></div>
-  <div class="columns small-6"><img src="/images/2020/sponsorlogos/6.png" alt="" class="center"/></div>
-  <div class="columns small-6"><img src="/images/2020/sponsorlogos/7.png" alt="" class="center"/></div>
+  <div class="columns small-6"><img src="/images/2020/sponsorlogos/1.svg" alt="" class="center"/></div>
+  <div class="columns small-6"><img src="/images/2020/sponsorlogos/2.svg" alt="" class="center"/></div>
+  <div class="columns small-6"><img src="/images/2020/sponsorlogos/3.svg" alt="" class="center"/></div>
+  <div class="columns small-6"><img src="/images/2020/sponsorlogos/4.svg" alt="" class="center"/></div>
+  <div class="columns small-6"><img src="/images/2020/sponsorlogos/5.svg" alt="" class="center"/></div>
+  <div class="columns small-6"><img src="/images/2020/sponsorlogos/6.svg" alt="" class="center"/></div>
+  <div class="columns small-6"><img src="/images/2020/sponsorlogos/7.svg" alt="" class="center"/></div>
 </div>
 <p>&nbsp;</p>
 <div class="row">
-  <div class="columns small-6"><img src="/images/2019/web-logos/corelight.png" alt="" class="center"/></div>
-  <div class="columns small-6"><img src="/images/2019/web-logos/fortinet.png" alt="" class="center"/></div>
-  <div class="columns small-6"><img src="/images/2019/web-logos/google.png" alt="" class="center"/></div>
-  <div class="columns small-6"><img src="/images/2019/web-logos/hackerone.png" alt="" class="center"/></div>
-  <div class="columns small-6"><img src="/images/2019/web-logos/leviathan.png" alt="" class="center"/></div>
-  <div class="columns small-6"><img src="/images/2019/web-logos/mozilla.png" alt="" class="center"/></div>
-  <div class="columns small-6"><img src="/images/2019/web-logos/netspi.png" alt="" class="center"/></div>
-  <div class="columns small-6"><img src="/images/2019/web-logos/newrelic.png" alt="" class="center"/></div>
-  <div class="columns small-6"><img src="/images/2019/web-logos/oracle.png" alt="" class="center"/></div>
-  <div class="columns small-6"><img src="/images/2019/web-logos/salesforce.png" alt="" class="center"/></div>
-  <div class="columns small-6"><img src="/images/2019/web-logos/structured.png" alt="" class="center"/></div>
-</div>
-<p>&nbsp;</p>
-<div class="row">
-  <div class="columns small-12"><h1 class="center-text"><strong>Gold Sponsors</strong></h1></div>
-</div>
-<p>&nbsp;</p>
-<div class="row">
-  <div class="columns small-6"><img src="/images/2019/web-logos/BPM.png" alt="" class="center"/></div>
-  <div class="columns small-6"><img src="/images/2019/web-logos/anvilventures.png" alt="" class="center"/></div>
-  <div class="columns small-6"><img src="/images/2019/web-logos/columbiabank.png" alt="" class="center"/></div>
-  <div class="columns small-6"><img src="/images/2019/web-logos/eclypsium.png" alt="" class="center"/></div>
-  <div class="columns small-6"><img src="/images/2019/web-logos/identitytechnologies.png" alt="" class="center"/></div>
-  <div class="columns small-6"><img src="/images/2019/web-logos/nostarch.png" alt="" class="center"/></div>
-  <div class="columns small-6"><img src="/images/2019/web-logos/summit.png" alt="" class="center"/></div>
-  <div class="columns small-6"><img src="/images/2019/web-logos/tripwire.png" alt="" class="center"/></div>
-</div>
-<p>&nbsp;</p>
-<div class="row">
-  <div class="columns small-12"><h1 class="center-text"><strong>Community Sponsors</strong></h1></div>
-</div>
-<p>&nbsp;</p>
-<div class="row">
-  <div class="columns small-6"><img src="/images/2019/web-logos/isaca.png" alt="" class="center"/></div>
-  <div class="columns small-6"><img src="/images/2019/web-logos/owasp.png" alt="" class="center"/></div>
+  <div class="columns small-6"><img src="/images/2020/sponsorlogos/8.svg" alt="" class="center"/></div>
+  <div class="columns small-6"><img src="/images/2020/sponsorlogos/9.svg" alt="" class="center"/></div>
+  <div class="columns small-6"><img src="/images/2020/sponsorlogos/10.svg" alt="" class="center"/></div>
+  <div class="columns small-6"><img src="/images/2020/sponsorlogos/11.svg" alt="" class="center"/></div>
+  <div class="columns small-6"><img src="/images/2020/sponsorlogos/12.svg" alt="" class="center"/></div>
+  <div class="columns small-6"><img src="/images/2020/sponsorlogos/13.svg" alt="" class="center"/></div>
+  <div class="columns small-6"><img src="/images/2020/sponsorlogos/14.svg" alt="" class="center"/></div>
+  <div class="columns small-6"><img src="/images/2020/sponsorlogos/15.svg" alt="" class="center"/></div>
+  <div class="columns small-6"><img src="/images/2020/sponsorlogos/16.svg" alt="" class="center"/></div>
+  <div class="columns small-6"><img src="/images/2020/sponsorlogos/17.svg" alt="" class="center"/></div>
+  <div class="columns small-6"><img src="/images/2020/sponsorlogos/18.svg" alt="" class="center"/></div>
 </div>
