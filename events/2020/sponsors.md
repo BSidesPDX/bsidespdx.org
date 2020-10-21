@@ -14,7 +14,7 @@ Would your company like to sponsor? For less than the admission of a single atte
 
 <p>&nbsp;</p>
 <div class="row">
-  <div class="columns small-12"><h1 class="center-text"><strong>Diamond Sponsors</strong></h1></div>
+  <div class="columns small-12"><h1 class="center-text"><strong>BSides PDX 2020 Sponsors</strong></h1></div>
 </div>
 <p>&nbsp;</p>
 <div class="row">
@@ -25,11 +25,11 @@ Would your company like to sponsor? For less than the admission of a single atte
   <div class="columns small-6"><img src="/images/2020/sponsorlogos/5.svg" alt="" class="center"/></div>
   <div class="columns small-6"><img src="/images/2020/sponsorlogos/6.svg" alt="" class="center"/></div>
   <div class="columns small-6"><img src="/images/2020/sponsorlogos/7.svg" alt="" class="center"/></div>
+  <div class="columns small-6"><img src="/images/2020/sponsorlogos/8.svg" alt="" class="center"/></div>
+  <div class="columns small-6"><img src="/images/2020/sponsorlogos/9.svg" alt="" class="center"/></div>
 </div>
 <p>&nbsp;</p>
 <div class="row">
-  <div class="columns small-6"><img src="/images/2020/sponsorlogos/8.svg" alt="" class="center"/></div>
-  <div class="columns small-6"><img src="/images/2020/sponsorlogos/9.svg" alt="" class="center"/></div>
   <div class="columns small-6"><img src="/images/2020/sponsorlogos/10.svg" alt="" class="center"/></div>
   <div class="columns small-6"><img src="/images/2020/sponsorlogos/11.svg" alt="" class="center"/></div>
   <div class="columns small-6"><img src="/images/2020/sponsorlogos/12.svg" alt="" class="center"/></div>
