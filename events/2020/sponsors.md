@@ -17,34 +17,34 @@ Would your company like to sponsor? For less than the admission of a single atte
   <h1 class="post-title align-left">BSides PDX 2020 Sponsors</h1>
 </div>
 <div class="row">
-  <div class="columns medium-4"><img src="/images/2020/sponsorlogos/1.svg" alt="" class="center"/></div>
-  <div class="columns medium-4"><img src="/images/2020/sponsorlogos/2.svg" alt="" class="center"/></div>
-  <div class="columns medium-4"><img src="/images/2020/sponsorlogos/3.svg" alt="" class="center"/></div>
+  <div class="columns medium-4"><img src="/images/2020/sponsorlogos/1.svg" alt="Google" class="center"/></div>
+  <div class="columns medium-4"><img src="/images/2020/sponsorlogos/2.svg" alt="Anvil Ventures" class="center"/></div>
+  <div class="columns medium-4"><img src="/images/2020/sponsorlogos/3.svg" alt="Eclypsium" class="center"/></div>
 </div>
 <div class="row">
-  <div class="columns medium-4"><img src="/images/2020/sponsorlogos/4.svg" alt="" class="center"/></div>
-  <div class="columns medium-4"><img src="/images/2020/sponsorlogos/5.svg" alt="" class="center"/></div>
-  <div class="columns medium-4"><img src="/images/2020/sponsorlogos/6.svg" alt="" class="center"/></div>
-</div>
-<p>&nbsp;</p>
-<div class="row">
-  <div class="columns medium-4"><img src="/images/2020/sponsorlogos/7.svg" alt="" class="center"/></div>
-  <div class="columns medium-4"><img src="/images/2020/sponsorlogos/8.svg" alt="" class="center"/></div>
-  <div class="columns medium-4"><img src="/images/2020/sponsorlogos/9.svg" alt="" class="center"/></div>
-</div>
-<div class="row">
-  <div class="columns medium-4"><img src="/images/2020/sponsorlogos/10.svg" alt="" class="center"/></div>
-  <div class="columns medium-4"><img src="/images/2020/sponsorlogos/11.svg" alt="" class="center"/></div>
-  <div class="columns medium-4"><img src="/images/2020/sponsorlogos/12.svg" alt="" class="center"/></div>
+  <div class="columns medium-4"><img src="/images/2020/sponsorlogos/4.svg" alt="HackBack Gaming" class="center"/></div>
+  <div class="columns medium-4"><img src="/images/2020/sponsorlogos/5.svg" alt="Twillio" class="center"/></div>
+  <div class="columns medium-4"><img src="/images/2020/sponsorlogos/6.svg" alt="Identity Technologies" class="center"/></div>
 </div>
 <p>&nbsp;</p>
 <div class="row">
-  <div class="columns medium-4"><img src="/images/2020/sponsorlogos/13.svg" alt="" class="center"/></div>
-  <div class="columns medium-4"><img src="/images/2020/sponsorlogos/14.svg" alt="" class="center"/></div>
-  <div class="columns medium-4"><img src="/images/2020/sponsorlogos/15.svg" alt="" class="center"/></div>
+  <div class="columns medium-4"><img src="/images/2020/sponsorlogos/7.svg" alt="Leviathan Security Group" class="center"/></div>
+  <div class="columns medium-4"><img src="/images/2020/sponsorlogos/8.svg" alt="NetSPI" class="center"/></div>
+  <div class="columns medium-4"><img src="/images/2020/sponsorlogos/9.svg" alt="New Relic" class="center"/></div>
 </div>
 <div class="row">
-  <div class="columns medium-4"><img src="/images/2020/sponsorlogos/16.svg" alt="" class="center"/></div>
-  <div class="columns medium-4"><img src="/images/2020/sponsorlogos/17.svg" alt="" class="center"/></div>
-  <div class="columns medium-4"><img src="/images/2020/sponsorlogos/18.svg" alt="" class="center"/></div>
+  <div class="columns medium-4"><img src="/images/2020/sponsorlogos/10.svg" alt="No Starch Press" class="center"/></div>
+  <div class="columns medium-4"><img src="/images/2020/sponsorlogos/11.svg" alt="OSH Park" class="center"/></div>
+  <div class="columns medium-4"><img src="/images/2020/sponsorlogos/12.svg" alt="PDX Hackerspace" class="center"/></div>
+</div>
+<p>&nbsp;</p>
+<div class="row">
+  <div class="columns medium-4"><img src="/images/2020/sponsorlogos/13.svg" alt="OWASP" class="center"/></div>
+  <div class="columns medium-4"><img src="/images/2020/sponsorlogos/14.svg" alt="Salesforce" class="center"/></div>
+  <div class="columns medium-4"><img src="/images/2020/sponsorlogos/15.svg" alt="Screaming Circuits" class="center"/></div>
+</div>
+<div class="row">
+  <div class="columns medium-4"><img src="/images/2020/sponsorlogos/16.svg" alt="SecuringHardware.com" class="center"/></div>
+  <div class="columns medium-4"><img src="/images/2020/sponsorlogos/17.svg" alt="Summit Security Group" class="center"/></div>
+  <div class="columns medium-4"><img src="/images/2020/sponsorlogos/18.svg" alt="Tozny" class="center"/></div>
 </div>
