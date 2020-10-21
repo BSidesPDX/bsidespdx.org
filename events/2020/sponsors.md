@@ -18,13 +18,13 @@ Would your company like to sponsor? For less than the admission of a single atte
 </div>
 <p>&nbsp;</p>
 <div class="row">
-  <div class="columns small-6"><img src="/images/2020/sponsorlogo/" alt="" class="center"/></div>
-  <div class="columns small-6"><img src="/images/2020/sponsorlogo/" alt="" class="center"/></div>
-  <div class="columns small-6"><img src="/images/2020/sponsorlogo/" alt="" class="center"/></div>
-  <div class="columns small-6"><img src="/images/2020/sponsorlogo/" alt="" class="center"/></div>
-  <div class="columns small-6"><img src="/images/2020/sponsorlogo/" alt="" class="center"/></div>
-  <div class="columns small-6"><img src="/images/2020/sponsorlogo/" alt="" class="center"/></div>
-  <div class="columns small-6"><img src="/images/2020/sponsorlogo/" alt="" class="center"/></div>
+  <div class="columns small-6"><img src="/images/2020/sponsorlogos/1.png" alt="" class="center"/></div>
+  <div class="columns small-6"><img src="/images/2020/sponsorlogos/2.png" alt="" class="center"/></div>
+  <div class="columns small-6"><img src="/images/2020/sponsorlogos/3.png" alt="" class="center"/></div>
+  <div class="columns small-6"><img src="/images/2020/sponsorlogos/4.png" alt="" class="center"/></div>
+  <div class="columns small-6"><img src="/images/2020/sponsorlogos/5.png" alt="" class="center"/></div>
+  <div class="columns small-6"><img src="/images/2020/sponsorlogos/6.png" alt="" class="center"/></div>
+  <div class="columns small-6"><img src="/images/2020/sponsorlogos/7.png" alt="" class="center"/></div>
 </div>
 <p>&nbsp;</p>
 <div class="row">
