@@ -49,5 +49,5 @@ Would your company like to sponsor? For less than the admission of a single atte
   <div class="columns medium-4"><img src="/images/2020/sponsorlogos/18.svg" alt="Tozny" class="center"/></div>
 </div>
 <div class="row">
-  <div class="columns medium-4"><img src="/images/2020/sponsorlogos/19.svg" alt="SecuringHardware.com" class="center"/></div>
+  <div class="columns medium-4"><img src="/images/2020/sponsorlogos/19.svg" alt="ISACA Portland" class="center"/></div>
 </div>
