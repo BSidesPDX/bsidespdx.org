@@ -66,7 +66,7 @@ The main presentation track will run roughly 9AM to 5PM PDT, UTC−07:00. Happy 
     <td>11:00</td>
     <td rowspan="3"><strong>End Users</strong> <br><br>Hosted by Malcolm Heath</td>
     <td colspan="1" markdown="span"><strong><a href="speakers.html#Protecting the Elderly from Cybercrime: A Community Education">Sydney Brazeau</a> - Protecting the Elderly from Cybercrime: A Community Education Approach</strong></td>
-    <td colspan="1" rowspan="3" markdown="span"><strong><a href="workshops.html#Hiding In The Clouds: How Attackers Can Use Malicious Applications for Sustained Persistence and  How To Find It">Mark Morowczynski and Bailey Bercik - </a>Hiding In The Clouds: How Attackers Can Use Malicious Applications for Sustained Persistence and  How To Find It</strong><br>Hosted by andrewkrug</td>
+    <td colspan="1" rowspan="3" markdown="span"><strong><a href="workshops.html#Hiding In The Clouds: How Attackers Can Use Malicious Applications for Sustained Persistence and  How To Find It">Mark Morowczynski and Bailey Bercik - </a>Hiding In The Clouds: How Attackers Can Use Malicious Applications for Sustained Persistence and  How To Find It</strong><br><br>Hosted by andrewkrug</td>
     <td colspan="1" rowspan="3" markdown="span"><strong><a href="walkthroughs.html#A Hands-on Guide to CTFs for the Uninitiated">void* vikings, Portland State University's CTF team - </a>A Hands-on Guide to CTFs for the Uninitiated</strong></td>
 
 
@@ -86,7 +86,7 @@ The main presentation track will run roughly 9AM to 5PM PDT, UTC−07:00. Happy 
     <td>12:00</td>
     <td rowspan="3"><strong>Detection</strong><br><br> Hosted by Josh Farwell</td>
     <td colspan="1" markdown="span"><strong><a href="speakers.html#Frugal known vulnerability detection">Terri</a> - Frugal known vulnerability detection</strong></td>
-    <td colspan="1" rowspan="6" markdown="span"><strong><a href="workshops.html#Deploying your own cybersecurity training infrastructure with EDURange">Jens Mache - </a>Deploying your own cybersecurity training infrastructure with EDURange</strong><br>Hosted by andrewkrug</td>
+    <td colspan="1" rowspan="6" markdown="span"><strong><a href="workshops.html#Deploying your own cybersecurity training infrastructure with EDURange">Jens Mache - </a>Deploying your own cybersecurity training infrastructure with EDURange</strong><br><br>Hosted by andrewkrug</td>
     <td colspan="1" rowspan="3" markdown="span"><strong><a href="walkthroughs.html#Python Web Hackin'">Wu-chang Feng - </a>Python Web Hackin'</strong></td>
   </tr>
 
@@ -123,7 +123,7 @@ The main presentation track will run roughly 9AM to 5PM PDT, UTC−07:00. Happy 
     <td>14:00</td>
     <td rowspan="6"><strong>Wildcard</strong><br><br> Hosted by Maggie Jauregui</td>
     <td colspan="1" markdown="span"><strong><a href="speakers.html#What I’d really like, Dev, is to borrow the signing keys">Matt King</a> - What I’d really like, Dev, is to borrow the signing keys</strong></td>
-    <td colspan="1" rowspan="6" markdown="span"><strong><a href="workshops.html#Creating a AWS Pentest Playground">Jon Helmus - </a>Creating a AWS Pentest Playground</strong><br>Hosted by andrewkrug</td>
+    <td colspan="1" rowspan="6" markdown="span"><strong><a href="workshops.html#Creating a AWS Pentest Playground">Jon Helmus - </a>Creating a AWS Pentest Playground</strong><br><br>Hosted by andrewkrug</td>
     <td colspan="1" rowspan="3" markdown="span"><strong><a href="walkthroughs.html#All About dumping SPI Flash">Joe FitzPatrick - </a>All About dumping SPI Flash</strong></td>
   </tr>
 
