@@ -147,7 +147,7 @@ The main presentation track will run roughly 9AM to 5PM PDT, UTC−07:00. Happy 
 
   <tr>
     <td>15:20</td>
-    <td colspan="1" markdown="span"><strong><a href="speakers.html#Browser Site Isolation in the Age of CPU Vulnerabilities">Arkadiy Tetelman</a> - Browser Site Isolation in the Age of CPU Vulnerabilities</strong></td>
+    <td colspan="1" markdown="span"><strong><a href="speakers.html#Breached! Notification Requirements For Everyone">Robert Wayt</a> - Breached! Notification Requirements For Everyone</strong></td>
 
   </tr>
 

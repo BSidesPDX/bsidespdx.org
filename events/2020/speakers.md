@@ -11,7 +11,7 @@ Maddie Stone ([@maddiestone](https://twitter.com/maddiestone)) is a Security Res
 <a name="SJ"></a>
 ## Closing Keynote: Sara Jayne Terp
 
-Disinformation is the deliberate promotion of false, misleading, or mis-attributed information, often designed to change the beliefs of large numbers of people. The CogSecCollab team got a little cross about that, so we built a disinformation response network based on theory, tools and frameworks from information operations, data science, narrative analysis and infosec, and are running it in several groups including the CTI League, and sharing our toolset with MITRE, NATO and various countries round the world. It’s been 4 years of work to get here: this is how we did it. 
+Disinformation is the deliberate promotion of false, misleading, or mis-attributed information, often designed to change the beliefs of large numbers of people. The CogSecCollab team got a little cross about that, so we built a disinformation response network based on theory, tools and frameworks from information operations, data science, narrative analysis and infosec, and are running it in several groups including the CTI League, and sharing our toolset with MITRE, NATO and various countries round the world. It’s been 4 years of work to get here: this is how we did it.
 
 <a name="Protecting the Elderly from Cybercrime: A Community Education"></a>
 ## Protecting the Elderly from Cybercrime: A Community Education Approach
@@ -105,20 +105,18 @@ Signing binaries and firmware images is easy, but the mere existence of a signat
 
 *Firmware security and beer enthusiast.*
 
-<a name="Browser Site Isolation in the Age of CPU Vulnerabilities"></a>
-## Browser Site Isolation in the Age of CPU Vulnerabilities
-### Arkadiy Tetelman
+<a name="Breached! Notification Requirements For Everyone"></a>
+## Breached! Notification Requirements For Everyone
+### Robert Wayt
 
-Since Meltdown and Spectre were discovered in 2018 we have opened the floodgates on CPU vulnerabilities, seeing additional releases like Foreshadow, Zombieload, Ridl, Fallout, and others. This presents a fundamental shift in the ecosystem for browsers and web applications, where the entire web security model depends on different origins being strongly isolated from one another.
+Regardless of the line of business your organization focuses on, there are undoubtedly breach notification requirements directed by compliance, regulatory agencies, or security practice that apply to you.  When a breach is ongoing, the best time to be prepared for the stressful events surrounding the compromise have already passed.  In order to be ready, organizations must accurately identify what notification requirements apply to them according to data types and processes used.  Payment Card Industry (PCI), Health Insurance Portability and Accountability Act (HIPAA), North American electric Reliability Corporation Critical Infrastructure Protection (NERC CIP), Cybersecurity Maturity Model Certification (CMMC) and state statutes are just some of the compliance frameworks that provide specific direction on breach notification.  This discussion will cover the requirements directed by compliance and best practice, and provide recommendations for ensuring your response documentation such as Incident Response Programs are in good order for the day we all hope never comes.
 
-In this talk we'll review:
-- How CPU side channel attacks work
-- The implications for the browser and web security model
-- What browsers are doing to protect users
-- What you can do as a browser user to protect yourself, and
-- What you can do as an application developer to protect your users"
+*As Director of Governance and Compliance for Structured Communication Systems, Rob Wayt is currently focused on managing the team of engineers that conduct assessments and penetration testing.  The team covers specialty areas such as PCI, HIPAA, NIST/CMMC, NERC CIP and risk assessment solutions across a wide variety of requirements.*
 
-*Arkadiy is Head of Application & Infrastructure Security at Chime. He is passionate about all forms of digital harm reduction, ranging from technical, to policy & legal, to security management & leadership.*
+*Rob has over 25 years of experience in IT security, compliance and networking. His background includes security management, security program development and assessment, enclave compliance, security testing, and oversight of large scale enterprise networks.*
+
+*Rob has worked extensively with the U.S. Department of Defense, state and municipal governments, school districts and commercial entities in retail, entertainment, legal, healthcare and municipal commercial parking.  He has designed and implemented comprehensive security programs across enterprise networks, designed and implemented security systems, and performed compliance assessment and audits.*
+
 
 <!--
 <a name=""></a>
