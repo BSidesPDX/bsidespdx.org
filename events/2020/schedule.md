@@ -47,7 +47,7 @@ The main presentation track will run roughly 9AM to 5PM PDT, UTC−07:00. Happy 
 
   <tr>
     <td>10:00</td>
-    <td rowspan="3"><strong>Breaking into InfoSec</strong></td>
+    <td rowspan="3"><strong>Breaking into InfoSec <br><br></strong> Hosted by Dean Pierce</td>
     <td colspan="1" markdown="span"><strong><a href="speakers.html#I tried harder">Falconspy</a> - I tried harder</strong></td>
     <td colspan="2" rowspan="3" markdown="span"></td>
   </tr>
@@ -64,7 +64,7 @@ The main presentation track will run roughly 9AM to 5PM PDT, UTC−07:00. Happy 
 
   <tr>
     <td>11:00</td>
-    <td rowspan="3"><strong>End Users</strong></td>
+    <td rowspan="3"><strong>End Users</strong> <br><br>Hosted by Malcolm Heath</td>
     <td colspan="1" markdown="span"><strong><a href="speakers.html#Protecting the Elderly from Cybercrime: A Community Education">Sydney Brazeau</a> - Protecting the Elderly from Cybercrime: A Community Education Approach</strong></td>
     <td colspan="1" rowspan="3" markdown="span"><strong><a href="workshops.html#Hiding In The Clouds: How Attackers Can Use Malicious Applications for Sustained Persistence and  How To Find It">Mark Morowczynski and Bailey Bercik - </a>Hiding In The Clouds: How Attackers Can Use Malicious Applications for Sustained Persistence and  How To Find It</strong></td>
     <td colspan="1" rowspan="3" markdown="span"><strong><a href="walkthroughs.html#A Hands-on Guide to CTFs for the Uninitiated">void* vikings, Portland State University's CTF team - </a>A Hands-on Guide to CTFs for the Uninitiated</strong></td>
@@ -84,7 +84,7 @@ The main presentation track will run roughly 9AM to 5PM PDT, UTC−07:00. Happy 
 
   <tr>
     <td>12:00</td>
-    <td rowspan="3"><strong>Detection</strong></td>
+    <td rowspan="3"><strong>Detection</strong><br><br> Hosted by Josh Farwell</td>
     <td colspan="1" markdown="span"><strong><a href="speakers.html#Frugal known vulnerability detection">Terri</a> - Frugal known vulnerability detection</strong></td>
     <td colspan="1" rowspan="6" markdown="span"><strong><a href="workshops.html#Deploying your own cybersecurity training infrastructure with EDURange">Jens Mache - </a>Deploying your own cybersecurity training infrastructure with EDURange</strong></td>
     <td colspan="1" rowspan="3" markdown="span"><strong><a href="walkthroughs.html#Python Web Hackin'">Wu-chang Feng - </a>Python Web Hackin'</strong></td>
@@ -103,7 +103,7 @@ The main presentation track will run roughly 9AM to 5PM PDT, UTC−07:00. Happy 
 
   <tr>
     <td>13:00</td>
-    <td rowspan="3"><strong>Containers</strong></td>
+    <td rowspan="3"><strong>Containers</strong><br><br>Hosted by Michael Leibowitz</td>
     <td colspan="1" markdown="span"><strong><a href="speakers.html#Breaking down the ship: How Kubernetes is put together and how you can take it apart">Alex Ivkin</a> - Breaking down the ship: How Kubernetes is put together and how you can take it apart</strong></td>
     <td colspan="1" rowspan="3" markdown="span"><strong><a href="walkthroughs.html#Never trust, Always verify  : Getting to Zero Trust with Azure Active Directory">Swetha Rai and Corissa Koopmans - </a>Never trust, Always verify  : Getting to Zero Trust with Azure Active Directory</strong></td>
   </tr>
@@ -121,7 +121,7 @@ The main presentation track will run roughly 9AM to 5PM PDT, UTC−07:00. Happy 
 
   <tr>
     <td>14:00</td>
-    <td rowspan="6"><strong>Wildcard</strong></td>
+    <td rowspan="6"><strong>Wildcard</strong><br><br> Hosted by Maggie Jauregui</td>
     <td colspan="1" markdown="span"><strong><a href="speakers.html#What I’d really like, Dev, is to borrow the signing keys">Matt King</a> - What I’d really like, Dev, is to borrow the signing keys</strong></td>
     <td colspan="1" rowspan="6" markdown="span"><strong><a href="workshops.html#Creating a AWS Pentest Playground">Jon Helmus - </a>Creating a AWS Pentest Playground</strong></td>
     <td colspan="1" rowspan="3" markdown="span"><strong><a href="walkthroughs.html#All About dumping SPI Flash">Joe FitzPatrick - </a>All About dumping SPI Flash</strong></td>
