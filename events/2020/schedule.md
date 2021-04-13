@@ -98,7 +98,7 @@ The main presentation track will run roughly 9AM to 5PM PDT, UTC−07:00. Happy 
 
   <tr>
     <td>12:40</td>
-    <td colspan="1" markdown="span"><strong><a href="https://youtu.be/IQ00wfr_xG4?t=139834">Q&A Session</a></strong></td>
+    <td colspan="1" markdown="span"><strong><a href="https://youtu.be/IQ00wfr_xG4?t=13934">Q&A Session</a></strong></td>
   </tr>
 
   <tr>
