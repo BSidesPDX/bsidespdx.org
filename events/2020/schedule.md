@@ -124,7 +124,7 @@ The main presentation track will run roughly 9AM to 5PM PDT, UTC−07:00. Happy 
     <td rowspan="6"><strong>Wildcard</strong><br><br> Hosted by Maggie Jauregui</td>
     <td colspan="1" markdown="span"><strong><a href="speakers.html#What I’d really like, Dev, is to borrow the signing keys">Matt King</a> - <a href="https://youtu.be/IQ00wfr_xG4?t=18542">What I’d really like, Dev, is to borrow the signing keys</a></strong></td>
     <td colspan="1" rowspan="6" markdown="span"><strong><a href="workshops.html#Creating a AWS Pentest Playground">Jon Helmus - </a>Creating a AWS Pentest Playground</strong></td>
-    <td colspan="1" rowspan="3" markdown="span"><strong><a href="walkthroughs.html#All About dumping SPI Flash">Joe FitzPatrick - </a>All About dumping SPI Flash</strong></td>
+    <td colspan="1" rowspan="3" markdown="span"><strong><a href="walkthroughs.html#All About dumping SPI Flash">Joe FitzPatrick - </a><a href="https://vimeo.com/471289021/0c01851458">All About dumping SPI Flash</a></strong></td>
   </tr>
 
   <tr>
