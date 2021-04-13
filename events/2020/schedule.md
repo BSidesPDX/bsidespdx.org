@@ -87,7 +87,7 @@ The main presentation track will run roughly 9AM to 5PM PDT, UTC−07:00. Happy 
     <td rowspan="3"><strong>Detection</strong><br><br> Hosted by Josh Farwell</td>
     <td colspan="1" markdown="span"><strong><a href="speakers.html#Frugal known vulnerability detection">Terri</a> - <a href="https://youtu.be/IQ00wfr_xG4?t=11459">Frugal known vulnerability detection</a></strong></td>
     <td colspan="1" rowspan="6" markdown="span"><strong><a href="workshops.html#Deploying your own cybersecurity training infrastructure with EDURange">Jens Mache - </a>Deploying your own cybersecurity training infrastructure with EDURange</strong></td>
-    <td colspan="1" rowspan="3" markdown="span"><strong><a href="walkthroughs.html#Python Web Hackin'">Wu-chang Feng - </a>Python Web Hackin'</strong></td>
+    <td colspan="1" rowspan="3" markdown="span"><strong><a href="walkthroughs.html#Python Web Hackin'">Wu-chang Feng - </a><a href="https://www.youtube.com/watch?v=mm8V6mvuPds">Python Web Hackin'</a></strong></td>
   </tr>
 
   <tr>
