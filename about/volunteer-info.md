@@ -4,23 +4,19 @@ title: "Volunteer Information"
 permalink: /about/volunteer-info.html
 --- 
 
-If you are interested in volunteering for BSidesPDX, this page has information about the roles available, and some of the expectation around volunteering. You can sign up to volunteer [on this page](../events/2020/volunteer.html).
+Although we have no in-person event planned for 2021, there are always ways to get involved with BSides PDX at other times of the year. If you have not signed up for our volunteer communication, head over to [this page](../events/2020/volunteer.html).
 
 ### Expectations
 Volunteers (like participants) are expected to abide by the [Code of Conduct](./code-of-conduct.html). 
 
-### Roles
-Given the circumstance of 2020, BSidesPDX 2020 will be a virtual conference.  As such, the volunteer roles will be necessarily different this year.
+### Roles and Opportunities
 
-#### Moderators
-* 1 to MC the presentation track.  This will include posting any links needed for each talk.
-* 2 each for walkthrough and workshop tracks.  This will include making announcements for starting/stopping of tracks as well as any necessary links.
-* Additional for chat (discord) moderation, on call for the duration of the conference. Up to 4 would be nice.  This will include CoC enforcement and related duties.
 
-#### Technical
-* 1 to queue up and play main track videos.
-* 3 to provide tech support during the conference as necessary.
-* 1 to help setup video meetings for workshops/walkthroughs/and happy hours.
+* Public attendees are encouraged to attend any/all BSides PDX board meetings. Minutes and information about when/where we meet virtually are shared through the <a href="https://groups.google.com/forum/#!forum/bsidespdx">BSides PDX Google Group</a>.
 
-#### Miscellaneous Organization
-* Planning happy hour logistics and allocation.
+* Additionally, please reach out by DMing us on <a href="https://twitter.com/bsidespdx">Twitter</a> and/or by emailing sponsorship@bsidespdx.org if you have any interest in learning or participating in volunteering for the off-season sponsorship volunteer opportunities. 
+
+* While we do not have a social media coordinator at this time, you can reach out to us via DM on <a href="https://twitter.com/bsidespdx">Twitter</a> or by emailing lacey@bsidespdx.org if you have any interest in creative and/or social volunteer opportunities.
+
+* Are you talented with web stuff like managing our static webpages (BSides PDX and HACKBOAT) or Discord? We are always looking for more support to make our sites and Discord better. Please reach out via <a href="https://twitter.com/bsidespdx">Twitter</a>.
+
