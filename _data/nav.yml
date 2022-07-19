@@ -14,3 +14,12 @@
       subhref: "/about/contact.html"
     - subtitle: "Past Events"
       subhref: "/about/past-events.html"
+
+- title: "Venue"
+  href: "/venue"
+- title: "Sponsors"
+  href: "/sponsors"
+- title: "Schedule"
+  href: "/schedule"
+- title: "Tickets"
+  href: "/tickets"
