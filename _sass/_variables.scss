@@ -1,8 +1,11 @@
 // Base Colors
-$primary-color: #a06c45;
-$secondary-color: #ff9e4b;
+//$primary-color: #a06c45;
+//$secondary-color: #ff9e4b;
+$primary-color: #9E6B44; //matching furr of beast in logo
+$secondary-color: #FF9E4B; //matching color of letters in logo
 $complimentary-color: darken($primary-color, 15%);
-$body-bg: lighten($primary-color,50%);
+//$body-bg: lighten($primary-color,50%);
+$body-bg: lighten($primary-color,100%);
 $body-font-color: darken($primary-color,50%);
 
 // Links
