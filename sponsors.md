@@ -47,7 +47,7 @@ contact us at <a href="mailto:sponsorship@bsidespdx.org">sponsorship@bsidespdx.o
 
 <center>
   <p>
-    Have further questions about sponsorships? Contact <a href="mailto:ponsorship@bsidespdx.org">ponsorship@bsidespdx.org</a>.
+    Have further questions about sponsorships? Contact <a href="mailto:sponsorship@bsidespdx.org">sponsorship@bsidespdx.org</a>.
   </p>
   <p>
     <em>All names and logos are property of their respective owners.</em>
