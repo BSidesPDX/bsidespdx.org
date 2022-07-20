@@ -5,7 +5,7 @@ title: "Sponsors"
 
 <h3>Sponsorships opportunities are now open for BSidesPDX 2022</h3>
 <p>
-contact us at <a href="mailto:ponsorship@bsidespdx.org">sponsorship@bsidespdx.org</a> for more information
+contact us at <a href="mailto:sponsorship@bsidespdx.org">sponsorship@bsidespdx.org</a> for more information
 </p>
 
 {% for class in site.data.sponsors %}
