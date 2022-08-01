@@ -27,9 +27,9 @@ As BSidesPDX has evolved over the years into a larger event, the process of cura
 
 <tr>
   <td style="vertical-align:top">
-  <img src="/images/2020/review-board/mj.jpg" alt="Maggie Jauregui" height="1500" width="1500"/></td>
+  <img src="/images/2022/review-board/mj.jpg" alt="Maggie Jauregui" height="1500" width="1500"/></td>
   <td style="vertical-align:top">
-  <p><strong>Maggie Jauregui</strong> (<a href="https://twitter.com/_m46s" target="_blank">@_m46s</a>) is a firmware security researcher at a Fortune 50 company focused on platform hardware and firmware security. Maggie has presented at conferences such as DEF CON, CanSecWest, DerbyCon, OSFC, BSidesTLV, and hardwear.io. Maggie also enjoys pcb design & electronic art.</p>
+  <p><strong>Maggie Jauregui</strong> (<a href="https://twitter.com/_m46s" target="_blank">@_m46s</a>) is a firmware and hardware security researcher for Intel's PSG focused on low level platform security. Maggie is part of Black Hat's review board and President of BSides Portland. Throughout her career, Maggie has presented her research and delivered technical training on firmware and physical attack security topics at conferences around the world including  DEFCON, Black Hat, CanSecWest, and hardwear.io among others. For fun, Maggie likes designing PCB art and geeky LED fashion.</p>
   </td>
 </tr>
 
@@ -37,7 +37,7 @@ As BSidesPDX has evolved over the years into a larger event, the process of cura
   <td style="vertical-align:top">
   <img src="/images/2020/review-board/pinkflawd.jpg" alt="Marion Marschalek" height="1500" width="1500"/></td>
   <td style="vertical-align:top">
-  <p><strong>Marion Marschalek</strong> is a Security Engineer within Intel's STORM team in Portland, Oregon. Prior to that she held different positions in the threat detection industry, as a malware reverse engineer and incident responder. Her most noteworthy contribution at the time was her analysis work on the malware 'Babar' and other representatives of a collection of French nation state malware, which was cited by a number of international news outlets and also got her listed as one of Forbes' "30under30" talents in the Technology Europe division in 2016. Marschalek is a review board member of Blackhat, and frequent speaker at major security conferences, including Blackhat, Defcon, HITB, RSA, and SyScan, among others. In 2015 she started a hacker bootcamp for women titled BlackHoodie, which over the years established itself as a global initiative to attract more diverse talent to the security industry.</p>
+  <p><strong>Marion Marschalek</strong>Marion is a security engineer at a large cloud provider, and enjoys reverse engineering and all things binary analysis. With some background in malware analysis, incident response and microarchitecture security, her interests are quite varied. In 2015 Marion founded BlackHoodie, a series of hacker bootcamps which successfully attracts more women to the security industry. In her sparetime she runs, hikes, mountain bikes and swims laps in mountain lakes.</p>
   </td>
 </tr>
 
