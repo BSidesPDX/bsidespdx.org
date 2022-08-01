@@ -1,6 +1,5 @@
 - title: "Home"
   href: "/"
-
 - title: "About"
   href: "/about.html"
   subcategories:
@@ -14,12 +13,11 @@
       subhref: "/about/contact.html"
     - subtitle: "Past Events"
       subhref: "/about/past-events.html"
-
 - title: "Venue"
-  href: "/venue"
+  href: "/events/2022/venue"
 - title: "Sponsors"
-  href: "/sponsors"
+  href: "/events/2022/sponsors"
 - title: "Schedule"
-  href: "/schedule"
+  href: "/events/2022/schedule"
 - title: "Tickets"
-  href: "/tickets"
+  href: "/events/2022/tickets"
