@@ -37,7 +37,7 @@ As BSidesPDX has evolved over the years into a larger event, the process of cura
   <td style="vertical-align:top">
   <img src="/images/2020/review-board/pinkflawd.jpg" alt="Marion Marschalek" height="1500" width="1500"/></td>
   <td style="vertical-align:top">
-  <p><strong>Marion Marschalek</strong>Marion is a security engineer at a large cloud provider, and enjoys reverse engineering and all things binary analysis. With some background in malware analysis, incident response and microarchitecture security, her interests are quite varied. In 2015 Marion founded BlackHoodie, a series of hacker bootcamps which successfully attracts more women to the security industry. In her sparetime she runs, hikes, mountain bikes and swims laps in mountain lakes.</p>
+  <p><strong>Marion Marschalek</strong> is a security engineer at a large cloud provider, and enjoys reverse engineering and all things binary analysis. With some background in malware analysis, incident response and microarchitecture security, her interests are quite varied. In 2015 Marion founded BlackHoodie, a series of hacker bootcamps which successfully attracts more women to the security industry. In her sparetime she runs, hikes, mountain bikes and swims laps in mountain lakes.</p>
   </td>
 </tr>
 
