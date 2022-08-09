@@ -13,11 +13,34 @@
       subhref: "/about/contact.html"
     - subtitle: "Past Events"
       subhref: "/about/past-events.html"
-- title: "Venue"
-  href: "/events/2022/venue"
-- title: "Sponsors"
-  href: "/events/2022/sponsors"
-- title: "Schedule"
-  href: "/events/2022/schedule"
-- title: "Tickets"
-  href: "/events/2022/tickets"
+
+- title: "CFP"
+  href: "/cfp.html"
+  subcategories:
+    - subtitle: "CFP"
+      subhref: "https://cfp.bsidespdx.org/bsidespdx-2022/"
+    - subtitle: "Review Board"
+      subhref: "/events/2022/review-board.html"
+
+- title: "BsidesPDX 2022"
+  href: "/events/2022"
+  subcategories:
+    - subtitle: "Register"
+      subhref: "/events/2022/register.html"
+    - subtitle: "Schedule"
+      subhref: "/events/2022/schedule.html"
+    - subtitle: "Speakers"
+      subhref: "/events/2022/speakers.html"
+    - subtitle: "Sponsors"
+      subhref: "/events/2022/sponsors.html"
+    - subtitle: "Contests and Events"
+      subhref: "/events/2022/contests-events.html"
+    - subtitle: "Venue"
+      subhref: "/events/2022/venue.html"
+    - subtitle: "Volunteer Signup"
+      subhref: "/events/2022/volunteer.html"
+    - subtitle: "Workshops"
+      subhref: "/events/2022/workshops.html"
+
+
+
