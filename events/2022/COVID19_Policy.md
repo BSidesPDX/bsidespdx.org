@@ -46,5 +46,5 @@ Out of respect for everyone’s health, we ask that you do not attend if any of 
 If you are not able to attend due to health reasons or your inability to comply with this policy, please contact <a href="mailto:info@bsidespdx.org?subject=Requesting a refund">info@bsidespdx.org</a> to request a refund for your registration. Refunds may be granted at our discretion.
 
 # Questions: 
-If you have any questions or concerns about this policy, please reach out to info@bsidespdx.org
+If you have any questions or concerns about this policy, please reach out to <a href="mailto:info@bsidespdx.org?subject=Policy Concerns">info@bsidespdx.org</a>
 
