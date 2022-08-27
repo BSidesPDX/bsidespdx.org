@@ -27,6 +27,8 @@
   subcategories:
     - subtitle: "Register"
       subhref: "/events/2022/register.html"
+    - subtitle: "Covid 19 Policy"
+      subhref: "/events/2022/COVID19_Policy.html"
     - subtitle: "Schedule"
       subhref: "/events/2022/schedule.html"
     - subtitle: "Speakers"
