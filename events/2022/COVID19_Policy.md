@@ -30,16 +30,17 @@ Know which masks provide the best protection against COVID-19:
 
 
 No matter what kind of mask you wear, check the fit and eliminate gaps above the nose or on the sides. Gaps will significantly reduce the effectiveness of any mask.
+
 In addition:
-    - Bandana style or other single layer cloth masks are not permitted.
-    - Masks with a respirator valve are not permitted.
+- Bandana style or other single layer cloth masks are not permitted.
+- Masks with a respirator valve are not permitted.
 
 # Not feeling well? 
 Out of respect for everyone’s health, we ask that you do not attend if any of the following is true:
-    - You are not feeling well.
-    - You have any of the symptoms related to COVID-19, especially loss of taste or smell and/or fever.
-    - You have recently been diagnosed with COVID-19.
-    - You have been in close contact with someone who has been diagnosed with COVID-19.
+- You are not feeling well.
+- You have any of the symptoms related to COVID-19, especially loss of taste or smell and/or fever.
+- You have recently been diagnosed with COVID-19.
+- You have been in close contact with someone who has been diagnosed with COVID-19.
 
 # Refund: 
 If you are not able to attend due to health reasons or your inability to comply with this policy, please contact <a href="mailto:info@bsidespdx.org?subject=Requesting a refund">info@bsidespdx.org</a> to request a refund for your registration. Refunds may be granted at our discretion.
