@@ -15,7 +15,7 @@ Would you like a T-Shirt? <br>We are still working on them and will make an anno
 <h2>Location:</h2>Portland State University<br>
 Smith Memorial Student Union<br>
 Registration on Third Floor, Room 338<br>
-https://www.pdx.edu/student-union/smith-directories-floorplans#thirdfloor<br>
+<a href="https://www.pdx.edu/student-union/smith-directories-floorplans#thirdfloor">https://www.pdx.edu/student-union/smith-directories-floorplans#thirdfloor</a><br>
 
 <br>
 We are a 501(c)(3) charitable nonprofit. We are happy to have you regardless of what you can pay. If your employer reimburses you for your conference fees, we recommend the 'Business Recommendation' tier which covers the full cost of the event.
