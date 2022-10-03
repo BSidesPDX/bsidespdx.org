@@ -24,7 +24,7 @@ WHAT’S IT LIKE? Just like many TV game shows you’re probably already familia
 
 SOUNDS COOL! WHERE DO I SIGN UP? Click [HERE](https://forms.gle/EFCXaN3aPJWNySWt9) for the qualifier! (That link also points you to past shows if you want to see real examples of the game.)
 
-### Hosted by Steve Willoughby 
+### Hosted by Steve Willoughby ([@TeXnik_PDX](https://twitter.com/TeXnik_PDX))
 <i>Steve Willoughby is a Senior Developer for a local Portland software company. He discovered Version 7 Unix while in high school and, apart from brief forays into VMS in college and failed attempts to hide from other operating systems, he’s been spending most waking hours tinkering on UNIX in one form or another, either writing software or administering systems. He lives in the Portland, Oregon area and keeps a vintage Altair 8800 and COSMAC Elf as pets. In his spare time, he runs a MUD game and creates microcontroller gizmos to make his Christmas lights flash in the most over-engineered way possible.</i>
 
 

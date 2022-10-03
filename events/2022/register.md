@@ -4,9 +4,10 @@ title: "Registration is now open"
 ---
 We're looking forward to seeing you at BSidesPDX on Friday October 7, 2022 for our tenth annual conference!<br>We are moving to a new venue - Portland State University!
 
-<h1><u><a href="https://bsides-pdx.square.site/product/bsidespdx-2022-conference/17">Click here to register</a></u></h1>
+<h1><u><a href="https://bsides-pdx.square.site/product/bsidespdx-2022-conference/17">Click here for Conference Registration</a></u></h1>
 
-Would you like a T-Shirt? <br>We are still working on them and will make an announcement on the socials when they are ready to order.<br>
+*We have decided to give away ~300 TShirts at the event, first come, first served.<br>
+
 <!--<a href="">BSIDESPDX 2022 T-shirts can be ordered here</a> -->
 <br>
 <h3><a href="https://bsidespdx.org/events/2022/COVID19_Policy.html">Covid policy</a></h3>We will require that all participants of BSidesPDX wear a mask while inside of conference spaces for the entirety of the event, except when you are <br>1) actively eating or drinking; or <br>2) a presenter actively giving your talk/workshop. <br>Masks must be worn completely over both your mouth and nose. Failure to comply with our mask policy will result in removal from the event without refund or recourse.
