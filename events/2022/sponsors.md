@@ -13,7 +13,7 @@ Would your company like to sponsor? For less than the admission of a single atte
 <p>&nbsp;</p>
 <div class="row">
   <div class="columns small-6"><img src="/images/2022/web-logos/intel.png" alt="" class="center"/></div>
-  <div class="columns small-6"><img src="/images/2022/web-logos/F5labs.png" alt="" class="center"/></div>
+  <div class="columns small-6"><img src="/images/2022/web-logos/f5labs.png" alt="" class="center"/></div>
 </div>
 <p>&nbsp;</p>
 <div class="row">
