@@ -105,7 +105,7 @@ The following schedule is not final and is still subject to changes,
     <tr>
         <td markdown="span" align="center">**15:00**</td>
         <td markdown="span" align="left"> macOS persistence, LaunchAgents and Beyond<br><br></td>
-        <td markdown="span" align="left" rowspan=4> Creating cybersecurity training exercises with EDURange <br> ***16:30 CTF Ends***</td>
+        <td markdown="span" align="left" rowspan=4> Creating cybersecurity training exercises with EDURange</td>
     </tr>
     <tr>
         <td markdown="span" align="center">**15:30**</td>
@@ -135,7 +135,7 @@ The following schedule is not final and is still subject to changes,
     </tr>
     <tr>
         <td markdown="span" align="center">**19:00**</td>
-        <td markdown="span" align="center" colspan=2> ***CTF Prizes***</td>
+        <td markdown="span" align="center" colspan=2> ***CTF Prizes (CTF ends at 18:30)***</td>
     </tr>
     <!-- <tr>
         <td markdown="span" align="center">**19:30**</td>
