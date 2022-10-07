@@ -7,6 +7,7 @@ permalink: /events/2022/contests-events.html
 <a name="CTF"></a>
 
 # <b>BsidesPDX 2022 CTF</b>
+# <a href="https://bsidespdxctf.party">https://bsidespdxctf.party</a> 
 
 ### Hosted by Michael Hoffman ([@0x1nd0](https://twitter.com/0x1nd0))
 
