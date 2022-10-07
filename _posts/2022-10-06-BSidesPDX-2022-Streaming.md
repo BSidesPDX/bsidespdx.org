@@ -7,7 +7,7 @@ date: 2022-10-06T00:00:01-11:05
 For those who might not be able to attend this year, BSidesPDX will be streamed live on our YouTube channel.
 </div>
 <br><br>
-<iframe class="center" width="560" height="315" src="https://www.youtube-nocookie.com/embed/kEWtxclw6fg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/QOypldw6hnY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <br><br><br>
 
 
