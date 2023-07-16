@@ -16,7 +16,7 @@ As BSidesPDX has evolved over the years into a larger event, the process of cura
 </tr>
 
 <tr>
-  <td style="vertical-align:top">
+  <td style="vertical-align:top"></td>
   <td style="vertical-align:top">
   <p><strong>Joe Fitz</strong></p>
   </td>
