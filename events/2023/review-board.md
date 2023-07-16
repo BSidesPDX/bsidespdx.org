@@ -16,9 +16,10 @@ As BSidesPDX has evolved over the years into a larger event, the process of cura
 </tr>
 
 <tr>
-  <td style="vertical-align:top"></td>
   <td style="vertical-align:top">
-  <p><strong>Joe Fitz</strong></p>
+    <img src="/images/2023/review-board/joefitz-headshot-300x300.jpg" alt="Joe FitzPatrick" height="1500" width="1500"/></td>
+  <td style="vertical-align:top">
+  <p><strong>Joe FitzPatrick</strong> (<a href="https://twitter.com/securelyfitz" target="_blank">@securelyfitz</a>) is an Instructor and Researcher at <a href="https://SecuringHardware.com">SecuringHardware.com</a>. Joe has spent most of his career working on low-level silicon debug, security validation, and penetration testing of CPUs, SoCs, and microcontrollers. He has spent the past decade developing and delivering hardware security related tools and training, instructing hundreds of security researchers, pen testers, and hardware validators worldwide. When not teaching Applied Physical Attacks training, Joe is busy developing new course content or working on contributions to the NSA Playset and other misdirected hardware projects, which he regularly presents at all sorts of fun conferences.</p>
   </td>
 </tr>
 
