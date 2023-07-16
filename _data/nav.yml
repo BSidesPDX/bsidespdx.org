@@ -14,7 +14,7 @@
     - subtitle: "Past Events"
       subhref: "/about/past-events.html"
 - title: "CFP"
-  href: "/cfp.html"
+  href: "https://cfp.bsidespdx.org/bsidespdx-2023/"
   subcategories:
     - subtitle: "CFP"
       subhref: "https://cfp.bsidespdx.org/bsidespdx-2023/"
