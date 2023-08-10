@@ -20,7 +20,7 @@ Would your company like to sponsor? For less than the admission of a single atte
 <p>&nbsp;</p>
 <div class="row">
   <!--Platinum Sponsor logos go here -->
-  <div class="columns small-6"><img src="/images/2023/web-logos/nwvit.png" alt="" class="center"/></div>
+  <div class="columns small-6"><img src="/images/2023/web-logos/nwvit.png" alt="Northwest Veterans In Technology Logo" class="center"/></div>
 </div>
 <p>&nbsp;</p>
 <div class="row">
@@ -37,6 +37,7 @@ Would your company like to sponsor? For less than the admission of a single atte
 <p>&nbsp;</p>
 <div class="row">
   <!--Silver Sponsor logos go here -->
+  <div class="columns small-6"><img src="/images/2023/web-logos/identity_technologies.png" alt="Indentity Technologies Logo" class="center"/></div>
 </div>
 <p>&nbsp;</p>
 <div class="row">
