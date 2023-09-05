@@ -22,4 +22,4 @@ Registration on Third Floor, Room 338<br>
 <br>
 We are a 501(c)(3) charitable nonprofit. We are happy to have you regardless of what you can pay. If your employer reimburses you for your conference fees, we recommend the 'Business Recommendation' tier which covers the full cost of the event.
 
-*Free registration will remain available until October 1st.
+*Free registration will remain available until September 15th.
