@@ -31,6 +31,7 @@ Would your company like to sponsor? For less than the admission of a single atte
 <p>&nbsp;</p>
 <div class="row">
   <!--Gold Sponsor logos go here -->
+  <div class="columns small-6"><img src="/images/2023/web-logos/securing-hardware.png" alt="Securing Hardware Logo" class="center"/></div>
 </div>
 <p>&nbsp;</p>
 <div class="row">
