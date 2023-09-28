@@ -49,6 +49,7 @@ Would your company like to sponsor? For less than the admission of a single atte
 <div class="row">
   <!--Silver Sponsor logos go here -->
   <div class="columns small-6"><img style="height: auto; width: 300px;" src="/images/2023/web-logos/identity_technologies.png" alt="Indentity Technologies Logo" class="center"/></div>
+  <div class="columns small-6"><img style="height: auto; width: 300px;" src="/images/2023/web-logos/NoStarchPressLogo.jpg" alt="No Starch Press Logo" class="center"/></div>
 </div>
 <p>&nbsp;</p>
 <div class="row">
