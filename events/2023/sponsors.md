@@ -12,7 +12,8 @@ Would your company like to sponsor? For less than the admission of a single atte
 <p>&nbsp;</p>
 <div class="row">
   <!--Diamond Sponsor logos go here -->
-  <div class="columns small-6"><img src="/images/2023/web-logos/github.png" alt="Github Logo" class="center"/></div>
+  <div class="columns small-6"><img style="height: auto; width: 300px;" src="/images/2023/web-logos/psu-logo.jpg" alt="PSU Logo" class="center"/></div>
+  <div class="columns small-6"><img style="height: auto; width: 300px;" src="/images/2023/web-logos/github.png" alt="Github Logo" class="center"/></div>
 <!--  <div class="columns small-6"><img src="/images/2023/web-logos/psu.png" alt="PSU Logo" class="center"/></div> -->
 </div>
 <p>&nbsp;</p>
@@ -22,7 +23,7 @@ Would your company like to sponsor? For less than the admission of a single atte
 <p>&nbsp;</p>
 <div class="row">
   <!--Platinum Sponsor logos go here -->
-  <div class="columns small-6"><img src="/images/2023/web-logos/nwvit.png" alt="Northwest Veterans In Technology Logo" class="center"/></div>
+  <div class="columns small-6"><img style="height: auto; width: 300px;" src="/images/2023/web-logos/nwvit.png" alt="Northwest Veterans In Technology Logo" class="center"/></div>
 </div>
 <p>&nbsp;</p>
 <div class="row">
@@ -31,9 +32,14 @@ Would your company like to sponsor? For less than the admission of a single atte
 <p>&nbsp;</p>
 <div class="row">
   <!--Gold Sponsor logos go here -->
-  <div class="columns small-6"><img src="/images/2023/web-logos/securing-hardware.png" alt="Securing Hardware Logo" class="center"/></div><br/>
-  <div class="columns small-6"><img src="/images/2023/web-logos/new_relic_logo_vertical.png" alt="New Relic Logo" class="center"/></div><br/>
-  <div class="columns small-6"><img src="/images/2023/web-logos/ISACA_logo_PortlandOregon_RGB.png" alt="ISACA Portland Logo" class="center"/></div>
+  <div class="columns small-6"><img style="height: auto; width: 300px;"  src="/images/2023/web-logos/securing-hardware.png" alt="Securing Hardware Logo" class="center"/></div>
+<p>&nbsp;</p>
+  <div class="columns small-6"><img style="height: auto; width: 300px;" src="/images/2023/web-logos/new_relic_logo_vertical.png" alt="New Relic Logo" class="center"/></div>
+<p>&nbsp;</p>
+  <div class="columns small-6"><img style="height: auto; width: 300px;" src="/images/2023/web-logos/ISACA_logo_PortlandOregon_RGB.png" alt="ISACA Portland Logo" class="center"/></div>
+<p>&nbsp;</p>
+  <div class="columns small-6"><img style="height: auto; width: 300px;" src="/images/2023/web-logos/BPM.png" alt="BPM Logo" class="center"/></div>
+<p>&nbsp;</p>
 </div>
 <p>&nbsp;</p>
 <div class="row">
@@ -42,7 +48,7 @@ Would your company like to sponsor? For less than the admission of a single atte
 <p>&nbsp;</p>
 <div class="row">
   <!--Silver Sponsor logos go here -->
-  <div class="columns small-6"><img src="/images/2023/web-logos/identity_technologies.png" alt="Indentity Technologies Logo" class="center"/></div>
+  <div class="columns small-6"><img style="height: auto; width: 300px;" src="/images/2023/web-logos/identity_technologies.png" alt="Indentity Technologies Logo" class="center"/></div>
 </div>
 <p>&nbsp;</p>
 <div class="row">
@@ -51,5 +57,5 @@ Would your company like to sponsor? For less than the admission of a single atte
 <p>&nbsp;</p>
 <div class="row">
   <!--Community Sponsor logos go here -->
-  <div class="columns small-6"><img src="/images/2023/web-logos/ISSA.png" alt="ISSA Logo" class="center"/></div>
+  <div class="columns small-6"><img style="height: auto; width: 300px;" src="/images/2023/web-logos/ISSA.png" alt="ISSA Logo" class="center"/></div>
 </div>
