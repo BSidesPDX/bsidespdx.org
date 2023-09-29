@@ -48,10 +48,10 @@ The following schedule is not final and is still subject to changes,
 <th colspan=4 align="center"><br>Friday, October 6th, 2023<br><br></th>
 </tr>
 <tr class="header">
-    <th markdown="span" align="center" >Time</th>
-    <th markdown="span" align="center" >[Ballroom](/events/2023/speakers.html)</th>
-    <th markdown="span" align="center" >[Track 2](/events/2023/speakers.html)</th>
-    <th markdown="span" align="center" >[Workshops](/events/2023/speakers.html)</th>
+    <th markdown="span" align="center" rowspan=2 >Time</th>
+    <th markdown="span" align="center" >[Main Track](/events/2023/speakers.html)<br>[Smith Ballroom](/events/2023/venue.html#3rdFloor)</th>
+    <th markdown="span" align="center" >[Track 2](/events/2023/speakers.html)<br>[Rooms 329-327](/events/2023/venue.html#3rdFloor)</th>
+    <th markdown="span" align="center" >[Workshops](/events/2023/speakers.html)<br>[Rooms 296,298](/events/2023/venue.html#2ndFloor)</th>
 </tr>
 </thead>
 <tbody>
@@ -149,10 +149,10 @@ The following schedule is not final and is still subject to changes,
 <th colspan=4 align="center"><br>Saturday, October 7th, 2023<br><br></th>
 </tr>
 <tr class="header">
-    <th markdown="span" align="center" >Time</th>
-    <th markdown="span" align="center" >[Ballroom](/events/2023/speakers.html)</th>
-    <th markdown="span" align="center" >[Track 2](/events/2023/speakers.html)</th>
-    <th markdown="span" align="center" >[Workshops](/events/2023/speakers.html)</th>
+    <th markdown="span" align="center" rowspan=2 >Time</th>
+    <th markdown="span" align="center" >[Main Track](/events/2023/speakers.html)<br>[Smith Ballroom](/events/2023/venue.html#3rdFloor)</th>
+    <th markdown="span" align="center" >[Track 2](/events/2023/speakers.html)<br>[Rooms 329-327](/events/2023/venue.html#3rdFloor)</th>
+    <th markdown="span" align="center" >[Workshops](/events/2023/speakers.html)<br>[Rooms 296,298](/events/2023/venue.html#2ndFloor)</th>
 </tr>
 </thead>
 <tbody>
