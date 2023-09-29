@@ -109,11 +109,6 @@ The following schedule is not final and is still subject to changes,
         <td markdown="span" align="center" > Take control of your career: A panel with Industry Leaders</td>
         <td markdown="span" align="center" > Following the metadata trail</td>
     </tr>
-     <tr>
-        <td markdown="span" align="center" >**16:30**</td>
-        <td markdown="span" align="center" > Take control of your career: A panel with Industry Leaders</td>
-        <td markdown="span" align="center" > Following the metadata trail</td>
-    </tr>
     <tr style="background-color: #E0CBA8;">
         <td markdown="span" align="center">**17:00**</td>
         <td markdown="span" align="center" rowspan=1 colspan=3>***Closing Remarks***</td>
