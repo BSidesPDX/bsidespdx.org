@@ -105,10 +105,15 @@ Alex Ivkin does secure architecture, design and development of software and hard
 <a name="Bryan Hance"></a>
 ## <b>Bastardo Grande: Hunting the biggest black market bike fence in the world</b>
 ### Bryan Hance (@bikeindex on Twitter)
-Since 2020, I have (as BikeIndex.org) been chasing and hunting the single largest black market bike fence in modern history. I spoke about this in 2022, but was only able to partially share that story because federal prosecutors were slowly working through the case.  
-Since then there have been significant developments, including four prosecutions, and I am now able to divulge the whole story to BSIDES. I'll speak about this investigation and the larger problem in general it points to, and the new directions it has taken our OSINT work re: chasing similar bad guys. 
-The talk will be audience engaging, with live back-and-forth and audience 'spot-the-OSINT-FAIL-here' type participation as we walk through the major breakthroughs that took this project from 'hey, that's interesting' to multiple names going down into a federal indictment. 
-There will also be a general call to action re: "hey, anybody can do this work, here's how to get started in OSINT investigations" using my experience with this investigation as the general lens.
+Since 2020, I have (as BikeIndex.org) been chasing and hunting the single largest black market bike fence in modern history. 
+I spoke about this in 2022, but was only able to partially share that story because prosecutors were working through the case.
+Since then there have been significant developments and I am now able to divulge the whole story to BSIDES. 
+I’ll speak about this investigation and the larger problem in general it points to, and the new directions it 
+has taken our OSINT work re: chasing similar bad guys. The talk will be audience engaging, with live back-and-forth 
+and audience ‘spot-the-OSINT-FAIL-here’ type participation as we walk through the major breakthroughs that took this 
+project from ‘hey, that’s interesting’ to an investigation. There will also be a general call to action re: 
+“hey, anybody can do this work, here’s how to get started in OSINT investigations” using my experience with 
+this investigation as the general lens."
 
 Bryan Hance helped co-found BikeIndex.org because he had way too many bikes stolen - and he realized chasing and recovering stolen bikes was really fun. He works in cyber security and applies OSINT methods and processes to chasing bike thieves.
 
