@@ -16,7 +16,7 @@ Abstract
 
 ## <b>Day 1 Keynote</b>
 
-### Joe Grand ([@joegrand](https://twitter.com/joegrand))
+### Joe Grand - Troublemakers and Superpowers([@joegrand](https://twitter.com/joegrand))
 
 
 <br><br>
@@ -25,7 +25,7 @@ Abstract
 <a name="kymberlee"></a>
 # <b>Day 2 Keynote</b>
 
-### Kymberlee Price ([@Kym_Possible](https://twitter.com/Kym_Possible))
+### Kymberlee Price - A Blameless Retro on Security([@Kym_Possible](https://twitter.com/Kym_Possible))
 
 
 <br><br>

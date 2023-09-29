@@ -49,9 +49,9 @@ The following schedule is not final and is still subject to changes,
 </tr>
 <tr class="header">
     <th markdown="span" align="center" >Time</th>
-    <th markdown="span" align="center" >[Ballroom](/events/2022/speakers.html)</th>
-    <th markdown="span" align="center" >[Track 2](/events/2022/speakers.html)</th>
-    <th markdown="span" align="center" >[Workshops](/events/2022/contests-events.html)</th>
+    <th markdown="span" align="center" >[Ballroom](/events/2023/speakers.html)</th>
+    <th markdown="span" align="center" >[Track 2](/events/2023/speakers.html)</th>
+    <th markdown="span" align="center" >[Workshops](/events/2023/speakers.html)</th>
 </tr>
 </thead>
 <tbody>
@@ -65,7 +65,7 @@ The following schedule is not final and is still subject to changes,
     </tr>
     <tr class="General_items">
         <td markdown="span" align="center">**9:45**</td>
-        <td markdown="span" align="center" colspan=3> **Keynote: [Joe Grand](/events/2022/speakers.html#joe)**</td>
+        <td markdown="span" align="center" colspan=3> **Keynote: [Joe Grand - Troublemakers and Superpowers](/events/2023/speakers.html#joe)**</td>
     </tr>
     <tr class="General_items">
         <td markdown="span" align="center">**10:45**</td>
@@ -150,9 +150,9 @@ The following schedule is not final and is still subject to changes,
 </tr>
 <tr class="header">
     <th markdown="span" align="center" >Time</th>
-    <th markdown="span" align="center" >[Ballroom](/events/2022/speakers.html)</th>
-    <th markdown="span" align="center" >[Track 2](/events/2022/speakers.html)</th>
-    <th markdown="span" align="center" >[Workshops](/events/2022/contests-events.html)</th>
+    <th markdown="span" align="center" >[Ballroom](/events/2023/speakers.html)</th>
+    <th markdown="span" align="center" >[Track 2](/events/2023/speakers.html)</th>
+    <th markdown="span" align="center" >[Workshops](/events/2023/speakers.html)</th>
 </tr>
 </thead>
 <tbody>
@@ -166,7 +166,7 @@ The following schedule is not final and is still subject to changes,
     </tr>
     <tr class="General_items">
         <td markdown="span" align="center">**9:45**</td>
-        <td markdown="span" align="center" colspan=3> **Keynote: [Kymberlee Price](/events/2022/speakers.html#Kymberlee)**</td>
+        <td markdown="span" align="center" colspan=3> **Keynote: [Kymberlee Price - A Blameless Retro on Security](/events/2023/speakers.html#Kymberlee)**</td>
     </tr>
     <tr class="General_items">
         <td markdown="span" align="center">**10:45**</td>
