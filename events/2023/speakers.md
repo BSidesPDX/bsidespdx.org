@@ -25,7 +25,7 @@ Abstract
 <a name="kymberlee"></a>
 # <b>Day 2 Keynote</b>
 
-### Kymberlee Price - A Blameless Retro on Security([@Kym_Possible](https://twitter.com/Kym_Possible))
+### Kymberlee Price - A Blameless Retro on Security([@kympossible.bsky.social](https://bsky.app/profile/kympossible.bsky.social))
 
 
 <br><br>
