@@ -203,18 +203,16 @@ The following schedule is not final and is still subject to changes,
         <td markdown="span" align="center" >**15:00**</td>
         <td markdown="span" align="center" > Hacks, Leaks, and Revelations: The Art of Analyzing Hacked and Leaked Data</td>
         <td markdown="span" align="center" > A Gentle Introduction to Understanding Fuzzers</td>
-        <td markdown="span" align="center" rowspan=1> Network Protocol Fuzzing With Boofuzz</td>
+        <td markdown="span" align="center" rowspan=3> Network Protocol Fuzzing With Boofuzz</td>
     </tr>
     <tr style="background-color: #E0CBA8;">
         <td markdown="span" align="center">**16:00**</td>
-        <td markdown="span" align="center" rowspan=1 colspan=3>***Closing Remarks***</td>
+        <td markdown="span" align="center" rowspan=1 colspan=2>***Closing Remarks***</td>
     </tr>
-     <tfoot>
     <tr>
         <td markdown="span" align="center">**16:15**</td>
-        <td markdown="span" align="center" colspan=3> **BSIDES Portland 2024 Planning begins**</td>
+        <td markdown="span" align="center" colspan=2> **BSIDES Portland 2024 Planning begins**</td>
     </tr>
-    </tfoot>
 </tbody>
 </table>
 
