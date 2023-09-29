@@ -106,8 +106,13 @@ The following schedule is not final and is still subject to changes,
     </tr>
      <tr>
         <td markdown="span" align="center" >**16:00**</td>
-        <td markdown="span" align="center" > Take control of your career: A panel with Industry Leaders</td>
-        <td markdown="span" align="center" > Following the metadata trail</td>
+        <td markdown="span" align="center" > Gone Tishing: Abusing Microsoft Teams Security Misconfigurations for Webhook Hijacking and Other Shenanigans</td>
+        <td markdown="span" align="center" > Engineering Privacy From the Get-Go</td>
+    </tr>
+     <tr>
+        <td markdown="span" align="center" >**16:30**</td>
+        <td markdown="span" align="center" > Using Sigma as a Gateway to Detection Engineering</td>
+        <td markdown="span" align="center" > Building a programming environment for privacy and iterative learning</td>
     </tr>
     <tr style="background-color: #E0CBA8;">
         <td markdown="span" align="center">**17:00**</td>
