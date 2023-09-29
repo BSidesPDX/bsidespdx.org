@@ -17,7 +17,11 @@ Abstract
 ## <b>Day 1 Keynote</b>
 
 ### Joe Grand - Troublemakers and Superpowers([@joegrand](https://twitter.com/joegrand))
+Joe Grand is a product designer, hardware hacker, and the founder of Grand Idea Studio, Inc. He specializes in creating, exploring, manipulating, and teaching about electronic devices.
 
+Also known as Kingpin, Joe was a member of the legendary hacker group L0pht Heavy Industries, where he helped raise awareness of the hacker ethos and the importance of independent security vulnerability research. He also brought engineering to the masses as a co-host of Discovery Channel’s Prototype This, which followed the real-life design process of a unique prototype every episode.
+
+Joe holds a Bachelor of Science degree in Computer Engineering from Boston University in Boston, Massachusetts and a Doctorate of Science in Technology (Honorary) degree from the University of Advancing Technology in Tempe, Arizona.
 
 <br><br>
 <hr>
@@ -26,7 +30,7 @@ Abstract
 # <b>Day 2 Keynote</b>
 
 ### Kymberlee Price - A Blameless Retro on Security([@kympossible.bsky.social](https://bsky.app/profile/kympossible.bsky.social))
-
+Kymberlee Price is a dynamic engineering leader and public speaker known for developing high-performing multidisciplinary teams responsible for the security and integrity of software products, services, and infrastructure. A recognized expert in the information security industry, she has extensive experience in product security incident response and investigations, coordinated vulnerability disclosure and bug bounties, Secure Development Lifecycle (SDL), and Open Source Security strategy. Ms. Price speaks regularly at conferences around the world and is currently on the content review board for Black Hat USA and Black Hat Europe.
 
 <br><br>
 <hr>
