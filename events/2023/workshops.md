@@ -2,47 +2,87 @@
 layout: page
 title: "Workshops"
 ---
-Coming soon!
-
-{% comment %}
 Registration
-Registration for workshops is open at <a href="https://bsides-pdx.square.site/product/bsidespdx-2022-conference/18">https://bsides-pdx.square.site/product/bsidespdx-2022-conference/18</a>.
+Registration for workshops is open at <a href="https://bsides-pdx.square.site/product/bsidespdx-2023-workshops/22">https://bsides-pdx.square.site/product/bsidespdx-2023-workshops/22</a>.
 
-Since capacity is limited, we do attach a nominal $10 fee to advance registration to prevent speculative registrations and limit no-shows. We will not keep a waitlist, but empty seats will be made available first-come-first-served at the start of the workshop.
+We've got 6 workshops for you this year!
 
-If for any reason, this fee is a barrier to your attending, use the coupon code ‘IPROMISETOATTEND’ to register for free.
+Since capacity is limited, we do attach a nominal $10 fee to advance registration to prevent speculative registrations and limit no-shows.
 
-<a name="void* Vikings"></a>
-## <b>Beginner Capture The Flag (CTF) Challenge Carousel</b>
 
-### The void* Vikings 
-Jumping into your first CTF can be scary! Let us show you the ropes by introducing five major CTF categories. Look forward to hands-on learning with our mentors as you rotate through stations. Each station will have an introduction, demonstration, and challenges to try for yourself! Topics covered include: OSINT, Reverse Engineering, Cryptography, Steganography, Web and Network Security.
 
-<i>The void* Vikings are the Portland State University security club and CTF team!
-Our mission is: Promoting security culture, ethics, research, ongoing education, and development of safer code through playing and competing in Capture The Flag competitions
-The 2022-23 officers are: Allison Marie Naaktgeboren, Tristan Gomez, and Travis Noyes</i>
-<br>
+If a class is sold out, you're welcome to show up and try your luck. We will not keep a waitlist, but empty seats will be made available first-come-first-served at the start of the workshop.
+We will share your email address with the trainer. They may send info out ahead of the training.
+If for any reason, this fee is a barrier to your attending, use the coupon code 'IPROMISETOATTEND' to register for free.
+Please treat registration as a community resource - excessive registrations may be cancelled. Let us know if you can't attend so we can reopen those seats.
 
-<a name="Barrett Darnell Wesley Thurner "></a>
-## <b>Pivoting, Tunneling, and Redirection Master Class </b>
-### Barrett Darnell ([@pwneip](https://twitter.com/pwneip)), Wesley Thurner ([@nopresearcher](https://twitter.com/nopresearcher)) 
-Pivoting, tunneling, and redirection are essential skills that separate the junior and senior operators in the offensive security landscape. This workshop describes various techniques used to creatively route traffic through multiple network segments. Various tools and techniques will be discussed and demonstrated. Attendees will be able to practice these skills in a provided cyber range during and after the workshop. These are essential skills for every pentester, bug bounty hunter, and red team operator. But that's not all! Defenders will learn techniques for detecting these sorts of suspicious traffic in their network. 
-<br>
-Barrett Darnell is a Principal Security Engineer on the Intuit Red Team, a vital part of the organization that protects Intuit and customers from all forms of cybercrime. Barret is also a certified instructor and author for SANS. He teaches SEC660 Advanced Penetration Testing and Exploit Development and authored/teaches SEC565 Red Team Operations.
-Wesley Thurner is a Principal Security Engineer on the Intuit Red Team, a vital part of the organization that protects Intuit and customers from all forms of cybercrime. Intuit is the global technology platform that helps consumers and small businesses overcome their most important financial challenges. Serving more than 100 million customers worldwide with TurboTax, QuickBooks, Mint, Credit Karma and Mailchimp, we believe that everyone should have the opportunity to prosper. We never stop working to find new, innovative ways to make that possible.
-<br>
 
-<a name="Jens Mache, Levi Overcast, Seth Leichsenring, Richard Weiss"></a>
-## <b>Creating cybersecurity training exercises with EDURange </b>
-### Jens Mache, Levi Overcast, Seth Leichsenring, Richard Weiss 
-EDURange allows for users to host the application on their own hardware, or to be run on a central cloud server. You can spin up any of our exercises or create your own to play on-demand. Our exercises take the form of one or more docker containers with built-in challenges which range in difficulty from command line basics to more advanced network reconnaissance and Metasploit. Using Terraform, one can customize our exercises to add tools or artifacts to the existing exercises, or make more extensive changes, EDURange could be the perfect solution for you. 
-In this workshop, we will show how to create hands-on cybersecurity experiences with assessments using the EDUrange platform. We will work through creating and launching EDUrange scenarios. We provide pre-configured Docker images and a framework for creating your own. You can host EDUange instances from anywhere that works best for you — AWS, Goggle cloud, Azure or on your own hardware locally.
-By the end of this workshop, you will know how to set up your own CTF using EDURange. See some of the exercises at https://edurange.org/scenarios.html
-<br>
-Jens Mache teaches computer science at Lewis & Clark College in Portland, Oregon 
-Levi Overcast is a software developer at The Evergreen State College, where he is working towards his Bachelor's degree. He has been working as a developer on the EDURange Platform for the past six months. 
-Seth Leichsenring is a software developer at Narf Industries. He earned his Bachelor’s degree from The Evergreen State College.
-Richard Weiss teaches computer security and general computer Science and mathematics at The Evergreen State College. He started the EDURange project in 2011 with Jens Mache and Michael Locasto.
+Browse the full descriptions of each course on the BSides website:
+
+https://bsidespdx.org/events/2023/workshops.html
+
+<br><br><br>
+<hr>
+
+<a name="Anon Hacker"></a>
+## <b>Purple-teaming outbound HTTPS</b>
+### Anon Hacker 
+Red teams: want to exfiltrate sensitive data from outbound HTTPS traffic on that juicy Linux host you just compromised?
+Blue teams: want to detect the various ways bad actors can intercept outbound HTTPS?
+This talk is for you! We'll walk through a number of scenarios discussing trade-offs in steal and complexity. Watch a quick PoC live, and dig into the internals of the solutions offline.
+
+Evading detection in Linux has a special place in my heart. There's nothing quite as exciting as popping a shell on a host and seeing what you can do with it. Add intercepting 
+outbound HTTPS to your arsenal!
+<hr>
+
+
+<a name="Portland State University Cybersecurity Club"></a>
+## <b>Digital Forensics and File Recovery Workshop</b>
+### Portland State University Cybersecurity Club 
+This is a surface level demonstration of the Digital Forensics discipline of cybersecurity. Including an introduction to different filesystems, plus industry tools (such as dd, sleuthkit, binwalk, and many more). Additionally, a data recovery engagement will be simulated through a capture the flag scenario.
+
+Our mission is to promote security culture, ethics, research, ongoing education, and development of safer code through playing in Capture the Flag competitions.
+
+Discord: https://discord.gg/2QKup4BryT
+<hr>
+
+<a name="aviditas"></a>
+## <b>Insider Threat IR Workshop: A Hands-on Zero to 60</b>
+### aviditas ("A" on the #503Hax group in signal)
+From the open-source data created by Blue Team Village's Project Obsidian, three real world generated InT cases will be tackled by the participants of this workshop. Starting with a common but low threat level, moving to a gray area case, and finishing with a complex incident.
+
+With an inability to tolerate boredom and background in hunting social engineers, aviditas moved from engineering and corporate training to work in customer facing & traditional blue team environments. As a generalist by nature, the Sisyphusian nature of the industry is the main appeal as breadth of knowledge is rewarded. Aviditas is an advocate for demystifying and removing cost barriers for high quality InfoSec training and resources.
+<hr>
+
+<a name="Jens Mache"></a>
+## <b>Capture The Flag (CTF) With Feedback And Hints Workshop</b>
+### Jens Mache 
+Capture The Flag (CTF) With Feedback And Hints. 
+Short descriptions at https://edurange.org/scenarios.html
+
+Jens Mache is an educator and researcher at Lewis & Clark College in Portland, Oregon. His certifications include SANS/ GIAC Certified Intrusion Analyst (GCIA), Penetration Tester (GPEN), Incident Handler (GCIH).
+<hr>
+
+
+<a name="David Tomaschik"></a>
+## <b>Badgelife Creator 101: Making Your First Electronic Badge Workshop</b>
+### David Tomaschik (Matir) (@matir on twitter , @matir@infosec.exchange)
+Badgelife, or the culture that has evolved around creating your own unofficial event badges, continues to be a big part of the hacker conference scene.  Many people have ideas but don't know how to turn these ideas into reality.  I'll talk about the basic steps to take a badge idea and turn it into a physical badge, along with tips and tricks I've learned from making 4 badgelife badges.
+
+David is a senior engineer and tech lead of the internal Red Team at Google.  When not breaking things, he enjoys making electronics and teaching others about security and electronics.  He has spoken at DEF CON, BSidesLV, BSidesSF, and other events.
+
+<hr>
+
+<a name="jpereyda"></a>
+## <b>Network Protocol Fuzzing With Boofuzz Workshop</b>
+### Joshua pereyda (@jtpereyda on Twitter)
+Get hands on experience writing custom network protocol fuzzers.
+This class will cover the basics of network protocol "smart fuzzing."
+Exercises will utilize the open source network protocol fuzzing framework, boofuzz.
+Attendees will gain practice understand network protocols, implementing and iterating on a custom fuzzer, and identifying vulnerabilities.
+
+Joshua is a software engineer specializing in security, a small business owner, and the maintainer of the boofuzz network protocol fuzzing framework. When not hacking, he likes to program. When not programming, he likes to hack. Among his other passions are attending orchestral concerts with his wife, drilling fine motor skills with his toddlers in the form of fun and games, teaching anyone and everyone to program and hack, using AI to code for him, and identifying new ways to break the rules for good.
+<hr>
 
 <!--
 <a name=""></a>
@@ -51,4 +91,3 @@ Richard Weiss teaches computer security and general computer Science and mathema
 Abstract
 *Bio*
 -->
-{% endcomment %}

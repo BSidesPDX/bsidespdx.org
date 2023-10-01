@@ -30,6 +30,7 @@ Joe holds a Bachelor of Science degree in Computer Engineering from Boston Unive
 <hr>
 
 <a name="kymberlee"></a>
+
 # <b>Day 2 Keynote</b>
 ### Kymberlee Price - A Blameless Retro on Security([@kympossible.bsky.social](https://bsky.app/profile/kympossible.bsky.social))
 <img src="/images/2023/kym.jpg" title="KYM" class="center" width="600" height="450" style="border:0;">
@@ -40,6 +41,7 @@ Kymberlee Price is a dynamic engineering leader and public speaker known for dev
 <hr>
 
 <a name="Jonathan Reiter"></a>
+
 ## <b>China Recon 101: Finding Nation State Infra with Almost Free Tools</b>
 ### Jonathan Reiter (@jonathanmreiter, @bees@infosec.exchange)
 The People's Republic of China has a poorly documented web, and this talk will walk the audience through some of the more practical aspects of both government and non government networks in this geo. Our thesis is that understanding the layout of the PRC web is a crucial component for contextualizing adversary infrastructure - recent operations by area adversaries, such as VoltTyphoon, used recon infrastructure with links back to PRC-based data centers.
@@ -49,6 +51,7 @@ Jonathan is an Engineer at Dragos, where he helped build the Neighborhood Keeper
 <hr>
 
 <a name="Micah Lee"></a>
+
 ## <b>Hacks, Leaks, and Revelations: The Art of Analyzing Hacked and Leaked Data</b>
 ### Micah Lee (@micahflee@infosec.exchange on Mastodon. @micahflee.com on Bluesky. @micahflee on Twitter)
 
@@ -59,6 +62,7 @@ Micah Lee is an investigative journalist, computer security engineer, and an ope
 <hr>
 
 <a name="Sasha Levy"></a>
+
 ## <b>Easy Mode Deception Technology Deployments @ Scale</b>
 ### Sasha Levy 
 Many threat detection & incident response teams struggle with the idea of when to deploy or leverage 7 deception technologies. During this talk, I’ll introduce the audience to Canary tokens as a tool that enables fast, simple, and customizable token types for a variety of environments (www, macOS, Windows, Linux/EC2, k8s AWS). I’ll discuss the benefits of deploying canary tokens as a detection strategy weighed against the challenges of environment wide deployment of a new technology within a D&R program.  Mass deployment is easier than you think!
@@ -66,19 +70,9 @@ Many threat detection & incident response teams struggle with the idea of when t
 Sasha is a Senior Security Engineer at Remitly working on the Detection and Response Team. Over six years she's worked on a variety of teams within security, from Trust & Safety/User Security Operations, to Governance Risk and Compliance as a Third Party Security Program Manager. Her favorite part of working in incident response is middle of the night pages /s. Outside of work, you'll probably find her surfing in Los Angeles. She holds a B.A. in Media Arts and Sciences from Wellesley College.
 <hr>
 
-<a name="Portland State University Cybersecurity Club"></a>
-## <b>Digital Forensics and File Recovery Workshop</b>
-### Portland State University Cybersecurity Club 
-This is a surface level demonstration of the Digital Forensics discipline of cybersecurity. Including an introduction to different filesystems, plus industry tools (such as dd, sleuthkit, binwalk, and many more). Additionally, a data recovery engagement will be simulated through a capture the flag scenario.
-
-Our mission is to promote security culture, ethics, research, ongoing education, and development of safer code through playing in Capture the Flag competitions.
-
-Discord: https://discord.gg/2QKup4BryT
-<hr>
-
-
 
 <a name="David A"></a>
+
 ## <b>I like to MOVEit, MOVEit</b>
 ### David A (@riskymanag3ment)
 An analysis of the MOVEit data breach.
@@ -88,6 +82,7 @@ David has been working in information security for over 5 years, with a variety 
 <hr>
 
 <a name="Micah Babinski"></a>
+
 ## <b>Using Sigma as a Gateway to Detection Engineering</b>
 ### Micah Babinski (@micahbabinski on Twitter, micahbabinski.medium.com)
 When I started in the cybersecurity industry two and a half years ago, I did not know what Detection Engineering was. Today, I work as a principal detection engineer for a Class I railroad. In this talk I will chart my journey, and describe the pivotal role that Sigma has played in my career progression. Sigma is a legendary open source project that is equal parts detection format, open-source detection rule repository, and multi-platform conversion tool. Expect to walk away with a better understanding of detection engineering, Sigma, and an idea of how to get involved with the vibrant and supportive Sigma and detection engineering communities.
@@ -95,6 +90,7 @@ When I started in the cybersecurity industry two and a half years ago, I did not
 Micah Babinski is a Principal Detection Engineer at Amtrak. In 2021 he pivoted to cybersecurity following a decade working in Geographic Information Systems (GIS) as an analyst, technical lead, and project manager. His areas of interest include threat research, automation, systems integration, and detection community building. He hopes to continuously sharpen his technical skills while helping aspiring security professionals succeed in launching their careers. Besides his career focus, Micah is also a professional Scottish bagpiper, proud husband and father, and an enthusiastic (but very amateur) chef. He resides with his family in Portland, Oregon.
 <hr>
 <a name="Alex Ivkin"></a>
+
 ## <b>So you want to hack AI...</b>
 ### Alex Ivkin 
 As AI and ML become more powerful, so too do the threats to their security. Ever felt curious of what the brave new world of hacking AI/ML is shaping to be? Let me take you on a cruise of what is possible in that space, and what are the state-of-the-art defenses.
@@ -103,6 +99,7 @@ Alex Ivkin does secure architecture, design and development of software and hard
 <hr>
 
 <a name="Bryan Hance"></a>
+
 ## <b>Bastardo Grande: Hunting the biggest black market bike fence in the world</b>
 ### Bryan Hance (@bikeindex on Twitter)
 Since 2020, I have (as BikeIndex.org) been chasing and hunting the single largest black market bike fence in modern history. 
@@ -119,6 +116,7 @@ Bryan Hance helped co-found BikeIndex.org because he had way too many bikes stol
 
 <hr>
 <a name="Brent Holtsclaw"></a>
+
 ## <b>Improving UEFI Binary Analysis within Ghidra</b>
 ### Brent Holtsclaw 
 UEFI binary analysis has grown in popularity in recent years. As a result, many binary tools have gained native support or plugins. Ghidra gained initial third-party support for UEFI, however, it is currently not up to parity with other tools. This talk introduces a new framework to update UEFI support within Ghidra by improving four distinct areas:  preparation of the UEFI image, preparation of Ghidra, analysis, and analytics.
@@ -128,6 +126,7 @@ Brent is a Security Researcher at Intel. Brent has performed security analysis f
 
 
 <a name="Christina Liu"></a>
+
 ## <b>Engineering Privacy From the Get-Go</b>
 ### Christina Liu (@cliuthulu on Twitter)
 The software we build has a human impact even if at the surface level it doesn't seem that way. We as engineers are the stewards of our users’ data so it’s important to know how users are expecting us to protect their identity because it is the right thing to do even if it takes a little more time and effort to build in. This talk will cover the current challenges to securing personally identifiable information and provide practical tips on how to protect it.
@@ -138,6 +137,7 @@ Her favorite outdoors activities include climbing large rocks and hiking extreme
 
 <hr>
 <a name="Lea Snyder"></a>
+
 ## <b>Come Together: A framework for a shared security language</b>
 ### Lea Snyder (@_leisures on Twitter)
 Have you ever tried to do data analysis on all your security issues only to find that no one is using consistent language? Does this impede conversations with product teams, slowing down development and resolution of issues? This talk will show how we solved this by first engaging the audience through a simple exercise to highlight the problem, walking through our approach and outcomes, and provide actionable steps for others looking to replicate this approach.
@@ -145,17 +145,9 @@ Have you ever tried to do data analysis on all your security issues only to find
 Lea Snyder is a Principal Security Engineer at Microsoft. She’s worn a lot of hats over her career and mostly worked for companies that begin with the letter ‘A.’ You can read more at: https://tldrsec.com/guides/staffeng-security/stories/lea-snyder. Outside of work she can be found organizing security conferences or enjoying all the PNW has to offer.
 
 <hr>
-<a name="Anon Hacker"></a>
-## <b>Purple-teaming outbound HTTPS</b>
-### Anon Hacker 
-Red teams: want to exfiltrate sensitive data from outbound HTTPS traffic on that juicy Linux host you just compromised?
-Blue teams: want to detect the various ways bad actors can intercept outbound HTTPS?
-This talk is for you! We'll walk through a number of scenarios discussing trade-offs in steal and complexity. Watch a quick PoC live, and dig into the internals of the solutions offline.
 
-Evading detection in Linux has a special place in my heart. There's nothing quite as exciting as popping a shell on a host and seeing what you can do with it. Add intercepting 
-outbound HTTPS to your arsenal!
-<hr>
 <a name="Lateef Jackson"></a>
+
 ## <b>Building a programming environment for privacy and iterative learning</b>
 ### Lateef Jackson ( @lateefjackson on Twitter, https://bsd.network/web/@lhj, https://lateefjackson.com/)
 Why do cell phones ask for permission when installing an application for access to the internet, yet any software dependency can just access the internet willy-nilly? It doesn't have to be this way. You will see a working prototype that prioritizes privacy first
@@ -169,23 +161,9 @@ Why do cell phones ask for permission when installing an application for access 
 
 My name is Lateef Jackson. Since the turn of the century, I have been building software systems and engineering organizations. People build software, and people are impacted by software. My focus is on a data-driven approach to impacting people through technology.
 <hr>
-<a name="Jens Mache"></a>
-## <b>Capture The Flag (CTF) With Feedback And Hints Workshop</b>
-### Jens Mache 
-Capture The Flag (CTF) With Feedback And Hints. 
-Short descriptions at https://edurange.org/scenarios.html
 
-Jens Mache is an educator and researcher at Lewis & Clark College in Portland, Oregon. His certifications include SANS/ GIAC Certified Intrusion Analyst (GCIA), Penetration Tester (GPEN), Incident Handler (GCIH).
-<hr>
-<a name="David Tomaschik"></a>
-## <b>Badgelife Creator 101: Making Your First Electronic Badge Workshop</b>
-### David Tomaschik (Matir) (@matir on twitter , @matir@infosec.exchange)
-Badgelife, or the culture that has evolved around creating your own unofficial event badges, continues to be a big part of the hacker conference scene.  Many people have ideas but don't know how to turn these ideas into reality.  I'll talk about the basic steps to take a badge idea and turn it into a physical badge, along with tips and tricks I've learned from making 4 badgelife badges.
-
-David is a senior engineer and tech lead of the internal Red Team at Google.  When not breaking things, he enjoys making electronics and teaching others about security and electronics.  He has spoken at DEF CON, BSidesLV, BSidesSF, and other events.
-
-<hr>
 <a name="Ron Bowes"></a>
+
 ## <b>From Patch to Shell: The Twists and Turns of Exploiting a Hardened Platform</b>
 ### Ron Bowes (@iagox86 on every major platform)
 In July of 2023, SonicWall released an advisory for multiple vulnerabilities in their GMS platform. As security researchers, it's our job to help the community understand just how bad these vulnerabilities are (spoiler alert: they're pretty bad). We didn't realize it at the time, but this was going to be an epic journey through a labyrinthine patch: 60,000 lines of changes addressed 15 vulnerabilities of various types. Plus, aggressive filtering and a hardened platform made writing a generic exploit exceedingly difficult - how do you even stage a payload without curl or wget? But in the end, we prevailed and released a Metasploit module that chains together four-five different exploits (depending on how you count) to gain SYSTEM access to Windows or root access to the Linux appliance. This talk will be a technical deep-dive into the nuts and bolts of patch diffing, Java exploitation, bypassing obnoxious filters, and using pre-installed tools to stage a payload.
@@ -194,6 +172,7 @@ Ron Bowes is a Lead Security Researcher on the Rapid7 Emergent Threat Response t
 
 <hr>
 <a name="Guilherme Venere"></a>
+
 ## <b>Following the metadata trail</b>
 ### Guilherme Venere (@gvenere on Twitter)
 When financially motivated threat actors begin a new campaign their aim is to maximize gains while reducing the chances of being detected. That goal means they will use whatever delivery mechanism is trending at the time and will change behavior once the security industry becomes more efficient in detecting them. This rapid cycle sometimes cause them to leave important metadata in their IOCs, which can be used to identify and track these actors over time.
@@ -203,6 +182,7 @@ Guilherme Venere is a threat researcher with Cisco Talos since 2022. In the past
 
 <hr>
 <a name="Cameron Howell"></a>
+
 ## <b>From Light to Router: Reversing an IoT Smart Switch</b>
 ### Cameron Howell 
 This is the story of how I exploited a smart light switch to make it into a malicious router thanks to a hard coded encryption key. I present my journey starting as someone with minimal hardware hacking experience to being able to create open routers from light switches without the owner knowing of the new hole opened up in their network. Oftentimes, to practice hardware hacking skills, people will attempt to dump firmware from a router and find flaws. IoT devices are widespread and cheap and many blogs give information on how to exploit them; this low barrier to entry makes them a good target. In this presentation, I describe my process of information gathering and the failures I made, such as trusting labels on the PCB and soldering with the wrong equipment. By the end, I show how I completely owned the device and managed to remotely flash whatever firmware I wanted by extracting a hardcoded key and pretending to be the control server. Regardless of their hardware experience, an attendee should walk away with more understanding of the difficulties involved when starting out in hardware hacking and how to approach learning through trying to reverse engineer a smart device along with some tricks to make this easier.
@@ -213,6 +193,7 @@ I'm a Security Analyst at Riscure who enjoys taking a questionable amount of bir
 
 
 <a name="Mike Stringer"></a>
+
 ## <b>License to Pwn: How Two Muppets Hacked into a Fortune 500 Company in < 6 hours</b>
 ### Mike Stringer (@script_nomad on Twitter, https://www.linkedin.com/in/leestringer1/)
 Despite over 40 years of evolution in the InfoSec industry, it is still possible for even a small team of hackers to compromise the most security-hardened organizations in the world with the right knowledge and a small budget. This talk is a demonstration that an APT isn't necessarily complex. It can be as innocent as two, very convincing Sesame Street characters with a printer and a raspberry pi. This is a story of how a two-man team of penetration testers pulled off the first data heist of their careers at one of the largest companies in the United States by crossing the cyber-space barrier into the physical domain and walked away with their first success as solo red-teamers.
@@ -224,9 +205,8 @@ Michael currently works as both a business and technical expert conducting secur
 
 <hr>
 
-
-
 <a name="PANEL"></a>
+
 ## <b>Take control of your career: A panel with Industry Leaders</b>
 ### PANEL 
 During this panel discussion, you'll hear stories from industry leaders with diverse backgrounds and careers who'll be speaking on how they have navigated their careers, what they have learned so far, their successes and failures, and how to level up your career. Come hear our panelists discuss what it's really like to grow your career in security, deciding between growing as an IC or a manager, what to do if you find yourself stuck, or whatever you want to learn more about. Ask Us Anything - seriously, anything.
@@ -254,6 +234,7 @@ garden (except when there are heat domes in place).
 <hr>
 
 <a name="Jessa Gegax"></a>
+
 ## <b>Gone Tishing: Abusing Microsoft Teams Security Misconfigurations for Webhook Hijacking and Other Shenanigans</b>
 ### Jessa Gegax (https://www.linkedin.com/in/jessa-gegax-00912b191/)
 Misconfigurations are common vulnerabilities in business communication platforms that can be leveraged to build more complex security awareness trainings going beyond the classic phishing email. These concerns tend to arise from third-party components integrated within the client that provide additional communication functionalities often utilized by software teams during development. Web hooks are a specific example here that are frequently used in corporate environments to web together these third-party applications for system updates and other development notifications and are often insecure due to the client's default configurations.
@@ -263,6 +244,7 @@ Jessa Gegax is an Information Security Testing Analyst at Surescripts LLC in Min
 <hr>
 
 <a name="Dean Pierce"></a>
+
 ## <b>Fun With Zero Knowledge Execution Environments</b>
 ### Dean Pierce (deanpierce at everything)
 "Zero Knowledge" is a hot new buzzword, but how are ZK Proofs being practically used today, and what technologies will they unlock in the near future?
@@ -272,6 +254,7 @@ Dean Pierce is an offensive security researcher in Portland Oregon.
 <hr>
 
 <a name="Allison Naaktgeboren"></a>
+
 ## <b>A Gentle Introduction to Understanding Fuzzers</b>
 ### Allison Naaktgeboren (https://www.linkedin.com/in/anaaktge/)
 Fuzzing is a popular automated bug finding technique. Frequently Vulnerability Researchers' tool of choice, it can be confusing and frustrating for newcomers, particularly developers. In this talk, we’ll discuss what fuzzing is (and what it isn’t), its strengths and weaknesses, how to break down the important features of different fuzzers, how those factors influence optimizing a fuzzer, who’s using fuzzers for what purposes, what fuzzers suit the needs of each group, how to pick the fuzzer for _your_ needs. There will be an optional fuzzing lab based on docker. Those interested in the lab should have a GCP account ready for about ~30 minutes of use.
@@ -280,6 +263,7 @@ Allison Marie Naaktgeboren is a PhD researcher at Portland State University advi
 <hr>
 
 <a name="Will Dillon"></a>
+
 ## <b>Biking past vendor lock-in</b>
 ### Will Dillon (https://tech.lgbt/@hpux735) 
 As e-bike manufacturers try to differentiate themselves they've turned to cloud- and app-based features.  While these features make great press releases, what happens when they go out of business?  Are customers left with expensive junk?
@@ -300,6 +284,7 @@ Outside of work, Will is an instrument rated private pilot, and enjoys using his
 <hr>
 
 <a name="name"></a>
+
 ## <b>Purple Teaming with Detection-as-Code for Modern SIEM Workshop</b>
 ### Ken Westin (@kwestin on Twitter) 
 One of the challenges for security teams is writing and deploying detections that generate actionable alerts with rich context while also reducing noisy alerts. This hands-on workshop will teach the fundamentals of Purple Teaming and detection-as-code to help build new detections.
@@ -312,6 +297,7 @@ Ken is an Oregon Native who splits his time between a house in the woods near Po
 <hr>
 
 <a name="Garrett Foster"></a>
+
 ## <b>We Have C2 at Home - Leveraging Microsoft's C2 Framework</b>
 ### Garrett Foster (@garrfoster on Twitter)
 For attackers, Microsoft's enterprise device management software SCCM is a high value target and a large amount of research has been published over the last year that demonstrates how a site can be taken over. However, identifying the various servers and server roles deployed in an environment to achieve this privilege escalation can be a difficult task. SCCMHunter aims to solve this problem. This tool helps identify potential SCCM server roles and SCCM related users and groups to piece the SCCM site takeover puzzle together.
@@ -321,6 +307,7 @@ Garrett is an Oregon native and  offensive security consultant with over 4 years
 <hr>
 
 <a name="Dan Shanahan & Jose Palafox"></a>
+
 ## <b>Securing your Open Source Project</b>
 ### Dan Shanahan & Jose Palafox
 GitHub has made substantial investments to improve the overall security of the open source supply chain. In this presentation we'll share updates from our journey to secure open source projects on GitHub and share hands on guidance about how to enable free features available on GitHub to help with code security and analysis.
@@ -333,6 +320,7 @@ Jose Palafox works at GitHub as an application security executive. He helps the 
 <hr>
 
 <a name="jason craig"></a>
+
 ## <b>LAPSUS$ is winning</b>
 ### jason craig (@3141592f all the places)
 Since the Twitter breach in July 2020, multiple threat actors have been whaling high value targets for fun, lulz, and BTC.  They share a common set of tools, tactics and procedures which are still highly impactful and effective.
@@ -341,6 +329,7 @@ Jason is a unicorn enthusiast and enjoys coffee, thrunting, and late apexes.  Ja
 
 <hr>
 <a name="Eric Goldstrom"></a>
+
 ## <b>Essential Logs Pyramid SIEM</b>
 ### Eric Goldstrom (https://www.linkedin.com/in/ericgoldstrom)
 This talk will focus on the significant role efficient log management plays in an effective SIEM implementation.
@@ -348,17 +337,9 @@ This talk will focus on the significant role efficient log management plays in a
 Eric Goldstrom is a Director of Cyber Threat Management at KPMG. Prior to KPMG, he was an Incident Responder at Mandiant. He also worked at a local Healthcare company where he built out use cases for and implemented the UEBA/SIEM. Prior to the private sector, Eric worked in the DoD and Intelligence Community conducting both Red and Blue Team activities. He has a MS in Cyber Security and his certifications include CISSP, OSCP, and SANS certifications.
 
 <hr>
-<a name="jpereyda"></a>
-## <b>Network Protocol Fuzzing With Boofuzz Workshop</b>
-### Joshua pereyda (@jtpereyda on Twitter)
-Get hands on experience writing custom network protocol fuzzers.
-This class will cover the basics of network protocol "smart fuzzing."
-Exercises will utilize the open source network protocol fuzzing framework, boofuzz.
-Attendees will gain practice understand network protocols, implementing and iterating on a custom fuzzer, and identifying vulnerabilities.
 
-Joshua is a software engineer specializing in security, a small business owner, and the maintainer of the boofuzz network protocol fuzzing framework. When not hacking, he likes to program. When not programming, he likes to hack. Among his other passions are attending orchestral concerts with his wife, drilling fine motor skills with his toddlers in the form of fun and games, teaching anyone and everyone to program and hack, using AI to code for him, and identifying new ways to break the rules for good.
-<hr>
 <a name="Karl Anderson"></a>
+
 ## <b>How And Why To Gain Technological Advantages By Harvesting Entropy From An Unsuspecting Public</b>
 ### Karl Anderson (https://futel.net)
 To be a successful engineer requires creativity. How can we develop creativity? We can do things outside of our day jobs that help us explore new ideas. What if we aren't privileged enough to have the capacity for under-paid extra work? We need to find a way to get rewarded for this work.
@@ -367,6 +348,7 @@ Karl Anderson is a hardware and software experimenter who is good at thinking up
 
 <hr>
 <a name="Rowan Hart"></a>
+
 ## <b>This Chip Does Not Exist: Pre-Silicon Fuzzing</b>
 ### Rowan Hart (@novafacing@haunted.computer on Mastodon)
 Fuzzing is a critical step in the security process, and has uncovered bugs in software throughout the stack. Mainstream support for fuzzing user-space applications is nearly mainstream, but fuzzing below Ring 0 has remained the realm of domain expert security researchers. A common, virtually unsupported use case is fuzzing software and firmware designed to interface with pre-silicon hardware. To address this use case, we present TSFFS: Target Software Fuzzer For SIMICS, an open-source snapshotting coverage-guided fuzzer built with LibAFL capable of fuzzing most software that runs in the SIMICS full-system pre-silicon simulator, along with a survey of its use cases.
@@ -374,6 +356,7 @@ Fuzzing is a critical step in the security process, and has uncovered bugs in so
 Rowan is an engineer at Intel working in system software fuzzing. He graduated from Purdue University in 2022 and is interested in fuzzing, program analysis, and security tool usability.
 <hr>
 <a name="Andrew Davis & Matt Mcdevitt"></a>
+
 ## <b>VectorDumper: Red team adventures with VectorDBs</b>
 ### Andrew Davis & Matt Mcdevitt 
 In recent years, vector databases have surged in importance across industries, attracting substantial investor capital due to their prowess in handling high-dimensional data and uncovering concealed insights in sectors like finance, healthcare, and infrastructure. The influx of resources underscores the growing significance of high-dimensional data analysis.
@@ -390,13 +373,7 @@ Hacker who's been around for a long time.
 
 
 <hr>
-<a name="aviditas"></a>
-## <b>Insider Threat IR Workshop: A Hands-on Zero to 60</b>
-### aviditas ("A" on the #503Hax group in signal)
-From the open-source data created by Blue Team Village's Project Obsidian, three real world generated InT cases will be tackled by the participants of this workshop. Starting with a common but low threat level, moving to a gray area case, and finishing with a complex incident.
 
-With an inability to tolerate boredom and background in hunting social engineers, aviditas moved from engineering and corporate training to work in customer facing & traditional blue team environments. As a generalist by nature, the Sisyphusian nature of the industry is the main appeal as breadth of knowledge is rewarded. Aviditas is an advocate for demystifying and removing cost barriers for high quality InfoSec training and resources.
-<hr>
 <!-- 
 <a name="name"></a>
 ## <b>title</b>
