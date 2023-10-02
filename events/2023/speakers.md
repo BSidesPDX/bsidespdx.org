@@ -286,7 +286,6 @@ Outside of work, Will is an instrument rated private pilot, and enjoys using his
 <a name="Anon Hacker"></a>
 ## <b>Purple-teaming outbound HTTPS</b>
 ### Anon Hacker 
-#### Friday 11 AM to 1 PM
 Red teams: want to exfiltrate sensitive data from outbound HTTPS traffic on that juicy Linux host you just compromised?
 Blue teams: want to detect the various ways bad actors can intercept outbound HTTPS?
 This talk is for you! We'll walk through a number of scenarios discussing trade-offs in steal and complexity. Watch a quick PoC live, and dig into the internals of the solutions offline.
