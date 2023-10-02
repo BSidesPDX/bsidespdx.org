@@ -20,6 +20,7 @@ We've got 6 workshops for you this year!
 
 ## <b>Purple Teaming with Detection-as-Code for Modern SIEM Workshop</b>
 ### Ken Westin (@kwestin on Twitter) 
+#### Friday 11 AM to 1 PM
 One of the challenges for security teams is writing and deploying detections that generate actionable alerts with rich context while also reducing noisy alerts. This hands-on workshop will teach the fundamentals of Purple Teaming and detection-as-code to help build new detections.
 This session will show how to leverage Purple team techniques to develop hypotheses for new detections and strengthen their defenses against future attacks.
 I will show how to use open-source offensive security tools to simulate attacks against lab infrastructure and use an investigative approach to learn and build new detections & manage them using detection-as-code principles to eliminate noise and false positives.
