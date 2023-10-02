@@ -283,16 +283,17 @@ Outside of work, Will is an instrument rated private pilot, and enjoys using his
 
 <hr>
 
-<a name="name"></a>
+<a name="Anon Hacker"></a>
+## <b>Purple-teaming outbound HTTPS</b>
+### Anon Hacker 
+#### Friday 11 AM to 1 PM
+Red teams: want to exfiltrate sensitive data from outbound HTTPS traffic on that juicy Linux host you just compromised?
+Blue teams: want to detect the various ways bad actors can intercept outbound HTTPS?
+This talk is for you! We'll walk through a number of scenarios discussing trade-offs in steal and complexity. Watch a quick PoC live, and dig into the internals of the solutions offline.
 
-## <b>Purple Teaming with Detection-as-Code for Modern SIEM Workshop</b>
-### Ken Westin (@kwestin on Twitter) 
-One of the challenges for security teams is writing and deploying detections that generate actionable alerts with rich context while also reducing noisy alerts. This hands-on workshop will teach the fundamentals of Purple Teaming and detection-as-code to help build new detections.
-This session will show how to leverage Purple team techniques to develop hypotheses for new detections and strengthen their defenses against future attacks.
-I will show how to use open-source offensive security tools to simulate attacks against lab infrastructure and use an investigative approach to learn and build new detections & manage them using detection-as-code principles to eliminate noise and false positives.
+Evading detection in Linux has a special place in my heart. There's nothing quite as exciting as popping a shell on a host and seeing what you can do with it. Add intercepting 
+outbound HTTPS to your arsenal!
 
-Ken Westin has been in the cybersecurity field for over 15 years working with companies to improve their security posture, through threat hunting, insider threat programs, and vulnerability research. In the past, he has worked closely with law enforcement helping to unveil organized crime groups. His work has been featured in Wired, Forbes, New York Times, Good Morning America, and others, and is regularly reached out to as an expert in cybersecurity, cybercrime, and surveillance.
-Ken is an Oregon Native who splits his time between a house in the woods near Portland and a beach shack on the Oregon Coast with his wife, son, and two dogs. He holds a BA from Lewis & Clark College, a graduate degree from the University of Portsmouth UK, and several security certifications. He is a self-professed guitar and record hoarder and amateur musician.
 
 <hr>
 
