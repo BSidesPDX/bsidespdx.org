@@ -13,8 +13,17 @@ title: "Venue"
 <br>
 <a name="3rdFloor"></a>
 ### Third Floor Map:
-<img src="/images/2023/Smith_Floorplan_3rd_Floor.png" title="THIRD FLOOR (SMSU)" class="center" width="600" height="450" style="border:0;">
+<img src="/images/2023/floor-plans/Smith_Floorplan_3rd_Floor_markup.png" title="THIRD FLOOR (SMSU)" class="center" width="600" height="450" style="border:0;">
 <a name="2ndFloor"></a>
 ### Second Floor Map:
-<img src="/images/2023/Smith_Floorplan_2nd_Floor.png" title="SECOND FLOOR (SMSU)" class="center" width="600" height="450" style="border:0;">
+<img src="/images/2023/floor-plans/Smith_Floorplan_2nd_Floor_markup.png" title="SECOND FLOOR (SMSU)" class="center" width="600" height="450" style="border:0;">
+<a name="1stFloor"></a>
+### First Floor Map:
+<img src="/images/2023/floor-plans/Smith_Floorplan_1st_Floor_markup.png" title="FIRST FLOOR (SMSU)" class="center" width="600" height="450" style="border:0;">
+<a name="basement"></a>
+### Basement Floor Map:
+<img src="/images/2023/floor-plans/Smith_Floorplan_Basement_markup.jpg" title="BASEMENT FLOOR (SMSU)" class="center" width="600" height="450" style="border:0;">
 
+<br>
+<br>
+[*SOURCE: SMITH DIRECTORY FLOORPLANS](https://www.pdx.edu/student-union/smith-directories-floorplans)
