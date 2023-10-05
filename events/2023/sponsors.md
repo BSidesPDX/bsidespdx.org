@@ -26,7 +26,10 @@ Would your company like to sponsor? For less than the admission of a single atte
 <p>&nbsp;</p>
 <div class="row">
   <!--Platinum Sponsor logos go here -->
+<p>&nbsp;</p>
   <div class="columns small-6"><img style="height: auto; width: 300px;" src="/images/2023/web-logos/nwvit.png" alt="Northwest Veterans In Technology Logo" class="center"/></div>
+<p>&nbsp;</p>
+  <div class="columns small-6"><img style="height: auto; width: 300px;" src="/images/2023/web-logos/hackerone_logo_black.png" alt="HackerOneLogo" class="center"/></div>
 </div>
 <p>&nbsp;</p>
 <div class="row">
