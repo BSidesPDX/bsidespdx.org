@@ -4,7 +4,7 @@ title: "Volunteer Information"
 permalink: /about/volunteer-info.html
 --- 
 
-If you have not signed up for our volunteer communication, head over to [this page](../events/2024/volunteer).
+If you have not signed up for our volunteer communication, head over to [this page](../events/2024/volunteer). 
 
 ### Expectations
 Volunteers (like participants) are expected to abide by the [Code of Conduct](./code-of-conduct.html). 
