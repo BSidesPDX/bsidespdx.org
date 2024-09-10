@@ -25,8 +25,8 @@
 - title: "BsidesPDX 2024"
   href: "/events/2024"
   subcategories:
-    # - subtitle: "Register"
-    #   subhref: "/events/2024/register.html"
+    - subtitle: "Register"
+      subhref: "/events/2024/register.html"
     # - subtitle: "Covid 19 Policy"
     #   subhref: "/events/2024/COVID19_Policy.html"
     # - subtitle: "Schedule"

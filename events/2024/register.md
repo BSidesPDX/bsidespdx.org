@@ -3,7 +3,7 @@ layout: page
 title: "Registration is now open" 
 ---
 
-We're looking forward to seeing you at BSidesPDX on Friday-Saturday October 6-7, 2024 for our annual conference at Portland State University!
+We're looking forward to seeing you at BSidesPDX on Friday-Saturday October 25-26, 2024 for our annual conference at Portland State University!
 
 <h1><u><a href="https://bsides-pdx.square.site/product/bsidespdx2024/21">Click here for Conference Registration</a></u></h1>
 
@@ -22,4 +22,4 @@ Registration on Third Floor, Room 338<br>
 <br>
 We are a 501(c)(3) charitable nonprofit. We are happy to have you regardless of what you can pay. If your employer reimburses you for your conference fees, we recommend the 'Business Recommendation' tier which covers the full cost of the event.
 
-*Free registration will remain available until September 15th.
+*T-Shirt Purchases and free registration will remain available until October 4th.
