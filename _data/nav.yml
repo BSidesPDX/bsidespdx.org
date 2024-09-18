@@ -24,7 +24,7 @@
   href: "/about/volunteer-info.html"
   subcategories:
     - subtitle: "Sign Up to Volunteer"
-    - subhref: "/events/2024/volunteer.html"
+      subhref: "/events/2024/volunteer.html"
 - title: "BsidesPDX 2024"
   href: "/events/2024"
   subcategories:
