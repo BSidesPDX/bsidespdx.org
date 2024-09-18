@@ -7,8 +7,6 @@
       subhref: "/about.html"
     - subtitle: "Code of Conduct"
       subhref: "/about/code-of-conduct.html"
-    - subtitle: "Volunteer Information"
-      subhref: "/about/volunteer-info.html"
     - subtitle: "Photo and Video Policy"
       subhref: "/about/photo-video-policy.html"
     - subtitle: "Contact"
@@ -22,6 +20,11 @@
       subhref: "https://cfp.bsidespdx.org/bsidespdx-2024/"
     - subtitle: "Review Board"
       subhref: "/events/2024/review-board.html"
+- title: Volunteer
+  href: "/about/volunteer-info.html"
+  subcategories:
+    - subtitle: "Sign Up to Volunteer"
+    - subhref: "/events/2024/volunteer.html"
 - title: "BsidesPDX 2024"
   href: "/events/2024"
   subcategories:
