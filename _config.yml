@@ -7,10 +7,10 @@ description: >
 url: http://bsidespdx.org
 
 header: yes
-header_sm: images/bsidesPDX_logo_25.png
-header_med: images/bsidesPDX_logo_50.png
-header_large: images/bsidesPDX_logo_75.png
-header_xl: images/bsidesPDX_logo_mask_100.png
+header_sm: images/bsidesPDX_logo_2024_25.png
+header_med: images/bsidesPDX_logo_2024_50.png
+header_large: images/bsidesPDX_logo_2024_75.png
+header_xl: images/bsidesPDX_logo_2024_100.png
 #header_xl: images/color.logo.transparent.inverted.wide.png
 
 # Exclude our ruby stuff and other files
