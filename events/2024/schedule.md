@@ -34,9 +34,10 @@ tbody{
 }
 
 </style>
-The following schedule is not final and is still subject to changes, 
+Schedule is currently TBD
 
-<table width="100%">
+<!-- <table width="100%">
+The following schedule is not final and is still subject to changes, 
 <colgroup>
 <col width="10%" />
 <col width="30%" />
@@ -214,7 +215,7 @@ The following schedule is not final and is still subject to changes,
         <td markdown="span" align="center" colspan=2> **BSIDES Portland 2024 Planning begins**</td>
     </tr>
 </tbody>
-</table>
+</table> -->
 
 <!-- <tr>
     <td markdown="span" align="center">Second column **fields**</td>
