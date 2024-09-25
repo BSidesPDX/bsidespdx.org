@@ -18,26 +18,6 @@ We've got 6 workshops for you this year!
 <br><br><br>
 <hr>
 
-<a name="Wu-chang Feng"></a>
-
-## <b>An Introduction to Generative Security Applications</b>
-### Wu-chang Feng 
-Generative AI and Large Language Models are changing the practice of cybersecurity as we know it, potentially automating many of the tasks that are currently being done by security practitioners.  This workshop provides an introduction to building applications using LangChain, a popular framework for constructing LLM applications.   After learning its basics, we will then walk through a variety of applications that utilize LLMs to perform security tasks and evaluate their results.'
-
-Note: To run the Python notebooks, attendees will need a GMail account to run the notebook on Colab.
-
-<hr>
-
-
-<a name="A. Skye"></a>
-## <b>Resume Tuning Workshop</b>
-### A. Skye and Ali .H 
-Help people write their resumes with a Cybersecurity focus, tune existing resumes to highlight in-demand skills, and discuss interviewing techniques that can help get people hired in the Cybersecurity industry.'
-
-A. and Ali both like cake
-<hr>
-
-
 
 <a name="Joe FitzPatrick"></a>
 
@@ -48,6 +28,24 @@ Awesome - but making that decision is just the first step of a long journey. Thi
 We'll start off in a lecture format covering all the parts of preparing, submitting and presenting your work, answering a lot of questions you might ask yourself.  We'll proceed into an extended question and answer session. Think of your questions ahead of time, and perhaps even ask them before the workshop. Finally, we'll use the remaining time to team up in groups to share our ideas and give each other feedback.
 Hopefully you'll leave with a better idea of how to navigate the process, as well as a clearer idea of how to structure your submission and presentation.'
 
+<hr>
+
+<a name="Jens Mache"></a>
+## <b>Capture The Flag (CTF) With Feedback</b>
+### Jens Mache and Richard
+Capture the flag (CTF) exercises can be great practice and fun. However, sometimes things get complicated. Even the best of us may sometimes be lost, move in the wrong direction or get frustrated. In this workshop, not only are we giving you an overview and access to several CTF exercises, you are also provided feedback and hints (in case you need some). This way, everybody who shows up and spends some time can successfully complete the CTF exercises. Short descriptions at https://edurange.org/scenarios.html
+
+'Jens' certifications include SANS/ GIAC Certified Intrusion Analyst (GCIA), Penetration Tester (GPEN), Incident Handler (GCIH). Jens has been teaching security since 2007. 
+Richard participated in the performance analysis of the Rijndael algorithm, which became AES. He has been teaching security and information assurance since 2003.
+<hr>
+
+
+<a name="A. Skye"></a>
+## <b>Resume Tuning Workshop</b>
+### A. Skye and Ali .H 
+Help people write their resumes with a Cybersecurity focus, tune existing resumes to highlight in-demand skills, and discuss interviewing techniques that can help get people hired in the Cybersecurity industry.'
+
+A. and Ali both like cake
 <hr>
 
 
@@ -70,6 +68,10 @@ Jonathan is a Principal Engineer at Dragos. In his day job he builds telemetry a
 Emily Soward is the Co-founder of the AIRCTL Project for AI Incident Management. She works as a Scientist and Global Tech Lead for AI Security & Privacy at Amazon Web Services (AWS) where she provides strategic and technical leadership for applied security internally and externally for AWS Customers. She has over a decade of AI R&D experience in engineering, scientific, and technical leadership roles, and got into Security and Privacy through her work in controls engineering and testing for AI systems in high-risk environments, including bringing complex AI systems under test and developing remediation and resiliency strategies. She has both taken AI systems to production and implemented controls for AI governance and ML operations across multiple regulated industries.
 
 <hr>
+
+
+
+{% comment %}
 
 <a name="Ken Westin"></a>
 
@@ -100,15 +102,17 @@ If you already well versed in generative AI security, or are a professional secu
 <hr>
 
 
-<a name="Jens Mache"></a>
-## <b>Capture The Flag (CTF) With Feedback</b>
-### Jens Mache and Richard
-Capture the flag (CTF) exercises can be great practice and fun. However, sometimes things get complicated. Even the best of us may sometimes be lost, move in the wrong direction or get frustrated. In this workshop, not only are we giving you an overview and access to several CTF exercises, you are also provided feedback and hints (in case you need some). This way, everybody who shows up and spends some time can successfully complete the CTF exercises. Short descriptions at https://edurange.org/scenarios.html
+<a name="Wu-chang Feng"></a>
 
-'Jens' certifications include SANS/ GIAC Certified Intrusion Analyst (GCIA), Penetration Tester (GPEN), Incident Handler (GCIH). Jens has been teaching security since 2007. 
-Richard participated in the performance analysis of the Rijndael algorithm, which became AES. He has been teaching security and information assurance since 2003.
+## <b>An Introduction to Generative Security Applications</b>
+### Wu-chang Feng 
+Generative AI and Large Language Models are changing the practice of cybersecurity as we know it, potentially automating many of the tasks that are currently being done by security practitioners.  This workshop provides an introduction to building applications using LangChain, a popular framework for constructing LLM applications.   After learning its basics, we will then walk through a variety of applications that utilize LLMs to perform security tasks and evaluate their results.'
+
+Note: To run the Python notebooks, attendees will need a GMail account to run the notebook on Colab.
+
 <hr>
 
+{% endcomment %}
 
 <!--
 <a name=""></a>
