@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "Schedule"
+permalink: /schedule
 ---
 <style>
 table{
