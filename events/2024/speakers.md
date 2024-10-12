@@ -10,32 +10,30 @@ Abstract
 
 *Bio*
 -->
-{% comment %}
 
-<a name="???"></a>
+<a name="Marion Marschalek"></a>
 
 ## <b>Day 1 Keynote</b>
 
 
-### ??? ([@??]())
-<img src="/images/2024/Sasquatch.png" title="Sasquatch" class="center" width="60" height="45" style="border:0;">
+### Marion Marschalek ([@pinkflawd]())
+<img src="/images/2024/marion.png" title="Sasquatch" class="center" width=200px style="border:0;">
 
-##### Sasquatch, a mysterious figure in the cybersecurity community, is renowned for his larger-than-life persona and unyielding dedication to raising awareness about the often overlooked threats lurking in the digital wilderness. He’s been a silent guardian of the forests, both digital and physical, using his unique blend of stealth and strength to champion the cause of privacy and security for all. Though sightings are rare, his presence is unmistakable, leaving a trail of intrigue and inspiration wherever he roams. Known for his distinctive blend of wit and wisdom, Sasquatch has become a symbol of resilience and vigilance, reminding us all that sometimes, the biggest threats are the ones hiding in plain sight.
+### a security engineer at a large cloud provider, and enjoys reverse engineering and all things binary analysis. With some background in malware analysis, incident response and microarchitecture security, her interests are quite varied. In 2015 Marion founded BlackHoodie, a series of hacker bootcamps which successfully attracts more women to the security industry.
 
-<br><br>
+<br>
 <hr>
 
-<a name="???"></a>
+<a name="Kees Cook"></a>
 
 # <b>Day 2 Keynote</b>
-### ??? ([@??]())
-<img src="/images/2024/Sasquatch.png" title="KYM" class="center" width="60" height="45" style="border:0;">
+### Kees Cook ([@kees_cook]())
+<img src="/images/2024/kees.png" title="KYM" class="center" width=200px style="border:0;">
 
-##### After captivating the audience with his enigmatic presence and thought-provoking insights, Sasquatch returns to the stage for a second keynote, this time delving deeper into the myths and legends that have shrouded his legacy. As a creature of both folklore and infosec, he embodies the spirit of exploration and the courage to venture into the unknown. Today, he brings a fresh perspective on the power of community and collaboration, drawing parallels between the interconnectedness of the natural world and the cybersecurity landscape. With his trademark humor and elusive charm, Sasquatch encourages us all to embrace the unknown and to stand united in our quest for a safer, more secure digital future.
+###  involved with Free Software since 1994 and has been a Debian Developer since 2007. Currently, he works as a Linux kernel security engineer at Google, focusing on Android and Chrome OS. He previously served as the Ubuntu Security Team's Tech Lead and remains on the Ubuntu Technical Board. Kees has contributed to a range of projects, including OpenSSH, Inkscape, Wine, MPlayer, and Wireshark, with a recent focus on Linux kernel security features.
 
-<br><br>
+<br>
 <hr>
-{% endcomment %}
 
 
 <a name="Jeff Toth"></a>
