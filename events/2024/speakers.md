@@ -13,13 +13,16 @@ Abstract
 
 <a name="Marion Marschalek"></a>
 
-## <b>Day 1 Keynote</b>
+## <b>Day 1 Keynote - Why We Research</b>
 
 
 ### Marion Marschalek ([@pinkflawd]())
 <img src="/images/2024/marion.png" title="Sasquatch" class="center" width=200px style="border:0;">
 
-### a security engineer at a large cloud provider, and enjoys reverse engineering and all things binary analysis. With some background in malware analysis, incident response and microarchitecture security, her interests are quite varied. In 2015 Marion founded BlackHoodie, a series of hacker bootcamps which successfully attracts more women to the security industry.
+## Why We Research 
+### There is this picture of a security researcher in many people's minds. Some dark clad figure dwells in a basement, surrounded by electronics, and then suddenly a few weeks later an ATM spits money at them. Wowz, lets go write exploits y'all. But is this how it works? Why do people go down these rabbit holes, how does big research come to life, and what if you're not in a basement but back in some office, oh the horrors, and somebody says 'time to production'? We'll explore the question why security research matters, where the ideas come from and what motivates a proof of concept, and the big question: What comes after? Finding the bug is nice, but have you ever tried to patch 900 machines on a Friday night? Ever wondered how mitigations make it into a compiler, or how a machine learning model rolls to production? We'll look at why research matters, and explore what makes it significant.
+<br>
+### Marion is a security engineer at a large cloud provider, and enjoys reverse engineering and all things binary analysis. With some background in malware analysis, incident response and microarchitecture security, her interests are quite varied. In 2015 Marion founded BlackHoodie, a series of hacker bootcamps which successfully attracts more women to the security industry.
 
 <br>
 <hr>
@@ -30,7 +33,7 @@ Abstract
 ### Kees Cook ([@kees_cook]())
 <img src="/images/2024/kees.png" title="KYM" class="center" width=200px style="border:0;">
 
-###  involved with Free Software since 1994 and has been a Debian Developer since 2007. Currently, he works as a Linux kernel security engineer at Google, focusing on Android and Chrome OS. He previously served as the Ubuntu Security Team's Tech Lead and remains on the Ubuntu Technical Board. Kees has contributed to a range of projects, including OpenSSH, Inkscape, Wine, MPlayer, and Wireshark, with a recent focus on Linux kernel security features.
+### Kees is involved with Free Software since 1994 and has been a Debian Developer since 2007. Currently, he works as a Linux kernel security engineer at Google, focusing on Android and Chrome OS. He previously served as the Ubuntu Security Team's Tech Lead and remains on the Ubuntu Technical Board. Kees has contributed to a range of projects, including OpenSSH, Inkscape, Wine, MPlayer, and Wireshark, with a recent focus on Linux kernel security features.
 
 <br>
 <hr>
