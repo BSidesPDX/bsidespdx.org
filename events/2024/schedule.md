@@ -125,7 +125,7 @@ The following schedule is not final and is still subject to changes
     </tr>
      <tr>
         <td markdown="span" align="center" >**16:00**</td>
-        <td markdown="span" align="center" colspan=1> Roll Your Own EDR/XDR/MDR</td>
+        <td markdown="span" align="center" colspan=1>Asymmetric Impact: Adventures in funding infosec research</td>
         <td markdown="span" align="center" colspan=1>Beyond the Hacker Stereotype: Exploring Cybersecurity Careers You Didn't Know Existed </td>
     </tr>
          <tr>
