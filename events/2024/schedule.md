@@ -61,7 +61,7 @@ The following schedule is not final and is still subject to changes
 </thead>
 <tbody>
     <tr class="General_items">
-        <td markdown="span" align="center">**8:30**</td>
+        <td markdown="span" align="center">**9:00**</td>
         <td markdown="span" align="center" colspan=3> **Registration Opens**</td>
     </tr>
     <tr class="General_items">
