@@ -78,7 +78,7 @@ The following schedule is not final and is still subject to changes
     </tr>
     <tr>
         <td markdown="span" align="center">**11:00**</td>
-        <td markdown="span" align="center" rowspan=2 colspan=1>Threat Actors Interest in AI - Separating Hype from Reality </td>
+        <td markdown="span" align="center" rowspan=2 colspan=1>Breaking Build: Red Teaming CI/CD Pipelines and GitHub Actions</td>
         <td markdown="span" align="center" rowspan=2 colspan=1>Building a Windows WMI System With No Windows Knowledge </td>
         <td markdown="span" align="center" rowspan=2 colspan=1 rowspan=4><a href="https://bsidespdx.org/events/2024/workshops.html#resume-tuning-workshop">Resume Tuning Workshop</a></td>
     </tr>
@@ -133,9 +133,6 @@ The following schedule is not final and is still subject to changes
         <td markdown="span" align="center" colspan=1>Modern Medium Data Pipelines for Breaches, Hacker Style</td>
         <td markdown="span" align="center" colspan=1>Using Stardew Valley as a C2 client and infostealer </td>
     </tr>
-    <tr >
-        <td markdown="span" align="center">TBD</td>
-        <td markdown="span" align="center" rowspan=1 colspan=3>Breaking Build: Red Teaming CI/CD Pipelines and GitHub Actions</td>
     </tr>
     <tr >
         <td markdown="span" align="center">**17:00**</td>
@@ -143,7 +140,7 @@ The following schedule is not final and is still subject to changes
     </tr>
     <tr>
         <td markdown="span" align="center">**17:15**</td>
-        <td markdown="span" align="center" colspan=3> **Join us for drinks and snacks in the registration room after closing remarks**</td>
+        <td markdown="span" align="center" colspan=3> Join us for drinks and snacks in the registration room after closing remarks</td>
     </tr>
     <tfoot>
     <tr>
@@ -201,7 +198,7 @@ The following schedule is not final and is still subject to changes
 </tr>
 <tr>
     <td markdown="span" align="center" >**11:30**</td>
-    <td markdown="span" align="center" rowspan=2 colspan=1>TBD</td>
+    <td markdown="span" align="center" rowspan=2 colspan=1>Threat Actors Interest in AI - Separating Hype from Reality</td>
 </tr>
 <tr>
     <td markdown="span" align="center">**12:00**</td>
@@ -242,7 +239,7 @@ The following schedule is not final and is still subject to changes
 </tr>
 <tr>
     <td markdown="span" align="center">**16:15**</td>
-    <td markdown="span" align="center" colspan=4> **BSIDES Portland 2025 Planning begins**<br>See you all next year or sooner! We'll be packing up and out of the venue immediately after closings. <br>Speakers & Volunteers see your email for details about the VIP thank-you afterparty.</td>
+    <td markdown="span" align="center" colspan=4> **BSIDES Portland 2025 Planning begins**<br>See you all next year or sooner! We'll be packing up and out of the venue immediately after closing. <br>Speakers & Volunteers, see your email for details about the VIP thank-you afterparty.</td>
 </tr>
 
 
