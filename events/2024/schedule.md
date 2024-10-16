@@ -38,7 +38,7 @@ tbody{
 }
 
 </style>
-The following schedule is not final and is still subject to changes
+The following schedule is final... but is still subject to changes.
 <br>
 
 <table width="100%">
