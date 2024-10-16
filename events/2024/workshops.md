@@ -2,19 +2,17 @@
 layout: page
 title: "Workshops"
 ---
-Registration
-Registration for workshops will open once the schedule is announced
-{% comment %}
+
+Registration for workshops will open at 12:00, Noon, PDT, on Thursday, Oct 17th!
 Registration for workshops is open at <a href="https://bsides-pdx.square.site/product/bsidespdx-2024-workshops/22">https://bsides-pdx.square.site/product/bsidespdx-2024-workshops/22</a>.
 
-We've got 6 workshops for you this year!
+We've got 9 workshops for you this year!
 
 - Since capacity is limited, we do attach a nominal $10 fee to advance registration to prevent speculative registrations and limit no-shows.
 - There will be some walk-in spots in each workshop. We will not keep a waitlist, but empty seats will be made available first-come-first-served at the start of the workshop.
 - We will share your email address with the trainer. They may send info out ahead of the training.
 - If for any reason, this fee is a barrier to your attending, use the coupon code 'IPROMISETOATTEND' to register for free.
-- Please treat registration as a community resource - excessive registrations may be cancelled. Let us know if you can't attend so we can reopen those seats.
-{% endcomment %}
+- Please treat registration as a community resource - excessive registrations *WILL* be cancelled. Let us know if you can't attend so we can reopen those seats.
 <br><br><br>
 <hr>
 
@@ -35,8 +33,9 @@ Hopefully you'll leave with a better idea of how to navigate the process, as wel
 ### Jens Mache and Richard
 Capture the flag (CTF) exercises can be great practice and fun. However, sometimes things get complicated. Even the best of us may sometimes be lost, move in the wrong direction or get frustrated. In this workshop, not only are we giving you an overview and access to several CTF exercises, you are also provided feedback and hints (in case you need some). This way, everybody who shows up and spends some time can successfully complete the CTF exercises. Short descriptions at https://edurange.org/scenarios.html
 
-'Jens' certifications include SANS/ GIAC Certified Intrusion Analyst (GCIA), Penetration Tester (GPEN), Incident Handler (GCIH). Jens has been teaching security since 2007. 
-Richard participated in the performance analysis of the Rijndael algorithm, which became AES. He has been teaching security and information assurance since 2003.
+*Jens' certifications include SANS/ GIAC Certified Intrusion Analyst (GCIA), Penetration Tester (GPEN), Incident Handler (GCIH). Jens has been teaching security since 2007.*
+
+*Richard participated in the performance analysis of the Rijndael algorithm, which became AES. He has been teaching security and information assurance since 2003.*
 <hr>
 
 
@@ -45,7 +44,7 @@ Richard participated in the performance analysis of the Rijndael algorithm, whic
 ### A. Skye and Ali .H 
 Help people write their resumes with a Cybersecurity focus, tune existing resumes to highlight in-demand skills, and discuss interviewing techniques that can help get people hired in the Cybersecurity industry.'
 
-A. and Ali both like cake
+*A. and Ali both like cake*
 <hr>
 
 
@@ -64,14 +63,11 @@ Be prepared to commit at least one hour to the session to experience all segment
 Participants who playtest any of the AIRCTL Project IR scenarios and share their experiences and ideas as feedback will be eligible for playtester credit on the AIRCTL pages — we want to see the community win and appreciate your time with us has value. We will be sharing a limited number of printed game materials, which attendees can take home. The session will not be recorded but notes and photos with consent are welcome.'
 
 
-Jonathan is a Principal Engineer at Dragos. In his day job he builds telemetry and detection systems for ICS sensor networks. He also has about a decade of experience architecting and benchmarking predictive systems, ranging from dynamic pricing systems to security event classifiers, at petabyte scale.
-Emily Soward is the Co-founder of the AIRCTL Project for AI Incident Management. She works as a Scientist and Global Tech Lead for AI Security & Privacy at Amazon Web Services (AWS) where she provides strategic and technical leadership for applied security internally and externally for AWS Customers. She has over a decade of AI R&D experience in engineering, scientific, and technical leadership roles, and got into Security and Privacy through her work in controls engineering and testing for AI systems in high-risk environments, including bringing complex AI systems under test and developing remediation and resiliency strategies. She has both taken AI systems to production and implemented controls for AI governance and ML operations across multiple regulated industries.
+*Jonathan is a Principal Engineer at Dragos. In his day job he builds telemetry and detection systems for ICS sensor networks. He also has about a decade of experience architecting and benchmarking predictive systems, ranging from dynamic pricing systems to security event classifiers, at petabyte scale.*
+
+*Emily Soward is the Co-founder of the AIRCTL Project for AI Incident Management. She works as a Scientist and Global Tech Lead for AI Security & Privacy at Amazon Web Services (AWS) where she provides strategic and technical leadership for applied security internally and externally for AWS Customers. She has over a decade of AI R&D experience in engineering, scientific, and technical leadership roles, and got into Security and Privacy through her work in controls engineering and testing for AI systems in high-risk environments, including bringing complex AI systems under test and developing remediation and resiliency strategies. She has both taken AI systems to production and implemented controls for AI governance and ML operations across multiple regulated industries.*
 
 <hr>
-
-
-
-{% comment %}
 
 <a name="Ken Westin"></a>
 
@@ -79,9 +75,9 @@ Emily Soward is the Co-founder of the AIRCTL Project for AI Incident Management.
 ### Ken Westin (@kwestin and @cthulhu_answers)
 In this two-hour hands-on workshop we will show attendees how to build their own EDR/XDR/MDR platform leveraging open-source tools. Attendees will learn to deploy  cross-platform EDR sensors, how to use sigma detection rules, write custom detection rules, and leverage open source adversary emulation tools ( Atomic Red Team) to test new them. We will then discuss how to extend these capabilities for investigations and threat hunting by integrating additional open source or free tools to gather additional telemetry such as Sysmon and Velociraptor.'
 
-Ken Westin has been in the cybersecurity field for over 15 years working with companies to improve their security posture, through threat hunting, insider threat programs, and vulnerability research. In the past, he has worked closely with law enforcement helping to unveil organized crime groups. His work has been featured in Wired, Forbes, New York Times, Good Morning America, and others, and is regularly reached out to as an expert in cybersecurity, cybercrime, and surveillance.
+*Ken Westin has been in the cybersecurity field for over 15 years working with companies to improve their security posture, through threat hunting, insider threat programs, and vulnerability research. In the past, he has worked closely with law enforcement helping to unveil organized crime groups. His work has been featured in Wired, Forbes, New York Times, Good Morning America, and others, and is regularly reached out to as an expert in cybersecurity, cybercrime, and surveillance.*
 
-Ken is an Oregon Native who splits his time between a house in the woods near Portland and a beach shack on the Oregon Coast with his wife, son, and two dogs. He holds a BA from Lewis & Clark College, a graduate degree from the University of Portsmouth UK, and several security certifications. He is a self-professed guitar and record hoarder and amateur musician
+*Ken is an Oregon Native who splits his time between a house in the woods near Portland and a beach shack on the Oregon Coast with his wife, son, and two dogs. He holds a BA from Lewis & Clark College, a graduate degree from the University of Portsmouth UK, and several security certifications. He is a self-professed guitar and record hoarder and amateur musician*
 
 <hr>
 
@@ -101,7 +97,6 @@ If you already well versed in generative AI security, or are a professional secu
 
 <hr>
 
-
 <a name="Wu-chang Feng"></a>
 
 ## <b>An Introduction to Generative Security Applications</b>
@@ -112,7 +107,25 @@ Note: To run the Python notebooks, attendees will need a GMail account to run th
 
 <hr>
 
-{% endcomment %}
+<a name="Philippe Laulheret"></a>
+## Visualizing memory allocations with Windbg and p5.js
+### Philippe Laulheret ([@phLaul](https://twitter.com/phLaul))
+Ever wondered what the memory looks like when an heap spraying attack is ongoing? Or maybe you'd like to learn how to leverage WinDbg to instrument a binary and log useful data? Or you yearn for making pretty graphics inspired by code? Well then you're in luck, because that's what this workshop is about. We'll go over how to use WinDbg's conditional breakpoints to trigger JS callbacks in order to track memory allocations and feed the data into a graphic library to enjoy a real-time view of what's going on.
+
+*Philippe Laulheret is a Senior Vulnerability Researcher at Cisco Talos. With a focus on Reverse Engineering and Vulnerability Research, Philippe uses his background in Embedded Security and Software Engineering to poke at complex systems and get them to behave in interesting ways. Philippe presented multiple projects covering hardware hacking, reverse engineering and exploitation at DEF CON, Hardwear.io, Eko Party and more. In his spare time, Philippe enjoys playing CTFs, immersing himself in the beauty of the Pacific Northwest, and exploring the realm of Creative Coding. Philippe holds a MSc in Computer Science from Georgia Tech and a MSc in Electrical and Computer Engineering from Supélec (France).*
+
+<hr>
+
+<a name="Barrett Darnell"></a>
+## ThreatShop: Intro to Web Vulnerabilities
+### Authors Barrett Darnell([@pwneip](https://twitter.com/pwneip)) & Wesley Thurner([@nopresearcher](https://twitter.com/nopresearcher))
+ThreatShop is an interactive workshop designed to be a hands-on, practical experience to learn about web application security. Attendees will learn the top web vulnerabilities through a guided hands-on approach. Each exercise contains information on the vulnerability and an example of vulnerable code. After attempting the exercise, you’ll have a walkthrough allowing you to complete the task on your own.
+
+*Barrett Darnell is a Principal Security Engineer on the Intuit Red Team, a vital part of the organization that protects Intuit and customers from all forms of cybercrime. Intuit is the global technology platform that helps consumers and small businesses overcome their most important financial challenges. With SANS, Barrett is the course author of SEC565: Red Team Operations and Adversary Emulation.*
+
+*Wesley Thurner is a Principal Security Engineer on the Intuit Red Team, a vital part of the organization that protects Intuit and customers from all forms of cybercrime. Intuit is the global technology platform that helps consumers and small businesses overcome their most important financial challenges. Serving more than 100 million customers worldwide with TurboTax, QuickBooks, Mint, Credit Karma and Mailchimp, we believe that everyone should have the opportunity to prosper. We never stop working to find new, innovative ways to make that possible.*
+
+<hr>
 
 <!--
 <a name=""></a>
