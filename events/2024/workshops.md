@@ -4,7 +4,7 @@ title: "Workshops"
 ---
 
 Registration for workshops will open at 12:00, Noon, PDT, on Thursday, Oct 17th!
-Registration for workshops is open at <a href="https://bsides-pdx.square.site/product/bsidespdx-2024-workshops/22">https://bsides-pdx.square.site/product/bsidespdx-2024-workshops/22</a>.
+Take a look at the workshops below, then <a href="https://bsides-pdx.square.site/product/bsidespdx-2024-workshops/23">Register Here</a>.
 
 We've got 9 workshops for you this year!
 
@@ -108,7 +108,7 @@ Note: To run the Python notebooks, attendees will need a GMail account to run th
 <hr>
 
 <a name="Philippe Laulheret"></a>
-## Visualizing memory allocations with Windbg and p5.js
+## <b>Visualizing memory allocations with Windbg and p5.js</b>
 ### Philippe Laulheret ([@phLaul](https://twitter.com/phLaul))
 Ever wondered what the memory looks like when an heap spraying attack is ongoing? Or maybe you'd like to learn how to leverage WinDbg to instrument a binary and log useful data? Or you yearn for making pretty graphics inspired by code? Well then you're in luck, because that's what this workshop is about. We'll go over how to use WinDbg's conditional breakpoints to trigger JS callbacks in order to track memory allocations and feed the data into a graphic library to enjoy a real-time view of what's going on.
 
@@ -117,7 +117,7 @@ Ever wondered what the memory looks like when an heap spraying attack is ongoing
 <hr>
 
 <a name="Barrett Darnell"></a>
-## ThreatShop: Intro to Web Vulnerabilities
+## <b>ThreatShop: Intro to Web Vulnerabilities</b>
 ### Authors Barrett Darnell([@pwneip](https://twitter.com/pwneip)) & Wesley Thurner([@nopresearcher](https://twitter.com/nopresearcher))
 ThreatShop is an interactive workshop designed to be a hands-on, practical experience to learn about web application security. Attendees will learn the top web vulnerabilities through a guided hands-on approach. Each exercise contains information on the vulnerability and an example of vulnerable code. After attempting the exercise, you’ll have a walkthrough allowing you to complete the task on your own.
 
