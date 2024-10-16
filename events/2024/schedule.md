@@ -55,8 +55,8 @@ The following schedule is not final and is still subject to changes
 <tr class="header">
     <th markdown="span" align="center" rowspan=2 >Time</th>
     <th markdown="span" align="center" >[Main Track](/events/2024/speakers.html)<br>[Smith Ballroom](/events/2024/venue.html#3rdFloor)</th>
-    <th markdown="span" align="center" >[Track 2](/events/2024/speakers.html)<br>[Rooms TBD](/events/2024/venue.html#3rdFloor)</th>
-    <th markdown="span" align="center" >[Workshops](/events/2024/workshops.html)<br>[Rooms TBD](/events/2024/venue.html#2ndFloor)</th> 
+    <th markdown="span" align="center" >[Track 2](/events/2024/speakers.html)<br>[Rooms 329-327](/events/2024/venue.html#3rdFloor)</th>
+    <th markdown="span" align="center" >[Workshops](/events/2024/workshops.html)<br>[Rooms 296,298](/events/2024/venue.html#2ndFloor)</th> 
 </tr>
 </thead>
 <tbody>
@@ -171,9 +171,9 @@ The following schedule is not final and is still subject to changes
 <tr class="header">
     <th markdown="span" align="center" rowspan=2 >Time</th>
     <th markdown="span" align="center" >[Main Track](/events/2024/speakers.html)<br>[Smith Ballroom](/events/2024/venue.html#3rdFloor)</th>
-    <th markdown="span" align="center" >[Workshops A](/events/2024/workshops.html)<br>[Room TBD](/events/2024/venue.html#2ndFloor)</th>
-    <th markdown="span" align="center" >[Workshops B](/events/2024/workshops.html)<br>[Room TBD](/events/2024/venue.html#2ndFloor)</th>
-    <th markdown="span" align="center" >[Workshops C](/events/2024/workshops.html)<br>[Room TBD](/events/2024/venue.html#2ndFloor)</th> 
+    <th markdown="span" align="center" >[Workshops A](/events/2024/workshops.html)<br>[Room 327](/events/2024/venue.html#2ndFloor)</th>
+    <th markdown="span" align="center" >[Workshops B](/events/2024/workshops.html)<br>[Room 328](/events/2024/venue.html#2ndFloor)</th>
+    <th markdown="span" align="center" >[Workshops C](/events/2024/workshops.html)<br>[Room 329](/events/2024/venue.html#2ndFloor)</th> 
 </tr>
 </thead>
 <tr class="General_items">
