@@ -218,7 +218,7 @@ The following schedule is not final and is still subject to changes
 <tr>
     <td markdown="span" align="center" >**13:30**</td>
     <td markdown="span" align="center" colspan=1 rowspan=2> Graphing the Insider: Innovative Applications of GNNs in Insider Threat Detection</td>
-    <td markdown="span" align="center" colspan=1 rowspan=4><a href="https://bsidespdx.org/events/2024/workshops.html#"so-youd-like-to-present-at-a-conference>So you'd like to present at a conference</a></td>
+    <td markdown="span" align="center" colspan=1 rowspan=4><a href="https://bsidespdx.org/events/2024/workshops.html#so-youd-like-to-present-at-a-conference">So you'd like to present at a conference</a></td>
     <td markdown="span" align="center" colspan=1 rowspan=4><a href="https://bsidespdx.org/events/2024/workshops.html#an-introduction-to-generative-security-applications">An Introduction to Generative Security Applications</a></td>
     <td markdown="span" align="center" colspan=1 rowspan=4><a href="https://bsidespdx.org/events/2024/workshops.html#visualizing-memory-allocations-with-windbg-and-p5js">Visualizing memory allocations with Windbg and p5.js</a></td>
 </tr>
