@@ -74,34 +74,6 @@ Android is the most common platform worldwide, encompassing 24k distinct devices
 I live and work in the Portland Metro area, consulting on web and mobile app security for a living. When I am not working I am either hacking devices around my house, pretending I am good at gardening, baking and cooking (which I am actually good at), or spending time with my three tiny hackers.
 <hr>
 
-<a name="Wu-chang Feng"></a>
-## <b>An Introduction to Generative Security Applications</b>
-### Wu-chang Feng
-Generative AI and Large Language Models are changing the practice of cybersecurity as we know it, potentially automating many of the tasks that are currently being done by security practitioners. This workshop provides an introduction to building applications using LangChain, a popular framework for constructing LLM applications. After learning its basics, we will then walk through a variety of applications that utilize LLMs to perform security tasks and evaluate their results.
-
-None
-<hr>
-
-<a name="A. Skye, Ali H"></a>
-## <b>Resume Tuning Workshop</b>
-### A. Skye, Ali H
-Help people write their resumes with a Cybersecurity focus, tune existing resumes to highlight in-demand skills, and discuss interviewing techniques that can help get people hired in the Cybersecurity industry.
-
-Building and keeping a resume updated is an intimidating and annoying task even for the most veteran of InfoSec professionals. I'm excited to share the playbook of how to do that well with the least amount of effort. Putting your best foot forward doesn't have to be a pita.
-
-I like cake
-<hr>
-
-<a name="Joe FitzPatrick"></a>
-## <b>So you'd like to present at a conference</b>
-### Joe FitzPatrick ([@securelyfitz](https://x.com/securelyfitz))
-So, you'd like to present at a conference?
-Awesome - but making that decision is just the first step of a long journey. This workshop is primarily intended for people who already have ideas of things to present, but need some help fine-tuning them and understanding the process.
-We'll start off in a lecture format covering all the parts of preparing, submitting and presenting your work, answering a lot of questions you might ask yourself.  We'll proceed into an extended question and answer session. Think of your questions ahead of time, and perhaps even ask them before the workshop. Finally, we'll use the remaining time to team up in groups to share our ideas and give each other feedback.
-Hopefully you'll leave with a better idea of how to navigate the process, as well as a clearer idea of how to structure your submission and presentation.
-
-Joe FitzPatrick (@securelyfitz) is an Instructor and Researcher at SecuringHardware.com. Joe has spent most of his career working on low-level silicon debug, security validation, and penetration testing of CPUs, SoCs, and microcontrollers. He has spent the past decade developing and delivering hardware security related tools and training, instructing hundreds of security researchers, pen testers, and hardware validators worldwide. When not teaching Applied Physical Attacks training, Joe is busy developing new course content or working on contributions to the NSA Playset and other misdirected hardware projects, which he regularly presents at all sorts of fun conferences.
-<hr>
 
 <a name="DrGecko"></a>
 ## <b>Using Stardew Valley as a C2 client and infostealer</b>
@@ -143,15 +115,6 @@ In today’s fast-paced DevOps environments, the rapid deployment of services of
 Kenneth is a Senior Software Engineer at Coinbase and ex-Airbnb Security Engineer focusing on Key Management systems. When he's not getting paged and pulled into incidents he enjoys spending time with his two dogs and being in the outdoors.
 <hr>
 
-<a name="Ken Westin"></a>
-## <b>Roll Your Own EDR/XDR/MDR</b>
-### Ken Westin ([@kwestin](https://x.com/kwestin)) , ([@cthulhu_answers](https://x.com/cthulhu_answers))
-In this two-hour hands-on workshop we will show attendees how to build their own EDR/XDR/MDR platform leveraging open-source tools. Attendees will learn to deploy cross-platform EDR sensors, how to use sigma detection rules, write custom detection rules, and leverage open source adversary emulation tools (Atomic Red Team) to test new them. We will then discuss how to extend these capabilities for investigations and threat hunting by integrating additional open source or free tools to gather additional telemetry such as Sysmon and Velociraptor.
-
-Ken Westin has been in the cybersecurity field for over 15 years working with companies to improve their security posture, through threat hunting, insider threat programs, and vulnerability research. In the past, he has worked closely with law enforcement helping to unveil organized crime groups. His work has been featured in Wired, Forbes, New York Times, Good Morning America, and others, and is regularly reached out to as an expert in cybersecurity, cybercrime, and surveillance.
-
-Ken is an Oregon Native who splits his time between a house in the woods near Portland and a beach shack on the Oregon Coast with his wife, son, and two dogs. He holds a BA from Lewis & Clark College, a graduate degree from the University of Portsmouth UK, and several security certifications. He is a self-professed guitar and record hoarder and amateur musician.
-<hr>
 
 <a name="Lea Snyder"></a>
 ## <b>Oops! … I did it again: Security Pitfalls and how to avoid them</b>
@@ -179,29 +142,6 @@ Data centers employ some of the most robust physical security controls in the in
 Kim Cote is a musician turned technical auditor with a passion for Cybersecurity. When she's not auditing security infrastructure, she enjoys backpacking, playing Dungeons and Dragons, and long boarding.
 <hr>
 
-<a name="Jonathan Reiter, Emily Soward"></a>
-## <b>Incident Response for Artificial Intelligence: Playtest New Tabletop Exercises with the AIRCTL Project for fun and stickers</b>
-### Jonathan Reiter ([Mastadon](https://infosec.exchange/@bees)) and Emily Soward ([LinkedIn](https://www.linkedin.com/in/eksoward/))
-Learn how to respond to security incidents involving Artificial Intelligence (AI) with the AIRCTL Project team. Join this hands-on workshop about preparing for common incident response (IR) scenarios using tabletop exercises. We will facilitate playtesting of a pre-release AI-themed expansion to Backdoors and Breaches, the tabletop game by Black Hills Information Security. In three sections of instructor-guided learning, participants will learn how to run a realistic tabletop IR exercise for an environment where your job is to protect cutting edge AI technology and R&D assets. NO artificial intelligence experience needed to play!
-
-We will discuss the introductory briefing, team formation, scenario roleplay, and debriefing sessions. Participants who playtest any of the AIRCTL Project IR scenarios and share their experiences and ideas as feedback will be eligible for playtester credit on the AIRCTL pages — we want to see the community win and appreciate your time with us has value. We will be sharing a limited number of printed game materials, which attendees can take home. The session will not be recorded but notes and photos with consent are welcome.
-
-Jonathan is a Principal Engineer at Dragos. In his day job he builds telemetry and detection systems for ICS sensor networks. He also has about a decade of experience architecting and benchmarking predictive systems, ranging from dynamic pricing systems to security event classifiers, at petabyte scale.
-
-Emily Soward is the Co-founder of the AIRCTL Project for AI Incident Management. She works as a Scientist and Global Tech Lead for AI Security & Privacy at Amazon Web Services (AWS) where she provides strategic and technical leadership for applied security internally and externally for AWS Customers. She has over a decade of AI R&D experience in engineering, scientific, and technical leadership roles, and got into Security and Privacy through her work in controls engineering and testing for AI systems in high-risk environments, including bringing complex AI systems under test and developing remediation and resiliency strategies. She has both taken AI systems to production and implemented controls for AI governance and ML operations across multiple regulated industries.
-
-Emily is a public speaker and author on how to develop secure and resilient AI systems in distributed compute environments and how to establish operations, governance, validation, and assurance mechanisms for AI systems. Emily has contributed to multiple global frameworks for AI, in areas such as system architecture, organizational resilience and governance, risk management, enterprise security architecture, and audit. She is the co-developer and co-instructor of multiple courses and CPE workshops focused on AI system architecture, privacy, security, risk management, and governance foundations for security professionals as well as AI development teams.
-<hr>
-
-<a name="Jens Mache, Richard"></a>
-## <b>Capture The Flag (CTF) With Feedback</b>
-### Jens Mache, Richard 
-Capture the flag (CTF) exercises can be great practice and fun. However, sometimes things get complicated. Even the best of us may sometimes be lost, move in the wrong direction or get frustrated. In this workshop, not only are we giving you an overview and access to several CTF exercises, you are also provided feedback and hints (in case you need some). This way, everybody who shows up and spends some time can successfully complete the CTF exercises. Short descriptions at https://edurange.org/scenarios.html
-
-Jens' certifications include SANS/ GIAC Certified Intrusion Analyst (GCIA), Penetration Tester (GPEN), Incident Handler (GCIH). Jens has been teaching security since 2007.
-
-Richard participated in the performance analysis of the Rijndael algorithm, which became AES. He has been teaching security and information assurance since 2003.
-<hr>
 
 <a name="Darin Smith"></a>
 ## <b>Can LLMs Take Our Jobs? AI-Assisted Detection Research</b>
@@ -253,15 +193,6 @@ Building a Virtual Machine Introspection system for Windows VMs and guests is a 
 Rowan is an engineer at Intel working in system software fuzzing. He graduated from Purdue University in 2022 and is interested in fuzzing, program analysis, and security tool usability both at work and in his spare time.
 <hr>
 
-<a name="Justin Wiley"></a>
-## <b>Intro to Generative AI security</b>
-### Justin Wiley ([LinkedIn](https://linkedin.com/in/justinwiley))
-Generative AI is everywhere and is seemingly being put into everything—it's amazing, it's terrifying, it's boring, it's *soooo* 2023. But if you are building, buying or purchasing an AI product, how can you evaluate and mitigate the risks associated with generative AI? In this workshop we'll learn about real-world attacks (prompt injection and jailbreaking), and then in the hands-on portion try to carry them out against a sample application. We'll also talk about how to use what you learn to make smarter decisions when working with AI vendors.
-
-TBD
-
-This workshop is designed to be accessible to a wide range of audiences including non-technical users. We won't be talking about state of the art exploits or anything particularly novel, it's designed as an introductory workshop. Please let us know if that is a good fit for BSides!
-<hr>
 
 <a name="Rachel James"></a>
 ## <b>Threat Actors Interest in AI - Separating Hype from Reality</b>
@@ -278,23 +209,6 @@ We will present findings from our year-long investigation, discuss newly discove
 This presentation is crucial for cybersecurity professionals, cyber threat intelligence analysts, and AI researchers seeking to understand and mitigate the growing intersection of AI and cyber threats.
 
 Rachel James is a cyber threat intelligence expert who co-chairs the CTI Program Development Working Group in Health-ISAC, and an active member of Curated Intel. With a rich tapestry of expertise spanning over a decade in cyber threat intelligence, threat hunting and incident response, Rachel stands at the forefront of defending against digital threats and enhancing security frameworks and has been recognized for her outstanding research into threat actors, cybersecurity and artificial intelligence.
-<hr>
-
-<a name="Barrett Darnell, Wesley Thurner"></a>
-## <b>ThreatShop: Intro to Web Vulnerabilities</b>
-### Barrett Darnell ([@pwneip](https://x.com/pwneip)) , Wesley Thurner ([@nopresearcher](https://x.com/nopresearcher))
-ThreatShop is an interactive workshop designed to be a hands-on, practical experience to learn about web application security. Attendees will learn the top web vulnerabilities through a guided hands-on approach. Each exercise contains information on the vulnerability and an example of vulnerable code. After attempting the exercise, you’ll have a walkthrough allowing you to complete the task on your own.
-
-Barrett Darnell is a Principal Security Engineer on the Intuit Red Team, a vital part of the organization that protects Intuit and customers from all forms of cybercrime. Intuit is the global technology platform that helps consumers and small businesses overcome their most important financial challenges. With SANS, Barrett is the course author of SEC565: Red Team Operations and Adversary Emulation.
-
-Prior to Intuit, Barrett was a Managing Senior Operator at Bishop Fox. Barrett was a technical lead for the Continuous Attack Surface Testing (CAST) Managed Security Service. Prior to going to Bishop Fox, he served as an exploitation operator in the US Department of Defense's most elite computer network exploitation (CNE) unit. As a top-rated military officer, Barrett led an offensive operations team in the US Air Force's premier selectively-manned cyber attack squadron.
-
-Barrett holds a Bachelor of Science in Computer Science from Washington State University and a Master of Science in Software Engineering from the University of West Florida. In addition Barrett also holds various industry certifications including the GXPN, GPEN, GREM, GWAPT, GCED, GCIH, GCIA, GCTI, GMON, GAWN, GSEC, and Certified Information Systems Security Professional (CISSP).
-
-Wesley Thurner is a Principal Security Engineer on the Intuit Red Team, a vital part of the organization that protects Intuit and customers from all forms of cybercrime. Intuit is the global technology platform that helps consumers and small businesses overcome their most important financial challenges. Serving more than 100 million customers worldwide with TurboTax, QuickBooks, Mint, Credit Karma and Mailchimp, we believe that everyone should have the opportunity to prosper. We never stop working to find new, innovative ways to make that possible.
-
-Prior to Intuit, Wesley served as an exploitation operator in the US Department of Defense's most elite computer network exploitation (CNE) unit. There he led and developed multiple teams across a variety of roles in the US Air Force's premier selectively-manned cyber attack squadron. Wes is also a co-organizer for the Red Team Village, a community driven village bridging the gap between penetration testers and offensive operations.
-
 <hr>
 
 <a name="Kartikeya Sharma"></a>
@@ -349,13 +263,6 @@ I'll present a 'wrap-up' style talk on the back of last year's talk, titled 'Bas
 Bryan Hance helped co-found BikeIndex.org because he had way too many bikes stolen - and he realized chasing and recovering stolen bikes was really fun. He works in maritime cyber security and applies OSINT methods and processes to chasing bad guys on the internet.
 <hr>
 
-<a name="Philippe Laulheret"></a>
-## <b>Visualizing memory allocations with Windbg and p5.js</b>
-### Philippe Laulheret  ([@phLaul](https://x.com/phLaul)) 
-Ever wondered what the memory looks like when an heap spraying attack is ongoing? Or maybe you'd like to learn how to leverage WinDbg to instrument a binary and log useful data? Or you yearn for making pretty graphics inspired by code? Well then you're in luck, because that's what this workshop is about. We'll go over how to use WinDbg's conditional breakpoints to trigger JS callbacks in order to track memory allocations and feed the data into a graphic library to enjoy a real-time view of what's going on.
-
-Philippe Laulheret is a Senior Vulnerability Researcher at Cisco Talos. With a focus on Reverse Engineering and Vulnerability Research, Philippe uses his background in Embedded Security and Software Engineering to poke at complex systems and get them to behave in interesting ways. Philippe presented multiple projects covering hardware hacking, reverse engineering and exploitation at DEF CON, Hardwear.io, Eko Party and more. In his spare time, Philippe enjoys playing CTFs, immersing himself in the beauty of the Pacific Northwest, and exploring the realm of Creative Coding. Philippe holds a MSc in Computer Science from Georgia Tech and a MSc in Electrical and Computer Engineering from Supélec (France).
-<hr>
 
 <a name="Don Moncrief"></a>
 ## <b>Free to a Bad Home / Who's CTF is it Anyway?</b>
