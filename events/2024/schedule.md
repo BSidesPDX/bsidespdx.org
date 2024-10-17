@@ -133,7 +133,6 @@ The following schedule is final... but is still subject to changes.
         <td markdown="span" align="center" colspan=1>Modern Medium Data Pipelines for Breaches, Hacker Style</td>
         <td markdown="span" align="center" colspan=1>Using Stardew Valley as a C2 client and infostealer </td>
     </tr>
-    </tr>
     <tr >
         <td markdown="span" align="center">**17:00**</td>
         <td markdown="span" align="center" rowspan=1 colspan=3>***Closing Remarks***</td>
