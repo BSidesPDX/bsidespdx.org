@@ -39,6 +39,8 @@ tbody{
 
 </style>
 The following schedule is final... but is still subject to changes.
+
+🙈 - This mark means that this session will not be recorded.
 <br>
 
 <table width="100%">
@@ -80,7 +82,7 @@ The following schedule is final... but is still subject to changes.
         <td markdown="span" align="center">**11:00**</td>
         <td markdown="span" align="center" rowspan=2 colspan=1>Breaking Build: Red Teaming CI/CD Pipelines and GitHub Actions</td>
         <td markdown="span" align="center" rowspan=2 colspan=1>Building a Windows WMI System With No Windows Knowledge </td>
-        <td markdown="span" align="center" rowspan=2 colspan=1 rowspan=4><a href="https://bsidespdx.org/events/2024/workshops.html#resume-tuning-workshop">Resume Tuning Workshop</a></td>
+        <td markdown="span" align="center" rowspan=2 colspan=1 rowspan=4><a href="https://bsidespdx.org/events/2024/workshops.html#resume-tuning-workshop">🙈Resume Tuning Workshop</a></td>
     </tr>
     <tr>
         <td markdown="span" align="center" colspan=1>**11:30**</td>
@@ -92,23 +94,23 @@ The following schedule is final... but is still subject to changes.
     </tr>
     <tr>
         <td markdown="span" align="center" >**12:30**</td>
-        <td markdown="span" align="center" colspan=1>What I Learned About Security from Auditing Data Centers </td>
+        <td markdown="span" align="center" colspan=1>🙈What I Learned About Security from Auditing Data Centers </td>
         <td markdown="span" align="center" colspan=1>Oops! … I did it again: Security Pitfalls and how to avoid them </td>
     </tr>
     <tr>
         <td markdown="span" align="center" >**13:00**</td>
-        <td markdown="span" align="center" colspan=1> Leave your corporate masters and come work for government!</td>
+        <td markdown="span" align="center" colspan=1>🙈Leave your corporate masters and come work for government!</td>
         <td markdown="span" align="center" colspan=1>Building Bulletproof AWS Environments with Secure CDK Constructs </td>
-        <td markdown="span" align="center" colspan=1 rowspan=4><a href="https://bsidespdx.org/events/2024/workshops.html#jonathan-reiter-and-emily-soward">Incident Response for Artificial Intelligence: Playtest New Tabletop Exercises with the AIRCTL Project for fun and stickers</a></td>
+        <td markdown="span" align="center" colspan=1 rowspan=4><a href="https://bsidespdx.org/events/2024/workshops.html#jonathan-reiter-and-emily-soward">🙈Incident Response for Artificial Intelligence: Playtest New Tabletop Exercises with the AIRCTL Project for fun and stickers</a></td>
     </tr>
     <tr>
         <td markdown="span" align="center" >**13:30**</td>
-        <td markdown="span" align="center" colspan=1> The Badge Talk</td>
-        <td markdown="span" align="center" colspan=1>Signed, Sealed, Delivered: Ensuring Software Integrity </td>
+        <td markdown="span" align="center" colspan=1>The Badge Talk</td>
+        <td markdown="span" align="center" colspan=1>🙈Signed, Sealed, Delivered: Ensuring Software Integrity </td>
     </tr>
     <tr>
         <td markdown="span" align="center" >**14:00**</td>
-        <td markdown="span" align="center" rowspan=2 colspan=1> Rudder Nonsense: Steering Smart Rowers Off Course</td>
+        <td markdown="span" align="center" rowspan=2 colspan=1>Rudder Nonsense: Steering Smart Rowers Off Course</td>
         <td markdown="span" align="center" rowspan=2 colspan=1>Securing the Future: Tackling Q-day and Leap-day challenges with CodeQL </td>
     </tr>
     <tr>
@@ -117,8 +119,8 @@ The following schedule is final... but is still subject to changes.
      <tr>
         <td markdown="span" align="center" >**15:00**</td>
 <td markdown="span" align="center" colspan=1 rowspan=2>Bastardo Finale: Wrapping up years of OSINT work chasing professional criminals on the internet </td>
-<td markdown="span" align="center" colspan=1 rowspan=2> What the Function: A Deep Dive into Azure Function App Security </td>
-<td markdown="span" align="center" colspan=1 rowspan=4><a href="https://bsidespdx.org/events/2024/workshops.html#roll-your-own-edrxdrmdr">Roll Your Own EDR/XDR/MDR</a></td>
+<td markdown="span" align="center" colspan=1 rowspan=2>What the Function: A Deep Dive into Azure Function App Security </td>
+<td markdown="span" align="center" colspan=1 rowspan=4><a href="https://bsidespdx.org/events/2024/workshops.html#roll-your-own-edrxdrmdr">🙈Roll Your Own EDR/XDR/MDR</a></td>
     </tr>
      <tr>
         <td markdown="span" align="center" colspan=1>**15:30**</td>
@@ -130,7 +132,7 @@ The following schedule is final... but is still subject to changes.
     </tr>
          <tr>
         <td markdown="span" align="center" >**16:30**</td>
-        <td markdown="span" align="center" colspan=1>Modern Medium Data Pipelines for Breaches, Hacker Style</td>
+        <td markdown="span" align="center" colspan=1>🙈Modern Medium Data Pipelines for Breaches, Hacker Style</td>
         <td markdown="span" align="center" colspan=1>Using Stardew Valley as a C2 client and infostealer </td>
     </tr>
     <tr >
@@ -191,9 +193,9 @@ The following schedule is final... but is still subject to changes.
 <tr>
     <td markdown="span" align="center">**11:00**</td>
     <td markdown="span" align="center" rowspan=1 colspan=1>ORDER NOW!  Using Infomercials to Make Better Presentations</td>
-    <td markdown="span" align="center" rowspan=4 colspan=1><a href="https://bsidespdx.org/events/2024/workshops.html#capture-the-flag-ctf-with-feedback">Capture The Flag (CTF) With Feedback</a></td>
-    <td markdown="span" align="center" rowspan=4 colspan=1><a href="https://bsidespdx.org/events/2024/workshops.html#intro-to-generative-ai-security">Intro to Generative AI security</a></td>
-    <td markdown="span" align="center" rowspan=4 colspan=1><a href="https://bsidespdx.org/events/2024/workshops.html#threatshop-intro-to-web-vulnerabilities">ThreatShop: Intro to Web Vulnerabilities</a></td>
+    <td markdown="span" align="center" rowspan=4 colspan=1><a href="https://bsidespdx.org/events/2024/workshops.html#capture-the-flag-ctf-with-feedback">🙈Capture The Flag (CTF) With Feedback</a></td>
+    <td markdown="span" align="center" rowspan=4 colspan=1><a href="https://bsidespdx.org/events/2024/workshops.html#intro-to-generative-ai-security">🙈Intro to Generative AI security</a></td>
+    <td markdown="span" align="center" rowspan=4 colspan=1><a href="https://bsidespdx.org/events/2024/workshops.html#threatshop-intro-to-web-vulnerabilities">🙈ThreatShop: Intro to Web Vulnerabilities</a></td>
 </tr>
 <tr>
     <td markdown="span" align="center" >**11:30**</td>
@@ -214,16 +216,16 @@ The following schedule is final... but is still subject to changes.
 <tr>
     <td markdown="span" align="center" >**13:30**</td>
     <td markdown="span" align="center" colspan=1 rowspan=2> Graphing the Insider: Innovative Applications of GNNs in Insider Threat Detection</td>
-    <td markdown="span" align="center" colspan=1 rowspan=4><a href="https://bsidespdx.org/events/2024/workshops.html#so-youd-like-to-present-at-a-conference">So you'd like to present at a conference</a></td>
-    <td markdown="span" align="center" colspan=1 rowspan=4><a href="https://bsidespdx.org/events/2024/workshops.html#an-introduction-to-generative-security-applications">An Introduction to Generative Security Applications</a></td>
-    <td markdown="span" align="center" colspan=1 rowspan=4><a href="https://bsidespdx.org/events/2024/workshops.html#visualizing-memory-allocations-with-windbg-and-p5js">Visualizing memory allocations with Windbg and p5.js</a></td>
+    <td markdown="span" align="center" colspan=1 rowspan=4><a href="https://bsidespdx.org/events/2024/workshops.html#so-youd-like-to-present-at-a-conference">🙈So you'd like to present at a conference</a></td>
+    <td markdown="span" align="center" colspan=1 rowspan=4><a href="https://bsidespdx.org/events/2024/workshops.html#an-introduction-to-generative-security-applications">🙈An Introduction to Generative Security Applications</a></td>
+    <td markdown="span" align="center" colspan=1 rowspan=4><a href="https://bsidespdx.org/events/2024/workshops.html#visualizing-memory-allocations-with-windbg-and-p5js">🙈Visualizing memory allocations with Windbg and p5.js</a></td>
 </tr>
 <tr>
     <td markdown="span" align="center" >**14:00**</td>
 </tr>
 <tr>
     <td markdown="span" align="center" colspan=1>**14:30**</td>
-    <td markdown="span" align="center" colspan=1>Your vuln wasn't patched: Life on the Blue Team or how I learned stopy worrying and love the risk</td>
+    <td markdown="span" align="center" colspan=1>🙈Your vuln wasn't patched: Life on the Blue Team or how I learned stopy worrying and love the risk</td>
 </tr>
     <tr>
     <td markdown="span" align="center" >**15:00**</td>
