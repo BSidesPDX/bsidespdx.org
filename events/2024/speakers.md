@@ -33,6 +33,9 @@ Abstract
 ### Kees Cook ([@kees_cook](https://x.com/kees_cook))
 <img src="/images/2024/kees.png" title="KYM" class="center" width=200px style="border:0;">
 
+## A Decade of Low-Hanging Fruit in the Linux Kernel
+### The upstream Linux kernel's security hardening efforts have made huge progress in a decade. We'll look at how we got here, what CVE statistics show, and  what's coming next. Where is the industry going, and can we finally be done with memory unsafe languages?
+<br>
 ### Kees is involved with Free Software since 1994 and has been a Debian Developer since 2007. Currently, he works as a Linux kernel security engineer at Google, focusing on Android and Chrome OS. He previously served as the Ubuntu Security Team's Tech Lead and remains on the Ubuntu Technical Board. Kees has contributed to a range of projects, including OpenSSH, Inkscape, Wine, MPlayer, and Wireshark, with a recent focus on Linux kernel security features.
 
 <br>

@@ -184,7 +184,7 @@ The following schedule is final... but is still subject to changes.
 </tr>
 <tr class="General_items">
     <td markdown="span" align="center">**9:45**</td>
-    <td markdown="span" align="center" colspan=4> **Keynote: Kees Cook**</td>
+    <td markdown="span" align="center" colspan=4> **Keynote: Kees Cook - A Decade of Low-Hanging Fruit in the Linux Kernel**</td>
 </tr>
 <tr class="General_items">
     <td markdown="span" align="center">**10:45**</td>
