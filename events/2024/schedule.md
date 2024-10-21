@@ -200,7 +200,7 @@ The following schedule is final... but is still subject to changes.
 </tr>
 <tr class="General_items">
     <td markdown="span" align="center">**11:00**</td>
-    <td markdown="span" align="center" colspan=3> CTF live challenges open for the day.</td>
+    <td markdown="span" align="center" colspan=4> CTF live challenges open for the day.</td>
 </tr>
 <tr>
     <td markdown="span" align="center">**11:00**</td>
