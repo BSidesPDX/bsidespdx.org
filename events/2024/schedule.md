@@ -78,6 +78,10 @@ The following schedule is final... but is still subject to changes.
         <td markdown="span" align="center">**10:45**</td>
         <td markdown="span" align="center" colspan=3> **15 Minute Break**</td>
     </tr>
+    <tr class="General_items">
+        <td markdown="span" align="center">**11:00**</td>
+        <td markdown="span" align="center" colspan=3> CTF live challenges open for the day.</td>
+    </tr>
     <tr>
         <td markdown="span" align="center">**11:00**</td>
         <td markdown="span" align="center" rowspan=2 colspan=1>Breaking Build: Red Teaming CI/CD Pipelines and GitHub Actions</td>
@@ -135,6 +139,10 @@ The following schedule is final... but is still subject to changes.
         <td markdown="span" align="center" colspan=1>🙈Modern Medium Data Pipelines for Breaches, Hacker Style</td>
         <td markdown="span" align="center" colspan=1>Using Stardew Valley as a C2 client and infostealer </td>
     </tr>
+    <tr class="General_items">
+        <td markdown="span" align="center">**17:00**</td>
+        <td markdown="span" align="center" colspan=3> CTF live challenges close for the day </td>
+    </tr>
     <tr >
         <td markdown="span" align="center">**17:00**</td>
         <td markdown="span" align="center" rowspan=1 colspan=3>***Closing Remarks***</td>
@@ -190,6 +198,10 @@ The following schedule is final... but is still subject to changes.
     <td markdown="span" align="center">**10:45**</td>
     <td markdown="span" align="center" colspan=4> **15 Minute Break**</td>
 </tr>
+<tr class="General_items">
+    <td markdown="span" align="center">**11:00**</td>
+    <td markdown="span" align="center" colspan=3> CTF live challenges open for the day.</td>
+</tr>
 <tr>
     <td markdown="span" align="center">**11:00**</td>
     <td markdown="span" align="center" rowspan=1 colspan=1>ORDER NOW!  Using Infomercials to Make Better Presentations</td>
@@ -216,9 +228,9 @@ The following schedule is final... but is still subject to changes.
 <tr>
     <td markdown="span" align="center" >**13:30**</td>
     <td markdown="span" align="center" colspan=1 rowspan=2> Graphing the Insider: Innovative Applications of GNNs in Insider Threat Detection</td>
-    <td markdown="span" align="center" colspan=1 rowspan=4><a href="https://bsidespdx.org/events/2024/workshops.html#so-youd-like-to-present-at-a-conference">🙈So you'd like to present at a conference</a></td>
-    <td markdown="span" align="center" colspan=1 rowspan=4><a href="https://bsidespdx.org/events/2024/workshops.html#an-introduction-to-generative-security-applications">🙈An Introduction to Generative Security Applications</a></td>
-    <td markdown="span" align="center" colspan=1 rowspan=4><a href="https://bsidespdx.org/events/2024/workshops.html#visualizing-memory-allocations-with-windbg-and-p5js">🙈Visualizing memory allocations with Windbg and p5.js</a></td>
+    <td markdown="span" align="center" colspan=1 rowspan=5><a href="https://bsidespdx.org/events/2024/workshops.html#so-youd-like-to-present-at-a-conference">🙈So you'd like to present at a conference</a></td>
+    <td markdown="span" align="center" colspan=1 rowspan=5><a href="https://bsidespdx.org/events/2024/workshops.html#an-introduction-to-generative-security-applications">🙈An Introduction to Generative Security Applications</a></td>
+    <td markdown="span" align="center" colspan=1 rowspan=5><a href="https://bsidespdx.org/events/2024/workshops.html#visualizing-memory-allocations-with-windbg-and-p5js">🙈Visualizing memory allocations with Windbg and p5.js</a></td>
 </tr>
 <tr>
     <td markdown="span" align="center" >**14:00**</td>
@@ -226,6 +238,11 @@ The following schedule is final... but is still subject to changes.
 <tr>
     <td markdown="span" align="center" colspan=1>**14:30**</td>
     <td markdown="span" align="center" colspan=1>🙈Your vuln wasn't patched: Life on the Blue Team or how I learned stopy worrying and love the risk</td>
+</tr>
+<tr class="General_items">
+    <td markdown="span" align="center" >**15:00**</td>
+    <td markdown="span" align="center" colspan=1> CTF live challenges close for the day </td>
+</tr>
 </tr>
     <tr>
     <td markdown="span" align="center" >**15:00**</td>
