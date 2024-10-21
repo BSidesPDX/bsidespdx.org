@@ -7,11 +7,13 @@ title: "Sponsors"
 Would your company like to sponsor? For less than the admission of a single attendee to a big name conference, they could be a platinum sponsor at BSidesPDX. For more information, contact us at <a href="mailto:sponsorship@bsidespdx.org">sponsorship@bsidespdx.org</a>
 
 <table style="margin-left: auto; margin-right: auto;">
+<!--
 <tr>
-<th style="font-size: 36px;"><h1>Diamond Sponsors</h1></th>
+<th style="font-size: 36px; text-decoration: underline;"><h1>Diamond Sponsors</h1></th>
 </tr>
+-->
 <tr>
-<th style="font-size: 36px;"><h1>Platinum Sponsors</h1></th>
+<th style="font-size: 36px; text-decoration: underline;"><h1>Platinum Sponsors</h1></th>
 </tr>
 <tr>
 <td style="padding: 50px;">
@@ -24,7 +26,7 @@ Would your company like to sponsor? For less than the admission of a single atte
 </td>
 </tr>
 <tr>
-<th style="font-size: 36px;"><h1>Gold Sponsors</h1></th>
+<th style="font-size: 36px; text-decoration: underline;"><h1>Gold Sponsors</h1></th>
 </tr>
 <tr>
 <td style="padding: 50px;">
@@ -37,7 +39,7 @@ Would your company like to sponsor? For less than the admission of a single atte
 </td>
 </tr>
 <tr>
-<th style="font-size: 36px;"><h1>Silver Sponsors</h1></th>
+<th style="font-size: 36px; text-decoration: underline;"><h1>Silver Sponsors</h1></th>
 </tr>
 <tr>
 <td style="padding: 50px;">
