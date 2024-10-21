@@ -32,6 +32,11 @@ Would your company like to sponsor? For less than the admission of a single atte
 </td>
 </tr>
 <tr>
+<td style="padding: 50px;">
+<img style="height: auto; width: 300px;" src="/images/2024/web-logos/Eclypsium_Logo_Full_Color.jpg" alt="Eclypsium Logo" class="center"/>
+</td>
+</tr>
+<tr>
 <th style="font-size: 36px;"><h1>Silver Sponsors</h1></th>
 </tr>
 <tr>
