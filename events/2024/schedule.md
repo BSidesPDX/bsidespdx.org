@@ -56,8 +56,8 @@ The following schedule is final... but is still subject to changes.
 </tr>
 <tr class="header">
     <th markdown="span" align="center" rowspan=2 >Time</th>
-    <th markdown="span" align="center" >[Main Track](/events/2024/speakers.html)<br>[Smith Ballroom](/events/2024/venue.html#3rdFloor)</th>
-    <th markdown="span" align="center" >[Track 2](/events/2024/speakers.html)<br>[Rooms 329-327](/events/2024/venue.html#3rdFloor)</th>
+    <th markdown="span" align="center" >[Main Track](/events/2024/speakers.html)<br>[Smith Ballroom](/events/2024/venue.html#3rdFloor)<br>[Livestream](https://www.youtube.com/watch?v=O2jhmSFhY2w)</th>
+    <th markdown="span" align="center" >[Track 2](/events/2024/speakers.html)<br>[Rooms 329-327](/events/2024/venue.html#3rdFloor)<br>[Livestream](https://www.youtube.com/watch?v=VI76DUQ4DHI)</th>
     <th markdown="span" align="center" >[Workshops](/events/2024/workshops.html)<br>[Rooms 296,298](/events/2024/venue.html#2ndFloor)</th> 
 </tr>
 </thead>
@@ -173,10 +173,9 @@ The following schedule is final... but is still subject to changes.
 <thead>
 <tr class="header">
 <th colspan=5 align="center"><br>Saturday, October 26th, 2024<br><br></th>
-</tr>
 <tr class="header">
     <th markdown="span" align="center" rowspan=2 >Time</th>
-    <th markdown="span" align="center" >[Main Track](/events/2024/speakers.html)<br>[Smith Ballroom](/events/2024/venue.html#3rdFloor)</th>
+    <th markdown="span" align="center" >[Main Track](/events/2024/speakers.html)<br>[Smith Ballroom](/events/2024/venue.html#3rdFloor)<br>[Livestream](https://www.youtube.com/watch?v=gPYBXaua6xc)</th>
     <th markdown="span" align="center" >[Workshops A](/events/2024/workshops.html)<br>[Room 327](/events/2024/venue.html#2ndFloor)</th>
     <th markdown="span" align="center" >[Workshops B](/events/2024/workshops.html)<br>[Room 328](/events/2024/venue.html#2ndFloor)</th>
     <th markdown="span" align="center" >[Workshops C](/events/2024/workshops.html)<br>[Room 329](/events/2024/venue.html#2ndFloor)</th> 
