@@ -120,21 +120,21 @@ The following schedule is final... but is still subject to changes.
     <tr>
         <td markdown="span" align="center" colspan=1>**14:30**</td>
     </tr>
-     <tr>
+    <tr>
         <td markdown="span" align="center" >**15:00**</td>
-<td markdown="span" align="center" colspan=1 rowspan=2>Bastardo Finale: Wrapping up years of OSINT work chasing professional criminals on the internet </td>
-<td markdown="span" align="center" colspan=1 rowspan=2>What the Function: A Deep Dive into Azure Function App Security </td>
-<td markdown="span" align="center" colspan=1 rowspan=4><a href="https://bsidespdx.org/events/2024/workshops.html#roll-your-own-edrxdrmdr">🙈Roll Your Own EDR/XDR/MDR</a></td>
+	<td markdown="span" align="center" colspan=1 rowspan=2>Bastardo Finale: Wrapping up years of OSINT work chasing professional criminals on the internet </td>
+	<td markdown="span" align="center" colspan=1 rowspan=2>What the Function: A Deep Dive into Azure Function App Security </td>
+	<td markdown="span" align="center" colspan=1 rowspan=4><a href="https://bsidespdx.org/events/2024/workshops.html#roll-your-own-edrxdrmdr">🙈Roll Your Own EDR/XDR/MDR</a></td>
     </tr>
-     <tr>
+    <tr>
         <td markdown="span" align="center" colspan=1>**15:30**</td>
     </tr>
-     <tr>
+    <tr>
         <td markdown="span" align="center" >**16:00**</td>
         <td markdown="span" align="center" colspan=1>Asymmetric Impact: Adventures in funding infosec research</td>
         <td markdown="span" align="center" colspan=1>Beyond the Hacker Stereotype: Exploring Cybersecurity Careers You Didn't Know Existed </td>
     </tr>
-         <tr>
+    <tr>
         <td markdown="span" align="center" >**16:30**</td>
         <td markdown="span" align="center" colspan=1>🙈Modern Medium Data Pipelines for Breaches, Hacker Style</td>
         <td markdown="span" align="center" colspan=1>Using Stardew Valley as a C2 client and infostealer </td>
@@ -172,7 +172,8 @@ The following schedule is final... but is still subject to changes.
 </colgroup>
 <thead>
 <tr class="header">
-<th colspan=5 align="center"><br>Saturday, October 26th, 2024<br><br></th>
+    <th colspan=5 align="center"><br>Saturday, October 26th, 2024<br><br></th>
+</tr>
 <tr class="header">
     <th markdown="span" align="center" rowspan=2 >Time</th>
     <th markdown="span" align="center" >[Main Track](/events/2024/speakers.html)<br>[Smith Ballroom](/events/2024/venue.html#3rdFloor)<br>[Livestream](https://www.youtube.com/watch?v=gPYBXaua6xc)</th>
@@ -181,6 +182,7 @@ The following schedule is final... but is still subject to changes.
     <th markdown="span" align="center" >[Workshops C](/events/2024/workshops.html)<br>[Room 329](/events/2024/venue.html#2ndFloor)</th> 
 </tr>
 </thead>
+<tbody>
 <tr class="General_items">
     <td markdown="span" align="center">**9:00**</td>
     <td markdown="span" align="center" colspan=4> **Registration Opens**</td>
@@ -247,7 +249,7 @@ The following schedule is final... but is still subject to changes.
     <td markdown="span" align="center" >**15:00**</td>
     <td markdown="span" align="center" colspan=1 rowspan=2>Canary Tokens - why and how to implement them and related gotchas</td>
 </tr>
-    <tr>
+<tr>
     <td markdown="span" align="center" colspan=1>**15:30**</td>
     <td markdown="span" align="center" class="diagonalRising" colspan=3 rowspan=1></td>
 <tr style="background-color: #E0CBA8;">
@@ -258,6 +260,8 @@ The following schedule is final... but is still subject to changes.
     <td markdown="span" align="center">**16:15**</td>
     <td markdown="span" align="center" colspan=4> **BSIDES Portland 2025 Planning begins**<br>See you all next year or sooner! We'll be packing up and out of the venue immediately after closing. <br>Speakers & Volunteers, see your email for details about the VIP thank-you afterparty.</td>
 </tr>
+</tbody>
+</table>
 
 
 
