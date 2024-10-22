@@ -1,4 +1,4 @@
----
+--
 layout: page
 title: "Sponsors"
 ---
@@ -9,11 +9,11 @@ Would your company like to sponsor? For less than the admission of a single atte
 <table style="margin-left: auto; margin-right: auto;">
 <!--
 <tr>
-<th style="font-size: 36px; text-decoration: underline;"><h1>Diamond Sponsors</h1></th>
+<th style="font-size: 36px;"><h1>Diamond Sponsors</h1></th>
 </tr>
 -->
 <tr>
-<th style="font-size: 36px; text-decoration: underline;"><h1>Platinum Sponsors</h1></th>
+<th style="font-size: 36px;"><h1>Platinum Sponsors</h1></th>
 </tr>
 <tr>
 <td style="padding: 50px;">
@@ -26,7 +26,12 @@ Would your company like to sponsor? For less than the admission of a single atte
 </td>
 </tr>
 <tr>
-<th style="font-size: 36px; text-decoration: underline;"><h1>Gold Sponsors</h1></th>
+<td style="padding: 50px;">
+<img style="height: auto; width: 300px;" src="/images/2024/web-logos/hackerone_logo_black.png" alt="HackerOne Logo" class="center"/>
+</td>
+</tr>
+<tr>
+<th style="font-size: 36px;"><h1>Gold Sponsors</h1></th>
 </tr>
 <tr>
 <td style="padding: 50px;">
@@ -39,7 +44,7 @@ Would your company like to sponsor? For less than the admission of a single atte
 </td>
 </tr>
 <tr>
-<th style="font-size: 36px; text-decoration: underline;"><h1>Silver Sponsors</h1></th>
+<th style="font-size: 36px;"><h1>Silver Sponsors</h1></th>
 </tr>
 <tr>
 <td style="padding: 50px;">
