@@ -177,9 +177,9 @@ The following schedule is final... but is still subject to changes.
 <tr class="header">
     <th markdown="span" align="center" rowspan=2 >Time</th>
     <th markdown="span" align="center" >[Main Track](/events/2024/speakers.html)<br>[Smith Ballroom](/events/2024/venue.html#3rdFloor)<br>[Livestream](https://www.youtube.com/watch?v=gPYBXaua6xc)</th>
-    <th markdown="span" align="center" >[Workshops A](/events/2024/workshops.html)<br>[Room 327](/events/2024/venue.html#2ndFloor)</th>
+    <th markdown="span" align="center" >[Workshops A](/events/2024/workshops.html)<br>[Room 329](/events/2024/venue.html#2ndFloor)</th>
     <th markdown="span" align="center" >[Workshops B](/events/2024/workshops.html)<br>[Room 328](/events/2024/venue.html#2ndFloor)</th>
-    <th markdown="span" align="center" >[Workshops C](/events/2024/workshops.html)<br>[Room 329](/events/2024/venue.html#2ndFloor)</th> 
+    <th markdown="span" align="center" >[Workshops C](/events/2024/workshops.html)<br>[Room 327](/events/2024/venue.html#2ndFloor)</th> 
 </tr>
 </thead>
 <tbody>
@@ -230,8 +230,8 @@ The following schedule is final... but is still subject to changes.
     <td markdown="span" align="center" >**13:30**</td>
     <td markdown="span" align="center" colspan=1 rowspan=2> Graphing the Insider: Innovative Applications of GNNs in Insider Threat Detection</td>
     <td markdown="span" align="center" colspan=1 rowspan=5><a href="https://bsidespdx.org/events/2024/workshops.html#so-youd-like-to-present-at-a-conference">🙈So you'd like to present at a conference</a></td>
-    <td markdown="span" align="center" colspan=1 rowspan=5><a href="https://bsidespdx.org/events/2024/workshops.html#an-introduction-to-generative-security-applications">🙈An Introduction to Generative Security Applications</a></td>
     <td markdown="span" align="center" colspan=1 rowspan=5><a href="https://bsidespdx.org/events/2024/workshops.html#visualizing-memory-allocations-with-windbg-and-p5js">🙈Visualizing memory allocations with Windbg and p5.js</a></td>
+    <td markdown="span" align="center" colspan=1 rowspan=5><a href="https://bsidespdx.org/events/2024/workshops.html#an-introduction-to-generative-security-applications">🙈An Introduction to Generative Security Applications</a></td>
 </tr>
 <tr>
     <td markdown="span" align="center" >**14:00**</td>
