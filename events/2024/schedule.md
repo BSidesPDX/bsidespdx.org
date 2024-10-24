@@ -7,7 +7,6 @@ table{
     border-collapse: collapse;
     border-spacing: 0;
     border:2px solid #000000;
-    
 }
 
 th{
@@ -151,17 +150,15 @@ The following schedule is final... but is still subject to changes.
         <td markdown="span" align="center">**17:15**</td>
         <td markdown="span" align="center" colspan=3> Join us for drinks and snacks in the registration room after closing remarks</td>
     </tr>
+    </tbody>
     <tfoot>
-    <tr>
-        <td markdown="span" align="center">**20:30**</td>
-        <td markdown="span" align="center" colspan=3> **Doors close**</td>
-    </tr>
+        <tr>
+            <td markdown="span" align="center">**20:30**</td>
+            <td markdown="span" align="center" colspan=3> **Doors close**</td>
+        </tr>
     </tfoot>
-</tbody>
 </table>
-
-<br><br>
-
+<br><br><br>
 <table width="100%">
 <colgroup>
     <col width="10%" />
@@ -244,24 +241,23 @@ The following schedule is final... but is still subject to changes.
     <td markdown="span" align="center" >**15:00**</td>
     <td markdown="span" align="center" colspan=1> CTF live challenges close for the day </td>
 </tr>
-</tr>
-    <tr>
+<tr>
     <td markdown="span" align="center" >**15:00**</td>
     <td markdown="span" align="center" colspan=1 rowspan=2>Canary Tokens - why and how to implement them and related gotchas</td>
 </tr>
 <tr>
     <td markdown="span" align="center" colspan=1>**15:30**</td>
     <td markdown="span" align="center" class="diagonalRising" colspan=3 rowspan=1></td>
+</tr>
 <tr style="background-color: #E0CBA8;">
     <td markdown="span" align="center">**16:00**</td>
     <td markdown="span" align="center" rowspan=1 colspan=4>***Closing Remarks***</td>
 </tr>
+
 <tr>
     <td markdown="span" align="center">**16:15**</td>
     <td markdown="span" align="center" colspan=4> **BSIDES Portland 2025 Planning begins**<br>See you all next year or sooner! We'll be packing up and out of the venue immediately after closing. <br>Speakers & Volunteers, see your email for details about the VIP thank-you afterparty.</td>
 </tr>
-</tbody>
-</table>
 
 
 
