@@ -14,7 +14,9 @@ Coming soon!
 ## <b>BSidesPDX 2024 CTF</b>
 ### BSidesPDX 2024 CTF 
 
-The annual BSidesPDX 2024 CTF competition, brought to you by an amazing group of volunteers!
+<p>The annual BSidesPDX 2024 CTF competition, brought to you by an amazing group of volunteers!</p>
+<p>Go to <a href="https://ctf.bsidespdx.org">https://ctf.bsidespdx.org</a> to register and play!</p>
+
 <hr>
 
 
