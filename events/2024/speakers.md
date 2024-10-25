@@ -63,7 +63,7 @@ Jeff Toth is a pentester, turned governmental cybersecurity shill. He is a co-fo
 
 <a name="BSidesPDX CTF"></a>
 ## <b>BSidesPDX 2024 CTF</b>
-### BSidesPDX CTF
+### BSidesPDX CTF ([Website](https://ctf.bsidespdx.org/))
 The annual BSidesPDX 2024 CTF competition.
 
 The group of individuals volunteering to bring the CTF challenge to BSidesPDX 2024.
