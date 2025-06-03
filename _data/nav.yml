@@ -28,8 +28,8 @@
 - title: "BsidesPDX 2025"
   href: "/events/2025"
   subcategories:
-    # - subtitle: "Register"
-    #   subhref: "/events/2025/register.html"
+    - subtitle: "Register"
+      subhref: "/events/2025/register.html"
     # - subtitle: "Covid 19 Policy"
     #   subhref: "/events/2025/COVID19_Policy.html"
     # - subtitle: "Schedule"

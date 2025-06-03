@@ -3,9 +3,9 @@ layout: page
 title: "Registration is now open" 
 ---
 
-We're looking forward to seeing you at BSidesPDX on Friday-Saturday October 25-26, 2025 for our annual conference at Portland State University!
+We're looking forward to seeing you at BSidesPDX on Friday-Saturday October 24-25, 2025 for our annual conference at Portland State University!
 
-<h1><u><a href="https://bsides-pdx.square.site/product/bsidespdx2025/21">Click here for Conference Registration</a></u></h1>
+<h1><u><a href="https://square.link/u/764whWRt">Click here for Conference Registration</a></u></h1>
 
 <!-- *We have decided to give away ~300 TShirts at the event, first come, first served.<br> -->
 
@@ -16,7 +16,7 @@ We're looking forward to seeing you at BSidesPDX on Friday-Saturday October 25-2
 <br> -->
 <h2>Location:</h2>Portland State University<br>
 Smith Memorial Student Union<br>
-Registration on Third Floor, Room 338<br>
+Registration on First Floor, Room 101<br>
 <a href="https://www.pdx.edu/student-union/smith-directories-floorplans#thirdfloor">https://www.pdx.edu/student-union/smith-directories-floorplans#thirdfloor</a><br>
 
 <br>
