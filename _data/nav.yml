@@ -13,13 +13,13 @@
       subhref: "/about/contact.html"
     - subtitle: "Past Events"
       subhref: "/about/past-events.html"
-# - title: "CFP"
-#   href: "https://cfp.bsidespdx.org/bsidespdx-2025/"
-#   subcategories:
-#     - subtitle: "CFP"
-#       subhref: "https://cfp.bsidespdx.org/bsidespdx-2025/"
-#     - subtitle: "Review Board"
-#       subhref: "/events/2025/review-board.html"
+- title: "CFP"
+  href: "https://cfp.bsidespdx.org/bsidespdx-2025/"
+  subcategories:
+    - subtitle: "CFP"
+      subhref: "https://cfp.bsidespdx.org/bsidespdx-2025/"
+    - subtitle: "Review Board"
+      subhref: "/events/2025/review-board.html"
 - title: Volunteer
   href: "/about/volunteer-info.html"
   subcategories:
