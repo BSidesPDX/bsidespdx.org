@@ -16,8 +16,7 @@ We're looking forward to seeing you at BSidesPDX on Friday-Saturday October 24-2
 <br> -->
 <h2>Location:</h2>Portland State University<br>
 Smith Memorial Student Union<br>
-Registration on First Floor, Room 101<br>
-<a href="https://www.pdx.edu/student-union/smith-directories-floorplans#thirdfloor">https://www.pdx.edu/student-union/smith-directories-floorplans#thirdfloor</a><br>
+<a href="https://www.pdx.edu/student-union/smith-directories-floorplans#firstfloor">Registration on First Floor, Room 101</a><br>
 
 <br>
 We are a 501(c)(3) charitable nonprofit. We are happy to have you regardless of what you can pay. If your employer reimburses you for your conference fees, we recommend the 'Business Recommendation' tier which covers the full cost of the event.
