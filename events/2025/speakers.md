@@ -16,7 +16,7 @@ The Speaker list is still being updated, Check here later for the full list of S
 <a name="Perri Adams"></a>
 
 ## <b>Day 1 Keynote</b>
-### Perri Adams ([@perribus](https://x.com/perribus))
+### Perri Adams ([@perrib.us](https://bsky.app/profile/perrib.us) [@perribus](https://x.com/perribus))
 <img src="/images/2025/perri.jpg" title="Perri Adams" class="center" width=200px style="border:0;">
 
 ### Perri Adams is a fellow at Dartmouth's Institute for Security Technology Studies (ISTS) and former Special Assistant to the Director at the Defense Advanced Research Projects Agency (DARPA), where she advised stakeholders at the agency and across the U.S. government on the next generation of AI and cybersecurity technology. 
