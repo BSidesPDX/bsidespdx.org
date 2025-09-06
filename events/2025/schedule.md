@@ -69,7 +69,7 @@ This is where we publish the schedule, but not yet, please come back later.
     </tr>
     <tr class="General_items">
         <td markdown="span" align="center">**9:45**</td>
-        <td markdown="span" align="center" colspan=3> **Keynote: Perry Adams**</td>
+        <td markdown="span" align="center" colspan=3> **Keynote: Perri Adams**</td>
     </tr>
     <tr class="General_items">
         <td markdown="span" align="center">**10:45**</td>
