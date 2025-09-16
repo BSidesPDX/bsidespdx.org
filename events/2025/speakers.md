@@ -25,6 +25,22 @@ The Speaker list is still being updated, Check here later for the full list of S
 
 <br>
 <hr>
+
+
+<a name="Micah Lee"></a>
+
+## <b>Day 2 Keynote</b>
+### Micah Lee ([@micahflee.com](https://bsky.app/profile/micahflee.com) [@micahflee@infosec.exchange](https://infosec.exchange/@micahflee))
+<img src="/images/2025/micah.jpg" title="Micah Lee" class="center" width=200px style="border:0;">
+
+### I'm an information security engineer, a software engineer, an investigative data journalist, and an author. I use he/him pronouns, and my name is pronounced "my-kah."
+### I started the Lockdown Systems Collective where I help develop an open source app called Cyd that helps people claw back their data from Big Tech.
+### I worked for The Intercept for a decade, where I was director of information security. I also used to work as a staff technologist at Electronic Frontier Foundation, and I helped co-found Freedom of the Press Foundation. I did opsec for journalists while Edward Snowden was leaking NSA docs to them.
+### I'm the author of "Hacks, Leaks, and Revelations: The Art of Analyzing Hacked and Leaked Data", a hands-on book that teaches journalists, researchers, and activists how download, research, analyze, and report on datasets. (No prior experience required.)
+### I develop open source security tools like OnionShare and Dangerzone. You can check out my GitHub activity ([here](https://github.com/micahflee/)).
+
+<br>
+<hr>
 <!-- 
 <a name="name"></a>
 ## <b>title</b>
