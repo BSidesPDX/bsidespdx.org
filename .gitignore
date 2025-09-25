@@ -1,12 +1,19 @@
+# macOS specific bits
+.DS_Store
+._.DS_Store
+**/.DS_Store
+**/._.DS_Store
+
+# ruby bits & bobs
 .bundle
 .sass-cache
 _site
 bin
 vendor/ruby
 Gemfile.lock
-images/.DS_Store
-images/2018/.DS_Store
-images/2018/web-logos/.DS_Store
-.DS_Store
 .#*
+.jekyll-metadata
+
+# very specific something or other
 events/2024/sponsors.md.malcolm
+
