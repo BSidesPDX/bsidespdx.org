@@ -10,8 +10,6 @@ Abstract
 
 *Bio*
 -->
-The Speaker list is still being updated. Check back often to see new Speakers being added!
-
 
 <a name="Perri Adams"></a>
 
@@ -349,7 +347,7 @@ Using an open-source EDR as a demo environment, I’ll showcase how raw suspicio
 
 
 <a name="Neha Srivastava"></a>
-## <b>From Context-Switching Hell to AI-Powered Ops: Eliminating Security On-Call Toil with the Model Context Protocol</b>
+## <b>Quantum Computing: Hype, Hope, and the Cybersecurity Horizon</b>
 Quantum computing has sparked both excitement and alarm in the cybersecurity world and honestly, I’ve felt both. Between promises of solving problems previously thought impossible and fears of cracking RSA wide open, it’s hard to tell what’s real and what’s just well-dressed science fiction.
 
 In this talk, I want to cut through the noise not from a purely academic standpoint, but from the perspective of someone who's actively working on quantum readiness in the fintech world. I’ve been navigating the hype, hope, and hard truths that come with trying to future-proof sensitive systems against a threat that’s not quite here… but definitely not imaginary.

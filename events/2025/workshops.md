@@ -2,12 +2,14 @@
 layout: page
 title: "Workshops"
 ---
-This is where we publish workshop information, but not yet, please come back later.
+These are the confirmed workshops. Workshop registration is not yet open, look out for an email coming soon announcing when registration will open.
+
+In the meantime, read below to get excited about this year's learning opportunities!
 
 <!--
 <a name=""></a>
 ## Title
-### Authors ([](https://twitter.com/))
 Abstract
+### Authors ([](https://twitter.com/))
 *Bio*
 -->
