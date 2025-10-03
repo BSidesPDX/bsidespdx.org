@@ -234,13 +234,13 @@ Whether you’re red team, blue team, or somewhere in between, you’ll walk awa
 
 <a name="Mike Niles"></a>
 ## <b>New phone, who dis? The quest for a true Burner Phone</b>
-Do burner phones really still exist, or are they the stuff of urban legend?
-
-Can you get a phone that's untraceable any more?
+Do burner phones really still exist, or are they the stuff of urban legend? Can you get a phone that's untraceable any more? Why would you even want to?
 
 Follow my journey as I find out, and maybe discover some privacy tips along the way.
 ### Mike Niles
-*--*
+*Mike works in Municipal Government IT, and has over 25 years of varied tech jobs under his belt ranging from end-user and application support to systems administration, patch management and cybersecurity.*
+
+*Mike's spare time is typically consumed with gaming with his kids, cybersecurity conferences, and referring to himself in the third person.*
 <hr>
 
 
