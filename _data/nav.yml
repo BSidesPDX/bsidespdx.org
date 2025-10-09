@@ -44,5 +44,5 @@
       subhref: "/events/2025/venue.html"
     - subtitle: "Volunteer Signup"
       subhref: "/events/2025/volunteer.html"
-    # - subtitle: "Workshops"
-    #   subhref: "/events/2025/workshops.html"
+    - subtitle: "Workshops"
+      subhref: "/events/2025/workshops.html"
