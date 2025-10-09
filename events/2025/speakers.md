@@ -413,7 +413,7 @@ This talk presents the Hardware Procurement Iceberg (not coincidentally modeled 
 
 Whether it be eBay, GovDeals, or somewhere more obscure/exotic, this talk walks through all possible routes to find your desired router, medical equipment, ICS/SCADA device, or whatever you fancy to complete your end-to-end research testbed.
 ### yltsi
-*yltsi spends his time during business hours conducting product security research for a large technology company. Outside of that, he spends an overwhelming amount of time quenching his curiosity with web, mobile, game, and embedded security research for the spirit of the craft, as well as electronics reverse engineering and repair. He is a pro-gratis bug hunter and live hacking enthusiast, having taking 1st place in DistrictCon's inaugural Junkyard EOL PwNATHON competition in 2025 and given a talk at DEF CON Skytalks long ago.*
+*yltsi spends his time during business hours conducting product security research for a large technology company. Outside of that, he spends an overwhelming amount of time quenching his curiosity with web, mobile, game, and embedded security research for the spirit of the craft, as well as electronics reverse engineering and repair. He is a pro-gratis bug hunter and live hacking enthusiast, having taken 1st place in DistrictCon's inaugural Junkyard EOL PwNATHON competition in 2025 and given a talk at DEF CON Skytalks long ago.*
 <hr>
 
 
@@ -444,6 +444,16 @@ LLMs are racing into clinics and back offices, but a single prompt, log or misst
 *--*
 ### Anoop Nadig
 *I’m Anoop Nadig, a security engineer with seven years of experience. I specialize in Cloud and Application security, with professional interests in automation, threat modeling, and “shift-left” practices. Outside of work, you’ll often find me on a hiking trail, at a live concert, or supporting security conferences and community initiatives.*
+<hr>
+
+
+<a name="Pankaj Upadhyay"></a>
+## <b>Automating Threat Modeling with Vision Models - Lesson learned</b>
+Threat modeling has always been critical but also slow, manual, and often skipped. What if your security champions could generate a first draft of a STRIDE analysis from architecture diagram itself ? In this talk, we’ll explore how vision models (like Gemini Vision) and LLMs can automate early threat modeling by “seeing” system diagrams and translating them into structured security insights.
+I’ll show how we built an agent that ingests architecture diagrams, interprets flows and trust boundaries, and outputs threat models in a developer-friendly format. We’ll cover practical benefits (speed, adoption, developer engagement) as well as real challenges: hallucinations, missing context, and having humans in the loop. Finally, I’ll share how we turn these outputs into generating adversarial test cases, making threat modeling more actionable.
+Attendees will leave with a framework to experiment with their own AI-assisted threat modeling pipeline, lessons learned from real reviews of AI agents, and a realistic sense of what today’s vision models can (and can’t) do for security.
+### Pankaj Upadhyay
+*--*
 <hr>
 
 
