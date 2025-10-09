@@ -4,7 +4,7 @@ title: "Workshops"
 ---
 We’ve got WORKSHOPS!
 
-Details about the workshops are available in the [schedule](schedule.html). [Pre-registration will open Friday, Oct 10 and Noon](https://square.link/u/LYlZ89gC). Please make sure you also register for the event itself separately.
+Details about the workshops are available in the [schedule](schedule.html). [Pre-registration will open Friday, Oct 10 at Noon](https://square.link/u/LYlZ89gC). Please make sure you also register for the event itself separately.
 
 Since capacity is limited, we do attach a nominal $10 fee to advance registration to prevent speculative registrations and limit no-shows. Check the regisrtation site if cost is an issue.
 
