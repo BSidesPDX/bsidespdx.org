@@ -447,6 +447,14 @@ LLMs are racing into clinics and back offices, but a single prompt, log or misst
 <hr>
 
 
+<a name="Jason Martin"></a>
+## <b>From Assistant to Adversary: When Agentic AI Becomes an Insider Threat</b>
+This talk explores the converging risk factors that could transform helpful AI systems into potential security threats within organizations. We examine three critical ingredients that create this vulnerability: increasing capability, expanding agency, and exploitable motivation. As AI task capabilities surpass human performance in some domains, organizations naturally grant these systems greater autonomy and access privileges—mirroring how we treat valuable human employees. However, current AI systems remain fundamentally gullible, lacking robust skepticism when faced with indirect prompt injections and social engineering techniques. This talk will analyze how these three factors interact to create novel security challenges.
+### Jason Martin
+*Jason is Director of Adversarial Research at HiddenLayer, where he explores how the latest AI security research intersects with practical application. Jason was amongst the earliest researchers to recognize the need for AI security, founding the Secure Intelligence Team in Intel Labs in 2016 to research AI security and privacy threats and defenses. For 20+ years Jason has covered such diverse security topics as CPU microcode, authentication and biometrics, trusted execution environments, wearable technology, and network protocols, resulting in over 40 issued patents and several high profile research papers in adversarial machine learning and federated learning. When he’s not working Jason is either lost in the Pacific Northwest camping and hiking with his family; or he is lost in a technical project involving 3D printing, microcontrollers, or designing holiday lighting displays synchronized to music.*
+<hr>
+
+
 <a name="Pankaj Upadhyay"></a>
 ## <b>Automating Threat Modeling with Vision Models - Lesson learned</b>
 Threat modeling has always been critical but also slow, manual, and often skipped. What if your security champions could generate a first draft of a STRIDE analysis from architecture diagram itself ? In this talk, we’ll explore how vision models (like Gemini Vision) and LLMs can automate early threat modeling by “seeing” system diagrams and translating them into structured security insights.
@@ -454,6 +462,18 @@ I’ll show how we built an agent that ingests architecture diagrams, interprets
 Attendees will leave with a framework to experiment with their own AI-assisted threat modeling pipeline, lessons learned from real reviews of AI agents, and a realistic sense of what today’s vision models can (and can’t) do for security.
 ### Pankaj Upadhyay
 *--*
+<hr>
+
+
+<a name="Cristian Fiorentino"></a>
+## <b>Towards Agentic Incident Handling</b>
+As automation and orchestration become key components in security operations, their limitations are becoming equally apparent. Static workflows and predefined playbooks often fall short when facing novel threats or when responders are overwhelmed by false positives and incident fatigue. Agentic solutions—where large language models (LLMs) operate as autonomous or semi-autonomous agents—arises then as a promising evolution.
+This talk will explore the spectrum of AI-enabled assistance, starting with simple LLM usage for text-based tasks and moving toward autonomous multi-agent systems designed to handle complex, dynamic security scenarios. We will highlight both the opportunities and the challenges: while LLMs are accessible through simple chat interfaces, applying agentic solutions to real-world incident handling requires thoughtful orchestration, integration with tools, and recognition of inherent limitations.
+Examples will be provided, including email Security Agents implemented on top of workflow orchestration frameworks.
+Attendees will gain insight into the technical, operational, and human factors needed to responsibly adopt agentic solutions in security. By the end, they will better understand how to balance ambition with practicality, and how to begin experimenting with agent-driven incident response in their own environments.
+### Cristian Fiorentino
+*Cristian Fiorentino is a Systems Engineer with over 20 years of professional experience in designing, building, and securing enterprise distributed systems. He specializes in cybersecurity and security detection systems, with a career spanning app-sec, security validation and architecture, as well as incident handling, automation and threat detection.*
+*As an enthusiast of artificial intelligence, he is particularly interested in the intersection of AI and security, exploring how agentic systems and large language models can enhance detection, response, and resilience.*
 <hr>
 
 
