@@ -191,6 +191,9 @@ Hackers are turning AI into a force multiplier for cybercrime. In this 20-minute
 
 ### Sherri Davidoff
 *Sherri Davidoff is the founder of LMG Security and the author of three books, including “Ransomware and Cyber Extortion” and “Data Breaches: Crisis and Opportunity.” As a recognized expert in cybersecurity, she has been called a “security badass” by The New York Times. Sherri is an instructor for Black Hat, where she serves on the Black Hat USA Review Board and trains security professionals from around the world. She is also a faculty member at the Pacific Coast Banking School, where she teaching bankers and regulators about cybercrime. She is a GIAC-certified forensic analyst (GCFA) and penetration tester (GPEN) and received her degree in computer science and electrical engineering from MIT.*
+
+### Matt Durrin
+*Matt Durrin is the Director of Training and Research at LMG Security and a Senior Consultant with the organization. He is an instructor at the international Black Hat USA conference, where he has taught classes on ransomware and data breaches. Matt has conducted cybersecurity seminars, tabletop exercises and classes for thousands of attendees in all sectors, including banking, retail, healthcare, government, and more. He is also the co-author of a new book, Ransomware and Cyber Extortion: Response and Prevention. A seasoned cybersecurity and IT professional, Matt specializes in ransomware response and research, as well as deployment of proactive cybersecurity solutions. Matt holds a bachelor’s degree in computer science from the University of Montana, and his malware research has been featured on NBC Nightly News.*
 <hr>
 
 
