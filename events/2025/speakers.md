@@ -49,8 +49,10 @@ Abstract
 In 2020, I registered a domain as a joke and privacy experiment. I never expected it to become a passive honeypot. But over the next five years, I received over 30,000 unsolicited emails. From pizza orders and job applications to password resets, IT tickets, and sensitive government faxes, it turns out a lot of systems assume that “noreply” means no one is actually watching.
 
 In this 20-minute talk, I’ll walk through how I accidentally built a data-collecting black hole, what I’ve uncovered inside, and what it reveals about our collective assumptions around placeholder email addresses, dev defaults, and ghost domains. Spoiler: someone is reading the mail.
-### Interpünkt
---
+### Cory Solovewicz
+*Cory Solovewicz spent over a decade as a full-stack web developer before realizing breaking things was even more fun than building them. During COVID, he made the jump to the dark side (legally), and has spent the past four years as a cyber security consultant hacking web apps, APIs, mobile apps, and the occasional thick client.*
+
+*When he’s not poking at authentication logic or accidentally discovering new ways companies leak personal data, he’s racing bikes, going on long walks with his awesome partner, or hacking random gadgets in his free time. He's passionate about digital privacy, human error, and making security just a little more relatable (and a lot more fun).*
 <hr>
 
 
