@@ -290,15 +290,18 @@ Attendees will walk away not just knowing what data Okta provides, but how to us
 
 <a name="D3ada55"></a>
 ## <b>Redacted</b>
-Following the discovery of BadBox 1.0. I found another one disguised as a streaming device called 'SuperBOX'. This one is incredibly nefarious, as it includes observed command and control traffic, a targeted social media campaign, a suspected targeted whisper campaign, ease of use, and direct targeting of key individuals in important sections of US Critical Infrastructure.
-This situation has created the need for further research into Cyber and Social Psychology and highlights the urgency of assisting the uninitiated in protecting themselves from products that provide a service that seems "too good to be true.”
-This talk has evolved into a full blown FBI investigation that has recently resulted in both an IC3 alert and an FBI PSA. I also discovered this in February 2024, well before the recently published article in March of 2025.
-In this talk, I'll provide:
-- A walk-through of the device's observed behavior.
-- An overview of the social media campaign.
+Following the discovery of BadBox 1.0, I identified another device disguised as a streaming product called SuperBOX. This one is particularly concerning, as it includes observed command-and-control traffic, a targeted social media campaign, a suspected targeted whisper campaign, ease of use, and direct targeting of key individuals in important sections of U.S. Critical Infrastructure.
+
+This situation has underscored the growing need for research at the intersection of cybersecurity and social psychology, highlighting the importance of helping users recognize and protect themselves from products that offer services that seem “too good to be true.”
+
+Public reporting on this activity began emerging in early 2024, with major coverage appearing in March 2025. I initially discovered this campaign in February 2024 and have since tracked its evolution and broader ecosystem connections. This led to a second PSA from IC3 in May of 2025.
+
+In this talk, I’ll provide:
+- A walkthrough of the device’s observed behavior.
+- An overview of the associated social media campaign.
 - Details of the whisper campaign.
-- Information on the shell company(ies) behind this
-- Other interesting stuff I have found along the way.
+- Information on the shell company (or companies) linked to this activity.
+- Other notable findings and related observations gathered along the way.
 
 ### D3ada55
 *Ashley is a Senior Security Solutions Engineer at Censys, where she specializes in finding things on the internet that really shouldn’t be on the internet (spoiler: you know it’s everything). Her research has uncovered IoT botnets hiding in your “totally legitimate” streaming boxes, pig-butchering scam infrastructure masquerading as romance, and entire threat actor clusters that probably wish she’d just stop looking at the internet on the weekends.*
