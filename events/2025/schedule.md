@@ -62,109 +62,109 @@ Visit the <a href="https://cfp.bsidespdx.org/bsidespdx-2025/schedule/" target="_
                 <table>
                 <tr><th class='time'>Time</th><th>Talk 1</th><th>Talk 2</th><th>Workshop A</th><th>Workshop B</th></tr>
                 <tr><td class='time'>09:00</td>
-                <td style="background-color:#9e9e9e; color:white;"><a href="#event-107">Registration opens (all-day)</a><span class="duration">0 minutes</span></td>
+                <td style="background-color:#9e9e9e; color:white;"><a href="#event-107">Registration opens (all-day)</a><div class="duration">0 minutes</div></td>
                 <td style="background-color:#9e9e9e; color:black;"></td>
                 <td style="background-color:#9e9e9e; color:black;"></td>
                 <td style="background-color:#9e9e9e; color:black;"></td>
                 </tr>
                 <tr><td class='time'>09:30</td>
-                <td style="background-color:#009e73; color:white;"><a href="#event-104">Opening remarks</a><span class="duration">15 minutes</span></td>
+                <td style="background-color:#009e73; color:white;"><a href="#event-104">Opening remarks</a><div class="duration">15 minutes</div></td>
                 <td style="background-color:#9e9e9e; color:black;"></td>
                 <td style="background-color:#9e9e9e; color:black;"></td>
                 <td style="background-color:#9e9e9e; color:black;"></td>
                 </tr>
                 <tr><td class='time'>09:45</td>
-                <td style="background-color:#009e73; color:white;"><a href="#event-103">Day 1 Keynote</a><span class="duration">1 hour</span></td>
+                <td style="background-color:#009e73; color:white;"><a href="#event-103">Day 1 Keynote</a><div class="duration">1 hour</div></td>
                 <td style="background-color:#9e9e9e; color:black;"></td>
                 <td style="background-color:#9e9e9e; color:black;"></td>
                 <td style="background-color:#9e9e9e; color:black;"></td>
                 </tr>
                 <tr><td class='time'>10:58</td>
-                <td style="background-color:#d6c808; color:white;"><a href="#event-112">Meet the Sponsors (all-day)</a><span class="duration">0 minutes</span></td>
+                <td style="background-color:#d6c808; color:white;"><a href="#event-112">Meet the Sponsors (all-day)</a><div class="duration">0 minutes</div></td>
                 <td style="background-color:#9e9e9e; color:black;"></td>
                 <td style="background-color:#9e9e9e; color:black;"></td>
                 <td style="background-color:#9e9e9e; color:black;"></td>
                 </tr>
                 <tr><td class='time'>10:59</td>
-                <td style="background-color:#d6c808; color:white;"><a href="#event-113">CTF live challenges open for the day (all-day)</a><span class="duration">0 minutes</span></td>
+                <td style="background-color:#d6c808; color:white;"><a href="#event-113">CTF live challenges open for the day (all-day)</a><div class="duration">0 minutes</div></td>
                 <td style="background-color:#9e9e9e; color:black;"></td>
                 <td style="background-color:#9e9e9e; color:black;"></td>
                 <td style="background-color:#9e9e9e; color:black;"></td>
                 </tr>
                 <tr><td class='time'>11:00</td>
-                <td style="background-color:#009e73; color:white;"><a href="#event-1">Accidental Honeypot: How I Ended Up Receiving Tens of Thousands of Emails Meant for "No One"</a><span class="duration">20 minutes</span></td>
-                <td style="background-color:#0072b2; color:white;"><a href="#event-44">Portland Hacker Foundation : Asymmetric Impact Year 1</a><span class="duration">20 minutes</span></td>
-                <td style="background-color:#cc79a7; color:white;"><a href="#event-8">LLM Mayhem: Hands-On Red Teaming for LLM Applications</a><span class="duration">2 hours</span></td>
-                <td style="background-color:#d55e00; color:white;"><a href="#event-69">Binary Jiu-jitsu: White Belt Fundamentals</a><span class="duration">6 hours</span></td>
+                <td style="background-color:#009e73; color:white;"><a href="#event-1">Accidental Honeypot: How I Ended Up Receiving Tens of Thousands of Emails Meant for "No One"</a><div class="duration">20 minutes</div></td>
+                <td style="background-color:#0072b2; color:white;"><a href="#event-44">Portland Hacker Foundation : Asymmetric Impact Year 1</a><div class="duration">20 minutes</div></td>
+                <td style="background-color:#cc79a7; color:white;"><a href="#event-8">LLM Mayhem: Hands-On Red Teaming for LLM Applications</a><div class="duration">2 hours</div></td>
+                <td style="background-color:#d55e00; color:white;"><a href="#event-69">Binary Jiu-jitsu: White Belt Fundamentals</a><div class="duration">6 hours</div></td>
                 </tr>
                 <tr><td class='time'>11:30</td>
-                <td style="background-color:#009e73; color:white;"><a href="#event-26">Drone Blind Spots: Pentesting the Airspace Above Critical Infrastructure</a><span class="duration">20 minutes</span></td>
-                <td style="background-color:#0072b2; color:white;"><a href="#event-29">Instant API Hacker</a><span class="duration">20 minutes</span></td>
+                <td style="background-color:#009e73; color:white;"><a href="#event-26">Drone Blind Spots: Pentesting the Airspace Above Critical Infrastructure</a><div class="duration">20 minutes</div></td>
+                <td style="background-color:#0072b2; color:white;"><a href="#event-29">Instant API Hacker</a><div class="duration">20 minutes</div></td>
                 <td style="background-color:#cc79a7; color:white;"></td>
                 <td style="background-color:#d55e00; color:white;"></td>
                 </tr>
                 <tr><td class='time'>12:00</td>
-                <td style="background-color:#009e73; color:white;"><a href="#event-22">How Zero Trusty is Your Network Access?</a><span class="duration">40 minutes</span></td>
-                <td style="background-color:#0072b2; color:white;"><a href="#event-89">The Life and Death of a Municipal Surveillance Technology in Seattle</a><span class="duration">40 minutes</span></td>
+                <td style="background-color:#009e73; color:white;"><a href="#event-22">How Zero Trusty is Your Network Access?</a><div class="duration">40 minutes</div></td>
+                <td style="background-color:#0072b2; color:white;"><a href="#event-89">The Life and Death of a Municipal Surveillance Technology in Seattle</a><div class="duration">40 minutes</div></td>
                 <td style="background-color:#cc79a7; color:white;"></td>
                 <td style="background-color:#d55e00; color:white;"></td>
                 </tr>
                 <tr><td class='time'>13:00</td>
-                <td style="background-color:#009e73; color:white;"><a href="#event-11">Securing GraphQL from Design to Production</a><span class="duration">20 minutes</span></td>
-                <td style="background-color:#0072b2; color:white;"><a href="#event-31">From walkie-talkies to Meshtastic: an overview of communication platforms</a><span class="duration">20 minutes</span></td>
-                <td style="background-color:#cc79a7; color:white;"><a href="#event-111">So you’d like to present at a conference</a><span class="duration">2 hours</span></td>
+                <td style="background-color:#009e73; color:white;"><a href="#event-11">Securing GraphQL from Design to Production</a><div class="duration">20 minutes</div></td>
+                <td style="background-color:#0072b2; color:white;"><a href="#event-31">From walkie-talkies to Meshtastic: an overview of communication platforms</a><div class="duration">20 minutes</div></td>
+                <td style="background-color:#cc79a7; color:white;"><a href="#event-111">So you’d like to present at a conference</a><div class="duration">2 hours</div></td>
                 <td style="background-color:#d55e00; color:white;"></td>
                 </tr>
                 <tr><td class='time'>13:30</td>
-                <td style="background-color:#009e73; color:white;"><a href="#event-81">I'm not actually an SCCM admin...I just implied it</a><span class="duration">20 minutes</span></td>
-                <td style="background-color:#0072b2; color:white;"><a href="#event-75">Disaster Ready Digital Safety: Building resilient support systems for domestic violence survivors</a><span class="duration">20 minutes</span></td>
+                <td style="background-color:#009e73; color:white;"><a href="#event-81">I'm not actually an SCCM admin...I just implied it</a><div class="duration">20 minutes</div></td>
+                <td style="background-color:#0072b2; color:white;"><a href="#event-75">Disaster Ready Digital Safety: Building resilient support systems for domestic violence survivors</a><div class="duration">20 minutes</div></td>
                 <td style="background-color:#cc79a7; color:white;"></td>
                 <td style="background-color:#d55e00; color:white;"></td>
                 </tr>
                 <tr><td class='time'>14:00</td>
-                <td style="background-color:#009e73; color:white;"><a href="#event-68">Redacted</a><span class="duration">40 minutes</span></td>
-                <td style="background-color:#0072b2; color:white;"><a href="#event-49">A History of Fuzzing</a><span class="duration">40 minutes</span></td>
+                <td style="background-color:#009e73; color:white;"><a href="#event-68">Redacted</a><div class="duration">40 minutes</div></td>
+                <td style="background-color:#0072b2; color:white;"><a href="#event-49">A History of Fuzzing</a><div class="duration">40 minutes</div></td>
                 <td style="background-color:#cc79a7; color:white;"></td>
                 <td style="background-color:#d55e00; color:white;"></td>
                 </tr>
                 <tr><td class='time'>15:00</td>
-                <td style="background-color:#009e73; color:white;"><a href="#event-7">From Pi to Pwnage: Building a Wearable Hacking Station</a><span class="duration">20 minutes</span></td>
-                <td style="background-color:#0072b2; color:white;"><a href="#event-51">Hackers + AI: Faster, Smarter, More Dangerous</a><span class="duration">20 minutes</span></td>
-                <td style="background-color:#cc79a7; color:white;"><a href="#event-14">PentestMCP: A Toolkit for Agentic Penetration Testing</a><span class="duration">2 hours</span></td>
+                <td style="background-color:#009e73; color:white;"><a href="#event-7">From Pi to Pwnage: Building a Wearable Hacking Station</a><div class="duration">20 minutes</div></td>
+                <td style="background-color:#0072b2; color:white;"><a href="#event-51">Hackers + AI: Faster, Smarter, More Dangerous</a><div class="duration">20 minutes</div></td>
+                <td style="background-color:#cc79a7; color:white;"><a href="#event-14">PentestMCP: A Toolkit for Agentic Penetration Testing</a><div class="duration">2 hours</div></td>
                 <td style="background-color:#d55e00; color:white;"></td>
                 </tr>
                 <tr><td class='time'>15:30</td>
-                <td style="background-color:#009e73; color:white;"><a href="#event-45">Beyond the Mask: The Snitchpuck</a><span class="duration">20 minutes</span></td>
-                <td style="background-color:#0072b2; color:white;"><a href="#event-65">New phone, who dis? The quest for a true Burner Phone</a><span class="duration">20 minutes</span></td>
+                <td style="background-color:#009e73; color:white;"><a href="#event-45">Beyond the Mask: The Snitchpuck</a><div class="duration">20 minutes</div></td>
+                <td style="background-color:#0072b2; color:white;"><a href="#event-65">New phone, who dis? The quest for a true Burner Phone</a><div class="duration">20 minutes</div></td>
                 <td style="background-color:#cc79a7; color:white;"></td>
                 <td style="background-color:#d55e00; color:white;"></td>
                 </tr>
                 <tr><td class='time'>16:00</td>
-                <td style="background-color:#009e73; color:white;"><a href="#event-28">CFAA Plus: Moving Computer Law Past the World of the Boombox and Magnetic Tape</a><span class="duration">40 minutes</span></td>
-                <td style="background-color:#0072b2; color:white;"><a href="#event-83">PNW vs. Bay Area: Observations from the Seattle Startup Scene</a><span class="duration">20 minutes</span></td>
+                <td style="background-color:#009e73; color:white;"><a href="#event-28">CFAA Plus: Moving Computer Law Past the World of the Boombox and Magnetic Tape</a><div class="duration">40 minutes</div></td>
+                <td style="background-color:#0072b2; color:white;"><a href="#event-83">PNW vs. Bay Area: Observations from the Seattle Startup Scene</a><div class="duration">20 minutes</div></td>
                 <td style="background-color:#cc79a7; color:white;"></td>
                 <td style="background-color:#d55e00; color:white;"></td>
                 </tr>
                 <tr><td class='time'>16:30</td>
                 <td style="background-color:#009e73; color:white;"></td>
-                <td style="background-color:#0072b2; color:white;"><a href="#event-100">Automating Threat Modeling with Vision Models - Lesson learned</a><span class="duration">20 minutes</span></td>
+                <td style="background-color:#0072b2; color:white;"><a href="#event-100">Automating Threat Modeling with Vision Models - Lesson learned</a><div class="duration">20 minutes</div></td>
                 <td style="background-color:#cc79a7; color:white;"></td>
                 <td style="background-color:#d55e00; color:white;"></td>
                 </tr>
                 <tr><td class='time'>17:00</td>
-                <td style="background-color:#009e73; color:white;"><a href="#event-109">Closing remarks</a><span class="duration">15 minutes</span></td>
+                <td style="background-color:#009e73; color:white;"><a href="#event-109">Closing remarks</a><div class="duration">15 minutes</div></td>
                 <td style="background-color:#9e9e9e; color:black;"></td>
                 <td style="background-color:#9e9e9e; color:black;"></td>
                 <td style="background-color:#9e9e9e; color:black;"></td>
                 </tr>
                 <tr><td class='time'>17:15</td>
-                <td style="background-color:#d6c808; color:white;"><a href="#event-115">Friday Reception (evening)</a><span class="duration">0 minutes</span></td>
+                <td style="background-color:#d6c808; color:white;"><a href="#event-115">Friday Reception (evening)</a><div class="duration">0 minutes</div></td>
                 <td style="background-color:#9e9e9e; color:black;"></td>
                 <td style="background-color:#9e9e9e; color:black;"></td>
                 <td style="background-color:#9e9e9e; color:black;"></td>
                 </tr>
                 <tr><td class='time'>17:20</td>
-                <td style="background-color:#009e73; color:white;"><a href="#event-30">BSides PDX Quiz Show</a><span class="duration">1 hour and 30 minutes</span></td>
+                <td style="background-color:#009e73; color:white;"><a href="#event-30">BSides PDX Quiz Show</a><div class="duration">1 hour and 30 minutes</div></td>
                 <td style="background-color:#9e9e9e; color:black;"></td>
                 <td style="background-color:#9e9e9e; color:black;"></td>
                 <td style="background-color:#9e9e9e; color:black;"></td>
@@ -174,91 +174,91 @@ Visit the <a href="https://cfp.bsidespdx.org/bsidespdx-2025/schedule/" target="_
                 <table>
                 <tr><th class='time'>Time</th><th>Talk 1</th><th>Talk 2</th><th>Workshop A</th><th>Workshop B</th></tr>
                 <tr><td class='time'>09:00</td>
-                <td style="background-color:#9e9e9e; color:white;"><a href="#event-108">Registration opens (all-day)</a><span class="duration">0 minutes</span></td>
+                <td style="background-color:#9e9e9e; color:white;"><a href="#event-108">Registration opens (all-day)</a><div class="duration">0 minutes</div></td>
                 <td style="background-color:#9e9e9e; color:black;"></td>
                 <td style="background-color:#9e9e9e; color:black;"></td>
                 <td style="background-color:#9e9e9e; color:black;"></td>
                 </tr>
                 <tr><td class='time'>09:30</td>
-                <td style="background-color:#009e73; color:white;"><a href="#event-105">Opening remarks</a><span class="duration">15 minutes</span></td>
+                <td style="background-color:#009e73; color:white;"><a href="#event-105">Opening remarks</a><div class="duration">15 minutes</div></td>
                 <td style="background-color:#9e9e9e; color:black;"></td>
                 <td style="background-color:#9e9e9e; color:black;"></td>
                 <td style="background-color:#9e9e9e; color:black;"></td>
                 </tr>
                 <tr><td class='time'>09:45</td>
-                <td style="background-color:#009e73; color:white;"><a href="#event-106">Day 2 Keynote</a><span class="duration">1 hour</span></td>
+                <td style="background-color:#009e73; color:white;"><a href="#event-106">Day 2 Keynote</a><div class="duration">1 hour</div></td>
                 <td style="background-color:#9e9e9e; color:black;"></td>
                 <td style="background-color:#9e9e9e; color:black;"></td>
                 <td style="background-color:#9e9e9e; color:black;"></td>
                 </tr>
                 <tr><td class='time'>10:58</td>
-                <td style="background-color:#d6c808; color:white;"><a href="#event-116">Meet the Sponsors (all-day)</a><span class="duration">0 minutes</span></td>
+                <td style="background-color:#d6c808; color:white;"><a href="#event-116">Meet the Sponsors (all-day)</a><div class="duration">0 minutes</div></td>
                 <td style="background-color:#9e9e9e; color:black;"></td>
                 <td style="background-color:#9e9e9e; color:black;"></td>
                 <td style="background-color:#9e9e9e; color:black;"></td>
                 </tr>
                 <tr><td class='time'>10:59</td>
-                <td style="background-color:#d6c808; color:white;"><a href="#event-114">CTF live challenges open for the day (all-day)</a><span class="duration">0 minutes</span></td>
+                <td style="background-color:#d6c808; color:white;"><a href="#event-114">CTF live challenges open for the day (all-day)</a><div class="duration">0 minutes</div></td>
                 <td style="background-color:#9e9e9e; color:black;"></td>
                 <td style="background-color:#9e9e9e; color:black;"></td>
                 <td style="background-color:#9e9e9e; color:black;"></td>
                 </tr>
                 <tr><td class='time'>11:00</td>
-                <td style="background-color:#009e73; color:white;"><a href="#event-17">From Context-Switching Hell to AI-Powered Ops: Eliminating Security On-Call Toil with the Model Context Protocol</a><span class="duration">20 minutes</span></td>
-                <td style="background-color:#0072b2; color:white;"><a href="#event-63">Cracking the Domain: Evolution of Active Directory Password Attacks</a><span class="duration">20 minutes</span></td>
-                <td style="background-color:#cc79a7; color:white;"><a href="#event-25">Tabletop Exercises De-Cryptid</a><span class="duration">2 hours</span></td>
-                <td style="background-color:#d55e00; color:white;"><a href="#event-42">Capture The Flag (CTF) With Hints</a><span class="duration">2 hours</span></td>
+                <td style="background-color:#009e73; color:white;"><a href="#event-17">From Context-Switching Hell to AI-Powered Ops: Eliminating Security On-Call Toil with the Model Context Protocol</a><div class="duration">20 minutes</div></td>
+                <td style="background-color:#0072b2; color:white;"><a href="#event-63">Cracking the Domain: Evolution of Active Directory Password Attacks</a><div class="duration">20 minutes</div></td>
+                <td style="background-color:#cc79a7; color:white;"><a href="#event-25">Tabletop Exercises De-Cryptid</a><div class="duration">2 hours</div></td>
+                <td style="background-color:#d55e00; color:white;"><a href="#event-42">Capture The Flag (CTF) With Hints</a><div class="duration">2 hours</div></td>
                 </tr>
                 <tr><td class='time'>11:30</td>
-                <td style="background-color:#009e73; color:white;"><a href="#event-95">Tag, You're Leaked: Surviving the tj-actions Supply Chain Attack</a><span class="duration">20 minutes</span></td>
-                <td style="background-color:#0072b2; color:white;"><a href="#event-77">From Suspicious Query to Real Incident: Deciding When Endpoint Alerts Really Matter</a><span class="duration">20 minutes</span></td>
+                <td style="background-color:#009e73; color:white;"><a href="#event-95">Tag, You're Leaked: Surviving the tj-actions Supply Chain Attack</a><div class="duration">20 minutes</div></td>
+                <td style="background-color:#0072b2; color:white;"><a href="#event-77">From Suspicious Query to Real Incident: Deciding When Endpoint Alerts Really Matter</a><div class="duration">20 minutes</div></td>
                 <td style="background-color:#cc79a7; color:white;"></td>
                 <td style="background-color:#d55e00; color:white;"></td>
                 </tr>
                 <tr><td class='time'>12:00</td>
-                <td style="background-color:#009e73; color:white;"><a href="#event-27">The tale of the CET Shadow Stack bypass that almost saw the light of day</a><span class="duration">40 minutes</span></td>
-                <td style="background-color:#0072b2; color:white;"><a href="#event-67">Okta Detection Engineering: From Logs to Detections</a><span class="duration">40 minutes</span></td>
+                <td style="background-color:#009e73; color:white;"><a href="#event-27">The tale of the CET Shadow Stack bypass that almost saw the light of day</a><div class="duration">40 minutes</div></td>
+                <td style="background-color:#0072b2; color:white;"><a href="#event-67">Okta Detection Engineering: From Logs to Detections</a><div class="duration">40 minutes</div></td>
                 <td style="background-color:#cc79a7; color:white;"></td>
                 <td style="background-color:#d55e00; color:white;"></td>
                 </tr>
                 <tr><td class='time'>13:00</td>
-                <td style="background-color:#009e73; color:white;"><a href="#event-57">Nintendon't Look at my GitHub: DMCA Dodging and Other Shenanigans</a><span class="duration">20 minutes</span></td>
-                <td style="background-color:#0072b2; color:white;"><a href="#event-98">Keeping PHI Out of the Model: Practical Patterns for Privacy Preserving LLMs in Healthcare</a><span class="duration">20 minutes</span></td>
+                <td style="background-color:#009e73; color:white;"><a href="#event-57">Nintendon't Look at my GitHub: DMCA Dodging and Other Shenanigans</a><div class="duration">20 minutes</div></td>
+                <td style="background-color:#0072b2; color:white;"><a href="#event-98">Keeping PHI Out of the Model: Practical Patterns for Privacy Preserving LLMs in Healthcare</a><div class="duration">20 minutes</div></td>
                 <td style="background-color:#cc79a7; color:white;"></td>
                 <td style="background-color:#d55e00; color:white;"></td>
                 </tr>
                 <tr><td class='time'>13:30</td>
-                <td style="background-color:#009e73; color:white;"><a href="#event-79">Quantum Computing: Hype, Hope, and the Cybersecurity Horizon</a><span class="duration">20 minutes</span></td>
-                <td style="background-color:#0072b2; color:white;"><a href="#event-92">The Hardware Procurement Iceberg: A Framework For Keeping Embedded Research Fun, Cheap, and Ethical</a><span class="duration">20 minutes</span></td>
+                <td style="background-color:#009e73; color:white;"><a href="#event-79">Quantum Computing: Hype, Hope, and the Cybersecurity Horizon</a><div class="duration">20 minutes</div></td>
+                <td style="background-color:#0072b2; color:white;"><a href="#event-92">The Hardware Procurement Iceberg: A Framework For Keeping Embedded Research Fun, Cheap, and Ethical</a><div class="duration">20 minutes</div></td>
                 <td style="background-color:#cc79a7; color:white;"></td>
                 <td style="background-color:#d55e00; color:white;"></td>
                 </tr>
                 <tr><td class='time'>14:00</td>
-                <td style="background-color:#009e73; color:white;"><a href="#event-66">This is not a camera</a><span class="duration">40 minutes</span></td>
-                <td style="background-color:#0072b2; color:white;"><a href="#event-72">Kidnapping a Library: How Ransomware Taught the British Library to Follow Well-Known Best Practices</a><span class="duration">40 minutes</span></td>
-                <td style="background-color:#cc79a7; color:white;"><a href="#event-47">Long range, cheap comms through Meshtastic</a><span class="duration">2 hours</span></td>
-                <td style="background-color:#d55e00; color:white;"><a href="#event-70">Introductory firmware reverse engineering</a><span class="duration">2 hours</span></td>
+                <td style="background-color:#009e73; color:white;"><a href="#event-66">This is not a camera</a><div class="duration">40 minutes</div></td>
+                <td style="background-color:#0072b2; color:white;"><a href="#event-72">Kidnapping a Library: How Ransomware Taught the British Library to Follow Well-Known Best Practices</a><div class="duration">40 minutes</div></td>
+                <td style="background-color:#cc79a7; color:white;"><a href="#event-47">Long range, cheap comms through Meshtastic</a><div class="duration">2 hours</div></td>
+                <td style="background-color:#d55e00; color:white;"><a href="#event-70">Introductory firmware reverse engineering</a><div class="duration">2 hours</div></td>
                 </tr>
                 <tr><td class='time'>15:00</td>
-                <td style="background-color:#009e73; color:white;"><a href="#event-88">Unwitting Hosts: How Residential Proxies Increase Risk</a><span class="duration">20 minutes</span></td>
-                <td style="background-color:#0072b2; color:white;"><a href="#event-90">From Assistant to Adversary: When Agentic AI Becomes an Insider Threat</a><span class="duration">20 minutes</span></td>
+                <td style="background-color:#009e73; color:white;"><a href="#event-88">Unwitting Hosts: How Residential Proxies Increase Risk</a><div class="duration">20 minutes</div></td>
+                <td style="background-color:#0072b2; color:white;"><a href="#event-90">From Assistant to Adversary: When Agentic AI Becomes an Insider Threat</a><div class="duration">20 minutes</div></td>
                 <td style="background-color:#cc79a7; color:white;"></td>
                 <td style="background-color:#d55e00; color:white;"></td>
                 </tr>
                 <tr><td class='time'>15:30</td>
-                <td style="background-color:#009e73; color:white;"><a href="#event-4">An Unexpected Journey - Building a Cybersecurity Program from Scratch at a Risk-Taking State Agency</a><span class="duration">20 minutes</span></td>
-                <td style="background-color:#0072b2; color:white;"><a href="#event-59">Towards Agentic Incident Handling</a><span class="duration">20 minutes</span></td>
+                <td style="background-color:#009e73; color:white;"><a href="#event-4">An Unexpected Journey - Building a Cybersecurity Program from Scratch at a Risk-Taking State Agency</a><div class="duration">20 minutes</div></td>
+                <td style="background-color:#0072b2; color:white;"><a href="#event-59">Towards Agentic Incident Handling</a><div class="duration">20 minutes</div></td>
                 <td style="background-color:#cc79a7; color:white;"></td>
                 <td style="background-color:#d55e00; color:white;"></td>
                 </tr>
                 <tr><td class='time'>16:00</td>
-                <td style="background-color:#009e73; color:white;"><a href="#event-110">Closing remarks</a><span class="duration">15 minutes</span></td>
+                <td style="background-color:#009e73; color:white;"><a href="#event-110">Closing remarks</a><div class="duration">15 minutes</div></td>
                 <td style="background-color:#9e9e9e; color:black;"></td>
                 <td style="background-color:#9e9e9e; color:black;"></td>
                 <td style="background-color:#9e9e9e; color:black;"></td>
                 </tr>
                 <tr><td class='time'>17:00</td>
-                <td style="background-color:#d6c808; color:white;"><a href="#event-117">After party</a><span class="duration">3 hours</span></td>
+                <td style="background-color:#d6c808; color:white;"><a href="#event-117">After party</a><div class="duration">3 hours</div></td>
                 <td style="background-color:#9e9e9e; color:black;"></td>
                 <td style="background-color:#9e9e9e; color:black;"></td>
                 <td style="background-color:#9e9e9e; color:black;"></td>
