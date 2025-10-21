@@ -113,5 +113,3 @@ You can find out about our sponsorship tiers and contract terms in our <a href="
 <a href="https://eff.org/" target="_blank"><img style="height: auto; width: 300px;" src="/images/2025/web-logos/EFF.png" alt="EFF Logo" class="center"/></a>
 </td>
 </tr>
-
-</table>
