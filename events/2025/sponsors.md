@@ -54,7 +54,8 @@ You can find out about our sponsorship tiers and contract terms in our <a href="
 
 <tr>
 <td style="padding: 50px;">
-<a href="https://cotool.ai/" target="_blank"><img style="height: auto; width: 300px;" src="/images/2025/web-logos/cotool_ai.png" alt="CoTool.ai Logo" class="center"/></a>
+<a href="https://cotool.ai/" target="_blank"><img style="height: auto; width: 300px;" src="/images/2025/web-logos/cotool_ai.png" alt="CoTool.ai Logo" class="center"/>
+<p style="text-align: center; font-size: 36px;">Cotool.ai</p></a>
 </td>
 </tr>
 
@@ -116,6 +117,7 @@ You can find out about our sponsorship tiers and contract terms in our <a href="
 
 <tr>
 <td style="padding: 50px;">
-<a href="https://hackertracker.app/" target="_blank"><img style="height: auto; width: 300px;" src="/images/2025/web-logos/HackerTracker.png" alt="HackerTracker Logo" class="center"/></a>
+<a href="https://hackertracker.app/" target="_blank"><img style="height: auto; width: 300px;" src="/images/2025/web-logos/HackerTracker.png" alt="HackerTracker Logo" class="center"/>
+<p style="text-align: center; font-size: 36px;">HackerTracker</p></a>
 </td>
 </tr>
