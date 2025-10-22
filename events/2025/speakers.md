@@ -364,7 +364,7 @@ Most importantly, we’ll cover practical steps defenders can take right now: fr
 
 Whether you’re red team, blue team, or somewhere in between, you’ll walk away with a clear understanding of how AD password cracking works, how it’s evolved, and what you can do to stay ahead of the curve.
 
-### zach@harborsedge-consulting.com
+### Zach Mead
 *Zach is the founder of Harbor's Edge Consulting LLC, where he focuses on offensive security consulting and helping organizations strengthen their overall security posture. With over seven years of experience in the security world, he has worked across red teaming, penetration testing, and advisory roles to help organizations better understand and defend against modern threats. Zach is passionate about bridging the gap between offensive techniques and defensive strategies, and he enjoys sharing practical insights with the broader security community.*
 
 ---
@@ -532,22 +532,23 @@ Workshops require registration via this link: https://square.link/u/LYlZ89gC
 
 ---
 
-### Tabletop Exercises De-Cryptid
-In this hands-on workshop, you'll learn to design intelligence-driven exercises using the Hero's Journey storytelling format. We'll explore how to transform generic "bad thing happened, now what?" scenarios into compelling stories that energize players and highlight real gaps.
+### Capture The Flag (CTF) With Hints
+Capture the flag (CTF) exercises can be great practice and fun. However, sometimes things get complicated. Even the best of us may sometimes be lost, move in the wrong direction or get frustrated. In this workshop, not only are we giving you an overview and access to several CTF exercises, you are also provided hints (in case you need some). This way, everybody who shows up and spends some time can successfully complete some CTF exercises.
 
-You'll walk away with:
-•	A draft tabletop scenario outline tailored to YOUR organization
-•	Practical techniques for incorporating adversary tradecraft using MITRE ATT&CK Navigator
-•	Facilitation skills for managing the room, asking the right questions, and avoiding common pitfalls
-
-Please bring a laptop if possible.
+Instruction for attendees:
+Bring a laptop.
+(It is nice if you can ssh via terminal. Otherwise have a browser ready.)
 
 ⚠️ Important:
 Workshops require registration via this link: https://square.link/u/LYlZ89gC
 (Registration will open at 12:00 Noon PDT, on Friday, October 10th)
 
-### Chloe Tucker
-*Chloe Tucker is an intelligence-driven information security professional with a focus on learning experience design. As a hybrid human risk and threat intelligence specialist, she spends most of her time trying to understand who's doing what, when, why, and how. She's designed & facilitated over 35 exercises in the past 3 years and is passionate about meeting people where they're at, facilitating conversations, and drinking tea. She also has a smattering of certifications (CISSP, GCTI, GCIH, GSEC).*
+### Jens Mache
+*I teach cybersecurity at Lewis & Clark. My certifications include SANS/ GIAC Certified Intrusion Analyst (GCIA), Penetration Tester (GPEN), Incident Handler (GCIH).*
+*Collaborators include Richard Weiss (Evergreen State), Jack Cook, Taylor Wolff, Ishan Abraham, Ryder Selikow, Julia Scott, Joseph Granville, and Justin Wang.*
+
+### Richard Weiss
+*Richard Weiss has been at the Evergreen State College since 2005. He has a Ph.D. in mathematics from Harvard University. His research has included cybersecurity education, computer vision and robotics, applications of machine learning, computer architecture. He was a research faculty member in Computer Vision at the University of Massachusetts for 15 years.*
 
 ---
 
@@ -593,23 +594,22 @@ Workshops require registration via this link: https://square.link/u/LYlZ89gC
 
 ---
 
-### Capture The Flag (CTF) With Hints
-Capture the flag (CTF) exercises can be great practice and fun. However, sometimes things get complicated. Even the best of us may sometimes be lost, move in the wrong direction or get frustrated. In this workshop, not only are we giving you an overview and access to several CTF exercises, you are also provided hints (in case you need some). This way, everybody who shows up and spends some time can successfully complete some CTF exercises.
+### Tabletop Exercises De-Cryptid
+In this hands-on workshop, you'll learn to design intelligence-driven exercises using the Hero's Journey storytelling format. We'll explore how to transform generic "bad thing happened, now what?" scenarios into compelling stories that energize players and highlight real gaps.
 
-Instruction for attendees:
-Bring a laptop.
-(It is nice if you can ssh via terminal. Otherwise have a browser ready.)
+You'll walk away with:
+•	A draft tabletop scenario outline tailored to YOUR organization
+•	Practical techniques for incorporating adversary tradecraft using MITRE ATT&CK Navigator
+•	Facilitation skills for managing the room, asking the right questions, and avoiding common pitfalls
+
+Please bring a laptop if possible.
 
 ⚠️ Important:
 Workshops require registration via this link: https://square.link/u/LYlZ89gC
 (Registration will open at 12:00 Noon PDT, on Friday, October 10th)
 
-### Jens Mache
-*I teach cybersecurity at Lewis & Clark. My certifications include SANS/ GIAC Certified Intrusion Analyst (GCIA), Penetration Tester (GPEN), Incident Handler (GCIH).*
-*Collaborators include Richard Weiss (Evergreen State), Jack Cook, Taylor Wolff, Ishan Abraham, Ryder Selikow, Julia Scott, Joseph Granville, and Justin Wang.*
-
-### Richard Weiss
-*Richard Weiss has been at the Evergreen State College since 2005. He has a Ph.D. in mathematics from Harvard University. His research has included cybersecurity education, computer vision and robotics, applications of machine learning, computer architecture. He was a research faculty member in Computer Vision at the University of Massachusetts for 15 years.*
+### Chloe Tucker
+*Chloe Tucker is an intelligence-driven information security professional with a focus on learning experience design. As a hybrid human risk and threat intelligence specialist, she spends most of her time trying to understand who's doing what, when, why, and how. She's designed & facilitated over 35 exercises in the past 3 years and is passionate about meeting people where they're at, facilitating conversations, and drinking tea. She also has a smattering of certifications (CISSP, GCTI, GCIH, GSEC).*
 
 ---
 
@@ -641,3 +641,7 @@ This event is for anyone with an interest in any or all of the topics that bring
 ### Steve Willoughby
 *Steve Willoughby is a Senior Software Developer currently focused on observability in Go. He discovered Version 7 Unix while in high school and, apart from brief forays into VMS in college and failed attempts to hide from other operating systems, he’s been spending most waking hours tinkering on UNIX in one form or another, either writing software or administering systems. He lives in the Portland, Oregon area and keeps a vintage Altair 8800 and COSMAC Elf as pets. In his spare time, he runs a MUD game and creates microcontroller gizmos to make his Christmas lights flash in the most over-engineered way possible.*
 
+### John Mechalas
+*John has been doing systems administration since the dawn of time servers. Armed with degrees in aeronautical engineering, and a formal CS class in FORTRAN, he is uniquely prepared for our modern age where everything is computer. When he's not working, whenever that is, you can find him doing improvisational comedy, working in his garden, and yelling at clouds.*
+
+---

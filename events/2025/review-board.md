@@ -35,7 +35,7 @@ As BSidesPDX has evolved over the years into a larger event, the process of cura
   <td style="vertical-align:top">
   <img src="/images/2025/review-board/gabriel.jpg" alt="Gabriel Gomes" height="1500" width="1500"/></td>
   <td style="vertical-align:top">
-  <p><strong> Gabriel Gomes </strong> is a security researcher at Intel. He started his career as a telecom hardware designer for small companies but later migrated to software development and big enterprises. Because of this transition and his work with virtual machines, binary translators, compilers, system libraries, and even software distribution, one could say that he is all over the place, which he thinks is a good thing. Gabriel is particularly fond of his contributions to Glibc and user-space live patching, and is very happy to be a Debian Developer. His work at Intel revolves around memory safety and CPU security.
+  <p><strong> Gabriel Gomes </strong> is a security researcher at Intel. He started his career as a telecom hardware designer for small companies but later migrated to software development and big enterprises. Because of this transition and his work with virtual machines, binary translators, compilers, system libraries, and even software distribution, one could say that he is all over the place, which he thinks is a good thing. Gabriel is particularly fond of his contributions to Glibc and user-space live patching, and is very happy to be a Debian Developer. His work at Intel revolves around memory safety and CPU security. This year, Gabriel is expanding his role in the CFP process, coordinating the second review round and preparing the conference schedule.
   </p></td>
 </tr>
 
