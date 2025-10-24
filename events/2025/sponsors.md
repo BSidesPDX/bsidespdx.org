@@ -84,6 +84,12 @@ You can find out about our sponsorship tiers and contract terms in our <a href="
 </tr>
 
 <tr>
+<td style="padding: 50px;">
+<a href="https://specterops.io/" target="_blank"><img style="height: auto; width: 300px;" src="/images/2025/web-logos/spectreops-2.png" alt="SpectreOps Logo" class="center"/></a>
+</td>
+</tr>
+
+<tr>
 <th style="font-size:36px;"><h1>Silver Sponsors</h1></th>
 </tr>
 
