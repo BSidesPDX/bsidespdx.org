@@ -6,7 +6,7 @@ title: "Sponsorship"
 
 Dear Supporter,
 
-BSidesPDX 2026 will be held on Friday, October 23rd and Saturday, October 24th, 20026, on the Portland State University campus.
+BSidesPDX 2026 will be held on Friday, October 23rd and Saturday, October 24th, 2026, on the Portland State University campus.
 
 BSides Portland is a charitable 501(c)(3) organization founded with the mission to cultivate the Pacific Northwest information security and hacking community by creating local, inclusive opportunities for learning, networking, collaboration, and teaching.  Your sponsorship will promote your brand and offerings to a broad audience of students, experienced professionals, decision-makers and new-comers in the Portland information security, hacker, and maker communities, as well as demonstrating your commitment to encouraging and sustaining an exciting and vibrant community of security practitioners.  
 
