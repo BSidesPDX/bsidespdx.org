@@ -38,7 +38,10 @@ tbody{
 
 </style>
 
-Visit the <a href="https://cfp.bsidespdx.org/bsidespdx-2026/schedule/" target="_blank">full schedule</a> for more viewing options.
+## If you'd like to see something here... why not <a href="https://cfp.bsidespdx.org/bsidespdx-2026/cfp">submit to the CFP?</a>
+
+
+<!-- Visit the <a href="https://cfp.bsidespdx.org/bsidespdx-2026/schedule" target="_blank">full schedule</a> for more viewing options.
 
 <script type="text/javascript" src="https://cfp.bsidespdx.org/bsidespdx-2026/widgets/schedule.js"></script>
 <pretalx-schedule event-url="https://cfp.bsidespdx.org/bsidespdx-2026/" locale="en" format="list" style="--pretalx-clr-primary: #3aa57c"></pretalx-schedule>
@@ -51,4 +54,4 @@ Visit the <a href="https://cfp.bsidespdx.org/bsidespdx-2026/schedule/" target="_
             <a target="_blank" href="https://cfp.bsidespdx.org/bsidespdx-2026/schedule/nojs">click here</a>.
             <br> 
     </div>
-</noscript>
+</noscript> -->
