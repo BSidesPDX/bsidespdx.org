@@ -19,6 +19,8 @@ your organization interested in presenting, our Call for Presentation process an
 posted to our site this spring/summer. All talks are reviewed without regard to
 sponsorship status.
 
+BSidesPDX also does not gather any information about our attendees and does not provide attendee lists to sponsors.
+
 Thank you for considering sponsorship of BSides Portland.
 
 ## 2026 Sponsorship Levels
@@ -27,18 +29,18 @@ Thank you for considering sponsorship of BSides Portland.
 ### SILVER < $1000
 * Logo on BSides Portland website
 * Recognition and thanks in event social media posts
-* Personalized recognition and thanks at conference opening and closing
 
 ### GOLD – $1,000 
 All Silver benefits plus:
-* Shared table at event if desired
+* Personalized recognition and thanks at conference opening and closing
 
 ### PLATINUM – $2,500
 All Gold benefits plus:
-*  Dedicated table at event if desired
+* Shared table at event if desired
 
 ### DIAMOND ≥ $4,000 
 All Platinum benefits plus:
+* Dedicated table at event if desired
 * One named sponsor Item from list below, while available:
     - Capture the flag event
     - Morning coffee & refreshments
