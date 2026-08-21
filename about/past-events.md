@@ -5,6 +5,7 @@ permalink: /about/past-events.html
 ---
 
 **Past BSidesPDX Events**
+[Friday, October 24th - Saturday, October 25th, 2025](../events/2025)
 
 [Friday, October 25th - Saturday, October 26th, 2024](../events/2024)
 
