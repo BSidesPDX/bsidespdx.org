@@ -16,5 +16,3 @@ Gemfile.lock
 
 # very specific something or other
 events/2024/sponsors.md.malcolm
-# needed to test in docker
-Dockerfile
