@@ -32,11 +32,17 @@ title: "Sponsors"
 <a href="https://portland.issa.org/" target="_blank"><img style="height: auto; width: 300px;" src="/images/2026/web-logos/ISSA.png" alt="ISSA Portland Logo" class="center"/></a>
 </td>
 </tr>
-<!-- 
+
 <tr>
 <th style="font-size:36px;"><h1>Silver Sponsors</h1></th>
 </tr>
--->
+
+<tr>
+<td style="padding: 50px;">
+<a href="https://sevhunt.com/" target="_blank"><img style="height: auto; width: 300px;" src="/images/2026/web-logos/sevhunt.png" alt="SevHunt" class="center"/></a>
+</td>
+</tr>
+
 
 <tr>
 <th style="font-size:36px;"><h1>Community Partners</h1></th>
