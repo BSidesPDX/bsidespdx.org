@@ -38,6 +38,8 @@
       subhref: "/events/2026/speakers.html"
     - subtitle: "Sponsorship"
       subhref: "/events/2026/sponsorship.html"
+    - subtitle: "Sponsors"
+      subhref: "/events/2026/sponsors.html"
     # - subtitle: "Contests and Events"
     #   subhref: "/events/2025/contests_and_events.html"
     - subtitle: "Venue"
