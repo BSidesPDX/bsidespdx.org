@@ -14,7 +14,7 @@ RUN if [ -f Gemfile.lock ]; then \
 
 COPY . .
 
-EXPOSE 4000
+EXPOSE 4000 35729
 
-CMD ["bundle", "exec", "jekyll", "serve", "--host", "0.0.0.0", "--baseurl="]
+CMD ["bundle", "exec", "jekyll", "serve", "--host", "0.0.0.0", "--baseurl=", "--livereload", "--incremental", "--watch", "--force_polling"]
 
