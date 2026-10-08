@@ -13,15 +13,12 @@ Portland State University
 Smith Memorial Student Union
 [Registration on First Floor, Room 101](https://www.pdx.edu/student-union/smith-directories-floorplans#firstfloor)
 
-We are a 501(c)(3) charitable nonprofit. We are happy to have you regardless of what you can pay. If your employer reimburses you for your conference fees, we would love to have you support as much as you're able.
-
-*T-shirt purchases and free registration will remain available until October 2.*
+We are a 501(c)(3) charitable nonprofit. We are happy to have you regardless of what you can pay. If your employer reimburses you for your conference fees, we would love to have you pick a higher tier to support us as much as you're able.
 
 ## Supporter Tiers
 
 | Tier | Cost | Notes |
 | --- | ---: | --- |
-| 0x00 Supporter | FREE (ends on 10/2!) | Keeps entry completely barrier-free for students and job seekers. |
 | 0x04 Supporter | $10.24 | Covers attendee badge and essential conference materials. |
 | 0x08 Supporter | $20.48 | Helps offset basic overhead and operational supplies. |
 | 0x10 Supporter | $40.96 | Contributes to community village space and capture-the-flag infrastructure. |
