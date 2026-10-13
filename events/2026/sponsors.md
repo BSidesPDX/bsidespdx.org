@@ -56,6 +56,12 @@ title: "Sponsors"
 
 <tr>
 <td style="padding: 50px;">
+<a href="https://www.seattlelocksport.com/" target="_blank"><img style="height: auto; width: 300px;" src="/images/2026/web-logos/seattle_locksport.png" alt="Seattle Locksport Logo" class="center"/></a>
+</td>
+</tr>
+
+<tr>
+<td style="padding: 50px;">
 <a href="https://hackertracker.app/" target="_blank"><img style="height: auto; width: 300px;" src="/images/2026/web-logos/HackerTracker.png" alt="HackerTracker Logo" class="center"/>
 <p style="text-align: center; font-size: 36px;">HackerTracker</p></a>
 </td>
