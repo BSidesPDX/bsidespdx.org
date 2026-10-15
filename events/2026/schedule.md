@@ -2,56 +2,66 @@
 layout: page
 title: "Schedule"
 ---
+
+<p>Schedule details are subject to change.</p>
+
+{% for day in site.data.event_2026.schedule %}
+<h2>{{ day.date }}</h2>
+<div class="schedule-table-wrapper">
+<table class="schedule-table">
+  <thead>
+    <tr>
+      <th class="schedule-time">Time</th>
+      {% for track in day.tracks %}<th>{{ track }}</th>{% endfor %}
+    </tr>
+  </thead>
+  <tbody>
+    {% for slot in day.slots %}
+    <tr>
+      <th class="schedule-time" scope="row">{{ slot.time }}</th>
+      {% for cell_id in slot.cells %}
+      <td>
+        {% if cell_id %}
+          {% assign matching_sessions = site.data.event_2026.sessions | where: "id", cell_id %}
+          {% assign session = matching_sessions | first %}
+          {% if session %}
+            <a class="schedule-title" href="/events/2026/speakers.html#session-{{ session.id }}">{{ session.title }}</a>
+            <span class="schedule-speakers">
+              {% for speaker_id in session.speaker_ids %}
+                {% assign matching_speakers = site.data.event_2026.speakers | where: "id", speaker_id %}
+                {% assign speaker = matching_speakers | first %}
+                {{ speaker.name }}{% unless forloop.last %}, {% endunless %}
+              {% endfor %}
+            </span>
+            <span class="schedule-duration">{{ session.duration }} minutes</span>
+            {% if session.do_not_record %}<span class="otr-badge">Off the record — do not record</span>{% endif %}
+          {% else %}
+            {% assign matching_items = site.data.event_2026.schedule_items | where: "id", cell_id %}
+            {% assign item = matching_items | first %}
+            <span class="schedule-title">{{ item.title }}</span>
+            {% if item.subtitle %}<span class="schedule-speakers">{{ item.subtitle }}</span>{% endif %}
+            {% if item.duration %}<span class="schedule-duration">{{ item.duration }} minutes</span>{% endif %}
+          {% endif %}
+        {% endif %}
+      </td>
+      {% endfor %}
+    </tr>
+    {% endfor %}
+  </tbody>
+</table>
+</div>
+{% endfor %}
+
 <style>
-table{
-    border-collapse: collapse;
-    border-spacing: 0;
-    border:2px solid #000000;
-}
-
-th{
-    border:2px solid #000000;
-}
-
-td{
-    border:2px solid #000000;
-    vertical-align: middle;
-}
-td.diagonalRising
-{
-	background: linear-gradient(to right bottom, #F8F1E7 0%,#F8F1E7 49.9%,#000000 50%,#000000 51%,#F8F1E7 51.1%,#F8F1E7 100%);
-}
-
-thead{
-    background-color: #E0CBA8; 
-}
-
-tfoot{
-    background-color: #E0CBA8; 
-}
-.General_items{
-    background-color: #EBDFCA; 
-}
-tbody{
-   background-color: #F8F1E7; 
-}
-
+.schedule-table-wrapper { margin-bottom: 2rem; overflow-x: auto; }
+.schedule-table { width: 100%; min-width: 760px; border: 2px solid #000; border-collapse: collapse; border-spacing: 0; }
+.schedule-table th, .schedule-table td { border: 1px solid #777; padding: 0.5rem; text-align: left; vertical-align: top; }
+.schedule-table thead th { background-color: #E0CBA8; border: 2px solid #000; }
+.schedule-table tbody td { background-color: #F8F1E7; }
+.schedule-table .schedule-time { width: 5rem; white-space: nowrap; background-color: #EBDFCA; }
+.schedule-title, .schedule-speakers, .schedule-duration { display: block; }
+.schedule-title { font-weight: bold; }
+.schedule-speakers { margin-top: 0.35rem; }
+.schedule-duration { margin-top: 0.35rem; color: #555; font-size: 0.85em; }
+.otr-badge { display: inline-block; margin-top: 0.5rem; padding: 0.25rem 0.5rem; border: 2px solid #800000; border-radius: 0.25rem; background-color: #b00020; color: #fff; font-size: 0.85em; font-weight: bold; line-height: 1.2; text-transform: uppercase; }
 </style>
-
-## If you'd like to see something here... why not <a href="https://cfp.bsidespdx.org/bsidespdx-2026/cfp">submit to the CFP?</a>
-
-
-<!-- Visit the <a href="https://cfp.bsidespdx.org/bsidespdx-2026/schedule" target="_blank">full schedule</a> for more viewing options.
-
-<script type="text/javascript" src="https://cfp.bsidespdx.org/bsidespdx-2026/widgets/schedule.js"></script>
-<pretalx-schedule event-url="https://cfp.bsidespdx.org/bsidespdx-2026/" locale="en" format="list" style="--pretalx-clr-primary: #3aa57c"></pretalx-schedule>
-<noscript>
-   <div class="pretalx-widget">
-        <div class="pretalx-widget-info-message">
-            <b>JavaScript is disabled in your browser. Re-enable it for better visualization.</b>
-            <br>
-            To access our schedule without JavaScript
-            <a target="_blank" href="https://cfp.bsidespdx.org/bsidespdx-2026/schedule/nojs">click here</a>.
-            <br> 
-    </div>
-</noscript> -->

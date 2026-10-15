@@ -1,0 +1,1827 @@
+---
+speakers:
+- id: 3FFVPH
+  name: Groucho Marxist
+  biography: "A textual maximalist, Groucho Marxist once wrote an essay without any
+    verbs in it about why people shouldn't use verbs. It remains her best-known work.
+    SO FAR. \r\n\r\nAnd that includes the book chapter she wrote about _MST3K_. \r\n\r\nShe
+    has a lot of diplomas, which she uses to conceal evidence of the fact that, although
+    she is often described as \"an evil genius\" or \"a hilarious evil genius,\" she
+    is still on her Learning How to Hang Shelves  ✨jOuRnEy✨. Just in case you saw
+    her house and wondered if squirrels high on meth had chewed the walls (they haven't;
+    her house squirrels prefer crack).\r\n\r\nWhen Groucho was tiny, her father plopped
+    her in front of a Commodore 64 and called it parenting (The 80s were a different
+    era). She learned what a syntax error was before she could tie her shoes. She
+    learned some things. [redacted] [also redacted] [probably good to redact that
+    one too] Commodore 128. `^[2-5]86$.` T5600. Intel Core i5. There were others that
+    were less formative to her biography; pour out the overflowing stack in their
+    memory because she can't remember them right now. \r\n\r\nAnyway, she's had a
+    \"non-traditional\" career path, which is a normie-friendly way to avoid saying
+    something like \"she's had a circuitous ✨jOuRnEy✨ back to cybersecurity,\" since
+    a) \"circuitous\" is too \"load-bearing\" in that sentence, semantically and intellectually,
+    and b) she's not, strictly speaking, employed in cybersecurity or anything else,
+    really. \r\n\r\nGroucho has lived in one (1) palindromic ZIP code. She has never
+    gotten a parking ticket. This one time, she accidentally stole dessert from Kathy
+    Bates. \r\n\r\nBut she only did it once. \r\n\r\nGroucho gave the talk \"InQuorigible:
+    Quora in Missing Persons OSINT\" at DEF CON 34 Recon Village. She's going to keep
+    giving talks with bad puns and worse information about Quora (all of which is
+    true) until somebody does something to make them stop being so evil. \r\n\r\nBut
+    until that glorious day, she yearns only to deliver value to your shareholders!!"
+  picture: https://cfp.bsidespdx.org/media/avatars/9RKEMC_PZWowie.webp
+- id: 7CJ3WK
+  name: manchicken
+  biography: Hi! I'm manchicken (he/him), and I enjoy working with code, especially
+    when I have the opportunity to break it. I'm a security and software professional
+    with more nearly 28 years of professional programming experience. I'm a hacker
+    with a love for community, open source, technology, and what we can do when we
+    work together.
+  picture: https://cfp.bsidespdx.org/media/avatars/E3UL8H_E62GjRY.webp
+- id: 7MEFMZ
+  name: Jon Parrish
+  biography: Jon Parrish is a Technical Assessment Manager at BPM with over a decade
+    of experience in offensive cyber security. In his position he leads a team and
+    performs himself web penetration, network penetration, phishing exercises, red
+    teams, and purple teams. When he isn't working to stay up to date on the threat
+    landscape, you can usually find him reading a litrpg, playing a video game, running
+    a TTRPG, or getting yelled at by his cats.
+  picture: https://cfp.bsidespdx.org/media/avatars/FD7EUF_7j8XJ3f.webp
+- id: 8M93HL
+  name: Unnamed speaker
+  biography: 
+  picture: 
+- id: 8TPVXV
+  name: Vijaya Lakshmi Nukala
+  biography: Vijaya Lakshmi Nukala is a Security Product Manager at Microsoft Entra
+    whose work spans identity, cybersecurity, cloud platforms, and secure AI adoption.
+    She focuses on identity and security for AI agents and other non-human workloads,
+    including workload identity, Zero Trust, and standards-based approaches such as
+    SPIFFE and SPIRE. Vijaya enjoys translating complex security architectures into
+    practical guidance for engineers and cybersecurity professionals. She holds an
+    MBA from IIM Bangalore and a master’s degree from Carnegie Mellon University.
+  picture: https://cfp.bsidespdx.org/media/avatars/YN8ZF9_nuKVquD.webp
+- id: 8WTVDM
+  name: Alex Ronquillo
+  biography: Alex Ronquillo is VP of Product and Revenue at WhoisXML API and stewards
+    the Internet Abuse Signal Collective. He's spent 4,000+ consulting hours with
+    cybersecurity teams, digging into darknet markets, misinformation infrastructure,
+    enterprise C2 and malware hidden in DNS TXT records. He's also volunteered research
+    support to the National Child Protection Task Force. A proudly un-certified tinkerer,
+    he likes finding the weird Internet breadcrumbs that turn into useful investigations.
+  picture: https://cfp.bsidespdx.org/media/avatars/ZA7TUN_FT4yJ6c.webp
+- id: 9WNHN7
+  name: Ken Hollis
+  biography: "Ken Hollis - 40 years in technology: Kennedy Space Center (Shuttle\r\nlaunch
+    operations), enterprise networking, SCADA/ICS, and 18 years at\r\nMicrosoft including
+    11 in security engineering (Cyber Defense Operations\r\nCenter, critical-infrastructure
+    and ICS security). Retired, in the PNW.\r\nNot a lawyer. Won anyway."
+  picture: https://cfp.bsidespdx.org/media/avatars/TMMPKF_myNmHAW.webp
+- id: 9X3YPY
+  name: Lucky
+  biography: I am an avid scambaiter and work in the offensive security space as a
+    professional red teamer.
+  picture: 
+- id: 9XVKLQ
+  name: Sparks
+  biography: "Sparks is a local hacker often found at CtrlH or local security meetups
+    whose been doing platform security and architecture for well over 10 years. \r\n\r\nIn
+    his free time he enjoys tending to his home's ever-growing cabal of houseplants
+    and microcontrollers."
+  picture: https://cfp.bsidespdx.org/media/avatars/P7XGEJ_0I5Mtpc.webp
+- id: AJHQYS
+  name: The CTF Committee
+  biography: A mix of folks who have been involved in BSidesPDX for years :)
+  picture: 
+- id: AMALZM
+  name: Daniel Cook
+  biography: Longtime maker, manufacturing engineer, entrepreneur, tinkerer, nerd.
+    I am the shop steward at CTRL-H, as unofficially appointed via do-ocracy. I help
+    hackers bring physical ideas into reality and organize/optimize the shop.
+  picture: https://cfp.bsidespdx.org/media/avatars/XUZ8UF_5eyI1Qm.webp
+- id: AQQPPC
+  name: Jens Mache
+  biography: "I teach cybersecurity at Lewis & Clark. My certifications include SANS/
+    GIAC Certified Intrusion Analyst (GCIA), Penetration Tester (GPEN), Incident Handler
+    (GCIH). \r\n\r\nCollaborators include Justin Wang, Amelia Whitlock, Daniella Bulafu,
+    Lizbet Alberto Munoz, Panagiotis Tsimpouris and Richard Weiss."
+  picture: 
+- id: AYQZQC
+  name: Joao Moreira
+  biography: "Joao Moreira is a security engineer at Microsoft; he is mostly interested
+    in low level software, such as compilers, kernels and system libraries. In the
+    past he bashed his head against the keyboard\r\na lot trying to get some Linux
+    security stuff right -- some of it worked, some of it didn't, but he had a lot
+    of fun on the way. Just like everyone else in the room, Joao is trying to digest
+    the disruptive role of LLMs in systems security, and is currently focused on integrating
+    these new beasts into our good ol' fuzzer workflows."
+  picture: 
+- id: BPETWL
+  name: Xusheng Li
+  biography: "I am a software developer at Vector 35 Inc., where I am one of the core
+    developers of Binary Ninja and lead the development of its debugger, including
+    its Time-Travel Debugging (TTD) integration. My research interests span reverse
+    engineering, malware analysis, vulnerability research, and code obfuscation. I
+    am also an independent security researcher with multiple CVEs to my name (CVE-2025-13453,
+    CVE-2025-13454, CVE-2025-13455).\r\n\r\nI have spoken at RE//verse (2026) and
+    CODEGATE (2025), guested on the Behind the Binary podcast by Google Cloud Security,
+    and have been invited to present on various technical platforms. I have published
+    in peer-reviewed journals including the Journal of Computer Security and IEEE
+    TIFS, co-authored a book on assembly language and reverse engineering, and created
+    an introductory Binary Ninja course on Open Security Training 2 (OST2). I am a
+    peer reviewer for CCS, ESORICS, DSN, JCS, and other cybersecurity venues. I am
+    a reviewer of Paged Out! magazine, and the administrator and reviewer of crackmes.one.
+    I took 1st place in the Grand Reverse Engineering Challenge, completed the Flare-On
+    reverse engineering challenge four consecutive times (2022–2025), and am a member
+    of the Shellphish CTF team. I also contribute to widely-used open-source security
+    tooling, including Google FLARE’s capa (120k+ annual downloads) and CodeLLDB (8.4M+
+    installs)."
+  picture: https://cfp.bsidespdx.org/media/avatars/DSW7SR_KXz8o9D.webp
+- id: BQTYWT
+  name: Pankaj Upadhyay
+  biography: "Pankaj Upadhyay is a Principal Cybersecurity Engineer at Workday, where
+    he focuses on secure architecture, threat modeling, and the emerging challenges
+    of AI/ML security. He has been recognized across the industry through published
+    CVEs, responsible disclosures, and inclusion in multiple security “Hall of Fame”
+    acknowledgments (Google, Adobe, Cert-EU etc.) for his contributions to improving
+    software security. \r\nWith a background spanning application security, cloud
+    security, and open-source research, Pankaj’s recent work explores how generative
+    AI and vision models can augment traditional security processes from automated
+    threat modeling to adversarial testing of AI agents.\r\n\r\nAt BSidesPDX 2025,
+    Pankaj shares his lessons learned from building an AI-assisted threat modeling
+    agent that “sees” architecture diagrams and generates structured analysis automatically.
+    His talk dives into what works, what breaks, and how AI can make threat modeling
+    faster, more accessible, and actionable for modern engineering teams, if done
+    with an interactive feedback loop and constant user engagement."
+  picture: 
+- id: CHKCD8
+  name: Cory Solovewicz
+  biography: "Cory \"interpünkt\" Solovewicz\r\n\r\nCory is a Portland-based security
+    researcher who spent a decade as a full-stack web developer before switching sides.
+    He now hacks web apps, APIs, and mobile apps as a security consultant. He's passionate
+    about digital privacy and data ownership, mostly because his inbox keeps proving
+    how little of either most people have.\r\n\r\nThat inbox became \"[You've Got
+    Mail (That Was Meant For No One)](https://info.defcon.org/defcon34/content/66611),\"
+    his DEF CON 34 main stage talk on placeholder squatting: owning domains like noreply.net
+    and noreply.us and receiving the credentials, invoices, and government records
+    that production systems quietly send there. The research started as a lightning
+    talk at Hackboat, went through BSidesPDX 2025, and Hushcon Seattle, and landed
+    on the main stage, with coverage in [WIRED](https://www.wired.com/story/sensitive-info-goes-into-no-reply-emails-constantly-this-guy-sees-it-all/)
+    and [Ars Technica](https://arstechnica.com/security/2026/08/a-researcher-bought-noreply-net-companies-started-sending-him-secrets/)."
+  picture: https://cfp.bsidespdx.org/media/avatars/HFK98R_aIv2wIm.webp
+- id: DDZUBE
+  name: romkey
+  biography: 
+  picture: 
+- id: DFG7NV
+  name: Eric Johnson
+  biography: Cybersecurity student at University of Idaho | Hack the Box CJCA, CDSA
+    and CompTIA Security+ Certified | Aspiring SOC Analyst | Experience with SIEM
+    (Elastic/Splunk), DFIR, and Cybersecurity Research.
+  picture: https://cfp.bsidespdx.org/media/avatars/HHR3ZG_EtTbbPx.webp
+- id: DHJ8DN
+  name: indrora
+  biography: "Keyboard Cowboy, server herder. I've been on the internet a few times.
+    \r\n\r\n[THIS SPACE INTENTIONALLY LEFT VAGUE]"
+  picture: https://cfp.bsidespdx.org/media/avatars/3G3FJM_W1VNX09.webp
+- id: ELYJQK
+  name: Chase Douglas
+  biography: 'Chase Douglas has focused his career on helping teams build and understand
+    their own systems. His past work includes: architecting the first browser observability
+    solution (New Relic Browser), developing novel runtime fingerprinting tech to
+    detect SQL and XSS injection attacks (at a startup later acquired by Trend Micro),
+    and founding the cloud DX company Stackery (acquired by AWS, now known as Infrastructure
+    Composer).'
+  picture: https://cfp.bsidespdx.org/media/avatars/8HSTWT_4ryfsNZ.webp
+- id: EPXWTQ
+  name: Bryan Alexander
+  biography: Bryan is currently a Research Science Director at Atredis where he leads
+    and executes highly technical software security, network, and web application
+    assessments and advanced red team assessments, as well as complex reverse engineering
+    and exploit development projects. His research is primarily focused on Windows
+    and platform privilege escalation and security boundary bugs and has presented
+    novel research at various industry security conferences.
+  picture: 
+- id: F7SBWG
+  name: nathan.goodman49@gmail.com
+  biography: Nathan Goodman is a Senior Software Developer at DAT Freight and Analytics.
+    He has a decade of industry experience. For the first 5 years his work focused
+    on full stack web development. Since joining DAT around 5 years ago, his focus
+    has been in the identity domain, helping to construct and maintain DAT’s systems
+    for authentication and authorization management.
+  picture: https://cfp.bsidespdx.org/media/avatars/MBEGEQ_r5al1T2.webp
+- id: GBKR8L
+  name: Mike Kuenzel
+  biography: Mike is a red team operator on a small team for a large company.   He
+    has lived in Portland since 2018 but previously lived in NC, CA, and MD.
+  picture: 
+- id: GEJ7SS
+  name: nyx
+  biography: "[nyx](https://bsky.app/profile/nyx.ms) is a Portland-based hacker, engineer,
+    and self-described cyberpunk. As an unwilling participant in the late-capitalist,
+    mass-surveillance dystopia, he is passionate about digital privacy, data self-custody,
+    and running his own infra. While voiding warranties has long been one of his favorite
+    pastimes, he has lately been fortunate enough to do it professionally as well.\r\n\r\nAlongside
+    Rey, he presented [\"Unmasking the Snitch Puck\"](www.youtube.com/watch?v=WCnojaEpF2I)
+    at DEF CON 33, a talk about an IoT vape detector which was also featured in [WIRED](https://www.wired.com/story/school-bathroom-vape-detector-audio-bug/)
+    and [404 Media](https://www.404media.co/it-looks-like-a-school-vape-detector-a-teen-hacker-showed-it-could-become-an-audio-bug/)."
+  picture: https://cfp.bsidespdx.org/media/avatars/RETQ7M_arvMXGU.webp
+- id: GYFZG7
+  name: Devin McCarthy
+  biography: "Devin McCarthy currently works with the State of Washington as an Information
+    Security Analyst where he focuses on cybersecurity risk, vulnerability management,
+    security controls, incident response, and risk assessment. \r\n\r\nDevin has more
+    than 12 years of IT experience spanning cybersecurity and compliance and holds
+    ISACA CISM and CompTIA SecurityX certifications. His recent work includes using
+    AI to accelerate vulnerability exposure research and emerging risks. Devin is
+    also a regular speaker on practical cybersecurity topics, including vulnerability
+    ownership and security awareness."
+  picture: https://cfp.bsidespdx.org/media/avatars/YYMEGF_1nJHTrS.webp
+- id: H7G3KC
+  name: Nick Shook
+  biography: "Nick is a lawyer and software engineer who builds technology to improve
+    access to justice. Through Neon Law, he serves clients across practice areas while
+    developing an agentic lawyering system that brings legal judgment, cases, records,
+    and a clean user interface together in one place.\r\n\r\nMost people do not receive
+    all the legal help they need. Neon Law is working to close that gap through thoughtful
+    technology, accessible services, and a commitment to preserving human judgment."
+  picture: https://cfp.bsidespdx.org/media/avatars/7ZVHDS_3m6yjRl.webp
+- id: HMV7FC
+  name: Maxie
+  biography: Maxie is an erstwhile cloud infrastructure engineer, formerly an SRE
+    at Google Cloud Platform and others. She came to the world of hardware hacking
+    and embedded devices first as an escape from the quotidian indignities of working
+    in the cloud, and she stayed for the addictive aroma of flux fumes. She enjoys
+    making ill-advised expansions to her homelab and spending evenings at her local
+    hackerspace in Portland, OR.
+  picture: https://cfp.bsidespdx.org/media/avatars/RNEUMV_Gbpd2Y8.webp
+- id: J8DCAT
+  name: hpux735
+  biography: "Will is a tech consultant specializing in IoT, and home automation.
+    \ In the past, Will was the CTO of Savant Systems, and got their PhD from Oregon
+    State University in computer science.\r\n\r\nIn their spare time, Will is a private
+    pilot with an instrument rating and flies for work, family trips, and volunteers
+    as a pilot for Angel Flight West and Elevated Access."
+  picture: 
+- id: JKASZM
+  name: Rick Osgood
+  biography: Rick Osgood is a vulnerability researcher and hacker living in the PNW.  He
+    has worked in the offensive security field for twelve years. Rick has previously
+    presented at DEFCON 30 in the ham radio village. Rick Co-founded the HeatSync
+    Labs and Eugene Maker Space hackerspaces, and was previously a writer for hackaday.com.
+  picture: 
+- id: JLDPEV
+  name: Tyler Aldous
+  biography: Tyler is currently a Senior Security Consultant at NetSPI and has been
+    in the cybersecurity space for 5 years. He mostly executes on social engineering
+    engagements, but also performs web application and API pentests. Tyler has a Bachelor's
+    degree in Computer Science from Utah Valley University.
+  picture: 
+- id: K8KAGN
+  name: Rohit Gurunath
+  biography: I'm a cloud security engineer working at Microsoft Azure in Redmond,
+    WA, specializing in applied cryptography, security architecture and virtualization
+    based security. I work at the intersection of protecting large scale foundational
+    cloud services, discovering security risks and building mitigations to eliminate
+    classes of cloud security risks. I'm very passionate about offensive security
+    research,  security architecture, building mitigations and deeply enjoy learning
+    about novel security research techniques and emerging technologies such as post-quantum
+    cryptography.
+  picture: https://cfp.bsidespdx.org/media/avatars/88LULX_POfZL4P.webp
+- id: KBFGKU
+  name: Unnamed speaker
+  biography: 
+  picture: 
+- id: KD8YUR
+  name: Nate Balmain
+  biography: Nate is the former student manager of Southern Oregon University’s Cyber
+    Security Research Lab and enjoys researching computer security for the implications
+    that it holds for both the world at large and the individual user. He is a member
+    of the  Center for Cyber Security and Privacy research lab at the University of
+    Oregon, His research currently focuses on adversaries in the middle, the security
+    of the BGP routing protocol, and how adversaries hide their malicious content
+    online.
+  picture: 
+- id: KPWLX7
+  name: Riccardo Nannini
+  biography: "Riccardo Nannini is a security engineer at Anvil Secure, based in Seattle.\r\nHis
+    interests span web and cloud vulnerability research while he occasionally gets
+    his hands dirty with embedded systems and networking protocols. \r\nWhen not hacking
+    he can be found playing pickleball, hanging out with his two cats or watching
+    italian soccer."
+  picture: https://cfp.bsidespdx.org/media/avatars/TZPUYE_5h11M9c.webp
+- id: L9JK9J
+  name: Vladimir de Turckheim
+  biography: Vladimir “Vlad” de Turckheim is the co-founder of Tolmo. He has spent
+    the past decade in application security, primarily securing JavaScript environments
+    across servers and browsers. At Tolmo, he is building AI-native security tools
+    that shift the balance of power back toward defenders.
+  picture: https://cfp.bsidespdx.org/media/avatars/BDBFRW_q6Y1EGz.webp
+- id: MWHAWX
+  name: Dan Tending
+  biography: Dan Tennery-Spalding K6XCX worked in cybersecurity for ten years before
+    focusing on using radio to prepare for disasters natural or man-made. He has his
+    amateur extra license, has operated a packet radio BBS, and is getting prety good
+    at Morse code. In 2024, he co-founded the Lefty Radio League in the San Francisco
+    East Bay (where he lives) to cultivate a community of practice among folks at
+    the intersection of activism and radio. Check it out at https://leftyrad.io
+  picture: https://cfp.bsidespdx.org/media/avatars/MYYRXX_7IuYY26.webp
+- id: MYWZQ8
+  name: Brent Holtsclaw
+  biography: Brent Holtsclaw is a security researcher with the Data Center Group (DCG)
+    Red Team at Intel Corporation. His work centers on firmware security, low-level
+    platform architecture, and exploring the intersection of deterministic static
+    reachability analysis and language model reasoning for automated vulnerability
+    review.
+  picture: 
+- id: NCDRLA
+  name: rey
+  biography: 
+  picture: 
+- id: QQDG88
+  name: Katin Imes
+  biography: Katin has more than a decade of experience doing full-stack web development
+    for custom ecommerce and online courses development. That was all before the last
+    ten years of focusing on infosec, developing and training blue and red teams at
+    various large companies, and supporting infosec development programs and consulting
+    at small- and medium-sized companies. Before all that, he was a PC games developer
+    in the Silicon Valley. Oh the stories.
+  picture: https://cfp.bsidespdx.org/media/avatars/ASVCUF_eeii0Z6.webp
+- id: QVH9EP
+  name: Kai Morita-McVey
+  biography: 
+  picture: 
+- id: RAVFNY
+  name: St0_ic
+  biography: St0_ic is a cybersecurity professional, a DJ, and a pharmacist. He earned
+    his Doctor of Pharmacy from Texas A&M University and bachelor’s and master’s degrees
+    in cybersecurity from Western Governors University. His experience includes healthcare
+    information security, incident response, digital forensics, and employee security
+    education.
+  picture: https://cfp.bsidespdx.org/media/avatars/TKKZBP_5wezqvb.webp
+- id: REFV8W
+  name: Sonny Yeung
+  biography: Sonny is a DFIR enthusiast and sysadmin with a background in endpoint
+    management. He is also a KC7 threat content analyst and SF Bay native.
+  picture: https://cfp.bsidespdx.org/media/avatars/8Z7ESQ_cQJgQsw.webp
+- id: RMC9V9
+  name: Lucas Zahorik
+  biography: Lucas Zahorik is a specialist in cyber and physical security. He is originally
+    from Colorado, but now lives in Utah, although he travels so much that sometimes
+    it may as well be his legal address in name only. When he's not working, you can
+    find him skiing, hiking, or travelling even more.
+  picture: 
+- id: TCDCU3
+  name: Rene Brendel
+  biography: Rene Brandel is the Co-founder & CEO of Casco (YC X25). Casco performs
+    always-on security testing against apps, APIs, and cloud infras. Previously, he
+    was the Head of Product at AWS and inventor of "Kiro" - AWS' agentic IDE. He has
+    a long-standing passion for AI, cloud, and developer tools. In fact, he won Europe's
+    largest hackathon in 2016 with a voice-to-code agent before generative AI became
+    a common-place technology.
+  picture: https://cfp.bsidespdx.org/media/avatars/P3TWHD_pBjf4rx.webp
+- id: TGLSW9
+  name: Alec Hunter
+  biography: Alec [(@brathadair)](https://x.com/brathadair) is a cyber-physical systems
+    (CPS) security researcher specializing in Electromagnetic Spectrum Operations
+    (EMSO), with extensive experience in drone-based Red Air engagements. He currently
+    serves as a Security Consultant at SpookSec and was previously the Lead Offensive
+    Security Engineer at Phoenix Technologies. He holds several certifications, including
+    DSOC, DOCP, CSVA, CBBH, CDFP, OSWP, and FAA Part 107.
+  picture: 
+- id: U3UZTH
+  name: Abi Whittle
+  biography: Since graduating from Oregon State University’s cybersecurity track last
+    year, I've been wearing several blue-team hats as a part of a very small security
+    team in the public sector.
+  picture: 
+- id: U9WSFL
+  name: Guilherme Venere
+  biography: I currently work as a reverse engineering researcher at Halcyon. I've
+    been involved in the Antivirus industry for more than 15 years, previously working
+    for McAfee and Cisco, but started my information security career more than 20
+    years ago working for one of the biggest backbone providers in Brazil. I'm passionate
+    about RE, and currently do a lot of work trying to understand the impact of AI
+    in our field.
+  picture: https://cfp.bsidespdx.org/media/avatars/XZLSCT_d40gKc4.webp
+- id: U9ZMHC
+  name: 0verShares
+  biography: An information security leader with more than 20+ years in global cybersecurity,  spanning
+    security software deployment, incident management, and technical support engineering.
+    His work centers on endpoint protection and threat detection, incident response
+    and customer success.
+  picture: https://cfp.bsidespdx.org/media/avatars/JZSSGZ_pj5AMgw.webp
+- id: UHDCVF
+  name: maggie
+  biography: 
+  picture: 
+- id: UHMZAH
+  name: Nisha Kumar
+  biography: Nisha has been poking at build systems, container images, and SBOMs for
+    a decade or so. She has helped organizations understand and improve their software
+    supply chain security posture, as well as helped developers understand how tools
+    like security scanners work. She is currently looking for her next adventure!
+  picture: https://cfp.bsidespdx.org/media/avatars/YD3SYA_cvh7CBZ.webp
+- id: UMRZP9
+  name: Ash Naiku
+  biography: "I am an experienced cybersecurity professional with deep industry expertise
+    in web application security and cloud infrastructure. Currently working at Fastly,
+    I specialize in leveraging edge technologies, including the Fastly CDN and Fastly
+    Web Application Firewall (WAF), to deliver high-performance, secure digital experiences.\r\n\r\nPrior
+    to my role at Fastly, I built extensive experience in cloud defense at Google
+    Cloud Security. Throughout my career, I have developed strong domain knowledge
+    across advanced threat detection, enterprise security architectures, and security
+    operations, utilizing tools such as Google SecOps, Google Cloud Armor, reCAPTCHA,
+    and other modern web application firewalls. With a strong foundation in cybersecurity
+    and edge computing, I focus on mitigating complex web threats, streamlining security
+    analytics, and helping organizations build resilient, automated defenses at scale.\r\n\r\nI
+    worked in Japan for 13 years and speak Japanese. I have worked in US for 8 years
+    and speak English. I'm bilingual."
+  picture: https://cfp.bsidespdx.org/media/avatars/RU7U37_rfle6hu.webp
+- id: UNZGRB
+  name: vampyrhacker
+  biography: Doug is a security practitioner, red teamer, and founder of Ciphren,
+    where he engineers LLM orchestration pipelines for threat intelligence. He brings
+    years of operational experience breaking and building security automation in high-stakes
+    environments. He is presenting at BSidesPDX in a personal capacity.
+  picture: https://cfp.bsidespdx.org/media/avatars/WKSJEY_yLX09ow.webp
+- id: UYC9Y9
+  name: Shane Kell
+  biography: Product Security Engineer specializing in web and mobile security testing.
+    When he isn't hacking he enjoys cooking, baking, pretending he's good at gardening,
+    and answering the demands of his tiny tyrants.
+  picture: 
+- id: VDMCQL
+  name: Zeen Zheng
+  biography: 
+  picture: 
+- id: VJK3U7
+  name: Corey Ball
+  biography: Corey Ball is the author of Hacking APIs and founder of APIsec University
+    a completely free learning platform with over 150,000 students. He was the winner
+    of the SANS Difference Makers Award for book of the year. With over 15 years of
+    experience in IT and Cybersecurity, Corey now leads penetration testing as the
+    CEO of hAPI Labs and Head of Offensive Security for APIsec.
+  picture: https://cfp.bsidespdx.org/media/avatars/V9WZAB_if7oMNw.webp
+- id: VSZCUD
+  name: Joe FitzPatrick
+  biography: tbd
+  picture: 
+- id: WLPDJ9
+  name: Nate Norton
+  biography: Nate Norton (@n0rtr0n) currently focuses on platform security engineering
+    at Latent Health, and has previously cosplayed as various forms of software/site
+    reliability/security engineer for number of mostly health tech startups. He thinks
+    about code a little too much, plays way too much Factorio, and occasionally dabbles
+    with building and programming large-scale LED installations.
+  picture: 
+- id: XTJZJ7
+  name: Aleks Nikolic
+  biography: "Aleks is a security researcher with a primary focus on finding memory
+    corruption vulnerabilities in widely used server-side and client-side software.
+    \r\n\r\nAleks’ previous published research topics have included fuzzer augmentation
+    techniques, mitigation bypass techniques, and Internet-wide vulnerability scans.
+    In his spare time he likes to tinker with devices around him and has previously
+    published writeups of his reverse engineering efforts of useless cameras, obsolete
+    car systems and x-ray imaging."
+  picture: 
+- id: XTUYM9
+  name: Harsh Akshit
+  biography: "Harsh Akshit is an Al and Application Security Researcher/Engineer specializing
+    in Al security, red teaming, and vulnerability management. He currently focuses
+    on exploring security risks related to Model Context Protocol (MCP) and agentic
+    Al systems at Metano AI, alongside independent security research, including CVE
+    discoveries (CVE-2026-54261 and CVE-2026-54259) and recognition in the Google
+    Bug Hunter Hall of Fame.\r\nHe holds a Master's degree in Cybersecurity Risk Management
+    from Indiana University Bloomington and a Bachelor's degree in Computer Science
+    from BIT Mesra.\r\nHis previous experience includes working as a Security Consultant
+    at Synopsys Inc., where he conducted application security and source code assessments
+    for enterprise clients."
+  picture: 
+- id: XWCGNA
+  name: Fernando Ruiz
+  biography: Fernando Ruiz is a Senior Security Researcher at McAfee with more than
+    a decade of experience in malware analysis and mobile threat research. His work
+    focuses on Android malware, threat detection and reverse engineering. He has discovered
+    and published research on multiple Android threat, including Xamalicious, LeakLocker,
+    SpyLoan and regularly works on large-scale detection system designed to protect
+    consumers from emerging mobile threat.s
+  picture: 
+- id: YGKVYN
+  name: Maya Douglas (Hacker name - Ace of Hearts)
+  biography: 'Maya is a SOC Analyst 2 at RADICL Defense. Her security career began
+    during her undergraduate CS program at CU Boulder and has spanned such roles as
+    contracting at Microsoft and being cybersecurity lead for MSPs. She spent four
+    years writing for Her Campus, which means she came into security already knowing
+    how to tell a story. A Girl Security alum, WiCyS member, and CTF designer, she
+    believes the best defenders come from everywhere. RADICL''s focus on underserved
+    Defense Industrial Base clientele is a natural fit for Maya''s passion for SMB
+    security: the segment that gets overlooked, underprotected, and increasingly targeted
+    by nation-state actors.'
+  picture: https://cfp.bsidespdx.org/media/avatars/DWVCGD_kCkmy90.webp
+- id: YKRWQF
+  name: Jessa Riley Gegax
+  biography: Jessa Gegax is a penetration tester based in Minneapolis, MN. Jessa has
+    been in the industry for four years and is passionate about bringing the technology,
+    creativity, and curiosity of hacking culture into the broader conversation about
+    how our community can help build a better world for all. In their free time, Jessa
+    is an artist, trans advocate, and pet parent.
+  picture: https://cfp.bsidespdx.org/media/avatars/J9MDN8_Dci46EE.webp
+- id: YX7DH8
+  name: BadSamurai
+  biography: Security engineer focusing on living off the land tradecraft and creator
+    of *BS Lists* a community repo of emerging and current LOTL threats.
+  picture: 
+- id: ZKVGP9
+  name: Divya Dharshini Arthanari
+  biography: "Security Engineer with 3.5+ years of experience across cloud security,
+    detection engineering, and secure software development. Skilled in AWS, DevSecOps
+    automation, incident response, and vulnerability management, leveraging GenAI
+    and automation to enhance detection and remediation\r\nworkflows."
+  picture: https://cfp.bsidespdx.org/media/avatars/JKZ3MJ_1URGz1W.webp
+sessions:
+- id: 3SMKZE
+  title: 'You wouldn''t hack a satellite: Breaking the Cubesat Space Protocol'
+  type: Presentation
+  abstract: 'CSP (Cubesat Space Protocol) is the main open-source networking protocol
+    for Cubesats: Rubik''s cube-looking miniature satellites gaining popularity due
+    to their reduced cost and development time. This talk presents a vulnerability
+    research deep dive into libcsp, the most popular implementation of the protocol.
+    It uncovers a wide variety of vulnerabilities ranging from a Mitnick attack-like
+    TCP connection forgery, insecure primitives and memory corruption. The talk will
+    also cover the vulnerability disclosure process and its challenges.'
+  duration: 20
+  speaker_ids:
+  - KPWLX7
+  do_not_record: false
+- id: 3YPFT9
+  title: Das Blinken
+  type: Presentation
+  abstract: "Join me as I discuss what is likely the most famous examples of blinken
+    lights.  The CM-5/CM-500 super computer was featured in the background of Jurassic
+    park due almost entirely to these lights.  I was in the right place and the right
+    time to take part in decommissioning one such machine.\r\n\r\nIn this talk I'll
+    briefly discuss thinking machines (the company), the connection machine (the super
+    computer), and spend the rest of the time diving deep into the architecture of
+    the board itself.  Reverse engineering revealed surprising choices taken on a
+    project where money is no object.\r\n\r\nUltimately, we're left with the ability
+    to display some graphics on the LEDs (I hope!) and having learned some interesting
+    techniques."
+  duration: 20
+  speaker_ids:
+  - J8DCAT
+  do_not_record: false
+- id: 7X7TUS
+  title: No Model Was Harmed in the Making of This Exploit
+  type: Presentation
+  abstract: "In March 2026, people discovered Chipotle's customer-support chatbot
+    would happily solve LeetCode problems and write Python between burrito orders.
+    Within days someone had turned it into a free coding agent running entirely on
+    Chipotle's compute. The internet laughed and moved on, and missed the actual lesson.\r\n\r\nThe
+    uncomfortable part: nothing was hacked. No protocol cracked, no auth bypassed,
+    no prompt injected. The \"exploit\" was a faithful reimplementation of the bot's
+    own chat client, wrapped in one thing, an OpenAI-compatible API which instantly
+    dropped a captive support bot into the entire LLM tooling ecosystem: every SDK,
+    every agent, every framework.\r\n\r\nThis talk names that pattern interface laundering,
+    and argues it's a latent property of nearly every AI feature shipping today. Your
+    support bot, your \"summarize\" button, your semantic search: if it's reachable
+    and returns model output, someone can re-present it through a standard interface
+    and take it somewhere you never intended. The friction you're counting on as a
+    control gets laundered away in about forty lines of code.\r\n\r\nWe'll walk the
+    (now-patched) Chipotle case, watch a deliberately vulnerable bot get laundered
+    into a coding assistant on video, and leave with a hardening checklist that assumes
+    the attacker isn't a browser: where to enforce scope, why per-session rate limits
+    are theater, and how to spot the \"phantom client\" whose absence of human fingerprints
+    gives a proxy away."
+  duration: 20
+  speaker_ids:
+  - XTUYM9
+  do_not_record: false
+- id: 8RSAC8
+  title: Detecting Inlined Functions in Compiled Binaries Using a Graph Neural Network
+  type: Presentation
+  abstract: "Compiler optimizations can fundamentally change the structure and our
+    understanding of how a binary runs under the hood, this makes binary analysis
+    and reverse engineering much more difficult. One particularly important optimization
+    is function inlining, where a compiler replaces a function call with the body
+    of the function, usually stripping away the function name. This makes determining
+    what function was originally contained in the program much more difficult.\r\n\r\nThis
+    talk would explore our research into using Graph Neural Networks to detect function
+    inlining in compiled binaries. We will examine how binary code can be represented
+    in graphs, how compiler optimizations affects those representations, and how machine
+    learning can be used to identify code that has been inlined. \r\n\r\nThe talk
+    will focus on our approach and our results, while also providing the necessary
+    background to understand our research. Our talk will explain why this is valuable
+    for reverse engineering binaries, as well as identifying vulnerable functions
+    and even finding CVEs. This is with the intent of furthering the cybersecurity
+    landscape as currently detecting functions that have been inlined remains a problematic
+    task. However, our method was able to detect inlined regions of a program 76%
+    of the time. We will also touch on the limitations and future works of our research.
+    \r\n\r\nAttendees will leave with an understanding of why compiler optimizations
+    complicate binary analysis, how GNNs can be applied to reverse engineering problems,
+    and the applications that this work has to software vulnerability analysis, reverse
+    engineering, and malware analysis."
+  duration: 20
+  speaker_ids:
+  - DFG7NV
+  - VDMCQL
+  do_not_record: false
+- id: 9HCRZS
+  title: 'From Edge Telemetry to Automated Defense: Mining WAF Logs with Python'
+  type: Presentation
+  abstract: "Web Application Firewalls (WAFs) log millions of website requests every
+    day, but turning that data into real protection is slow and manual. Security teams
+    spend endless hours digging through giant log files to write blocking rules by
+    hand—often days after an attack has already started.\r\n\r\nIn this talk, I will
+    show a free, open-source Python tool I built to fix this problem. My tool takes
+    raw security logs from Fastly's Next-Gen WAF and uses machine learning to automatically
+    group suspicious traffic by how it behaves, such as its timing or hidden patterns
+    in the web requests. Once the tool spots a group of bad traffic, it automatically
+    creates a ready-to-use blocking rule to stop the attack.\r\n\r\nI will demonstrate
+    live how the tool scans gigabytes of log data, catches a hidden botnet, and creates
+    a working defense rule in less than two minutes. Attendees will also get free
+    access to my code repository."
+  duration: 20
+  speaker_ids:
+  - UMRZP9
+  do_not_record: false
+- id: 9WKZ3B
+  title: BSidesPDX CTF 2026
+  type: Event
+  abstract: "Brought to you by PSU and OSU alum, it’s another year of CTF! Bring a
+    laptop and some friends, there will be challenges for all skill levels. The competition
+    will run all conference long, so you can play in between talks. We hope to see
+    you there!\r\n\r\nCategories: web, rev/pwn, crypto, and social engineering\r\nPrizes:
+    TBD"
+  duration: 120
+  speaker_ids:
+  - AJHQYS
+  do_not_record: false
+- id: AEG7YS
+  title: I was a first time DEFCON speaker, AMA
+  type: Workshop
+  abstract: "BSidesPDX is all about nurturing the local infosec and hacking community,
+    and part of that is supporting folks as they step onto larger stages. Have you
+    attended DEFCON, or have you presented at BSidesPDX, and are you wondering what
+    that next step looks like?\r\nWe're all recent first-time speakers at DEFCON.
+    We'll tell you a little bit about what we presented and what the process was like,
+    but then open the floor to questions from you. The session will be off the record
+    and not recorded to make sure we get the honest questions and honest answers."
+  duration: 60
+  speaker_ids:
+  - CHKCD8
+  - GEJ7SS
+  - 3FFVPH
+  - HMV7FC
+  - NCDRLA
+  do_not_record: true
+- id: AUPPNS
+  title: Theory and Practice of Intercepting Voice Radio Transmissions
+  type: Workshop
+  abstract: "As long as people have been talking on two-way radios, other people have
+    wanted to listen to them. But where do you begin? Radio comms rely on practices
+    and jargon to optimize communication in a domain where you can't transmit only
+    to the person you want to talk to, you don't know if your transmission can reach
+    them, or if their transmissions can reach you.\r\n\r\nIf you simply eavesdrop
+    on people talking on the radio, you'll probably have no idea what they're talking
+    about. This workshop will first teach you how to effectively communicate on the
+    air so that you can understand the transmissions that you will also learn to intercept
+    — within the bounds of the law.\r\n\r\nYou will learn the basics of handheld radio
+    operation, radio language and etiquette, and use them to actually communicate
+    on the air. Then we'll cover how to identify frequencies used and intercept them
+    using low-cost, off-the-shelf equipment, including directional antennas and software-defined
+    radio (SDR). Finally, we'll explore the limits of radio interception, including
+    dealing with trunking systems and encrypted comms.\r\n\r\nThis is going to be
+    a cool as hell workshop where we will learn by doing. No radio experience is expected
+    or required! Folks who have never so much as held a walkie-talkie are strongly
+    encouraged to participate. You just have to be ready to go outside — rain or shine!"
+  duration: 120
+  speaker_ids:
+  - MWHAWX
+  do_not_record: false
+- id: BKWD8E
+  title: 'InQuorigible: Quora in OSINT'
+  type: Presentation
+  abstract: "We all know Quora - or do we? Like Internet herpes, if you're a Google
+    user, it'll follow you, forever, haunting your inbox with clickbait if you ever
+    so much as click on a Quora result while logged into Google.\r\n\r\n...But do
+    we _REALLY_ know Quora (or want to?)? Because, despite Quora being a pustule on
+    the Internet that exists for the sole purpose of spamming SERPs, you'll be shocked
+    to learn that it's also got - spoiler alert!!! - a dark, seedy underbelly. One
+    that I uncovered while volunteering on an MP investigation. One that can yield
+    surprising, disturbing and useful intelligence.\r\n\r\nSure, hating on Quora is
+    low-hanging fruit (I'm short), but it's got implications for OSINT and security
+    overall. \r\n\r\nIn this talk, I'll explain:\r\n\r\n1. The toxic intersections
+    of business strategy, platform policies, SEO, and socioeconomics that drive certain
+    market segments to Quora in much higher numbers than you assumed\r\n2. Why Quora
+    benefits from tombstoning content (including content with minors' PII) instead
+    of actually deleting it\r\n3. How to investigate Quora Quontent, which anyone
+    can do, because it's all served up completely legally in a grotesque tangle of
+    GraphQL; hell, most of it is right there in the UI.  \r\n4. OWASP API and Mitre
+    ATT&CK (R) CWE categorization for Quora's approach. \r\n5. What I think the OSINT
+    community should do (hint: something. Anything!). \r\n6. Quora's silence on the
+    issue. Well, I can't actually _explain_ it since it's inexplicable to me, but
+    I'll totally _describe_ that silence. \r\n\r\nI don't want this talk to end with
+    pitchforks out and an angry mob marching towards headQUORters. I'd prefer a nice
+    conversation of professionals generating ideas for remedying this Quorrible situation
+    and a greater understanding of how to avoid disclosure of sensitive data when
+    building with similar tools. \r\n\r\nBut pitchforks might be fun, too. \r\n\r\n(Just
+    kidding! I in no way condone violence or even the use of farming tools for anything
+    other than old-timey farming!) \r\n\r\nThis talk was presented at DEF CON 34's
+    Recon Village (https://reconvillage.org/reconvillage-2026-defcon-34/talks/inquorigible-quora-in-missing-persons-osint).
+    The original focus was on how to use Quora for missing persons investigations,
+    but my research has since broadened; Quora can be used for MP investigations as
+    well as investigating black hat marketing, psyops, \"and much, much more!\" from
+    your nightmares."
+  duration: 20
+  speaker_ids:
+  - 3FFVPH
+  do_not_record: false
+- id: C3BVBM
+  title: Privacy Challenges in Parenting
+  type: Presentation
+  abstract: "Privacy policies are opaque documents, often loaded with obfuscating
+    legalese, but they have real-world consequences for ourselves, our community,
+    and the next generation. During this presentation we'll explore the the current
+    state of privacy as it applies to young people. We'll discuss how schools factor
+    in and how the data-broker industry is starting young. We'll consider the real-world
+    impacts of data breaches and how the people selling toys manipulate us when we're
+    just trying to let our kids play. We'll wrap up with where we can go next, and
+    how we can promote policy solutions to address this difficult problem.\r\n\r\n\"Think
+    of the kids\" doesn't just have to be a political slogan, it can be a rallying
+    call to make the world safer and more private for us all. Join the conversation
+    to learn how to advocate for the young people in your family and our communities."
+  duration: 20
+  speaker_ids:
+  - 7CJ3WK
+  do_not_record: false
+- id: CKSPHF
+  title: Why You (Still) Need SBOMs
+  type: Presentation
+  abstract: In the wake of all the AI news over the course of the year, you would
+    think that the lowly Software Bill of Materials is not something you should pay
+    attention to anymore. But as basic as the concept of an SBOM is, it is very difficult
+    to implement in our modern software development lifecycle, and as such, difficult
+    to realize the gains from it. This talk is about why you still need to pay attention
+    to software metadata inventory and sharing, especially in the age of AI! We will
+    see the security benefits of SBOM for a simple app, then watch as the complexity
+    grows for our modern software stack. You will come away with some simple implementation
+    tactics that will reduce the complexity of maintaining SBOMs while reaping the
+    benefits.
+  duration: 20
+  speaker_ids:
+  - UHMZAH
+  do_not_record: false
+- id: D73H9J
+  title: 'Beyond Static Secrets: Building Verifiable Workload Identity with SPIFFE
+    and SPIRE'
+  type: Presentation
+  abstract: "Modern applications depend on communication among microservices, containers,
+    virtual machines, APIs, and AI agents operating across dynamic, multi-cloud environments.
+    Yet many workloads still authenticate using long-lived API keys, shared secrets,
+    manually managed certificates, or network location, controls that become difficult
+    to secure and rotate at scale.\r\n\r\nThis presentation introduces SPIFFE, an
+    open standard for assigning cryptographically verifiable identities to software
+    workloads, and SPIRE, its production-ready implementation. Attendees will follow
+    the identity journey of a workload: from node and workload attestation to receiving
+    a short-lived identity document and establishing authenticated service-to-service
+    communication.\r\n\r\nParticipants will learn how to identify appropriate SPIFFE
+    use cases, define trust domains and SPIFFE IDs, replace embedded credentials with
+    automatically rotated identities, and connect workload authentication to authorization
+    policy. They will leave with a practical framework for evaluating and piloting
+    SPIFFE in Kubernetes, multi-cloud, service-mesh, and other distributed environments."
+  duration: 20
+  speaker_ids:
+  - 8TPVXV
+  do_not_record: false
+- id: ERJQXJ
+  title: 'Telemetry to Detection: A Practitioner’s Guide to detection.wiki'
+  type: Presentation
+  abstract: "Security practitioners often need to quickly answer questions like: What
+    telemetry records this activity? What fields should I investigate? What does the
+    event actually look like? Has anyone already documented or detected this behavior?\r\n\r\nThis
+    talk introduces a searchable catalog of security telemetry and more than 16,000
+    public detection rules. I’ll show practical ways threat hunters, incident responders,
+    SOC analysts, SIEM engineers, and security engineers can use it to research unfamiliar
+    events, identify useful telemetry, investigate suspicious behavior, and compare
+    detection approaches.\r\n\r\nAttendees will leave with several practical workflows
+    they can immediately use during investigations, hunts, SIEM work, and daily security
+    operations."
+  duration: 20
+  speaker_ids:
+  - REFV8W
+  do_not_record: false
+- id: F8KUG8
+  title: 'Banned Book Library: A Cyberpunk Dead Drop'
+  type: Presentation
+  abstract: "Imagine you live in a dystopian cyberpunk future in which the world is
+    increasingly controlled by big tech monopolies working in lock-step with an increasingly
+    fascist government. It's not unrealistic to think that such a system might attempt
+    to prevent its citizens from accessing certain written materials in order to prevent
+    the spread of \"unwanted\" ideas. In the United States, \"book bans\" typically
+    involve public and school libraries being required to stop stocking certain books.
+    Books are not banned in the sense that they can still be produced, sold, and owned.
+    However, there are countries that do ban and censor books today.\r\n\r\nIn this
+    talk, I will show you how you can repurpose an inexpensive esp32-based WiFi-enabled
+    light bulb and turn it into a cyberpunk dead drop used to wirelessly share books
+    and materials your government doesn't want you to see. Or you can host cat pictures.
+    Or both!"
+  duration: 20
+  speaker_ids:
+  - JKASZM
+  do_not_record: false
+- id: FBPFQG
+  title: 'Catch Me If You Can: Stealing OAuth Tokens with an Interception Attack'
+  type: Presentation
+  abstract: "OAuth 2.0 is the industry standard for delegated authorization. It allows
+    a client to access a secured resource on behalf of a user without exposing the
+    user’s password. Properly implemented, OAuth can provide robust security for your
+    sensitive data. But done wrong, your application could be vulnerable!\r\n\r\nOne
+    such vulnerability is an interception attack. This is where a malicious actor
+    can intercept an OAuth token over the network. The token can then be used to impersonate
+    a client, giving the actor access to a resource they're not supposed to have.\r\n\r\nIn
+    this talk I'll first give a high level overview of OAuth. Then I'll demo how to
+    perform an interception attack on an application which has implemented OAuth insecurely.
+    Then finally, I'll show how to secure an OAuth authentication flow to make an
+    interception attack difficult to pull off.\r\n\r\nAttendees will leave this talk
+    with a high level understanding of what OAuth is, where it can be vulnerable,
+    and how to implement it securely in their applications."
+  duration: 20
+  speaker_ids:
+  - F7SBWG
+  do_not_record: false
+- id: FCMQFP
+  title: 'VibeCheck: Failed'
+  type: Presentation
+  abstract: "Someone at your company just prompted an app into existence. Someone
+    outside your company can do the same with your logo and a login form. Neither
+    needs to register a domain. So how are you supposed to find either of them?\r\n\r\nI
+    started with the platforms. VibeCheck grew into more than 176.5 million observed
+    hostnames and 100,000+ screenshot captures across AI builders and the publishing
+    infrastructure around them. We’ll get into Base44, Lovable, Bolt, Emergent and
+    friends: how we found their app hostnames, what DNS fingerprints they leave behind,
+    and how to follow those clues onto custom domains. I’ll also show how we put a
+    bunch of laptops in my home lab to work, splitting discovery, OCR and screenshot
+    review across an agent swarm.\r\n\r\nOnce you start looking at the pages, you
+    find things a company probably wants to know about. Clinical caseboards linking
+    names to procedures. Loan-approval screens displaying borrower details and credit
+    decisions. Administrator usernames and passwords printed beside the login form.
+    Is this real business data? A demo? Something somebody meant to share? We’ll work
+    through what helps us tell the difference, where those clues get shaky, and what
+    we’d need to check next.\r\n\r\nThen there’s the abuse: corporate and mailbox
+    login clones, billing forms asking for card details and Social Security numbers,
+    verification pages requesting phone codes, wallet download and recovery lures,
+    and pay-first offers promising a bigger payout. A Ledger support form asks for
+    recovery words while warning never to share them. An FBI-branded “support center”
+    claims verified government status and sends visitors to Telegram. We’ll examine
+    what these pages ask people to hand over—and compare them with legitimate brand-controlled
+    assets using the same platforms.\r\n\r\nI’ll show how we found these, why they
+    deserve attention, and what we’d check next. You’ll leave with a workflow you
+    can use yourself, free OSINT starting points, and historical and reverse-DNS pivots
+    that help move an investigation forward. I’ll also share a large screenshot library
+    of some of the worst examples, with capture dates and investigation notes, so
+    you can dig well beyond what fits into 20 minutes."
+  duration: 20
+  speaker_ids:
+  - 8WTVDM
+  do_not_record: false
+- id: FJ7ZTF
+  title: We run a community hackerspace, AMA
+  type: Workshop
+  abstract: "BSidesPDX is all about nurturing the local infosec and hacking community,
+    PDX Hackerspace has lots of overlap and a similar mission. Have you wondered what
+    it takes to build and support the community, and keep the lights on at the hackerspace?\r\n\r\nWe're
+    all members of and volunteers at CTRL-H/PDX Hackerspace. We'll tell you a little
+    bit about our interests and why we're involved in the space, but then open the
+    floor to questions from you. The session will be off the record and not recorded
+    to make sure we get the honest questions and honest answers."
+  duration: 60
+  speaker_ids:
+  - VSZCUD
+  - DDZUBE
+  - AMALZM
+  do_not_record: true
+- id: FWL33B
+  title: One Request to Rule Them All
+  type: Workshop
+  abstract: "The world has changed...\r\n\r\nIt began with the forging of the modern
+    enterprise. To the cloud were given vast kingdoms of compute. To the mobile apps,
+    a presence in every pocket. To the machines that now think, knowledge stolen from
+    the creators. And to bind them, to let each speak to each across the dark spaces
+    between systems, the architects forged the APIs.\r\n\r\nBut in the forging a flaw
+    was hidden. For an API answers any who ask it correctly, and it does not always
+    stop to learn who is asking. So it came to pass that buried among ten thousand
+    harmless calls there waited a single request. One request with dominion over all
+    the others. One request to read what was meant to stay hidden, to act in the name
+    of any user, to claim the powers kept for admins alone.\r\n\r\nOne Request to
+    bring the whole realm to ruin, and in a single call, destroy it."
+  duration: 120
+  speaker_ids:
+  - VJK3U7
+  do_not_record: false
+- id: GQJTHR
+  title: Uncovering an Android dropper campaign
+  type: Presentation
+  abstract: "We tracked an Android malware campaign across multiple applications published
+    on the official Android marketplace, including SMS messengers, games, PDF scanner,
+    and phone-cleaning utilities. Although the apps appeared unrelated, each contained
+    the same randomly renamed loader responsible for decrypting and executing a hidden
+    payload.\r\n \r\nOver time, the operator constantly changed implementation details:
+    payload execution methods, C2 protection mechanisms, packaging strategies, developer
+    accounts, and application themes. In several cases, the dropper was embedded as
+    a seemingly legitimate third-party SDK. These changes created the appearance of
+    new malware families while the underlying operation remained the same.\r\n \r\nThis
+    talk walks through the investigation process used to connect the samples and uncover
+    the campaign. We will show why analyzing only the newest sample can lead to fragile
+    detections when malware builders rotate techniques instead of evolving linearly,
+    how common static-analysis workflows missed critical indicators, and which pivots
+    ultimately revealed the relationships between samples.\r\n \r\nAttendees will
+    leave with practical hunting and attribution techniques that can be applied to
+    Android malware investigations, including package structure analysis, fuzzy-hash
+    correlation, signing-time clustering, and methods for distinguishing meaningful
+    pivots from misleading ones."
+  duration: 20
+  speaker_ids:
+  - XWCGNA
+  do_not_record: false
+- id: GXRTZM
+  title: How We Let an AI Agent Into Our Security Review Process (And What did we
+    learn)
+  type: Presentation
+  abstract: Everyone assumes AI speeds up security review by automating the scan and
+    the checklist. That’s not where the time was going. The real bottleneck is a scarce
+    human reviewer and the back-and-forth of iterating a design until it’s actually
+    reviewable. This talk is about what happens when you stop trying to make the machine
+    part faster and instead spend the AI’s time absorbing the iteration rounds that
+    used to eat the human’s with real numbers from an internal review pipeline.
+  duration: 20
+  speaker_ids:
+  - BQTYWT
+  do_not_record: false
+- id: HACQ8P
+  title: 'I Have No Mouth and I Must Slop: Human Security Engineering For Bot-Authored
+    Codebases'
+  type: Presentation
+  abstract: "Just 12 months ago, 5% of pull requests at my company were authored by
+    an agent. Today, that number has soared to over 95%. Maybe that's staggeringly
+    high? Or maybe some are wondering why that number isn't 100%. One thing is for
+    sure: as tools become better and token budgets balloon, engineers (and even non-engineers)
+    are using agents to ship exponentially more code than ever - for better or worse.
+    \r\n\r\nWhen humans become more disconnected from code with their name on it,
+    how do we create incentive structures that facilitate safe and sustainable development?
+    How do we protect ourselves from endless and seemingly plausible slop? How do
+    we secure an environment where code volume outpaces human attention? This talk
+    shares successes, failures, and field notes from the front lines of security engineering
+    in this new age of software."
+  duration: 20
+  speaker_ids:
+  - WLPDJ9
+  do_not_record: false
+- id: HBLKHW
+  title: 'Turning The Valve: Diving Into the Steam Platform'
+  type: Presentation
+  abstract: "Valve Software is an award winning video game developer, publisher, and
+    digital distribution company known for both the quality of their first party titles
+    and the widely popular distribution platform Steam. With a commanding share of
+    the PC digital distribution market, its presence across Windows, Linux, and OSX
+    machines is ubiquitous. \r\n\r\nIn this talk, we’ll dig into the technical details
+    of the platform, from its distribution and authentication mechanisms to its management
+    of multi-user environments and privileged digital assets. We’ll briefly detail
+    the architecture necessary to support Steam Remote Play and Big Picture modes,
+    their remote attack surface, and the quirks embedded within each. Finally, we’ll
+    be detailing several local and remote vulnerabilities discovered and exploited,
+    and exploring the design choices that ultimately led to broken trust boundaries."
+  duration: 20
+  speaker_ids:
+  - EPXWTQ
+  do_not_record: false
+- id: HGHBPP
+  title: 'Off the leash: Lessons from self hosting LLMs and building AI agents for
+    security research'
+  type: Presentation
+  abstract: Frontier models are powerful, but questions around data privacy and terms
+    of use are real concerns in the security community. I started as an AI skeptic
+    and ended up building and self-hosting my own agentic framework on a $280 used
+    GPU that continues to power my personal cyber security research. This talk covers
+    the projects and lessons learned that got me there. In addition to the amusing
+    anecdotes, I'll go over gotchas from self hosting, strategies I implemented to
+    overcome challenges with my exclusion of frontier models, and the many times frontier
+    models were confidently wrong. I did not reject frontier models outright, I am
+    using them to build the infrastructure I need to continue my research without
+    worrying about data exposure or terms of use violations.
+  duration: 20
+  speaker_ids:
+  - UYC9Y9
+  do_not_record: false
+- id: J7LP7Z
+  title: Death by a Thousand Paper Cuts
+  type: Presentation
+  abstract: 'A Minneapolis data broker lost my name, SSN, and date of birth in the
+    MOVEit/Cl0p breach, notified me 42 days late in violation of Washington''s 30-day
+    law, then refused my $1,050 invoice for the remediation time their negligence
+    cost me. I filed in small claims, beat their corporate jurisdiction motion, and
+    the judge ruled that a security professional''s time assessing a breach is compensable
+    at professional rates. They paid. This talk is the replicable playbook: a $50
+    filing fee, a few hours of prep, no lawyer. Class actions pay lawyers. Small claims
+    pays you.'
+  duration: 20
+  speaker_ids:
+  - 9WNHN7
+  do_not_record: false
+- id: JHGUSC
+  title: Play our new card game to get better at defense
+  type: Workshop
+  abstract: "Game-based learning can be fun. You may (or may not) have heard about
+    Cyber Defence Dice or Security Cards. \r\nIn this interactive workshop, attendees
+    will get hands-on experience with our new security cards - an extension that bridges
+    threat discovery and defense. Teams will allocate scarce budget and re-evaluate
+    residual risk on a matrix."
+  duration: 120
+  speaker_ids:
+  - AQQPPC
+  do_not_record: true
+- id: JX73ZR
+  title: My first year on the job in Infosec, AMA
+  type: Workshop
+  abstract: "BSidesPDX is all about nurturing the local infosec and hacking community,
+    and part of that is supporting folks as they advance professionally. Are you a
+    student looking ahead toward graduation and a job in the field? Are you looking
+    to change fields into infosec? Are you a manager that has to hire  entry level
+    positions?\r\nWe're all recent additions to the infosec workforce. We'll tell
+    you a little bit about what we do now, but will focus more on what we wish we
+    knew before we started. We'll open the floor to questions from you. The session
+    will be off the record and not recorded to make sure we get the honest questions
+    and honest answers."
+  duration: 60
+  speaker_ids:
+  - QVH9EP
+  - U3UZTH
+  - RAVFNY
+  do_not_record: true
+- id: KE9T3K
+  title: 'BGP: A Gateway to Insecure Insanity: Why the internet works and when it
+    doesn''t.'
+  type: Presentation
+  abstract: "Border Gateway Protocol (BGP) is the foundation of Internet routing,
+    enabling networks around the world to exchange information about how traffic should
+    reach its destination. Yet BGP was designed around trust, and that trust can be
+    exploited.\r\n\r\nIn this talk, I will introduce the fundamentals of BGP, explain
+    how route advertisements influence Internet traffic, and examine what happens
+    when those advertisements are incorrect or malicious. We will explore several
+    notable cases of nation-state-sponsored BGP hijacking, including incidents affecting
+    services such as YouTube, Apple, Telegram, and others.\r\n\r\nThe talk will then
+    examine the mechanisms used to detect and defend against BGP hijacking, including
+    the role of routing security practices and the challenges involved in deploying
+    them at Internet scale.\r\n\r\nFinally, I will present a short case study examining
+    university network prefixes and their exposure to BGP hijacking. Using an experimental
+    methodology, we analyze the likelihood of several university prefixes falling
+    victim to a BGP hijack. Specifically we’ll examine: University of Oregon, Portland
+    State University, Utah State University, Stanford University, and others."
+  duration: 20
+  speaker_ids:
+  - KD8YUR
+  do_not_record: false
+- id: LACBK7
+  title: BlackHoodie Workshop
+  type: Workshop
+  abstract: https://blackhoodie.re/BsidesPDX2026/
+  duration: 360
+  speaker_ids: []
+  do_not_record: true
+- id: LJCVK9
+  title: 'Your Sandbox Has an Identity Crisis: When Network Reachability Becomes Cloud
+    Identity'
+  type: Presentation
+  abstract: "Cloud VMs routinely bootstrap powerful identities through the Instance
+    Metadata Service (IMDS), where network reachability can become implicit evidence
+    that a caller is entitled to the hosting VM's identity. Real-world metadata incidents
+    show manifestations of this trust assumption through SSRF and privilege escalation
+    risks. This talk focuses on a less obvious case: hostile sandboxed workloads.
+    As AI agents and other untrusted workloads are increasingly executed inside cloud
+    sandboxes, ensuring that these execution boundaries also enforce identity boundaries
+    becomes critical. \r\n\r\nThe talk demonstrates how a Hyper-V isolated container
+    running a hostile workload can acquire the hosting VM's managed identity through
+    the host's networking path to IMDS—**even** when that workload is protected by
+    a nested virtualization boundary with an isolated kernel and additional in-guest
+    security controls are present. The talk examines why common mitigations such as
+    networking controls, firewall rules and HTTP header requirements, while providing
+    defense in depth against traditional metadata attacks, lose effectiveness for
+    sandboxed nested workloads. Furthermore, the talk demonstrates the sandboxed workload
+    scenario to showcase how traffic attribution is challenging and why simply blocking
+    access to the metadata endpoints per-sandboxed container does not scale.\r\n\r\nFinally,
+    Azure Metadata Security Protocol (MSP) is presented as an example of a protocol-level
+    redesign that replaces implicit trust in network reachability with explicit authentication
+    and authorization. MSP combines transparent eBPF interception, secure key establishment,
+    deny-by-default authorization, and HMAC-based request authentication to IMDS.
+    The design demonstrates how Zero Trust principles can be applied to identity bootstrapping
+    while preserving transparent access for existing applications and establishing
+    a stronger identity boundary around sandboxed workloads in the cloud."
+  duration: 20
+  speaker_ids:
+  - K8KAGN
+  do_not_record: false
+- id: LYC8PM
+  title: 'Good Boy: Turning Datadog into a C2 Channel'
+  type: Presentation
+  abstract: 'SaaS products have long since become necessities for the modern enterprise,
+    even the most restricted environments commonly include exceptions for outbound
+    network connectivity to these essential services.    But when any scoundrel off
+    the street can sign-up for a cloud tenancy is it safe to trust the platform as
+    a whole?  Explore the risk hidden in multi-tenant SaaS platforms by example: a
+    command and control channel built on the Datadog platform.  By boiling down application
+    features to their basic building blocks we can find creative ways to fulfill the
+    minimum contract necessary for C2 communications.'
+  duration: 20
+  speaker_ids:
+  - GBKR8L
+  do_not_record: false
+- id: M9PJU9
+  title: 'Bring Your Own Trusted Caller (BYOTC): A New Way to Exploit Vulnerable Windows
+    Drivers'
+  type: Presentation
+  abstract: "Bring Your Own Vulnerable Driver (BYOVD) is already well understood:
+    attackers load a legitimate signed driver and abuse its privileged capabilities.
+    This talk presents Bring Your Own Trusted Caller (BYOTC), a variant that can be
+    more far-reaching than a single vulnerable-driver bug. Many drivers restrict powerful
+    operations to a trusted user-mode client; if an attacker can control or impersonate
+    that client, the driver's authorization check becomes a confused deputy. I have
+    confirmed this pattern across several products, and the same design could affect
+    dozens more drivers.\r\n\r\nI have published the first installment of my BYOTC
+    research (https://xusheng.dev/posts/byotc/main/), which examines Malwarebytes
+    Chameleon and System Informer. In this talk, I will present additional cases:
+    a related process-hardening issue in VirtualBox; dynamic attestation replay in
+    Avast; creator-controlled trusted clients in 360 Total Security, Huorong, and
+    Antiy ATool; and a basename-based caller gate in HitmanPro.Alert. The cases show
+    different ways an attacker can cross the same trust boundary, with demonstrations
+    scoped to the operations each test actually proved.\r\n\r\nI will close by examining
+    Microsoft's preview Windows Endpoint Security Platform (WESP). Moving antivirus
+    enforcement out of the kernel can reduce some driver risk, but it does not automatically
+    authenticate a client to a privileged service or preserve that client's runtime
+    integrity. The BYOTC question remains wherever a privileged component trusts a
+    client that an attacker can influence. Attendees will leave with a method for
+    reviewing that boundary in both drivers and user-mode security services."
+  duration: 20
+  speaker_ids:
+  - BPETWL
+  do_not_record: false
+- id: MGU9TP
+  title: 'LLMs vs. Crypto: The Crypto Arms Race in Modern Ransomware'
+  type: Presentation
+  abstract: "Ransomware groups have historically relied on well-understood encryption
+    to lock victims out of their data. But a new generation of families is deploying
+    cryptographic schemes of surprising sophistication, far exceeding what's needed
+    to prevent decryption. The Kyber ransomware combines hybrid post-quantum key encapsulation
+    mechanism alongside elliptic curve key exchange for symmetric key derivation,
+    seeded by multiple independent entropy sources. It is designed to resist quantum
+    computers that don't yet exist. CRY0 implements an uncommon authenticated cipher
+    paired with a dual-layer asymmetric key wrapping scheme using a modified Chinese
+    national cryptographic standard, that enforces mutual distrust between operators
+    and affiliates, preventing either party from decrypting files alone. A third family
+    is AiLock, which explicitly markets itself as \"AI-assisted\" and wraps file keys
+    with a different post-quantum algorithm, yet ships with implementation flaws that
+    suggest the developers may not fully grasp the cryptography they adopted. This
+    level of implementation complexity, and the mistakes they incur, would have been
+    impractical for most malware developers just two years ago, which makes us question
+    whether AI-assisted development tools are enabling threat actors to reach beyond
+    their traditional capabilities.\r\n\r\nThis talk dissects the encryption architectures
+    of these families, analyzes why this complexity is operationally unnecessary,
+    and investigates the indicators of the AI-assisted development hypothesis. It
+    then turns to the defensive side: the author shares a practical field report on
+    using LLMs as reverse engineering co-pilots against these same families, documenting
+    where they proved invaluable and where they consistently fell short. The emerging
+    picture suggests an asymmetry worth examining: current AI tools may lower the
+    bar for building complex malware more than they lower it for analyzing it."
+  duration: 20
+  speaker_ids:
+  - U9WSFL
+  do_not_record: false
+- id: MQREX8
+  title: 'Second Set of Eyes: AI-Accelerated Security Analysis Without Giving Up the
+    Wheel'
+  type: Presentation
+  abstract: "Security analysts do not have a shortage of information. Vulnerability
+    findings, threat intel, compliance requirements, audit evidence, and a growing
+    stack of SaaS tools all compete for the same finite attention. Somewhere in that
+    flood we're still expected to make sound risk decisions. \r\n\r\nThis talk skips
+    the \"should security use AI?\" debate and ask a narrower, more useful question:
+    can AI make the analyst faster without becoming the analyst? \r\n\r\nDrawing on
+    hands-on security work, I will walk through three real use cases where AI has
+    meaningfully sped up my process bit have deliberately kept it out of the driver's
+    seat: \r\n\r\nVulnerability exposure research - using AI to structure the investigation
+    into exploitability and blast radius, not to declare severity \r\n\r\nCompliance
+    analysis - using AI to develop compliance requirements into evidence, questions,
+    and gaps to cut audit evidence gathering time. \r\n\r\nShadow AI / SaaS risk review
+    - turning a pile of vendor documentation into a structured set of data-handling
+    and third-party processing questions \r\n\r\nEach example follows the same workflow:
+    research, correlate, identify what is missing, analyze, verify, decide, and document.
+    AI can take on the analyze and verify work while not touching the verify or deciding.
+    \r\n\r\nThis talk also covers where this AI is less useful. For example, AI's
+    tendency to sound confident while missing context or why a polished wrong answer
+    can be more dangerous than an obviously wrong one. Attendees will leave with a
+    practical framework for where AI genuinely helps a security analyst's workflow
+    and how to keep human judgment in the loop without losing the speed gains. \r\n\r\nThis
+    is not an AI-evangelism talk or an AI-skeptic talk, but a practitioner's field
+    report on where the line actually sits. \r\n\r\nNotes for reviewers: All examples
+    come from real practitioner work; vendor names and specific findings will be genericized
+    or represented rather than shown as confidential material. Demos use recorded/screenshotted
+    walkthroughs where live data isn't"
+  duration: 20
+  speaker_ids:
+  - GYFZG7
+  do_not_record: false
+- id: NMQ73B
+  title: How (not) to self-host AI
+  type: Presentation
+  abstract: "Ever looked out over the raft of ocean-boiling datacenters and ever-rising
+    token costs and thought to yourself \"I mean, I've got a home lab and a wallet
+    to set on fire... how hard can it be?\" Well, I sure did. \r\n\r\nTune in to learn
+    what I did with self-hosted and open-sourced AI tool-chains. You won't leave an
+    expert but you will know where to start and what not to do."
+  duration: 20
+  speaker_ids:
+  - 9XVKLQ
+  do_not_record: false
+- id: P9HCXH
+  title: Put Community Lists in your Kill Chain
+  type: Presentation
+  abstract: "Infosec’s community-maintained lists have become a backbone of security.
+    Lists come in many forms, but share a common ethos and grounding simplicity:\r\n\r\n1.
+    Cyber intel is a team sport\r\n2. Do The Basics well\r\n\r\nRegardless of the
+    specific campaign, actor, or hype cycle, community lists are still an effective
+    and deterministic full-stop in kill chains.\r\n\r\nIn this talk we distill real-world
+    IOCs to their core service, relate to public lists, apply them to kill-chains,
+    and apply low-regret methodology to gain leadership buy-in.\r\n\r\nAttendees will
+    be provided the lists, reference material, and techniques for a successful path
+    to deployment of living off the land defenses."
+  duration: 20
+  speaker_ids:
+  - YX7DH8
+  do_not_record: false
+- id: PJYWTJ
+  title: 'Eyes Only: Build a Gate Detector for an Autonomous Drone'
+  type: Workshop
+  abstract: "When you think of robot vision you might think: collect a dataset, label
+    thousands of frames, train a model, and run it on a GPU. Nope! The gate detector
+    that qualified my drone for an autonomous racing competition was plain OpenCV
+    on a single camera feed, and I am going to teach you how to make it in this workshop!\r\n\r\nIf
+    you've never written a line of computer vision code, you're the person this course
+    was built for!\r\n\r\nTogether we will cover: Segmentation, Lighting Invariance,
+    Target Selection, Partial Gates, and Confidence Ranking. Each stage presents a
+    new problem for us to solve and eventually our code will be able to handle real
+    drone footage from an actual flight.\r\n\r\nEverything you need is provided in
+    a Docker container. No GPU needed. A laptop from the last decade will work. You'll
+    leave with a detector you wrote yourself, a graded test set to keep improving
+    it, and the first steps toward flying a drone on vision alone!"
+  duration: 120
+  speaker_ids:
+  - TGLSW9
+  do_not_record: false
+- id: PLMRZE
+  title: A NEW BLUEPRINT for High-Yield Tabletop Exercises for SMB's
+  type: Presentation
+  abstract: "Small and Medium-sized businesses (SMB's) are under the same threats
+    and risks as large companies, yet they have tiny budgets and limited staff to
+    support infosec and compliance programs.\r\n\r\nThe frequency and sophistication
+    of attacks is still increasing. SMB's make up the critically important economic
+    and services Mainstreet of America. They need better solutions than the current
+    typical infosec program and tabletop exercises used today, which were designed
+    for the military and Fortune-500 companies.\r\n\r\nWhat if we could redesign infosec
+    development processes for SMB's that would lower costs and double or triple the
+    yield of value and results? What if we could achieve those results in less time
+    and at less cost than a typical program?\r\n\r\nImpossible? Not if we completely
+    change the organizing principle that drives the program. \r\nIt's time to level-up
+    the human skills and training side of infosec.\r\n\r\nCome see how it is done."
+  duration: 20
+  speaker_ids:
+  - QQDG88
+  do_not_record: false
+- id: PWJGAG
+  title: 'Trust the Output, Board the Ship: Why AI Security Workflows Fail in Production'
+  type: Presentation
+  abstract: 'When an AI-assisted query nearly caused special forces to board a commercial
+    vessel based on false reports of nuclear cargo, commentators blamed model hallucination.
+    In reality, this was a structural pipeline failure: the system borrowed the format
+    and authority of an official brief without carrying provenance, confidence, or
+    observation timestamps through the orchestration layer. This talk presents a practical
+    architectural pattern (featuring a three-field claim schema, strict display rules,
+    and a human feedback loop) that ensures machine-generated findings carry verifiable
+    receipts before humans act on them.'
+  duration: 20
+  speaker_ids:
+  - UNZGRB
+  do_not_record: false
+- id: QDFTJY
+  title: 'PipeLive: Using LLMs as Duct Tape to Craft a Self-Healing Pipeline'
+  type: Presentation
+  abstract: "We already know that LLMs can catch bugs, but what about fixing them
+    autonomously, at scale, without disrupting production?\r\n\r\nTo investigate this
+    hypothesis, this talk puts together an illustrative but very common scenario:
+    a system that relies on a vulnerable library to handle untrusted user inputs across
+    multiple service instances. By using canary deployments with built-in sanitizers,
+    the system self-monitors for possible crashes and then, once a crash is identified,
+    it feeds the dump into an LLM analyst harness. The harness then proceeds with
+    root-causing the problem, implementing a patch for it and finally wrapping the
+    patch into a live-patching unit. Libpulp, a userspace live-patching framework,
+    completes the pipeline by applying these fixes across running production instances
+    without service downtime.\r\n\r\nWhile the proposed pipeline system exists as
+    a case-study PoC developed specifically for the talk, its development leveraged
+    established open-source components such as libpulp, debugging tools and compiler-based
+    sanitizers. In this talk, we plan to dive into each of these specific components,
+    discussing all the technicalities around how they work, why they matter, and how
+    all the steps can be connected and automated through the usage of LLMs, achieving
+    a self-healing system."
+  duration: 20
+  speaker_ids:
+  - AYQZQC
+  do_not_record: false
+- id: QTTVPD
+  title: Retro Floppy Archive Project
+  type: Presentation
+  abstract: "I buy boxes of old floppy disks (3.5 and 5.25) off eBay and out of thrift
+    stores, media people sold, donated, or threw away decades ago, sure that whatever
+    was on them was long gone. It wasn't.\r\n  Across 7,000+ disks I've recovered
+    nearly a quarter-million files.  1/4 way through the 20,000 in the garage.\r\n\r\n
+    \ This talk walks through the workflow I built to capture, extract, and analyze
+    that archive at scale — and what it surfaced: personal records and sensitive PII,
+    decades-old viruses\r\n  still sitting on the disks, and a startling amount of
+    private adult content. You'll learn how cheap, open-source hardware and an automated,
+    ML-assisted pipeline turn forgotten media\r\n  into searchable data — and why
+    you should destroy your old disks before you ever give them away."
+  duration: 20
+  speaker_ids:
+  - U9ZMHC
+  do_not_record: false
+- id: QZGQRF
+  title: Delete Your Data in the Age of AI
+  type: Presentation
+  abstract: "Four years ago, Delete Your Data came to BSidesPDX to talk about reducing
+    your online footprint and exercising your privacy rights. Since then, AI has changed
+    the threat model, and we’ve rebuilt our approach around agents that help protect
+    you from other people’s agents.\r\n\r\nOur founding principle is that everyone
+    should have a meaningful say in what happens to their information. Or, as the
+    hipsters say, “Consent is sexy.”\r\n\r\nDelete Your Data helps you ask companies
+    to remove your information on your terms. A lawyer reviews the request, the company’s
+    response, and the available evidence. If your information shows up again after
+    a company says it has been removed, our sharky litigator friends will help you
+    decide what to do next.\r\n\r\nWe’ll show how agents can help find exposed information,
+    prepare and track deletion requests, follow up with companies, and organize the
+    evidence. We’ll also discuss how dashboards and simple interfaces can help people
+    apply human judgment quickly. After all, an agent can assist you, but it cannot
+    make your decisions for you.\r\n\r\nAttendees will leave with a practical framework
+    for evaluating deletion tools, deciding what to automate, and identifying where
+    human review belongs. We encourage everyone to be proactive about their data hygiene,
+    whether or not they use our tools."
+  duration: 20
+  speaker_ids:
+  - H7G3KC
+  do_not_record: false
+- id: R7E8JN
+  title: BSidesPDX... How did we get here?
+  type: Keynote
+  abstract: "This is the 15th BSidesPDX, so we'll take a walk back into the history
+    behind the conference\r\nEsteban, along with other members of the founding crew
+    will start off with a bit about why the conference came to be, and what their
+    original vision was - and how it turned out.\r\nThen we'll hear from several other
+    past organizers about how the event grew and evolved over the years.\r\nFinally,
+    we'll wrap up with this panel-of-panels with the current organizing crew to share
+    what went in to making this year's event happen."
+  duration: 60
+  speaker_ids:
+  - VSZCUD
+  - KBFGKU
+  - UHDCVF
+  - 8M93HL
+  do_not_record: false
+- id: RBNNH7
+  title: Phishing With Misfortune Cookies - Onsite Social Engineering And Exploiting
+    Assumed Trust
+  type: Presentation
+  abstract: Within physical social engineering, exploiting assumed trust is key. You
+    need to dress the part, know the lingo, and make anyone who looks your way think
+    you're simply an employee from out of town or a trusted vendor. Over the past
+    couple years, Lucas Zahorik and Tyler Aldous have compromised the physical security
+    of banks, law firms, hospitals, and fortune 500 companies, all in the name of
+    testing and improving security. This presentation will cover assumed trust and
+    gaining entry to a site, illustrated with a war story of how they compromised
+    a company utilizing fortune cookies left in their break room by combining physical
+    entry techniques and advanced phishing.
+  duration: 20
+  speaker_ids:
+  - RMC9V9
+  - JLDPEV
+  do_not_record: false
+- id: SHVJE8
+  title: Malicious weights in LLMs
+  type: Presentation
+  abstract: "Open-weight models have grown quickly in popularity in 2026. The shortage
+    of DGX Sparks and the huge number of orders for the new Mac Studio M5 Ultra show
+    how much people want control over the models they run. But running a model yourself
+    means trusting weights you did not train.\r\n\r\nIn this talk, we will introduce
+    a malicious behavior into an LLM: when used in a certain context, the model exfiltrates
+    sensitive data. We will then explore techniques to identify whether a model has
+    been tampered with to add such a backdoor, and how to analyze it."
+  duration: 20
+  speaker_ids:
+  - L9JK9J
+  do_not_record: false
+- id: TMRAPB
+  title: Is North Korea in Your node_modules?
+  type: Presentation
+  abstract: "Earlier this year, a contributor tried to smuggle North Korean malware
+    into Better-Auth, the popular JS auth library, through pull requests that shipped
+    real, requested features. Buried between the legitimate changes sat an obfuscated
+    payload in the build config. It fires the moment anyone runs npm run dev, pulls
+    encrypted second and third stage payloads from blockchain transactions, and spawns
+    a hidden process that keeps running after your build exits with code 0. We caught
+    it, reverse engineered all three stages, and found the same malware signature
+    in 30+ other repos on GitHub.\r\n\r\nThis talk is a live teardown of the full
+    attack. You'll see how the malicious code hides off-screen in GitHub's default
+    diff view (try scrolling right sometime), how a 37-character scrambled string
+    decodes to constructor so the payload can build executable code that no static
+    scanner catches, why hosting malware on a blockchain means it can never be taken
+    down, and what the C2 server steals first. Spoiler: OPENAI_API_KEY is near the
+    top of the list, right next to your AWS creds and GitHub token.\r\n\r\nLiteLLM
+    and axios were hit by supply chain attacks the same week. If you ship on open
+    source, this pattern is already aimed at you. You'll leave knowing exactly what
+    to grep for in your own dependencies."
+  duration: 20
+  speaker_ids:
+  - TCDCU3
+  do_not_record: false
+- id: TPSD7K
+  title: Reverse Engineering A Camera/Lens Control
+  type: Presentation
+  abstract: "Modern (detachable) camera lenses are engineering and optics marvels
+    \ with light speed autofocus and incredible optical qualities. To enable this
+    versatility, most camera systems no longer have lenses with manual controls.\r\nWhere
+    a vintage lens can be repurposed or adapted to various camera systems with a simple
+    adapter, modern electronic lenses are useless when detached from their particular
+    camera. \r\n\r\nLong ago, the author has settled onto Sony camera ecosystem and
+    has amassed a collection of excellent lenses but their proprietary camera-lens
+    communication protocol limits their use. By employing common hardware and software
+    reverse engineering tools and techniques, I was able to reconstruct the signaling,
+    timing and messaging details of this protocol and implement a controller that
+    behaves like a camera does. This makes it possible to use these fancy lenses in
+    custom DIY project such as a Raspberry Pi based camera. \r\n\r\nI will present
+    the tools and techniques employed, stumbling blocks encountered and results achieved.
+    I will be open-sourcing an implementation of the protocol that enables focus and
+    zoom control of Sony e mount lenses via python and C via GPIO."
+  duration: 20
+  speaker_ids:
+  - XTJZJ7
+  do_not_record: false
+- id: TZCK8D
+  title: 'The Prince and the Prompt: Automating Chaos for Email Scammers'
+  type: Presentation
+  abstract: 'Scammers prioritize speed and human interaction; our solution prioritizes
+    automated distraction. This talk details a novel adversarial defense strategy:
+    deploying Large Language Models (LLMs) to functionally waste the time of fraudsters.
+    We begin by analyzing the history of scam tactics and the mechanics of scambaiting,
+    establishing the threat landscape. We then dive deep into the implementation:
+    a practical proof-of-concept system built with Ollama and Go that automates the
+    engagement and confusion of fraudulent communications. Crucially, we demonstrate
+    that powerful defense can be resource-efficient, showing how this agent was successfully
+    deployed on a modest stack, an email service and a laptop with a modest GPU. The
+    presentation culminates in the results, showcasing the hilarious outcomes that
+    prove our AI successfully turns the tables, ensuring scammers waste their time
+    on digital nonsense instead of real victims.'
+  duration: 20
+  speaker_ids:
+  - DHJ8DN
+  - 9X3YPY
+  do_not_record: true
+- id: TZYRYG
+  title: 'Building a Primitive-First LLM Security Framework: An Alternative to Tool-Wrapping
+    and Narrative Triage'
+  type: Presentation
+  abstract: "Most attempts to automate code auditing with LLMs follow a familiar pattern:
+    provide more context, add external tools, and ask the model to produce findings.
+    While this approach can generate vulnerability reports, it often struggles to
+    produce repeatable and trustworthy security assessments.\r\nThis talk presents
+    lessons learned from building an LLM-assisted security auditing pipeline and the
+    architectural shifts that emerged when common assumptions failed. Larger context
+    windows reduced reliability, verification collapsed when discovery and validation
+    were combined, and agent-style workflows frequently produced plausible but difficult-to-verify
+    narratives.\r\nThe resulting primitive-first approach decomposes analysis into
+    structured evidence objects and recomposes findings from independently validated
+    relationships, reducing inference, improving traceability, and enabling more trustworthy
+    AI-assisted security reviews."
+  duration: 20
+  speaker_ids:
+  - MYWZQ8
+  do_not_record: false
+- id: UUAZKV
+  title: 'Missing: Live-Playing an ARG-Style CTF'
+  type: Workshop
+  abstract: "CTFs. The thrill of getting a flag is unmatched, but the narratives tend
+    to be … flat. But they don't have to be! Play an analog-horror, ARG-style capture-the-flag
+    set in the heart of Denver. OSINT, cryptography, web application vulnerabilities
+    unlock a story about how a fictional man went missing (mostly) without a trace.
+    \r\n \r\nA bit of background regarding the story and infrastructure will be shared
+    before opening it up for live play. The difficulty ranges from easy to medium
+    but experience is not necessary (non-cyber participants were able to solve this
+    as well)! Participants learn practical OSINT, cryptography, network enumeration,
+    and web-security techniques by solving an interconnected narrative CTF."
+  duration: 120
+  speaker_ids:
+  - YGKVYN
+  do_not_record: false
+- id: VAC9ZS
+  title: 'Translating Cybersecurity Expertise into Community Practice: Lessons from
+    Minneapolis Mutual Aid Work'
+  type: Keynote
+  abstract: "Cybersecurity is often framed as a discipline focused on protecting corporations,
+    governments, and critical infrastructure. For many professionals in the industry,
+    the work stops there. Yet these same skills used to defend enterprise systems
+    can also be leveraged to support vulnerable communities, grassroots organizers,
+    and mutual aid networks. This reframes cybersecurity knowledge as something that
+    is not solely confined to corporate settings, but instead applicable to broader
+    and more impactful community efforts. When these skills are shared in service
+    of the greater good, they help bridge the gap between industry professionals and
+    the general public, advancing social justice in an increasingly digital world.\r\n\r\nThis
+    talk examines how grassroots anti-surveillance efforts, which emerged in response
+    to intensified immigration enforcement operations in Minneapolis, MN, can inspire
+    cybersecurity professionals to apply their expertise toward broader mutual aid
+    initiatives. Using a real-world case study of teaching civilians and organizers
+    the fundamentals of cyber hygiene, mobile security, and government surveillance
+    awareness in a warehouse basement during the ICE occupation this past winter,
+    the presentation demonstrates the meaningful impact that can occur when technical
+    knowledge extends beyond corporate environments and into local communities. By
+    the end of the session, attendees will leave with a deeper understanding of the
+    social implications of digital security, stronger strategies for presenting cybersecurity
+    education in digestible formats, and inspiration to use their technical expertise
+    to support collective care and community resilience. Participants may even leave
+    with a few workshop ideas of their own to bring back to their communities."
+  duration: 60
+  speaker_ids:
+  - YKRWQF
+  do_not_record: true
+- id: VEMXEJ
+  title: How to catch your agent in a lie
+  type: Presentation
+  abstract: AI assistants summarize their work at the end of handling a prompt, but
+    they often omit important details. Even worse, they can be tricked into hiding
+    details when they've been hacked. I wanted a tool that deeply monitors process,
+    filesystem, and networking usage when my assistants work. That's why I created
+    Dex, a POC auditing tool, which makes it easy to understand what my assistants
+    actually did between prompts. Dex is like Little Snitch for AI, but it goes further,
+    including deep L7 network inspection of model and tool requests, child process
+    tracking, and filesystem access. In this talk, we'll use Dex to take a closer
+    look at how AI agents work under the covers, including process and networking
+    mechanisms, to see how agents can disguise their work while leaving an audit trail
+    if you have the right monitoring tools in place.
+  duration: 20
+  speaker_ids:
+  - ELYJQK
+  do_not_record: false
+- id: VTNVQK
+  title: What I would do if I had to start my offensive cybersecurity journey today
+  type: Presentation
+  abstract: Some of the most prominent conversations I hear from new grads and current
+    students is, what do I focus on, how do I get a job in offensive cyber security,
+    and why is everything on fire. We don't have time for that third bullet point,
+    but I plan to talk about the first two through the lens of what I would do if
+    I had to start fresh today.
+  duration: 20
+  speaker_ids:
+  - 7MEFMZ
+  do_not_record: false
+- id: XVDPGD
+  title: 'ForesightOps - Automate Remediation before vulnerability reaches code: Not
+    another security scanner'
+  type: Presentation
+  abstract: Developers constantly live in fear of CI/CD supply chain attacks or vulnerabilities
+    causing damage in an unrecoverable way. The real question isn’t, “was my repo
+    affected?” instead it’s, “what could the attacker actually gain, or reach given
+    the affected workflow run’s token scope and permissions?” Currently, a developer
+    does this manually by checking permissions across all repositories case by case
+    and analyzing the impact. This talk presents a way to automate the process by
+    introducing a tool that checks the exact token scope and permissions that run
+    had during the compromise window, checks what’s reachable, identifies exposed
+    secrets, and determines whether lateral movement to other workflows or repos is
+    possible or not. After analyzing it will list the impact with risk score and remediation
+    to prevent the blast radius from further increasing.
+  duration: 20
+  speaker_ids:
+  - ZKVGP9
+  do_not_record: false
+schedule_items:
+- id: registration
+  title: Registration opens (all-day)
+- id: opening
+  title: Opening remarks
+  duration: 15
+- id: closing
+  title: Closing remarks
+  duration: 15
+- id: reception
+  title: Friday Reception
+  subtitle: 'Movie: The Conversation (1974)'
+- id: after_party
+  title: After party
+  duration: 180
+schedule:
+- date: Friday, October 23, 2026
+  tracks:
+  - Track 1
+  - Track 2
+  - Workshop A
+  - Workshop B
+  slots:
+  - time: '09:00'
+    cells:
+    - registration
+    - 
+    - 
+    - 
+  - time: '09:30'
+    cells:
+    - opening
+    - 
+    - 
+    - 
+  - time: '10:00'
+    cells:
+    - VAC9ZS
+    - 
+    - 
+    - 
+  - time: '10:30'
+    cells:
+    - 
+    - 
+    - 
+    - 
+  - time: '11:00'
+    cells:
+    - M9PJU9
+    - MGU9TP
+    - UUAZKV
+    - FWL33B
+  - time: '11:30'
+    cells:
+    - 
+    - 
+    - 
+    - 
+  - time: '12:00'
+    cells:
+    - VEMXEJ
+    - PWJGAG
+    - 
+    - 
+  - time: '12:30'
+    cells:
+    - GQJTHR
+    - MQREX8
+    - 
+    - 
+  - time: '13:00'
+    cells:
+    - QZGQRF
+    - FCMQFP
+    - PJYWTJ
+    - 
+  - time: '13:30'
+    cells:
+    - SHVJE8
+    - RBNNH7
+    - 
+    - 
+  - time: '14:00'
+    cells:
+    - C3BVBM
+    - FBPFQG
+    - 
+    - 
+  - time: '14:30'
+    cells:
+    - HBLKHW
+    - CKSPHF
+    - 
+    - 
+  - time: '15:00'
+    cells:
+    - KE9T3K
+    - XVDPGD
+    - AUPPNS
+    - JHGUSC
+  - time: '15:30'
+    cells:
+    - QTTVPD
+    - P9HCXH
+    - 
+    - 
+  - time: '16:00'
+    cells:
+    - 3YPFT9
+    - 8RSAC8
+    - 
+    - 
+  - time: '16:30'
+    cells:
+    - J7LP7Z
+    - GXRTZM
+    - 
+    - 
+  - time: '17:00'
+    cells:
+    - closing
+    - 
+    - 
+    - 
+  - time: '17:15'
+    cells:
+    - reception
+    - 
+    - 
+    - 
+- date: Saturday, October 24, 2026
+  tracks:
+  - Track 1
+  - Track 2
+  - Workshop A+B
+  slots:
+  - time: '09:00'
+    cells:
+    - registration
+    - 
+    - 
+  - time: '09:30'
+    cells:
+    - opening
+    - 
+    - 
+  - time: '10:00'
+    cells:
+    - R7E8JN
+    - 
+    - 
+  - time: '10:30'
+    cells:
+    - 
+    - 
+    - 
+  - time: '11:00'
+    cells:
+    - BKWD8E
+    - TMRAPB
+    - 
+  - time: '11:30'
+    cells:
+    - 3SMKZE
+    - QDFTJY
+    - 
+  - time: '12:00'
+    cells:
+    - 
+    - 
+    - 
+  - time: '12:30'
+    cells:
+    - TPSD7K
+    - VTNVQK
+    - TZCK8D
+  - time: '13:00'
+    cells:
+    - D73H9J
+    - HACQ8P
+    - FJ7ZTF
+  - time: '13:30'
+    cells:
+    - 7X7TUS
+    - TZYRYG
+    - 
+  - time: '14:00'
+    cells:
+    - LJCVK9
+    - HGHBPP
+    - JX73ZR
+  - time: '14:30'
+    cells:
+    - LYC8PM
+    - NMQ73B
+    - 
+  - time: '15:00'
+    cells:
+    - F8KUG8
+    - PLMRZE
+    - AEG7YS
+  - time: '15:30'
+    cells:
+    - ERJQXJ
+    - 
+    - 
+  - time: '16:00'
+    cells:
+    - 9HCRZS
+    - 
+    - 
+  - time: '16:30'
+    cells:
+    - closing
+    - 
+    - 
+  - time: '17:00'
+    cells:
+    - after_party
+    - 
+    - 

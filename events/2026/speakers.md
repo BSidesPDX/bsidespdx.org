@@ -3,22 +3,44 @@ layout: page
 title: "Speakers"
 ---
 
+{% assign program_sections = "Keynote,Presentation,Workshop,Event" | split: "," %}
+{% for section in program_sections %}
+{% assign section_sessions = site.data.event_2026.sessions | where: "type", section %}
+{% if section_sessions.size > 0 %}
+{% case section %}
+{% when "Keynote" %}{% assign section_title = "Keynotes" %}
+{% when "Presentation" %}{% assign section_title = "Talks" %}
+{% when "Workshop" %}{% assign section_title = "Workshops" %}
+{% when "Event" %}{% assign section_title = "Events" %}
+{% endcase %}
+<h1>{{ section_title }}</h1>
 
+{% for session in section_sessions %}
+<article class="program-session" id="session-{{ session.id }}">
+  <h2>{{ session.title }}</h2>
+  <p class="session-meta"><strong>{{ session.type }}</strong> · {{ session.duration }} minutes{% if session.do_not_record %} <span class="otr-badge">Off the record — do not record</span>{% endif %}</p>
+  <div class="session-abstract">{{ session.abstract | markdownify }}</div>
 
-# Keynotes
+  {% for speaker_id in session.speaker_ids %}
+    {% assign matching_speakers = site.data.event_2026.speakers | where: "id", speaker_id %}
+    {% assign speaker = matching_speakers | first %}
+    {% if speaker %}
+  <section class="program-speaker" id="speaker-{{ speaker.id }}-{{ session.id }}">
+    <h3>{{ speaker.name }}</h3>
+    {% if speaker.biography %}<div class="speaker-biography">{{ speaker.biography | markdownify }}</div>{% else %}<p><em>Biography coming soon.</em></p>{% endif %}
+  </section>
+    {% endif %}
+  {% endfor %}
+</article>
+<hr>
+{% endfor %}
+{% endif %}
+{% endfor %}
 
-### [Jessa Riley Gegax](https://www.linkedin.com/in/jessa-gegax-00912b191/)
-<img src="/images/2026/jessa.jpg" title="Jessa Riley Gegax" class="center" width=200px style="border:0;">
-
-## Translating Cybersecurity Expertise into Community Practice: Lessons from Minneapolis Mutual Aid Work
-#### Cybersecurity is often framed as a discipline focused on protecting corporations, governments, and critical infrastructure. For many professionals in the industry, the work stops there. Yet these same skills used to defend enterprise systems can also be leveraged to support vulnerable communities, grassroots organizers, and mutual aid networks. This reframes cybersecurity knowledge as something that is not solely confined to corporate settings, but instead applicable to broader and more impactful community efforts. When these skills are shared in service of the greater good, they help bridge the gap between industry professionals and the general public, advancing social justice in an increasingly digital world.
-#### This keynote examines how grassroots anti-surveillance efforts, which emerged in response to intensified immigration enforcement operations in Minneapolis, MN, can inspire cybersecurity professionals to apply their expertise toward broader mutual aid initiatives. Using a real-world case study of teaching civilians and organizers the fundamentals of cyber hygiene, mobile security, and government surveillance awareness in a warehouse basement during the ICE occupation this past winter, the presentation demonstrates the meaningful impact that can occur when technical knowledge extends beyond corporate environments and into local communities. By the end of the session, attendees will leave with a deeper understanding of the social implications of digital security, stronger strategies for presenting cybersecurity education in digestible formats, and inspiration to use their technical expertise to support collective care and community resilience. Participants may even leave with a few workshop ideas of their own to bring back to their communities.
-<br>
-
-### Jessa Gegax is a penetration tester based in Minneapolis, MN. Jessa has been in the industry for four years and is passionate about bringing the technology, creativity, and curiosity of hacking culture into the broader conversation about how our community can help build a better world for all. In their free time, Jessa is an artist, trans advocate, and pet parent.
-
-# Talks
-# Workshops
-# Events
-### (more info coming soon as talks are accepted)
+<style>
+.program-session { scroll-margin-top: 1rem; }
+.session-meta { color: #555; }
+.program-speaker { margin-top: 1.5rem; }
+.otr-badge { display: inline-block; margin-left: 0.5rem; padding: 0.25rem 0.5rem; border: 2px solid #800000; border-radius: 0.25rem; background-color: #b00020; color: #fff; font-weight: bold; line-height: 1.2; text-transform: uppercase; }
+</style>
 
