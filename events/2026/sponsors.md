@@ -15,13 +15,11 @@ title: "Sponsors"
 <a href="https://c1.ai/" target="_blank"><img style="height: auto; width: 300px;" src="/images/2026/web-logos/c1.ai.png" alt="C1.ai Logo" class="center"/></a>
 </td>
 </tr>
-<!--
 <tr>
 <td style="padding: 50px;">
-<a href="https://horizon3.ai/" target="_blank"><img style="height: auto; width: 300px;" src="/images/2026/web-logos/horizon3.ai.jpeg" alt="Horizon3.ai Logo" class="center"/></a>
+<a href="https://horizon3.ai/" target="_blank"><img style="height: auto; width: 300px;" src="/images/2026/web-logos/horizon3-logo.png" alt="Horizon3 Logo" class="center"/></a>
 </td>
 </tr>
--->
 <tr>
 <td style="padding: 50px;">
 <a href="https://tolmo.com/" target="_blank"><img style="height: auto; width: 300px;" src="/images/2026/web-logos/tolmo.svg" alt="Tolmo Logo" class="center"/></a>
