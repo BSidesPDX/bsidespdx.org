@@ -220,7 +220,7 @@ speakers:
     mass-surveillance dystopia, he is passionate about digital privacy, data self-custody,
     and running his own infra. While voiding warranties has long been one of his favorite
     pastimes, he has lately been fortunate enough to do it professionally as well.\r\n\r\nAlongside
-    Rey, he presented [\"Unmasking the Snitch Puck\"](www.youtube.com/watch?v=WCnojaEpF2I)
+    Rey, he presented [\"Unmasking the Snitch Puck\"](https://www.youtube.com/watch?v=WCnojaEpF2I)
     at DEF CON 33, a talk about an IoT vape detector which was also featured in [WIRED](https://www.wired.com/story/school-bathroom-vape-detector-audio-bug/)
     and [404 Media](https://www.404media.co/it-looks-like-a-school-vape-detector-a-teen-hacker-showed-it-could-become-an-audio-bug/)."
   picture: https://cfp.bsidespdx.org/media/avatars/RETQ7M_arvMXGU.webp
@@ -1373,23 +1373,6 @@ sessions:
   speaker_ids:
   - H7G3KC
   do_not_record: false
-- id: R7E8JN
-  title: BSidesPDX... How did we get here?
-  type: Keynote
-  abstract: "This is the 15th BSidesPDX, so we'll take a walk back into the history
-    behind the conference\r\nEsteban, along with other members of the founding crew
-    will start off with a bit about why the conference came to be, and what their
-    original vision was - and how it turned out.\r\nThen we'll hear from several other
-    past organizers about how the event grew and evolved over the years.\r\nFinally,
-    we'll wrap up with this panel-of-panels with the current organizing crew to share
-    what went in to making this year's event happen."
-  duration: 60
-  speaker_ids:
-  - VSZCUD
-  - KBFGKU
-  - UHDCVF
-  - 8M93HL
-  do_not_record: false
 - id: RBNNH7
   title: Phishing With Misfortune Cookies - Onsite Social Engineering And Exploiting
     Assumed Trust
@@ -1554,6 +1537,23 @@ sessions:
   speaker_ids:
   - YKRWQF
   do_not_record: true
+- id: R7E8JN
+  title: BSidesPDX... How did we get here?
+  type: Keynote
+  abstract: "This is the 15th BSidesPDX, so we'll take a walk back into the history
+    behind the conference\r\nEsteban, along with other members of the founding crew
+    will start off with a bit about why the conference came to be, and what their
+    original vision was - and how it turned out.\r\nThen we'll hear from several other
+    past organizers about how the event grew and evolved over the years.\r\nFinally,
+    we'll wrap up with this panel-of-panels with the current organizing crew to share
+    what went in to making this year's event happen."
+  duration: 60
+  speaker_ids:
+  - VSZCUD
+  - KBFGKU
+  - UHDCVF
+  - 8M93HL
+  do_not_record: false
 - id: VEMXEJ
   title: How to catch your agent in a lie
   type: Presentation
