@@ -1610,13 +1610,15 @@ schedule_items:
   duration: 15
 - id: closing
   title: Closing remarks
-  duration: 15
 - id: reception
   title: Friday Reception
   subtitle: 'Movie: The Conversation (1974)'
+- id: reception2
+  title: Vanport Room
+  subtitle: 'Drinks and Snacks'
 - id: after_party
   title: After party
-  duration: 180
+  subtitle: 'PDX Hackerspace, near Interstate Transit Center MAX stop. Bring your Badge!'
 schedule:
 - date: Friday, October 23, 2026
   tracks:
@@ -1712,7 +1714,7 @@ schedule:
   - time: '17:15'
     cells:
     - reception
-    - 
+    - reception2
     - 
     - 
 - date: Saturday, October 24, 2026
@@ -1778,19 +1780,14 @@ schedule:
     - NMQ73B
   - time: '15:00'
     cells:
-    - F8KUG8
+    - 9HCRZS
     - PLMRZE
     - AEG7YS
   - time: '15:30'
     cells:
     - ERJQXJ
-    - 
+    - F8KUG8
   - time: '16:00'
-    cells:
-    - 9HCRZS
-    - 
-    - 
-  - time: '16:30'
     cells:
     - closing
     - 
