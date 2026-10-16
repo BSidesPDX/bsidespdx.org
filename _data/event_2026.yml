@@ -46,7 +46,7 @@ speakers:
     a TTRPG, or getting yelled at by his cats.
   picture: https://cfp.bsidespdx.org/media/avatars/FD7EUF_7j8XJ3f.webp
 - id: 8M93HL
-  name: Unnamed speaker
+  name: etc
   biography: 
   picture: 
 - id: 8TPVXV
@@ -287,7 +287,7 @@ speakers:
     cryptography.
   picture: https://cfp.bsidespdx.org/media/avatars/88LULX_POfZL4P.webp
 - id: KBFGKU
-  name: Unnamed speaker
+  name: etc
   biography: 
   picture: 
 - id: KD8YUR
@@ -410,7 +410,7 @@ speakers:
     and customer success.
   picture: https://cfp.bsidespdx.org/media/avatars/JZSSGZ_pj5AMgw.webp
 - id: UHDCVF
-  name: maggie
+  name: Esteban
   biography: 
   picture: 
 - id: UHMZAH
@@ -462,7 +462,7 @@ speakers:
     CEO of hAPI Labs and Head of Offensive Security for APIsec.
   picture: https://cfp.bsidespdx.org/media/avatars/V9WZAB_if7oMNw.webp
 - id: VSZCUD
-  name: Joe FitzPatrick
+  name: Joe
   biography: tbd
   picture: 
 - id: WLPDJ9
@@ -548,7 +548,7 @@ sessions:
     It uncovers a wide variety of vulnerabilities ranging from a Mitnick attack-like
     TCP connection forgery, insecure primitives and memory corruption. The talk will
     also cover the vulnerability disclosure process and its challenges.'
-  duration: 20
+  duration: 40
   speaker_ids:
   - KPWLX7
   do_not_record: false
@@ -895,7 +895,6 @@ sessions:
     to make sure we get the honest questions and honest answers."
   duration: 60
   speaker_ids:
-  - VSZCUD
   - DDZUBE
   - AMALZM
   do_not_record: true
@@ -1158,7 +1157,7 @@ sessions:
     integrity. The BYOTC question remains wherever a privileged component trusts a
     client that an attacker can influence. Attendees will leave with a method for
     reviewing that boundary in both drivers and user-mode security services."
-  duration: 20
+  duration: 40
   speaker_ids:
   - BPETWL
   do_not_record: false
@@ -1189,7 +1188,7 @@ sessions:
     where they proved invaluable and where they consistently fell short. The emerging
     picture suggests an asymmetry worth examining: current AI tools may lower the
     bar for building complex malware more than they lower it for analyzing it."
-  duration: 20
+  duration: 40
   speaker_ids:
   - U9WSFL
   do_not_record: false
@@ -1328,7 +1327,7 @@ sessions:
     discussing all the technicalities around how they work, why they matter, and how
     all the steps can be connected and automated through the usage of LLMs, achieving
     a self-healing system."
-  duration: 20
+  duration: 40
   speaker_ids:
   - AYQZQC
   do_not_record: false
@@ -1549,9 +1548,9 @@ sessions:
     what went in to making this year's event happen."
   duration: 60
   speaker_ids:
+  - UHDCVF
   - VSZCUD
   - KBFGKU
-  - UHDCVF
   - 8M93HL
   do_not_record: false
 - id: VEMXEJ
@@ -1649,7 +1648,6 @@ schedule:
     - 
     - 
     - 
-    - 
   - time: '11:00'
     cells:
     - M9PJU9
@@ -1658,22 +1656,14 @@ schedule:
     - FWL33B
   - time: '11:30'
     cells:
-    - 
-    - 
-    - 
-    - 
   - time: '12:00'
     cells:
     - VEMXEJ
     - PWJGAG
-    - 
-    - 
   - time: '12:30'
     cells:
     - GQJTHR
     - MQREX8
-    - 
-    - 
   - time: '13:00'
     cells:
     - QZGQRF
@@ -1685,18 +1675,15 @@ schedule:
     - SHVJE8
     - RBNNH7
     - 
-    - 
   - time: '14:00'
     cells:
     - C3BVBM
     - FBPFQG
     - 
-    - 
   - time: '14:30'
     cells:
     - HBLKHW
     - CKSPHF
-    - 
     - 
   - time: '15:00'
     cells:
@@ -1708,20 +1695,14 @@ schedule:
     cells:
     - QTTVPD
     - P9HCXH
-    - 
-    - 
   - time: '16:00'
     cells:
     - 3YPFT9
     - 8RSAC8
-    - 
-    - 
   - time: '16:30'
     cells:
     - J7LP7Z
     - GXRTZM
-    - 
-    - 
   - time: '17:00'
     cells:
     - closing
@@ -1759,7 +1740,6 @@ schedule:
     cells:
     - 
     - 
-    - 
   - time: '11:00'
     cells:
     - BKWD8E
@@ -1772,8 +1752,6 @@ schedule:
     - 
   - time: '12:00'
     cells:
-    - 
-    - 
     - 
   - time: '12:30'
     cells:
@@ -1789,7 +1767,6 @@ schedule:
     cells:
     - 7X7TUS
     - TZYRYG
-    - 
   - time: '14:00'
     cells:
     - LJCVK9
@@ -1799,7 +1776,6 @@ schedule:
     cells:
     - LYC8PM
     - NMQ73B
-    - 
   - time: '15:00'
     cells:
     - F8KUG8
@@ -1808,7 +1784,6 @@ schedule:
   - time: '15:30'
     cells:
     - ERJQXJ
-    - 
     - 
   - time: '16:00'
     cells:

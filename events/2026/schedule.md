@@ -20,10 +20,14 @@ title: "Schedule"
     <tr>
       <th class="schedule-time" scope="row">{{ slot.time }}</th>
       {% for cell_id in slot.cells %}
-      <td>
         {% if cell_id %}
           {% assign matching_sessions = site.data.event_2026.sessions | where: "id", cell_id %}
           {% assign session = matching_sessions | first %}
+          {% if session.duration > 29  %}
+      <td rowspan="{{ session.duration | minus: 1 |  divided_by: 30 | plus: 1 }}">
+          {% else %}
+      <td>
+          {% endif %}
           {% if session %}
             <a class="schedule-title" href="/events/2026/speakers.html#session-{{ session.id }}">{{ session.title }}</a>
             <span class="schedule-speakers">
@@ -42,6 +46,8 @@ title: "Schedule"
             {% if item.subtitle %}<span class="schedule-speakers">{{ item.subtitle }}</span>{% endif %}
             {% if item.duration %}<span class="schedule-duration">{{ item.duration }} minutes</span>{% endif %}
           {% endif %}
+        {% else %}
+      <td>   
         {% endif %}
       </td>
       {% endfor %}
