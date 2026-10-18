@@ -432,6 +432,16 @@ speakers:
     supply chain security posture, as well as helped developers understand how tools
     like security scanners work. She is currently looking for her next adventure!
   picture: https://cfp.bsidespdx.org/media/avatars/YD3SYA_cvh7CBZ.webp
+- id: L9K37D
+  name: Jacob Hoffman-Andrews
+  biography: "Jacob Hoffman-Andrews is a senior staff technologist at the Electronic 
+    Frontier Foundation, working on the Encrypt the Web project. He has been a 
+    part of the Certbot and Let's Encrypt teams since the before first certificate 
+    was issued, in 2015, and is a coauthor of two IETF RFCs: RFC 8555, \"Automatic 
+    Certificate Management Environment (ACME)\", and RFC 8659: \"DNS Certification
+    Authority Authorization (CAA) Resource Record\". As of 2026 he is working on 
+    deploying post-quantum certificate issuance at Let's Encrypt."
+  picture: 
 - id: UMRZP9
   name: Ash Naiku
   biography: "I am an experienced cybersecurity professional with deep industry expertise
@@ -781,6 +791,20 @@ sessions:
   duration: 20
   speaker_ids:
   - UHMZAH
+  do_not_record: false
+- id: 8KSBND
+  title: 'Post-Quantum Privacy with EFF and Let''s Encrypt'
+  type: Presentation
+  abstract: "Advances in quantum computing mean that Q-Day, when quantum computer
+    can break typical RSA and ECDSA keys, may come sooner than previously predicted.
+    Since those are the keys that protect essentially all HTTPS traffic on the web,
+    maintaining privacy on the web will require an industry-wide push towards post-quantum 
+    cryptography. EFF's Certbot and ISRG's Let's Encrypt are working hard to make 
+    sure everybody can participate in the post-quantum world as quickly, easily, 
+    and freely as possible."
+  duration: 20
+  speaker_ids:
+    - L9K37D
   do_not_record: false
 - id: D73H9J
   title: 'Beyond Static Secrets: Building Verifiable Workload Identity with SPIFFE
@@ -1775,7 +1799,7 @@ schedule:
     - TZCK8D
   - time: '13:00'
     cells:
-    - D73H9J
+    - 8KSBND
     - HACQ8P
     - FJ7ZTF
   - time: '13:30'
