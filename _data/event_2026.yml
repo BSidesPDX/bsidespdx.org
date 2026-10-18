@@ -791,7 +791,13 @@ sessions:
     maintaining privacy on the web will require an industry-wide push towards post-quantum 
     cryptography. EFF's Certbot and ISRG's Let's Encrypt are working hard to make 
     sure everybody can participate in the post-quantum world as quickly, easily, 
-    and freely as possible."
+    and freely as possible.
+
+
+    This talk will discuss what that transition will look like specifically for 
+    those operating HTTPS web servers, and will cover the aspects of a TLS handshake
+    that need upgrading: key agreement, certificate trust, and server authentication, 
+    with discussion of both public and private PKIs."
   duration: 20
   speaker_ids:
     - L9K37D
