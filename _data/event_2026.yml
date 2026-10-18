@@ -127,20 +127,19 @@ speakers:
   picture: https://cfp.bsidespdx.org/media/avatars/DSW7SR_KXz8o9D.webp
 - id: BQTYWT
   name: Pankaj Upadhyay
-  biography: "Pankaj Upadhyay is a Principal Cybersecurity Engineer at Workday, where
-    he focuses on secure architecture, threat modeling, and the emerging challenges
-    of AI/ML security. He has been recognized across the industry through published
-    CVEs, responsible disclosures, and inclusion in multiple security “Hall of Fame”
-    acknowledgments (Google, Adobe, Cert-EU etc.) for his contributions to improving
-    software security. \r\nWith a background spanning application security, cloud
-    security, and open-source research, Pankaj’s recent work explores how generative
-    AI and vision models can augment traditional security processes from automated
-    threat modeling to adversarial testing of AI agents.\r\n\r\nAt BSidesPDX 2025,
-    Pankaj shares his lessons learned from building an AI-assisted threat modeling
-    agent that “sees” architecture diagrams and generates structured analysis automatically.
-    His talk dives into what works, what breaks, and how AI can make threat modeling
-    faster, more accessible, and actionable for modern engineering teams, if done
-    with an interactive feedback loop and constant user engagement."
+  biography: "Pankaj Upadhyay is a Principal Cybersecurity Engineer at Workday, focusing
+    on application security architecture, threat modeling, and AI agent guardrails.
+    His background spans offensive and defensive security, with open-source security 
+    research, published CVEs, and recognitions across major enterprise security 
+    acknowledgment programs.
+
+
+    At BSidesPDX 2026, Pankaj presents \"How We Let an AI Agent Into Our Security 
+    Review Process (And What Did We Learn).\" Taking his visual threat modeling 
+    research and tooling from BSidesPDX 2025 further, he breaks down what happens 
+    when an AI agent steps into early-stage reviews; absorbing the mechanical back-and-forth 
+    and prep work that stalls pipelines, so scarce human partners can spend their 
+    time on actual judgment calls instead of paperwork."
   picture: 
 - id: LMMLW3
   name: Saurabh Sabnis
