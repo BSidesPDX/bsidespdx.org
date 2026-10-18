@@ -49,16 +49,6 @@ speakers:
   name: etc
   biography: 
   picture: 
-- id: 8TPVXV
-  name: Vijaya Lakshmi Nukala
-  biography: Vijaya Lakshmi Nukala is a Security Product Manager at Microsoft Entra
-    whose work spans identity, cybersecurity, cloud platforms, and secure AI adoption.
-    She focuses on identity and security for AI agents and other non-human workloads,
-    including workload identity, Zero Trust, and standards-based approaches such as
-    SPIFFE and SPIRE. Vijaya enjoys translating complex security architectures into
-    practical guidance for engineers and cybersecurity professionals. She holds an
-    MBA from IIM Bangalore and a master’s degree from Carnegie Mellon University.
-  picture: https://cfp.bsidespdx.org/media/avatars/YN8ZF9_nuKVquD.webp
 - id: 8WTVDM
   name: Alex Ronquillo
   biography: Alex Ronquillo is VP of Product and Revenue at WhoisXML API and stewards
@@ -805,28 +795,6 @@ sessions:
   duration: 20
   speaker_ids:
     - L9K37D
-  do_not_record: false
-- id: D73H9J
-  title: 'Beyond Static Secrets: Building Verifiable Workload Identity with SPIFFE
-    and SPIRE'
-  type: Presentation
-  abstract: "Modern applications depend on communication among microservices, containers,
-    virtual machines, APIs, and AI agents operating across dynamic, multi-cloud environments.
-    Yet many workloads still authenticate using long-lived API keys, shared secrets,
-    manually managed certificates, or network location, controls that become difficult
-    to secure and rotate at scale.\r\n\r\nThis presentation introduces SPIFFE, an
-    open standard for assigning cryptographically verifiable identities to software
-    workloads, and SPIRE, its production-ready implementation. Attendees will follow
-    the identity journey of a workload: from node and workload attestation to receiving
-    a short-lived identity document and establishing authenticated service-to-service
-    communication.\r\n\r\nParticipants will learn how to identify appropriate SPIFFE
-    use cases, define trust domains and SPIFFE IDs, replace embedded credentials with
-    automatically rotated identities, and connect workload authentication to authorization
-    policy. They will leave with a practical framework for evaluating and piloting
-    SPIFFE in Kubernetes, multi-cloud, service-mesh, and other distributed environments."
-  duration: 20
-  speaker_ids:
-  - 8TPVXV
   do_not_record: false
 - id: ERJQXJ
   title: 'Telemetry to Detection: A Practitioner’s Guide to detection.wiki'
