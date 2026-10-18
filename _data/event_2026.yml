@@ -152,6 +152,18 @@ speakers:
     faster, more accessible, and actionable for modern engineering teams, if done
     with an interactive feedback loop and constant user engagement."
   picture: 
+- id: LMMLW3
+  name: Saurabh Sabnis
+  biography: "Saurabh Sabnis is a Principal Cybersecurity Engineer at Workday with
+    over 13 years of experience fortifying high-scale distributed systems and cloud
+    ecosystems. As a core security engineering partner, he focuses on AI safety, 
+    enterprise-wide threat modeling, and embedding secure-by-design principles into
+    modern engineering roadmaps. At Workday, Saurabh contributed to securing autonomous
+    AI agent initiatives, specializing in agentic identity and access controls to
+    mitigate emerging risks in production environments. A co-inventor on a granted 
+    U.S. patent in data security, his background includes various security roles 
+    at eBay, AWS, and Qualcomm."
+  picture: 
 - id: CHKCD8
   name: Cory Solovewicz
   biography: "Cory \"interpünkt\" Solovewicz\r\n\r\nCory is a Portland-based security
@@ -954,6 +966,7 @@ sessions:
   duration: 20
   speaker_ids:
   - BQTYWT
+  - LMMLW3
   do_not_record: false
 - id: HACQ8P
   title: 'I Have No Mouth and I Must Slop: Human Security Engineering For Bot-Authored
