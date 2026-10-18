@@ -668,7 +668,7 @@ sessions:
   do_not_record: false
 - id: AEG7YS
   title: I was a first time DEFCON speaker, AMA
-  type: Workshop
+  type: Panel
   abstract: "BSidesPDX is all about nurturing the local infosec and hacking community,
     and part of that is supporting folks as they step onto larger stages. Have you
     attended DEFCON, or have you presented at BSidesPDX, and are you wondering what
@@ -894,7 +894,7 @@ sessions:
   do_not_record: false
 - id: FJ7ZTF
   title: We run a community hackerspace, AMA
-  type: Workshop
+  type: Panel
   abstract: "BSidesPDX is all about nurturing the local infosec and hacking community,
     PDX Hackerspace has lots of overlap and a similar mission. Have you wondered what
     it takes to build and support the community, and keep the lights on at the hackerspace?\r\n\r\nWe're
@@ -1049,7 +1049,7 @@ sessions:
   do_not_record: true
 - id: JX73ZR
   title: My first year on the job in Infosec, AMA
-  type: Workshop
+  type: Panel
   abstract: "BSidesPDX is all about nurturing the local infosec and hacking community,
     and part of that is supporting folks as they advance professionally. Are you a
     student looking ahead toward graduation and a job in the field? Are you looking

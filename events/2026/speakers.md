@@ -3,7 +3,7 @@ layout: page
 title: "Speakers"
 ---
 
-{% assign program_sections = "Keynote,Presentation,Workshop,Event" | split: "," %}
+{% assign program_sections = "Keynote,Presentation,Workshop,Panel,Event" | split: "," %}
 {% for section in program_sections %}
 {% assign section_sessions = site.data.event_2026.sessions | where: "type", section %}
 {% if section_sessions.size > 0 %}
@@ -11,6 +11,7 @@ title: "Speakers"
 {% when "Keynote" %}{% assign section_title = "Keynotes" %}
 {% when "Presentation" %}{% assign section_title = "Talks" %}
 {% when "Workshop" %}{% assign section_title = "Workshops" %}
+{% when "Panel" %}{% assign section_title = "Panel" %}
 {% when "Event" %}{% assign section_title = "Events" %}
 {% endcase %}
 <h1>{{ section_title }}</h1>
