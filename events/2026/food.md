@@ -25,22 +25,21 @@ There is a new pod, [Sip and Forage](https://www.sipandforage.com/), that is ope
 - Ovation coffee is very popular with cs faculty & students
 - Case study in FMH lobby, next door to SMSU where BSidesPDX is held
 - Wild Rose Coffee
-- Coco donuts
-	- mochi donuts, flavored seasonal coffees. Mostly I hear about the donuts
+- Coco donuts has mochi donuts, flavored seasonal coffees. Mostly I hear about the donuts
 
 # Fourth Ave food carts (Between College St & Hall on 4th ave, in front of Engineering Building & FAB)
 - Persian kabab cart
-- $8 the single chicken koobideh kabab on half rice half salad is a personal favorite
-- the skewer combo is also excellent
+    - $8 the single chicken koobideh kabab on half rice half salad is a personal favorite
+    - the skewer combo is also excellent
 - Indian Delhi Food
-- lunch specials on board
-- the chai is popular with indian students
+    - lunch specials on board
+    - the chai is popular with indian students
 - Pom Pui Thai
 	- noodle dishes
 	- thai iced tea, iced coffee
 - Mum's Thai
-- specials board
-- there are several other carts as well
+   - specials board
+   - there are several other carts as well
 
 # Mini Pod By The Pool (SW 5th & Harrison)
 - La Casita Mexican Grill
@@ -48,30 +47,27 @@ There is a new pod, [Sip and Forage](https://www.sipandforage.com/), that is ope
 	- always smells amazing
 - [Sumo Sushi](https://sumosushipdx.square.site/menu)
 	- poke bowls, sushi burritos, fried chicken
-	- 
 - ole coffee cart
 
 # [University Station (new pod, SW 6th & College)](https://universitystationfoodcarts.com/)
 Students have mentioned going, but not any specific carts or dishes
 
 # Restaurants
-- duck house
-- lunch specials, XLB popular
-- regular menu is family style
-- reservations a good idea for dinner
-- https://www.duckhousepdx.com/
-- Tasty Corner
+- [duck house](https://duckhousepdx.com)
+    - lunch specials, XLB popular
+    - regular menu is family style
+    - reservations a good idea for dinner
+- [Tasty Corner](https://www.tastycornerpdx.com/our-tasty-food/)
 	- lunch menu (friday only)
 	- popular for large portions, in house noodles
-	- https://www.tastycornerpdx.com/our-tasty-food/
-- phat cart. Not actually a cart anymore
+- [phat cart](https://www.phatcartpdx.com/menu)
+    - Not actually a cart anymore
 	- also has cocktails and upper left coffee
-	- https://www.phatcartpdx.com/menu
-- Hawaiian Express, attached to EB,
-- frequented by faculty, https://www.hawaiian.express/ .
-- Kalua pork is popular. Musubi also available
+- [Hawaiian Express](https://www.hawaiian.express/)
+    - attached to EB, frequented by faculty 
+    - Kalua pork is popular. Musubi also available
 - McMenamins Market Street Pub
-- decent cider & beer and a popular dinner choice for attendees
+    - decent cider & beer and a popular dinner choice for attendees
 
 # Farmer's Market (Saturday)
 - food vendors are at the far north and south ends of the farmers market
