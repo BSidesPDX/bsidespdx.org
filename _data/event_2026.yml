@@ -411,7 +411,7 @@ speakers:
     and customer success.
   picture: https://cfp.bsidespdx.org/media/avatars/JZSSGZ_pj5AMgw.webp
 - id: UHDCVF
-  name: Esteban
+  name: Esteban, Joe, etc.
   biography: 
   picture: 
 - id: UHMZAH
@@ -922,6 +922,7 @@ sessions:
   speaker_ids:
   - DDZUBE
   - AMALZM
+  - 7CJ3WK
   do_not_record: true
 - id: FWL33B
   title: One Request to Rule Them All
@@ -1566,18 +1567,15 @@ sessions:
   title: BSidesPDX... How did we get here?
   type: Keynote
   abstract: "This is the 15th BSidesPDX, so we'll take a walk back into the history
-    behind the conference\r\nEsteban, along with other members of the founding crew
+    behind the conference\r\n\r\nEsteban, along with other members of the founding crew
     will start off with a bit about why the conference came to be, and what their
-    original vision was - and how it turned out.\r\nThen we'll hear from several other
-    past organizers about how the event grew and evolved over the years.\r\nFinally,
+    original vision was - and how it turned out.\r\n\r\nThen we'll hear from several other
+    past organizers about how the event grew and evolved over the years.\r\n\r\nFinally,
     we'll wrap up with this panel-of-panels with the current organizing crew to share
     what went in to making this year's event happen."
   duration: 60
   speaker_ids:
   - UHDCVF
-  - VSZCUD
-  - KBFGKU
-  - 8M93HL
   do_not_record: false
 - id: VEMXEJ
   title: How to catch your agent in a lie
@@ -1628,29 +1626,34 @@ sessions:
   speaker_ids:
   - ZKVGP9
   do_not_record: false
-- id: reception
+- id: movie
   title: Friday Reception
   type: Event
   duration: 113
   speaker_ids: conversation
-- id: reception2
+- id: reception
   title: 'Drinks and Snacks'
   type: Event
+  colspan: 3
   duration: 180
   speaker_ids: vanport
 - id: after_party
   title: After party
   type: Event
+  colspan: 3
   duration: 180
   speaker_ids: CTRLH
-schedule_items:
 - id: registration
-  title: Registration opens (all-day)
+  title: Registration opens (all-day, room 101, first floor)
+  type: Other
+  colspan: 4
 - id: opening
   title: Opening remarks
+  type: Other
   duration: 15
 - id: closing
   title: Closing remarks
+  type: Other
 schedule:
 - date: Friday, October 23, 2026
   tracks:
@@ -1662,9 +1665,6 @@ schedule:
   - time: '09:00'
     cells:
     - registration
-    - 
-    - 
-    - 
   - time: '09:30'
     cells:
     - opening
@@ -1745,10 +1745,8 @@ schedule:
     - 
   - time: '17:15'
     cells:
+    - movie
     - reception
-    - reception2
-    - 
-    - 
 - date: Saturday, October 24, 2026
   tracks:
   - Track 1
@@ -1758,8 +1756,6 @@ schedule:
   - time: '09:00'
     cells:
     - registration
-    - 
-    - 
   - time: '09:30'
     cells:
     - opening
@@ -1827,5 +1823,3 @@ schedule:
   - time: '17:00'
     cells:
     - after_party
-    - 
-    - 
