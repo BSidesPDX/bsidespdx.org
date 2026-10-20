@@ -548,6 +548,22 @@ speakers:
     automation, incident response, and vulnerability management, leveraging GenAI
     and automation to enhance detection and remediation\r\nworkflows."
   picture: https://cfp.bsidespdx.org/media/avatars/JKZ3MJ_1URGz1W.webp
+- id: conversation
+  name: "Movie: The Conversation (1974)"
+  biography: "Decades before \"Infosec\" as we know it was a thing, \"The Conversation\" explored many of the themes, dilemmas, ethics, and even mental health issues that we encounter on a daily basis, whether we are hobbyists, or work in information security, threat intelligence, exploit development, or reverse engineering.
+
+
+  [Check out the original theatrical trailer](https://www.youtube.com/watch?v=elJL5D6HTvA) or the [new 4k restoration trailer](https://vimeo.com/944519713)
+ 
+   
+  We've wanted to show this movie at BSidesPDX for years, and were finally able to license it. The movie will kick off shortly after the reception begins in the Vanport room."
+
+- id: CTRLH
+  name: 'PDX Hackerspace, near Interstate Transit Center MAX stop. Bring your Badge!'
+  biography: "[PDX Hackerspace/CTRL-H](https://pdxhackerspace.org) is located at 7608 N Interstate Ave. Parking is VERY limited, but the MAX yellow line is a straight shot from PSU to Lombard Transit Center. Join us for food, drinks, conversation and decompression after the conference has concluded."
+- id: vanport
+  name: 'Vanport room, back of Track 1'
+  biography: "Join us after Friday's closing for some refreshments, conversation, and networking!"
 sessions:
 - id: 3SMKZE
   title: 'You wouldn''t hack a satellite: Breaking the Cubesat Space Protocol'
@@ -1612,6 +1628,21 @@ sessions:
   speaker_ids:
   - ZKVGP9
   do_not_record: false
+- id: reception
+  title: Friday Reception
+  type: Event
+  duration: 113
+  speaker_ids: conversation
+- id: reception2
+  title: 'Drinks and Snacks'
+  type: Event
+  duration: 180
+  speaker_ids: vanport
+- id: after_party
+  title: After party
+  type: Event
+  duration: 180
+  speaker_ids: CTRLH
 schedule_items:
 - id: registration
   title: Registration opens (all-day)
@@ -1620,15 +1651,6 @@ schedule_items:
   duration: 15
 - id: closing
   title: Closing remarks
-- id: reception
-  title: Friday Reception
-  subtitle: 'Movie: The Conversation (1974)'
-- id: reception2
-  title: Vanport Room
-  subtitle: 'Drinks and Snacks'
-- id: after_party
-  title: After party
-  subtitle: 'PDX Hackerspace, near Interstate Transit Center MAX stop. Bring your Badge!'
 schedule:
 - date: Friday, October 23, 2026
   tracks:
