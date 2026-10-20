@@ -44,6 +44,8 @@
     #   subhref: "/events/2025/contests_and_events.html"
     - subtitle: "Venue"
       subhref: "/events/2026/venue.html"
+    - subtitle: "Food Options"
+      subhref: "/events/2026/food.html"
     - subtitle: "Volunteer Signup"
       subhref: "/events/2026/volunteer.html"
     - subtitle: "Workshops"
