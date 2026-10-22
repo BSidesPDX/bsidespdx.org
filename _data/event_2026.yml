@@ -1644,7 +1644,7 @@ sessions:
   duration: 180
   speaker_ids: CTRLH
 - id: registration
-  title: Registration opens (all-day, room 101, first floor)
+  title: "Registration opens (all-day, room 101, first floor) Pickup t-shirts after 11AM"
   type: Other
   colspan: 4
 - id: opening
@@ -1790,8 +1790,8 @@ schedule:
     - TZCK8D
   - time: '13:00'
     cells:
-    - 8KSBND
     - HACQ8P
+    - 
     - FJ7ZTF
   - time: '13:30'
     cells:
