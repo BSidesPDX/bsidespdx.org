@@ -108,8 +108,15 @@ title: "Sponsors"
 
 <tr>
 <td style="padding: 50px;">
-<a href="" target="_blank"><img style="height: auto; width: 300px;" src="/images/2026/web-logos/uoseclogo.svg" alt="University of Oregon Cybersecurity Club Logo" class="center"/>
+<a href="https://uosec.org" target="_blank"><img style="height: auto; width: 300px;" src="/images/2026/web-logos/uoseclogo.svg" alt="University of Oregon Cybersecurity Club Logo" class="center"/>
 <p style="text-align: center; font-size: 36px;">University of Oregon Cybersecurity Club</p></a>
+</td>
+</tr>
+
+<tr>
+<td style="padding: 50px;">
+<a href="https://osusec.org" target="_blank"><img style="height: auto; width: 300px;" src="/images/2026/web-logos/osusec-banner.png" alt="Oregon State University Cybersecurity Club Logo" class="center"/>
+<p style="text-align: center; font-size: 36px;">Oregon State University Cybersecurity Club</p></a>
 </td>
 </tr>
 
